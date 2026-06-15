@@ -1,0 +1,120 @@
+{
+  "id": "strouc.00",
+  "espnId": "4432577",
+  "slug": "strouc.00",
+  "name": "C.J. Stroud",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "HOU",
+  "headshot": "media/headshots/nfl/strouc.00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "HOU",
+      "gp": "14",
+      "min": "-",
+      "pts": "3,041",
+      "reb": "19",
+      "ast": "8",
+      "stl": "273",
+      "blk": "423",
+      "fgPct": "61.7",
+      "fg3Pct": "92.9",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "HOU",
+      "gp": "17",
+      "min": "-",
+      "pts": "3,727",
+      "reb": "20",
+      "ast": "12",
+      "stl": "336",
+      "blk": "532",
+      "fgPct": "46.4",
+      "fg3Pct": "87.0",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "HOU",
+      "gp": "15",
+      "min": "-",
+      "pts": "4,108",
+      "reb": "23",
+      "ast": "5",
+      "stl": "319",
+      "blk": "499",
+      "fgPct": "58.3",
+      "fg3Pct": "100.8",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 18",
+      "matchup": "@ NE",
+      "result": "L 28-16",
+      "min": "—",
+      "pts": "212",
+      "reb": "1",
+      "ast": "4",
+      "stl": "20",
+      "blk": "47"
+    },
+    {
+      "date": "Jan 12",
+      "matchup": "@ PIT",
+      "result": "W 30-6",
+      "min": "—",
+      "pts": "250",
+      "reb": "1",
+      "ast": "1",
+      "stl": "21",
+      "blk": "32"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs IND",
+      "result": "W 38-30",
+      "min": "—",
+      "pts": "169",
+      "reb": "1",
+      "ast": "0",
+      "stl": "14",
+      "blk": "23"
+    },
+    {
+      "date": "Dec 27",
+      "matchup": "@ LAC",
+      "result": "W 20-16",
+      "min": "—",
+      "pts": "244",
+      "reb": "2",
+      "ast": "2",
+      "stl": "16",
+      "blk": "28"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs LV",
+      "result": "W 23-21",
+      "min": "—",
+      "pts": "187",
+      "reb": "1",
+      "ast": "0",
+      "stl": "23",
+      "blk": "35"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:57.130Z"
+}

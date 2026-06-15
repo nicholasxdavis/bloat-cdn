@@ -1,0 +1,31 @@
+{
+  "id": "4419372",
+  "espnId": "4419372",
+  "slug": "4419372",
+  "name": "Arman Tsarukyan",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4419372.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4419372.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "23-3-0",
+      "min": "-",
+      "pts": "23",
+      "reb": "3",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:37:43.354Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3032973",
+  "espnId": "3032973",
+  "slug": "3032973",
+  "name": "Rose Namajunas",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3032973.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3032973.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "15-8-0",
+      "min": "-",
+      "pts": "15",
+      "reb": "8",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:39:43.525Z"
+}

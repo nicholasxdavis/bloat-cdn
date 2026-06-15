@@ -1,0 +1,150 @@
+{
+  "id": "parsomi00",
+  "espnId": "4361423",
+  "slug": "parsomi00",
+  "name": "Micah Parsons",
+  "sport": "nfl",
+  "position": "DE",
+  "team": "GB",
+  "headshot": "media/headshots/nfl/parsomi00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4361423.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "GB",
+      "gp": "14",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "DAL",
+      "gp": "13",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "DAL",
+      "gp": "17",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "DAL",
+      "gp": "17",
+      "min": "-",
+      "pts": "36",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2021",
+      "team": "DAL",
+      "gp": "16",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Dec 14",
+      "matchup": "@ DEN",
+      "result": "L 34-26",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs CHI",
+      "result": "W 28-21",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 27",
+      "matchup": "@ DET",
+      "result": "W 31-24",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 23",
+      "matchup": "vs MIN",
+      "result": "W 23-6",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 16",
+      "matchup": "@ NYG",
+      "result": "W 27-20",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:53.665Z"
+}

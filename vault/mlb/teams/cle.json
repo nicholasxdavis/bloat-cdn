@@ -1,0 +1,192 @@
+{
+  "id": "CLE",
+  "espnId": "5",
+  "abbr": "CLE",
+  "name": "Cleveland Guardians",
+  "city": "Cleveland",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/cle.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+  "color": "#002b5c",
+  "alternateColor": "#e31937",
+  "standingSummary": "1st in AL Cent",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "39-33"
+    },
+    {
+      "label": "Home Record",
+      "summary": "19-17"
+    },
+    {
+      "label": "Away Record",
+      "summary": "20-16"
+    }
+  ],
+  "venue": "Progressive Field",
+  "roster": [
+    {
+      "id": "33499",
+      "name": "Shawn Armstrong",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33499.png"
+    },
+    {
+      "id": "4345278",
+      "name": "Tanner Bibee",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345278.png"
+    },
+    {
+      "id": "42488",
+      "name": "Joey Cantillo",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42488.png"
+    },
+    {
+      "id": "41462",
+      "name": "Slade Cecconi",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41462.png"
+    },
+    {
+      "id": "4420174",
+      "name": "Will Dion",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4420174.png"
+    },
+    {
+      "id": "42438",
+      "name": "Daniel Espino",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42438.png"
+    },
+    {
+      "id": "39871",
+      "name": "Matt Festa",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39871.png"
+    },
+    {
+      "id": "4187661",
+      "name": "Hunter Gaddis",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4187661.png"
+    },
+    {
+      "id": "4228579",
+      "name": "Tim Herrin",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4228579.png"
+    },
+    {
+      "id": "4917897",
+      "name": "Colin Holderman",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917897.png"
+    },
+    {
+      "id": "4619898",
+      "name": "Parker Messick",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4619898.png"
+    },
+    {
+      "id": "4987924",
+      "name": "Cade Smith",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4987924.png"
+    },
+    {
+      "id": "4345076",
+      "name": "Gavin Williams",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png"
+    },
+    {
+      "id": "4345843",
+      "name": "Patrick Bailey",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345843.png"
+    },
+    {
+      "id": "32168",
+      "name": "Austin Hedges",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32168.png"
+    },
+    {
+      "id": "40344",
+      "name": "Gabriel Arias",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40344.png"
+    },
+    {
+      "id": "5007707",
+      "name": "Travis Bazzana",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5007707.png"
+    },
+    {
+      "id": "35291",
+      "name": "Rhys Hoskins",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35291.png"
+    },
+    {
+      "id": "4917927",
+      "name": "Kyle Manzardo",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917927.png"
+    },
+    {
+      "id": "41217",
+      "name": "Brayan Rocchio",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41217.png"
+    },
+    {
+      "id": "4619649",
+      "name": "Chase DeLauter",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4619649.png"
+    },
+    {
+      "id": "40346",
+      "name": "Stuart Fairchild",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40346.png"
+    },
+    {
+      "id": "41672",
+      "name": "David Fry",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41672.png"
+    },
+    {
+      "id": "41996",
+      "name": "Steven Kwan",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41996.png"
+    },
+    {
+      "id": "42497",
+      "name": "Angel Martinez",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42497.png"
+    },
+    {
+      "id": "42001",
+      "name": "Daniel Schneemann",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42001.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:59.027Z"
+}

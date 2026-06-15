@@ -1,0 +1,192 @@
+{
+  "id": "CIN",
+  "espnId": "17",
+  "abbr": "CIN",
+  "name": "Cincinnati Reds",
+  "city": "Cincinnati",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/cin.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
+  "color": "#c6011f",
+  "alternateColor": "#ffffff",
+  "standingSummary": "5th in NL Cent",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "33-37"
+    },
+    {
+      "label": "Home Record",
+      "summary": "17-18"
+    },
+    {
+      "label": "Away Record",
+      "summary": "16-19"
+    }
+  ],
+  "venue": "Great American Ball Park",
+  "roster": [
+    {
+      "id": "4414528",
+      "name": "Andrew Abbott",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414528.png"
+    },
+    {
+      "id": "42355",
+      "name": "Tejay Antone",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42355.png"
+    },
+    {
+      "id": "39945",
+      "name": "Brock Burke",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39945.png"
+    },
+    {
+      "id": "4927516",
+      "name": "Chase Burns",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4927516.png"
+    },
+    {
+      "id": "41017",
+      "name": "Caleb Ferguson",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41017.png"
+    },
+    {
+      "id": "42433",
+      "name": "Nick Lodolo",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42433.png"
+    },
+    {
+      "id": "4758873",
+      "name": "Rhett Lowder",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4758873.png"
+    },
+    {
+      "id": "5195258",
+      "name": "Zach Maxwell",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5195258.png"
+    },
+    {
+      "id": "34928",
+      "name": "Sam Moll",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34928.png"
+    },
+    {
+      "id": "35999",
+      "name": "Chris Paddack",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35999.png"
+    },
+    {
+      "id": "4872687",
+      "name": "Chase Petty",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872687.png"
+    },
+    {
+      "id": "40950",
+      "name": "Tony Santillan",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40950.png"
+    },
+    {
+      "id": "41172",
+      "name": "Brady Singer",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41172.png"
+    },
+    {
+      "id": "34975",
+      "name": "Tyler Stephenson",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34975.png"
+    },
+    {
+      "id": "35268",
+      "name": "Jose Trevino",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35268.png"
+    },
+    {
+      "id": "4919919",
+      "name": "Edwin Arroyo",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4919919.png"
+    },
+    {
+      "id": "4422899",
+      "name": "Matt McLain",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4422899.png"
+    },
+    {
+      "id": "5080771",
+      "name": "Sal Stewart",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080771.png"
+    },
+    {
+      "id": "39216",
+      "name": "Will Benson",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39216.png"
+    },
+    {
+      "id": "42410",
+      "name": "JJ Bleday",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42410.png"
+    },
+    {
+      "id": "4650237",
+      "name": "Blake Dunn",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4650237.png"
+    },
+    {
+      "id": "41307",
+      "name": "Noelvi Marte",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41307.png"
+    },
+    {
+      "id": "40048",
+      "name": "Dane Myers",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40048.png"
+    },
+    {
+      "id": "4722857",
+      "name": "Spencer Steer",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722857.png"
+    },
+    {
+      "id": "40538",
+      "name": "Nathaniel Lowe",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40538.png"
+    },
+    {
+      "id": "32367",
+      "name": "Eugenio Suarez",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32367.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:29:02.034Z"
+}

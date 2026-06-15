@@ -1,0 +1,45 @@
+{
+  "id": "10140",
+  "espnId": "10140",
+  "slug": "10140",
+  "name": "Xander Schauffele",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/10140.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/10140.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:50:01.774Z"
+}

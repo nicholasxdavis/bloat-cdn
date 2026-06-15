@@ -1,0 +1,59 @@
+{
+  "id": "962",
+  "espnId": "962",
+  "slug": "962",
+  "name": "Ryan Palmer",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/962.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/962.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "Korn Ferry",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:56:31.710Z"
+}

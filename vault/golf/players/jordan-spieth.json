@@ -1,0 +1,45 @@
+{
+  "id": "5467",
+  "espnId": "5467",
+  "slug": "5467",
+  "name": "Jordan Spieth",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/5467.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/5467.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:57:46.828Z"
+}

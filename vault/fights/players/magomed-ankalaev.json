@@ -1,0 +1,31 @@
+{
+  "id": "4273399",
+  "espnId": "4273399",
+  "slug": "4273399",
+  "name": "Magomed Ankalaev",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4273399.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4273399.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "21-2-1",
+      "min": "-",
+      "pts": "21",
+      "reb": "2",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:38:20.489Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2563796",
+  "espnId": "2563796",
+  "slug": "2563796",
+  "name": "Ronda Rousey",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/2563796.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/2563796.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "13-2-0",
+      "min": "-",
+      "pts": "13",
+      "reb": "2",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:55:38.470Z"
+}

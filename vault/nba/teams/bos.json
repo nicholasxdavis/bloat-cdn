@@ -1,0 +1,36 @@
+{
+  "id": "BOS",
+  "espnId": "2",
+  "abbr": "BOS",
+  "name": "Boston Celtics",
+  "city": "Boston",
+  "sport": "nba",
+  "logo": "media/logos/nba/bos.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+  "color": "#008348",
+  "alternateColor": "#ffffff",
+  "division": "Atlantic Division",
+  "standingSummary": "1st in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "56-26"
+    },
+    {
+      "label": "Home Record",
+      "summary": "30-11"
+    },
+    {
+      "label": "Away Record",
+      "summary": "26-15"
+    }
+  ],
+  "venue": "TD Garden",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:23.887Z"
+}

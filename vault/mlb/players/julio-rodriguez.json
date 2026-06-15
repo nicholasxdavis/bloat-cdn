@@ -1,0 +1,150 @@
+{
+  "id": "rodriju01",
+  "espnId": "41044",
+  "slug": "rodriju01",
+  "name": "Julio Rodriguez",
+  "sport": "mlb",
+  "position": "CF",
+  "team": "SEA",
+  "headshot": "media/headshots/mlb/rodriju01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/41044.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "SEA",
+      "gp": "73",
+      "min": "294",
+      "pts": ".248",
+      "reb": "13",
+      "ast": "34",
+      "stl": "9",
+      "blk": "66",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "SEA",
+      "gp": "160",
+      "min": "652",
+      "pts": ".267",
+      "reb": "32",
+      "ast": "95",
+      "stl": "30",
+      "blk": "152",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "SEA",
+      "gp": "143",
+      "min": "567",
+      "pts": ".273",
+      "reb": "20",
+      "ast": "68",
+      "stl": "24",
+      "blk": "156",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "SEA",
+      "gp": "155",
+      "min": "654",
+      "pts": ".275",
+      "reb": "32",
+      "ast": "103",
+      "stl": "37",
+      "blk": "175",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "SEA",
+      "gp": "132",
+      "min": "511",
+      "pts": ".284",
+      "reb": "28",
+      "ast": "75",
+      "stl": "25",
+      "blk": "145",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "@ WSH",
+      "result": "L 10-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 13",
+      "matchup": "@ WSH",
+      "result": "L 8-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "@ WSH",
+      "result": "W 10-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 11",
+      "matchup": "@ BAL",
+      "result": "L 7-5",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ BAL",
+      "result": "L 7-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:39:56.018Z"
+}

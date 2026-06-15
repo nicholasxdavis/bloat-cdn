@@ -1,0 +1,120 @@
+{
+  "id": "yamamyo01",
+  "espnId": "4872587",
+  "slug": "yamamyo01",
+  "name": "Yoshinobu Yamamoto",
+  "sport": "mlb",
+  "position": "SP",
+  "team": "LAD",
+  "headshot": "media/headshots/mlb/yamamyo01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "LAD",
+      "gp": "13",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "2.52",
+      "fg3Pct": "0.84",
+      "ftPct": "7",
+      "to": "4"
+    },
+    {
+      "season": "2025",
+      "team": "LAD",
+      "gp": "30",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "2.49",
+      "fg3Pct": "0.99",
+      "ftPct": "12",
+      "to": "8"
+    },
+    {
+      "season": "2024",
+      "team": "LAD",
+      "gp": "18",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "3.00",
+      "fg3Pct": "1.11",
+      "ftPct": "7",
+      "to": "2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 13",
+      "matchup": "@ CHW",
+      "result": "W 7-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jun 6",
+      "matchup": "vs LAA",
+      "result": "W 9-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 31",
+      "matchup": "vs PHI",
+      "result": "W 9-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 24",
+      "matchup": "@ MIL",
+      "result": "W 5-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 18",
+      "matchup": "@ SD",
+      "result": "L 1-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:38:25.194Z"
+}

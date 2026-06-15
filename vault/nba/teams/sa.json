@@ -1,0 +1,36 @@
+{
+  "id": "SA",
+  "espnId": "24",
+  "abbr": "SA",
+  "name": "San Antonio Spurs",
+  "city": "San Antonio",
+  "sport": "nba",
+  "logo": "media/logos/nba/sa.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+  "color": "#000000",
+  "alternateColor": "#c4ced4",
+  "division": "Southwest Division",
+  "standingSummary": "1st in Southwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "62-20"
+    },
+    {
+      "label": "Home Record",
+      "summary": "32-8"
+    },
+    {
+      "label": "Away Record",
+      "summary": "29-12"
+    }
+  ],
+  "venue": "Frost Bank Center",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:39.011Z"
+}

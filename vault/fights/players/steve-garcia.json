@@ -1,0 +1,31 @@
+{
+  "id": "3023804",
+  "espnId": "3023804",
+  "slug": "3023804",
+  "name": "Steve Garcia",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3023804.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3023804.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "19-6-0",
+      "min": "-",
+      "pts": "19",
+      "reb": "6",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:41:11.512Z"
+}

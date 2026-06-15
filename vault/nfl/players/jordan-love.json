@@ -1,0 +1,150 @@
+{
+  "id": "lovejo00",
+  "espnId": "4036378",
+  "slug": "lovejo00",
+  "name": "Jordan Love",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "GB",
+  "headshot": "media/headshots/nfl/lovejo00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "GB",
+      "gp": "15",
+      "min": "-",
+      "pts": "3,381",
+      "reb": "23",
+      "ast": "6",
+      "stl": "291",
+      "blk": "439",
+      "fgPct": "72.7",
+      "fg3Pct": "101.2",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "GB",
+      "gp": "15",
+      "min": "-",
+      "pts": "3,389",
+      "reb": "25",
+      "ast": "11",
+      "stl": "268",
+      "blk": "425",
+      "fgPct": "66.3",
+      "fg3Pct": "96.7",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "GB",
+      "gp": "17",
+      "min": "-",
+      "pts": "4,159",
+      "reb": "32",
+      "ast": "11",
+      "stl": "372",
+      "blk": "579",
+      "fgPct": "62.9",
+      "fg3Pct": "96.1",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "GB",
+      "gp": "4",
+      "min": "-",
+      "pts": "195",
+      "reb": "1",
+      "ast": "0",
+      "stl": "14",
+      "blk": "21",
+      "fgPct": "83.2",
+      "fg3Pct": "112.2",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2021",
+      "team": "GB",
+      "gp": "6",
+      "min": "-",
+      "pts": "411",
+      "reb": "2",
+      "ast": "3",
+      "stl": "36",
+      "blk": "62",
+      "fgPct": "36.8",
+      "fg3Pct": "68.7",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 10",
+      "matchup": "@ CHI",
+      "result": "L 31-27",
+      "min": "—",
+      "pts": "323",
+      "reb": "4",
+      "ast": "0",
+      "stl": "24",
+      "blk": "46"
+    },
+    {
+      "date": "Dec 20",
+      "matchup": "@ CHI",
+      "result": "L 22-16 OT",
+      "min": "—",
+      "pts": "77",
+      "reb": "0",
+      "ast": "0",
+      "stl": "8",
+      "blk": "13"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ DEN",
+      "result": "L 34-26",
+      "min": "—",
+      "pts": "276",
+      "reb": "1",
+      "ast": "2",
+      "stl": "24",
+      "blk": "40"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs CHI",
+      "result": "W 28-21",
+      "min": "—",
+      "pts": "234",
+      "reb": "3",
+      "ast": "1",
+      "stl": "17",
+      "blk": "25"
+    },
+    {
+      "date": "Nov 27",
+      "matchup": "@ DET",
+      "result": "W 31-24",
+      "min": "—",
+      "pts": "234",
+      "reb": "4",
+      "ast": "0",
+      "stl": "18",
+      "blk": "30"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:25:40.239Z"
+}

@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "syncedAt": "2026-06-15T17:57:54.150Z",
+  "playerIndexVersion": 1,
+  "teamIndexVersion": 1,
+  "sports": [
+    {
+      "sport": "fights",
+      "players": 40,
+      "legends": 4,
+      "headshots": 40,
+      "teams": 0,
+      "statsPrefix": "espn-mma"
+    },
+    {
+      "sport": "golf",
+      "players": 17,
+      "legends": 3,
+      "headshots": 17,
+      "teams": 0,
+      "statsPrefix": "espn-golf"
+    },
+    {
+      "sport": "mlb",
+      "players": 52,
+      "legends": 5,
+      "headshots": 52,
+      "teams": 21,
+      "statsPrefix": "bref"
+    },
+    {
+      "sport": "mls",
+      "players": 7,
+      "legends": 0,
+      "headshots": 7,
+      "teams": 3,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "nba",
+      "players": 62,
+      "legends": 7,
+      "headshots": 62,
+      "teams": 30,
+      "statsPrefix": "bbref"
+    },
+    {
+      "sport": "nfl",
+      "players": 68,
+      "legends": 8,
+      "headshots": 68,
+      "teams": 31,
+      "statsPrefix": "pfr"
+    },
+    {
+      "sport": "nhl",
+      "players": 37,
+      "legends": 2,
+      "headshots": 37,
+      "teams": 11,
+      "statsPrefix": "href"
+    },
+    {
+      "sport": "tennis",
+      "players": 18,
+      "legends": 3,
+      "headshots": 18,
+      "teams": 0,
+      "statsPrefix": "espn-tennis"
+    }
+  ]
+}

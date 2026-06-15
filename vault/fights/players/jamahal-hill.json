@@ -1,0 +1,31 @@
+{
+  "id": "4425355",
+  "espnId": "4425355",
+  "slug": "4425355",
+  "name": "Jamahal Hill",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4425355.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4425355.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "12-4-0",
+      "min": "-",
+      "pts": "12",
+      "reb": "4",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:38:29.274Z"
+}

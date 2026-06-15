@@ -1,0 +1,31 @@
+{
+  "id": "2554705",
+  "espnId": "2554705",
+  "slug": "2554705",
+  "name": "Valentina Shevchenko",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/2554705.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/2554705.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "26-4-1",
+      "min": "-",
+      "pts": "26",
+      "reb": "4",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:39:24.570Z"
+}

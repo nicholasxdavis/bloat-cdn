@@ -1,0 +1,31 @@
+{
+  "id": "2516131",
+  "espnId": "2516131",
+  "slug": "2516131",
+  "name": "Amanda Nunes",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/2516131.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/2516131.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "23-5-0",
+      "min": "-",
+      "pts": "23",
+      "reb": "5",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:37:32.276Z"
+}

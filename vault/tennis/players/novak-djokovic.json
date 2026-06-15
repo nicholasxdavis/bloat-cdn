@@ -1,0 +1,31 @@
+{
+  "id": "296",
+  "espnId": "296",
+  "slug": "296",
+  "name": "Novak Djokovic",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/296.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/296.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2003-2004",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:43:21.313Z"
+}

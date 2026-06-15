@@ -1,0 +1,31 @@
+{
+  "id": "3166126",
+  "espnId": "3166126",
+  "slug": "3166126",
+  "name": "Dricus Du Plessis",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3166126.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3166126.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "23-3-0",
+      "min": "-",
+      "pts": "23",
+      "reb": "3",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:37:22.869Z"
+}

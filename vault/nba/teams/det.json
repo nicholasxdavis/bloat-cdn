@@ -1,0 +1,36 @@
+{
+  "id": "DET",
+  "espnId": "8",
+  "abbr": "DET",
+  "name": "Detroit Pistons",
+  "city": "Detroit",
+  "sport": "nba",
+  "logo": "media/logos/nba/det.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+  "color": "#1d428a",
+  "alternateColor": "#c8102e",
+  "division": "Central Division",
+  "standingSummary": "1st in Central Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "60-22"
+    },
+    {
+      "label": "Home Record",
+      "summary": "31-9"
+    },
+    {
+      "label": "Away Record",
+      "summary": "28-13"
+    }
+  ],
+  "venue": "Little Caesars Arena",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:29.303Z"
+}

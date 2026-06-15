@@ -1,0 +1,31 @@
+{
+  "id": "3172112",
+  "espnId": "3172112",
+  "slug": "3172112",
+  "name": "Belal Muhammad",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3172112.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3172112.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "24-6-0",
+      "min": "-",
+      "pts": "24",
+      "reb": "6",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:38:02.297Z"
+}

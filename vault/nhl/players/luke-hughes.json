@@ -1,0 +1,135 @@
+{
+  "id": "hughelu01",
+  "espnId": "4874719",
+  "slug": "hughelu01",
+  "name": "Luke Hughes",
+  "sport": "nhl",
+  "position": "D",
+  "team": "NJ",
+  "headshot": "media/headshots/nhl/hughelu01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4874719.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "25-26",
+      "team": "NJ",
+      "gp": "68",
+      "min": "-",
+      "pts": "35",
+      "reb": "6",
+      "ast": "29",
+      "stl": "-4",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "24-25",
+      "team": "NJ",
+      "gp": "71",
+      "min": "-",
+      "pts": "44",
+      "reb": "7",
+      "ast": "37",
+      "stl": "-9",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "23-24",
+      "team": "NJ",
+      "gp": "82",
+      "min": "-",
+      "pts": "47",
+      "reb": "9",
+      "ast": "38",
+      "stl": "-25",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "22-23",
+      "team": "NJ",
+      "gp": "2",
+      "min": "-",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "0",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 7",
+      "matchup": "vs PHI",
+      "result": "L 5-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 5",
+      "matchup": "@ MTL",
+      "result": "W 3-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 4",
+      "matchup": "vs MTL",
+      "result": "L 4-3 SO",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 2",
+      "matchup": "vs WSH",
+      "result": "W 7-3",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
+      "date": "Mar 31",
+      "matchup": "@ NYR",
+      "result": "L 4-1",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "0",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:42:30.757Z"
+}

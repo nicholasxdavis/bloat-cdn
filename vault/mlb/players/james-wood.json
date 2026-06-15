@@ -1,0 +1,120 @@
+{
+  "id": "woodja01",
+  "espnId": "4918256",
+  "slug": "woodja01",
+  "name": "James Wood",
+  "sport": "mlb",
+  "position": "RF",
+  "team": "WSH",
+  "headshot": "media/headshots/mlb/woodja01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4918256.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "WSH",
+      "gp": "72",
+      "min": "274",
+      "pts": ".281",
+      "reb": "20",
+      "ast": "46",
+      "stl": "13",
+      "blk": "98",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "WSH",
+      "gp": "157",
+      "min": "598",
+      "pts": ".256",
+      "reb": "31",
+      "ast": "94",
+      "stl": "15",
+      "blk": "221",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "WSH",
+      "gp": "79",
+      "min": "295",
+      "pts": ".264",
+      "reb": "9",
+      "ast": "41",
+      "stl": "14",
+      "blk": "97",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "vs SEA",
+      "result": "W 10-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 13",
+      "matchup": "vs SEA",
+      "result": "W 8-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "vs SEA",
+      "result": "L 10-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ SF",
+      "result": "L 11-10",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 9",
+      "matchup": "@ SF",
+      "result": "W 6-3",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:40:54.509Z"
+}

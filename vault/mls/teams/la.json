@@ -1,0 +1,189 @@
+{
+  "id": "LA",
+  "espnId": "187",
+  "abbr": "LA",
+  "name": "LA Galaxy",
+  "city": "LA Galaxy",
+  "sport": "mls",
+  "logo": "media/logos/mls/la.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
+  "color": "#00235d",
+  "alternateColor": "#ffffff",
+  "standingSummary": "9th in MLS",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "5-5-5"
+    }
+  ],
+  "roster": [
+    {
+      "id": "242928",
+      "name": "JT Marcinkowski",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/242928.png"
+    },
+    {
+      "id": "256614",
+      "name": "Brady Scott",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/256614.png"
+    },
+    {
+      "id": "322058",
+      "name": "Novak Micovic",
+      "position": "G"
+    },
+    {
+      "id": "105803",
+      "name": "Maya Yoshida",
+      "position": "D"
+    },
+    {
+      "id": "133963",
+      "name": "Carlos Garcés",
+      "position": "D"
+    },
+    {
+      "id": "167059",
+      "name": "Jose Magana",
+      "position": "D"
+    },
+    {
+      "id": "225615",
+      "name": "John Nelson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/225615.png"
+    },
+    {
+      "id": "234962",
+      "name": "Jakob Glesnes",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/234962.png"
+    },
+    {
+      "id": "238050",
+      "name": "Miki Yamane",
+      "position": "D"
+    },
+    {
+      "id": "287252",
+      "name": "Mauricio Cuevas",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/287252.png"
+    },
+    {
+      "id": "294201",
+      "name": "Chris Rindov",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/294201.png"
+    },
+    {
+      "id": "297050",
+      "name": "Julián Aude",
+      "position": "D"
+    },
+    {
+      "id": "352194",
+      "name": "Riley Dalgado",
+      "position": "D"
+    },
+    {
+      "id": "366047",
+      "name": "Harbor Miller",
+      "position": "D"
+    },
+    {
+      "id": "122356",
+      "name": "Marco Reus",
+      "position": "M"
+    },
+    {
+      "id": "199926",
+      "name": "Erik Thommy",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/199926.png"
+    },
+    {
+      "id": "230580",
+      "name": "Lucas Sanabria",
+      "position": "M"
+    },
+    {
+      "id": "270611",
+      "name": "Ricard Puig",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/270611.png"
+    },
+    {
+      "id": "285383",
+      "name": "Justin Haak",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/285383.png"
+    },
+    {
+      "id": "286198",
+      "name": "Edwin Cerrillo",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/286198.png"
+    },
+    {
+      "id": "287568",
+      "name": "Elijah Wynder",
+      "position": "M"
+    },
+    {
+      "id": "293694",
+      "name": "Isaiah Parente",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/293694.png"
+    },
+    {
+      "id": "388199",
+      "name": "Dylan Vanney",
+      "position": "M"
+    },
+    {
+      "id": "421655",
+      "name": "Troy Elgersma",
+      "position": "M"
+    },
+    {
+      "id": "150409",
+      "name": "João Klauss",
+      "position": "F",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/150409.png"
+    },
+    {
+      "id": "256843",
+      "name": "Joseph Paintsil",
+      "position": "F"
+    },
+    {
+      "id": "295005",
+      "name": "Gabriel Pec",
+      "position": "F"
+    },
+    {
+      "id": "304659",
+      "name": "Matheus Nascimento",
+      "position": "F"
+    },
+    {
+      "id": "321370",
+      "name": "Rúben Ismael",
+      "position": "M"
+    },
+    {
+      "id": "366046",
+      "name": "Julian Placias",
+      "position": "F"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:40.730Z"
+}

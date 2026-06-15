@@ -1,0 +1,240 @@
+{
+  "id": "PIT",
+  "espnId": "16",
+  "abbr": "PIT",
+  "name": "Pittsburgh Penguins",
+  "city": "Pittsburgh",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/pit.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png",
+  "color": "#000000",
+  "alternateColor": "#fdb71a",
+  "division": "Metropolitan Division",
+  "standingSummary": "2nd in Metropolitan Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "41-25-16"
+    },
+    {
+      "label": "Home Record",
+      "summary": "20-13-8"
+    },
+    {
+      "label": "Away Record",
+      "summary": "21-12-8"
+    }
+  ],
+  "venue": "PPG Paints Arena",
+  "roster": [
+    {
+      "id": "3096237",
+      "name": "Noel Acciari",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3096237.png"
+    },
+    {
+      "id": "3114",
+      "name": "Sidney Crosby",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114.png"
+    },
+    {
+      "id": "4588004",
+      "name": "Connor Dewar",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4588004.png"
+    },
+    {
+      "id": "4588331",
+      "name": "Filip Hallander",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4588331.png"
+    },
+    {
+      "id": "5291947",
+      "name": "Ben Kindel",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5291947.png"
+    },
+    {
+      "id": "4316983",
+      "name": "Blake Lizotte",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4316983.png"
+    },
+    {
+      "id": "3124",
+      "name": "Evgeni Malkin",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3124.png"
+    },
+    {
+      "id": "3942061",
+      "name": "Tommy Novak",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942061.png"
+    },
+    {
+      "id": "4391250",
+      "name": "Rafael Harvey-Pinard",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4391250.png"
+    },
+    {
+      "id": "4268746",
+      "name": "Joona Koppanen",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4268746.png"
+    },
+    {
+      "id": "5075840",
+      "name": "Elmer Soderblom",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5075840.png"
+    },
+    {
+      "id": "4063605",
+      "name": "Justin Brazeau",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4063605.png"
+    },
+    {
+      "id": "4697404",
+      "name": "Egor Chinakhov",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697404.png"
+    },
+    {
+      "id": "5172806",
+      "name": "Avery Hayes",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5172806.png"
+    },
+    {
+      "id": "5767",
+      "name": "Kevin Hayes",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5767.png"
+    },
+    {
+      "id": "4874911",
+      "name": "Ville Koivunen",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874911.png"
+    },
+    {
+      "id": "3042037",
+      "name": "Anthony Mantha",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042037.png"
+    },
+    {
+      "id": "5080158",
+      "name": "Rutger McGroarty",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080158.png"
+    },
+    {
+      "id": "2562629",
+      "name": "Rickard Rakell",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2562629.png"
+    },
+    {
+      "id": "2591155",
+      "name": "Bryan Rust",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2591155.png"
+    },
+    {
+      "id": "3042191",
+      "name": "Connor Clifton",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042191.png"
+    },
+    {
+      "id": "4063401",
+      "name": "Samuel Girard",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4063401.png"
+    },
+    {
+      "id": "3042122",
+      "name": "Ryan Graves",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042122.png"
+    },
+    {
+      "id": "3941970",
+      "name": "Caleb Jones",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3941970.png"
+    },
+    {
+      "id": "5164",
+      "name": "Erik Karlsson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5164.png"
+    },
+    {
+      "id": "3539",
+      "name": "Kris Letang",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3539.png"
+    },
+    {
+      "id": "5206630",
+      "name": "Jake Livanavage",
+      "position": "D"
+    },
+    {
+      "id": "3942033",
+      "name": "Ryan Shea",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942033.png"
+    },
+    {
+      "id": "4697784",
+      "name": "Ilya Solovyov",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697784.png"
+    },
+    {
+      "id": "4755690",
+      "name": "Jack St. Ivany",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4755690.png"
+    },
+    {
+      "id": "3942638",
+      "name": "Parker Wotherspoon",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942638.png"
+    },
+    {
+      "id": "5122230",
+      "name": "Taylor Gauthier",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5122230.png"
+    },
+    {
+      "id": "4576894",
+      "name": "Arturs Silovs",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4576894.png"
+    },
+    {
+      "id": "4268767",
+      "name": "Stuart Skinner",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4268767.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:13.701Z"
+}

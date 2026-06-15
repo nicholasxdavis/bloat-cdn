@@ -1,0 +1,36 @@
+{
+  "id": "GS",
+  "espnId": "9",
+  "abbr": "GS",
+  "name": "Golden State Warriors",
+  "city": "Golden State",
+  "sport": "nba",
+  "logo": "media/logos/nba/gs.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+  "color": "#fdb927",
+  "alternateColor": "#1d428a",
+  "division": "Pacific Division",
+  "standingSummary": "4th in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "37-45"
+    },
+    {
+      "label": "Home Record",
+      "summary": "22-19"
+    },
+    {
+      "label": "Away Record",
+      "summary": "15-26"
+    }
+  ],
+  "venue": "Oracle Arena",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": true,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:09.016Z"
+}

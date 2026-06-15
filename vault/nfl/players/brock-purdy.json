@@ -1,0 +1,135 @@
+{
+  "id": "purdybr00",
+  "espnId": "4361741",
+  "slug": "purdybr00",
+  "name": "Brock Purdy",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "SF",
+  "headshot": "media/headshots/nfl/purdybr00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4361741.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "SF",
+      "gp": "9",
+      "min": "-",
+      "pts": "2,167",
+      "reb": "20",
+      "ast": "10",
+      "stl": "197",
+      "blk": "284",
+      "fgPct": "72.8",
+      "fg3Pct": "100.5",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "SF",
+      "gp": "15",
+      "min": "-",
+      "pts": "3,864",
+      "reb": "20",
+      "ast": "12",
+      "stl": "300",
+      "blk": "455",
+      "fgPct": "64.8",
+      "fg3Pct": "96.1",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "SF",
+      "gp": "16",
+      "min": "-",
+      "pts": "4,280",
+      "reb": "31",
+      "ast": "11",
+      "stl": "308",
+      "blk": "444",
+      "fgPct": "73.4",
+      "fg3Pct": "113.0",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "SF",
+      "gp": "9",
+      "min": "-",
+      "pts": "1,374",
+      "reb": "13",
+      "ast": "4",
+      "stl": "114",
+      "blk": "170",
+      "fgPct": "67.5",
+      "fg3Pct": "107.3",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 17",
+      "matchup": "@ SEA",
+      "result": "L 41-6",
+      "min": "—",
+      "pts": "140",
+      "reb": "0",
+      "ast": "1",
+      "stl": "15",
+      "blk": "27"
+    },
+    {
+      "date": "Jan 11",
+      "matchup": "@ PHI",
+      "result": "W 23-19",
+      "min": "—",
+      "pts": "262",
+      "reb": "2",
+      "ast": "2",
+      "stl": "18",
+      "blk": "31"
+    },
+    {
+      "date": "Jan 3",
+      "matchup": "vs SEA",
+      "result": "L 13-3",
+      "min": "—",
+      "pts": "127",
+      "reb": "0",
+      "ast": "1",
+      "stl": "19",
+      "blk": "27"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "vs CHI",
+      "result": "W 42-38",
+      "min": "—",
+      "pts": "303",
+      "reb": "3",
+      "ast": "1",
+      "stl": "24",
+      "blk": "33"
+    },
+    {
+      "date": "Dec 22",
+      "matchup": "@ IND",
+      "result": "W 48-27",
+      "min": "—",
+      "pts": "295",
+      "reb": "5",
+      "ast": "1",
+      "stl": "25",
+      "blk": "34"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:25:26.861Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "4881999",
+  "espnId": "4881999",
+  "slug": "4881999",
+  "name": "Diego Lopes",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4881999.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4881999.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "28-8-0",
+      "min": "-",
+      "pts": "28",
+      "reb": "8",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:40:09.768Z"
+}

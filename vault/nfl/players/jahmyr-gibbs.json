@@ -1,0 +1,120 @@
+{
+  "id": "gibbsja00",
+  "espnId": "4429795",
+  "slug": "gibbsja00",
+  "name": "Jahmyr Gibbs",
+  "sport": "nfl",
+  "position": "RB",
+  "team": "DET",
+  "headshot": "media/headshots/nfl/gibbsja00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4429795.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,223",
+      "reb": "13",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    },
+    {
+      "season": "2024",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,412",
+      "reb": "16",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2023",
+      "team": "DET",
+      "gp": "15",
+      "min": "-",
+      "pts": "945",
+      "reb": "10",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "@ CHI",
+      "result": "W 19-16",
+      "min": "—",
+      "pts": "80",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 25",
+      "matchup": "@ MIN",
+      "result": "L 23-10",
+      "min": "—",
+      "pts": "41",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs PIT",
+      "result": "L 29-24",
+      "min": "—",
+      "pts": "2",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ LAR",
+      "result": "L 41-34",
+      "min": "—",
+      "pts": "38",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 4",
+      "matchup": "vs DAL",
+      "result": "W 44-30",
+      "min": "—",
+      "pts": "43",
+      "reb": "3",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:27:20.740Z"
+}

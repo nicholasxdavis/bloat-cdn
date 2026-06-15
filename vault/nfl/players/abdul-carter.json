@@ -1,0 +1,90 @@
+{
+  "id": "carteab00",
+  "espnId": "4725996",
+  "slug": "carteab00",
+  "name": "Abdul Carter",
+  "sport": "nfl",
+  "position": "LB",
+  "team": "NYG",
+  "headshot": "media/headshots/nfl/carteab00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4725996.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "NYG",
+      "gp": "17",
+      "min": "-",
+      "pts": "-3",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "vs DAL",
+      "result": "W 34-17",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "@ LV",
+      "result": "W 34-10",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs MIN",
+      "result": "L 16-13",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "vs WSH",
+      "result": "L 29-21",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 1",
+      "matchup": "@ NE",
+      "result": "L 33-15",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:27:45.587Z"
+}

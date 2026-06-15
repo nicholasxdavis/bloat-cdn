@@ -1,0 +1,120 @@
+{
+  "id": "holmgch01",
+  "espnId": "4433255",
+  "slug": "holmgch01",
+  "name": "Chet Holmgren",
+  "sport": "nba",
+  "position": "C",
+  "team": "OKC",
+  "headshot": "media/headshots/nba/holmgch01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433255.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "OKC",
+      "gp": "69",
+      "min": "28.9",
+      "pts": "17.1",
+      "reb": "8.9",
+      "ast": "1.7",
+      "stl": "0.6",
+      "blk": "1.9",
+      "fgPct": "55.7",
+      "fg3Pct": "36.2",
+      "ftPct": "79.2",
+      "to": "1.6"
+    },
+    {
+      "season": "2024-25",
+      "team": "OKC",
+      "gp": "32",
+      "min": "27.4",
+      "pts": "15.0",
+      "reb": "8.0",
+      "ast": "2.0",
+      "stl": "0.7",
+      "blk": "2.2",
+      "fgPct": "49.0",
+      "fg3Pct": "37.9",
+      "ftPct": "75.4",
+      "to": "1.8"
+    },
+    {
+      "season": "2023-24",
+      "team": "OKC",
+      "gp": "82",
+      "min": "29.4",
+      "pts": "16.5",
+      "reb": "7.9",
+      "ast": "2.4",
+      "stl": "0.6",
+      "blk": "2.3",
+      "fgPct": "53.0",
+      "fg3Pct": "37.0",
+      "ftPct": "79.3",
+      "to": "1.6"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 30",
+      "matchup": "vs SA",
+      "result": "L 111-103",
+      "min": "33",
+      "pts": "4",
+      "reb": "4",
+      "ast": "0",
+      "stl": "2",
+      "blk": "2"
+    },
+    {
+      "date": "May 28",
+      "matchup": "@ SA",
+      "result": "L 118-91",
+      "min": "24",
+      "pts": "10",
+      "reb": "11",
+      "ast": "1",
+      "stl": "1",
+      "blk": "2"
+    },
+    {
+      "date": "May 26",
+      "matchup": "vs SA",
+      "result": "W 127-114",
+      "min": "30",
+      "pts": "16",
+      "reb": "11",
+      "ast": "1",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "May 24",
+      "matchup": "@ SA",
+      "result": "L 103-82",
+      "min": "26",
+      "pts": "10",
+      "reb": "9",
+      "ast": "2",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "May 22",
+      "matchup": "@ SA",
+      "result": "W 123-108",
+      "min": "28",
+      "pts": "14",
+      "reb": "3",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:22:41.858Z"
+}

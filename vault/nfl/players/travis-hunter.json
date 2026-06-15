@@ -1,0 +1,90 @@
+{
+  "id": "huntetr00",
+  "espnId": "4685415",
+  "slug": "huntetr00",
+  "name": "Travis Hunter",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "JAX",
+  "headshot": "media/headshots/nfl/huntetr00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4685415.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "JAX",
+      "gp": "7",
+      "min": "-",
+      "pts": "298",
+      "reb": "1",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Oct 19",
+      "matchup": "vs LAR",
+      "result": "L 35-7",
+      "min": "—",
+      "pts": "101",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Oct 12",
+      "matchup": "vs SEA",
+      "result": "L 20-12",
+      "min": "—",
+      "pts": "15",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Oct 6",
+      "matchup": "vs KC",
+      "result": "W 31-28",
+      "min": "—",
+      "pts": "64",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 28",
+      "matchup": "@ SF",
+      "result": "W 26-21",
+      "min": "—",
+      "pts": "42",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 21",
+      "matchup": "vs HOU",
+      "result": "W 17-10",
+      "min": "—",
+      "pts": "21",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:27:40.661Z"
+}

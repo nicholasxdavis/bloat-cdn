@@ -1,0 +1,150 @@
+{
+  "id": "smithde00",
+  "espnId": "4241478",
+  "slug": "smithde00",
+  "name": "DeVonta Smith",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "PHI",
+  "headshot": "media/headshots/nfl/smithde00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4241478.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "PHI",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,008",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2024",
+      "team": "PHI",
+      "gp": "13",
+      "min": "-",
+      "pts": "833",
+      "reb": "8",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2023",
+      "team": "PHI",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,066",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2022",
+      "team": "PHI",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,196",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2021",
+      "team": "PHI",
+      "gp": "17",
+      "min": "-",
+      "pts": "916",
+      "reb": "5",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 11",
+      "matchup": "vs SF",
+      "result": "L 23-19",
+      "min": "—",
+      "pts": "70",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs WSH",
+      "result": "L 24-17",
+      "min": "—",
+      "pts": "52",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "@ BUF",
+      "result": "W 13-12",
+      "min": "—",
+      "pts": "25",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 20",
+      "matchup": "@ WSH",
+      "result": "W 29-18",
+      "min": "—",
+      "pts": "42",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "vs LV",
+      "result": "W 31-0",
+      "min": "—",
+      "pts": "50",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:53.559Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "hallbr00",
+  "espnId": "4427366",
+  "slug": "hallbr00",
+  "name": "Breece Hall",
+  "sport": "nfl",
+  "position": "RB",
+  "team": "NYJ",
+  "headshot": "media/headshots/nfl/hallbr00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4427366.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "NYJ",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,065",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    },
+    {
+      "season": "2024",
+      "team": "NYJ",
+      "gp": "16",
+      "min": "-",
+      "pts": "876",
+      "reb": "5",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "5"
+    },
+    {
+      "season": "2023",
+      "team": "NYJ",
+      "gp": "17",
+      "min": "-",
+      "pts": "994",
+      "reb": "5",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    },
+    {
+      "season": "2022",
+      "team": "NYJ",
+      "gp": "7",
+      "min": "-",
+      "pts": "463",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Dec 28",
+      "matchup": "vs NE",
+      "result": "L 42-10",
+      "min": "—",
+      "pts": "111",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "@ NO",
+      "result": "L 29-6",
+      "min": "—",
+      "pts": "54",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ JAX",
+      "result": "L 48-20",
+      "min": "—",
+      "pts": "23",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs MIA",
+      "result": "L 34-10",
+      "min": "—",
+      "pts": "43",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 30",
+      "matchup": "vs ATL",
+      "result": "W 27-24",
+      "min": "—",
+      "pts": "68",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:27:25.331Z"
+}

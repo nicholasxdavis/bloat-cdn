@@ -1,0 +1,31 @@
+{
+  "id": "4690539",
+  "espnId": "4690539",
+  "slug": "4690539",
+  "name": "Nassourdine Imavov",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4690539.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4690539.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "17-4-0",
+      "min": "-",
+      "pts": "17",
+      "reb": "4",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:40:00.824Z"
+}

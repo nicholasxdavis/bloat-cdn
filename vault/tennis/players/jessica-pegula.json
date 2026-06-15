@@ -1,0 +1,31 @@
+{
+  "id": "2113",
+  "espnId": "2113",
+  "slug": "2113",
+  "name": "Jessica Pegula",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/2113.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/2113.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2009-2010",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:45:23.826Z"
+}

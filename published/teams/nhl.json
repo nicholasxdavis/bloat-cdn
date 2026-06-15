@@ -1,0 +1,333 @@
+[
+  {
+    "id": "ANA",
+    "espnId": "25",
+    "name": "Anaheim Ducks",
+    "abbr": "ANA",
+    "city": "Anaheim",
+    "logo": "media/logos/nhl/ana.png",
+    "color": "#fc4c02",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "BOS",
+    "espnId": "1",
+    "name": "Boston Bruins",
+    "abbr": "BOS",
+    "city": "Boston",
+    "logo": "media/logos/nhl/bos.png",
+    "color": "#231f20",
+    "alternateColor": "#fdb71a",
+    "division": "Atlantic Division"
+  },
+  {
+    "id": "BUF",
+    "espnId": "2",
+    "name": "Buffalo Sabres",
+    "abbr": "BUF",
+    "city": "Buffalo",
+    "logo": "media/logos/nhl/buf.png",
+    "color": "#00468b",
+    "alternateColor": "#fdb71a"
+  },
+  {
+    "id": "CGY",
+    "espnId": "3",
+    "name": "Calgary Flames",
+    "abbr": "CGY",
+    "city": "Calgary",
+    "logo": "media/logos/nhl/cgy.png",
+    "color": "#dd1a32",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "CAR",
+    "espnId": "7",
+    "name": "Carolina Hurricanes",
+    "abbr": "CAR",
+    "city": "Carolina",
+    "logo": "media/logos/nhl/car.png",
+    "color": "#e30426",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "CHI",
+    "espnId": "4",
+    "name": "Chicago Blackhawks",
+    "abbr": "CHI",
+    "city": "Chicago",
+    "logo": "media/logos/nhl/chi.png",
+    "color": "#e31937",
+    "alternateColor": "#000000",
+    "division": "Central Division"
+  },
+  {
+    "id": "COL",
+    "espnId": "17",
+    "name": "Colorado Avalanche",
+    "abbr": "COL",
+    "city": "Colorado",
+    "logo": "media/logos/nhl/col.png",
+    "color": "#860038",
+    "alternateColor": "#005ea3"
+  },
+  {
+    "id": "CBJ",
+    "espnId": "29",
+    "name": "Columbus Blue Jackets",
+    "abbr": "CBJ",
+    "city": "Columbus",
+    "logo": "media/logos/nhl/cbj.png",
+    "color": "#002d62",
+    "alternateColor": "#e31937"
+  },
+  {
+    "id": "DAL",
+    "espnId": "9",
+    "name": "Dallas Stars",
+    "abbr": "DAL",
+    "city": "Dallas",
+    "logo": "media/logos/nhl/dal.png",
+    "color": "#20864c",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "DET",
+    "espnId": "5",
+    "name": "Detroit Red Wings",
+    "abbr": "DET",
+    "city": "Detroit",
+    "logo": "media/logos/nhl/det.png",
+    "color": "#e30526",
+    "alternateColor": "#ffffff",
+    "division": "Atlantic Division"
+  },
+  {
+    "id": "EDM",
+    "espnId": "6",
+    "name": "Edmonton Oilers",
+    "abbr": "EDM",
+    "city": "Edmonton",
+    "logo": "media/logos/nhl/edm.png",
+    "color": "#00205b",
+    "alternateColor": "#ff4c00"
+  },
+  {
+    "id": "FLA",
+    "espnId": "26",
+    "name": "Florida Panthers",
+    "abbr": "FLA",
+    "city": "Florida",
+    "logo": "media/logos/nhl/fla.png",
+    "color": "#e51937",
+    "alternateColor": "#002d62"
+  },
+  {
+    "id": "LA",
+    "espnId": "8",
+    "name": "Los Angeles Kings",
+    "abbr": "LA",
+    "city": "Los Angeles",
+    "logo": "media/logos/nhl/la.png",
+    "color": "#121212",
+    "alternateColor": "#a2aaad",
+    "division": "Pacific Division"
+  },
+  {
+    "id": "MIN",
+    "espnId": "30",
+    "name": "Minnesota Wild",
+    "abbr": "MIN",
+    "city": "Minnesota",
+    "logo": "media/logos/nhl/min.png",
+    "color": "#124734",
+    "alternateColor": "#ae122a"
+  },
+  {
+    "id": "MTL",
+    "espnId": "10",
+    "name": "Montreal Canadiens",
+    "abbr": "MTL",
+    "city": "Montreal",
+    "logo": "media/logos/nhl/mtl.png",
+    "color": "#c41230",
+    "alternateColor": "#013a81",
+    "division": "Atlantic Division"
+  },
+  {
+    "id": "NSH",
+    "espnId": "27",
+    "name": "Nashville Predators",
+    "abbr": "NSH",
+    "city": "Nashville",
+    "logo": "media/logos/nhl/nsh.png",
+    "color": "#fdba31",
+    "alternateColor": "#002d62"
+  },
+  {
+    "id": "NJ",
+    "espnId": "11",
+    "name": "New Jersey Devils",
+    "abbr": "NJ",
+    "city": "New Jersey",
+    "logo": "media/logos/nhl/nj.png",
+    "color": "#e30b2b",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "NYI",
+    "espnId": "12",
+    "name": "New York Islanders",
+    "abbr": "NYI",
+    "city": "New York",
+    "logo": "media/logos/nhl/nyi.png",
+    "color": "#00529b",
+    "alternateColor": "#f47d31"
+  },
+  {
+    "id": "NYR",
+    "espnId": "13",
+    "name": "New York Rangers",
+    "abbr": "NYR",
+    "city": "New York",
+    "logo": "media/logos/nhl/nyr.png",
+    "color": "#0056ae",
+    "alternateColor": "#e51937",
+    "division": "Metropolitan Division"
+  },
+  {
+    "id": "OTT",
+    "espnId": "14",
+    "name": "Ottawa Senators",
+    "abbr": "OTT",
+    "city": "Ottawa",
+    "logo": "media/logos/nhl/ott.png",
+    "color": "#dd1a32",
+    "alternateColor": "#b79257"
+  },
+  {
+    "id": "PHI",
+    "espnId": "15",
+    "name": "Philadelphia Flyers",
+    "abbr": "PHI",
+    "city": "Philadelphia",
+    "logo": "media/logos/nhl/phi.png",
+    "color": "#fe5823",
+    "alternateColor": "#000000",
+    "division": "Metropolitan Division"
+  },
+  {
+    "id": "PIT",
+    "espnId": "16",
+    "name": "Pittsburgh Penguins",
+    "abbr": "PIT",
+    "city": "Pittsburgh",
+    "logo": "media/logos/nhl/pit.png",
+    "color": "#000000",
+    "alternateColor": "#fdb71a",
+    "division": "Metropolitan Division"
+  },
+  {
+    "id": "SJ",
+    "espnId": "18",
+    "name": "San Jose Sharks",
+    "abbr": "SJ",
+    "city": "San Jose",
+    "logo": "media/logos/nhl/sj.png",
+    "color": "#00788a",
+    "alternateColor": "#070707"
+  },
+  {
+    "id": "SEA",
+    "espnId": "124292",
+    "name": "Seattle Kraken",
+    "abbr": "SEA",
+    "city": "Seattle",
+    "logo": "media/logos/nhl/sea.png",
+    "color": "#000d33",
+    "alternateColor": "#a3dce4"
+  },
+  {
+    "id": "STL",
+    "espnId": "19",
+    "name": "St. Louis Blues",
+    "abbr": "STL",
+    "city": "St. Louis",
+    "logo": "media/logos/nhl/stl.png",
+    "color": "#0070b9",
+    "alternateColor": "#fdb71a"
+  },
+  {
+    "id": "TB",
+    "espnId": "20",
+    "name": "Tampa Bay Lightning",
+    "abbr": "TB",
+    "city": "Tampa Bay",
+    "logo": "media/logos/nhl/tb.png",
+    "color": "#003e7e",
+    "alternateColor": "#ffffff"
+  },
+  {
+    "id": "TOR",
+    "espnId": "21",
+    "name": "Toronto Maple Leafs",
+    "abbr": "TOR",
+    "city": "Toronto",
+    "logo": "media/logos/nhl/tor.png",
+    "color": "#003e7e",
+    "alternateColor": "#ffffff",
+    "division": "Atlantic Division"
+  },
+  {
+    "id": "UTAH",
+    "espnId": "129764",
+    "name": "Utah Mammoth",
+    "abbr": "UTAH",
+    "city": "Utah",
+    "logo": "media/logos/nhl/utah.png",
+    "color": "#000000",
+    "alternateColor": "#7ab2e1"
+  },
+  {
+    "id": "VAN",
+    "espnId": "22",
+    "name": "Vancouver Canucks",
+    "abbr": "VAN",
+    "city": "Vancouver",
+    "logo": "media/logos/nhl/van.png",
+    "color": "#003e7e",
+    "alternateColor": "#008752",
+    "division": "Pacific Division"
+  },
+  {
+    "id": "VGK",
+    "espnId": "37",
+    "name": "Vegas Golden Knights",
+    "abbr": "VGK",
+    "city": "Vegas",
+    "logo": "media/logos/nhl/vgk.png",
+    "color": "#344043",
+    "alternateColor": "#b4975a"
+  },
+  {
+    "id": "WSH",
+    "espnId": "23",
+    "name": "Washington Capitals",
+    "abbr": "WSH",
+    "city": "Washington",
+    "logo": "media/logos/nhl/wsh.png",
+    "color": "#d71830",
+    "alternateColor": "#0b1f41",
+    "division": "Metropolitan Division"
+  },
+  {
+    "id": "WPG",
+    "espnId": "28",
+    "name": "Winnipeg Jets",
+    "abbr": "WPG",
+    "city": "Winnipeg",
+    "logo": "media/logos/nhl/wpg.png",
+    "color": "#002d62",
+    "alternateColor": "#c41230"
+  }
+]

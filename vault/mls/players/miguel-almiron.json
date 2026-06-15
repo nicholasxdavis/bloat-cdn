@@ -1,0 +1,131 @@
+{
+  "id": "almirmi01",
+  "espnId": "48128",
+  "slug": "almirmi01",
+  "name": "Miguel Almirón",
+  "sport": "mls",
+  "position": "F",
+  "team": "ATL",
+  "headshot": "media/headshots/mls/almirmi01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/48128.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026 MLS",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "3",
+      "ast": "-",
+      "stl": "-",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026 FIFA World Cup",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "1",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026 U.S. Open Cup",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026 International Friendly",
+      "gp": "-",
+      "min": "-",
+      "pts": "1",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "1",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 12",
+      "matchup": "@ USA",
+      "result": "L 4-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 5",
+      "matchup": "vs NCA",
+      "result": "W 4-0",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "May 24",
+      "matchup": "@ CLB",
+      "result": "L 2-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 15",
+      "matchup": "@ CHA",
+      "result": "W 3-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 11",
+      "matchup": "@ CHI",
+      "result": "L 1-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:45:57.130Z"
+}

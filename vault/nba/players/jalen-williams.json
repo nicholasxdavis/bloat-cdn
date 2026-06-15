@@ -1,0 +1,135 @@
+{
+  "id": "willija01",
+  "espnId": "4593803",
+  "slug": "willija01",
+  "name": "Jalen Williams",
+  "sport": "nba",
+  "position": "G",
+  "team": "OKC",
+  "headshot": "media/headshots/nba/willija01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4593803.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "OKC",
+      "gp": "33",
+      "min": "28.4",
+      "pts": "17.1",
+      "reb": "4.6",
+      "ast": "5.5",
+      "stl": "1.2",
+      "blk": "0.3",
+      "fgPct": "48.4",
+      "fg3Pct": "29.9",
+      "ftPct": "83.7",
+      "to": "1.9"
+    },
+    {
+      "season": "2024-25",
+      "team": "OKC",
+      "gp": "69",
+      "min": "32.4",
+      "pts": "21.6",
+      "reb": "5.3",
+      "ast": "5.1",
+      "stl": "1.6",
+      "blk": "0.7",
+      "fgPct": "48.4",
+      "fg3Pct": "36.5",
+      "ftPct": "78.9",
+      "to": "2.2"
+    },
+    {
+      "season": "2023-24",
+      "team": "OKC",
+      "gp": "71",
+      "min": "31.3",
+      "pts": "19.1",
+      "reb": "4.0",
+      "ast": "4.5",
+      "stl": "1.1",
+      "blk": "0.6",
+      "fgPct": "54.0",
+      "fg3Pct": "42.7",
+      "ftPct": "81.4",
+      "to": "1.7"
+    },
+    {
+      "season": "2022-23",
+      "team": "OKC",
+      "gp": "75",
+      "min": "30.3",
+      "pts": "14.1",
+      "reb": "4.5",
+      "ast": "3.3",
+      "stl": "1.4",
+      "blk": "0.5",
+      "fgPct": "52.1",
+      "fg3Pct": "35.6",
+      "ftPct": "81.2",
+      "to": "1.6"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 28",
+      "matchup": "@ SA",
+      "result": "L 118-91",
+      "min": "10",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "May 20",
+      "matchup": "vs SA",
+      "result": "W 122-113",
+      "min": "7",
+      "pts": "4",
+      "reb": "1",
+      "ast": "0",
+      "stl": "2",
+      "blk": "0"
+    },
+    {
+      "date": "May 18",
+      "matchup": "vs SA",
+      "result": "L 122-115 2OT",
+      "min": "37",
+      "pts": "26",
+      "reb": "7",
+      "ast": "3",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 22",
+      "matchup": "vs PHX",
+      "result": "W 120-107",
+      "min": "23",
+      "pts": "19",
+      "reb": "1",
+      "ast": "4",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 19",
+      "matchup": "vs PHX",
+      "result": "W 119-84",
+      "min": "29",
+      "pts": "22",
+      "reb": "7",
+      "ast": "6",
+      "stl": "1",
+      "blk": "1"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:22:45.999Z"
+}

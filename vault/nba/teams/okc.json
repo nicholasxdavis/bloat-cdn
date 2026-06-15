@@ -1,0 +1,36 @@
+{
+  "id": "OKC",
+  "espnId": "25",
+  "abbr": "OKC",
+  "name": "Oklahoma City Thunder",
+  "city": "Oklahoma City",
+  "sport": "nba",
+  "logo": "media/logos/nba/okc.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+  "color": "#007ac1",
+  "alternateColor": "#ef3b24",
+  "division": "Northwest Division",
+  "standingSummary": "1st in Northwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "64-18"
+    },
+    {
+      "label": "Home Record",
+      "summary": "34-7"
+    },
+    {
+      "label": "Away Record",
+      "summary": "30-10"
+    }
+  ],
+  "venue": "Paycom Center",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:43.528Z"
+}

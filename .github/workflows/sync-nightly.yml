@@ -1,0 +1,44 @@
+name: Sync nightly
+run-name: "${{ github.event.repository.name }} | Nightly stats | ${{ github.run_id }}"
+
+on:
+  schedule:
+    # 08:00 UTC daily — after west-coast games finish
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bloat-sync-nightly
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Season-aware stats sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: ingest/package-lock.json
+
+      - name: Install dependencies
+        working-directory: ingest
+        run: npm ci
+
+      - name: Run nightly sync
+        run: npm run sync-nightly
+        env:
+          BLOAT_DELAY_MS: '400'
+          BLOAT_FETCH_RETRIES: '4'
+
+      - name: Commit sync changes
+        run: bash .github/scripts/commit-sync.sh "nightly stats update"

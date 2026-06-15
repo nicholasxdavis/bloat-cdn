@@ -1,0 +1,192 @@
+{
+  "id": "TOR",
+  "espnId": "14",
+  "abbr": "TOR",
+  "name": "Toronto Blue Jays",
+  "city": "Toronto",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/tor.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+  "color": "#134a8e",
+  "alternateColor": "#6cace5",
+  "standingSummary": "3rd in AL East",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "34-38"
+    },
+    {
+      "label": "Home Record",
+      "summary": "21-18"
+    },
+    {
+      "label": "Away Record",
+      "summary": "13-20"
+    }
+  ],
+  "venue": "Rogers Centre",
+  "roster": [
+    {
+      "id": "34943",
+      "name": "Dylan Cease",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34943.png"
+    },
+    {
+      "id": "31313",
+      "name": "Patrick Corbin",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31313.png"
+    },
+    {
+      "id": "41318",
+      "name": "Braydon Fisher",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41318.png"
+    },
+    {
+      "id": "4622501",
+      "name": "Mason Fluharty",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4622501.png"
+    },
+    {
+      "id": "32667",
+      "name": "Kevin Gausman",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32667.png"
+    },
+    {
+      "id": "33841",
+      "name": "Jeff Hoffman",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33841.png"
+    },
+    {
+      "id": "4833671",
+      "name": "Spencer Miles",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4833671.png"
+    },
+    {
+      "id": "36385",
+      "name": "Tommy Nance",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36385.png"
+    },
+    {
+      "id": "34026",
+      "name": "Tyler Rogers",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34026.png"
+    },
+    {
+      "id": "28976",
+      "name": "Max Scherzer",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/28976.png"
+    },
+    {
+      "id": "4917888",
+      "name": "Louis Varland",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917888.png"
+    },
+    {
+      "id": "41383",
+      "name": "Simeon Woods Richardson",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41383.png"
+    },
+    {
+      "id": "4949041",
+      "name": "Trey Yesavage",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4949041.png"
+    },
+    {
+      "id": "42081",
+      "name": "Alejandro Kirk",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42081.png"
+    },
+    {
+      "id": "4918248",
+      "name": "Brandon Valenzuela",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4918248.png"
+    },
+    {
+      "id": "41287",
+      "name": "Ernie Clement",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41287.png"
+    },
+    {
+      "id": "37729",
+      "name": "Andres Gimenez",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/37729.png"
+    },
+    {
+      "id": "35002",
+      "name": "Vladimir Guerrero Jr.",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35002.png"
+    },
+    {
+      "id": "5205698",
+      "name": "Charles McAdoo",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5205698.png"
+    },
+    {
+      "id": "5134636",
+      "name": "Kazuma Okamoto",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134636.png"
+    },
+    {
+      "id": "35682",
+      "name": "Nathan Lukes",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35682.png"
+    },
+    {
+      "id": "4917684",
+      "name": "Yohendrick Pinango",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917684.png"
+    },
+    {
+      "id": "39957",
+      "name": "Jesus Sanchez",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39957.png"
+    },
+    {
+      "id": "4997181",
+      "name": "Davis Schneider",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4997181.png"
+    },
+    {
+      "id": "39105",
+      "name": "Myles Straw",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39105.png"
+    },
+    {
+      "id": "32078",
+      "name": "George Springer",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32078.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:31.807Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3022677",
+  "espnId": "3022677",
+  "slug": "3022677",
+  "name": "Conor McGregor",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3022677.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3022677.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "22-6-0",
+      "min": "-",
+      "pts": "22",
+      "reb": "6",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:54:56.555Z"
+}

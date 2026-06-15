@@ -1,0 +1,192 @@
+{
+  "id": "WSH",
+  "espnId": "20",
+  "abbr": "WSH",
+  "name": "Washington Nationals",
+  "city": "Washington",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/wsh.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
+  "color": "#ab0003",
+  "alternateColor": "#11225b",
+  "standingSummary": "3rd in NL East",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "37-35"
+    },
+    {
+      "label": "Home Record",
+      "summary": "14-21"
+    },
+    {
+      "label": "Away Record",
+      "summary": "23-14"
+    }
+  ],
+  "venue": "Nationals Park",
+  "roster": [
+    {
+      "id": "4300668",
+      "name": "Andrew Alvarez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4300668.png"
+    },
+    {
+      "id": "4313143",
+      "name": "Clayton Beeter",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4313143.png"
+    },
+    {
+      "id": "4308037",
+      "name": "Cade Cavalli",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4308037.png"
+    },
+    {
+      "id": "33773",
+      "name": "Foster Griffin",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33773.png"
+    },
+    {
+      "id": "36052",
+      "name": "Zack Littell",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36052.png"
+    },
+    {
+      "id": "4866810",
+      "name": "Brad Lord",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4866810.png"
+    },
+    {
+      "id": "39856",
+      "name": "Richard Lovelady",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39856.png"
+    },
+    {
+      "id": "32116",
+      "name": "Miles Mikolas",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32116.png"
+    },
+    {
+      "id": "4683356",
+      "name": "Mitchell Parker",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4683356.png"
+    },
+    {
+      "id": "4019760",
+      "name": "PJ Poulin",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4019760.png"
+    },
+    {
+      "id": "5132036",
+      "name": "Orlando Ribalta",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5132036.png"
+    },
+    {
+      "id": "4313208",
+      "name": "Paxton Schultz",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4313208.png"
+    },
+    {
+      "id": "41552",
+      "name": "Gus Varland",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41552.png"
+    },
+    {
+      "id": "4228448",
+      "name": "Drew Millas",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4228448.png"
+    },
+    {
+      "id": "38827",
+      "name": "Keibert Ruiz",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38827.png"
+    },
+    {
+      "id": "42402",
+      "name": "CJ Abrams",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42402.png"
+    },
+    {
+      "id": "42949",
+      "name": "Andres Chaparro",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42949.png"
+    },
+    {
+      "id": "40459",
+      "name": "Luis Garcia Jr.",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40459.png"
+    },
+    {
+      "id": "42360",
+      "name": "Curtis Mead",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42360.png"
+    },
+    {
+      "id": "4728688",
+      "name": "Nasim Nunez",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4728688.png"
+    },
+    {
+      "id": "4722676",
+      "name": "Jorbit Vivas",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722676.png"
+    },
+    {
+      "id": "4719511",
+      "name": "Dylan Crews",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4719511.png"
+    },
+    {
+      "id": "4917889",
+      "name": "Daylen Lile",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917889.png"
+    },
+    {
+      "id": "4918256",
+      "name": "James Wood",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4918256.png"
+    },
+    {
+      "id": "4414210",
+      "name": "Jacob Young",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414210.png"
+    },
+    {
+      "id": "42105",
+      "name": "Jose Tena",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42105.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:29:05.103Z"
+}

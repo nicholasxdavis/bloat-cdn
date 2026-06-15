@@ -1,0 +1,36 @@
+{
+  "id": "UTAH",
+  "espnId": "26",
+  "abbr": "UTAH",
+  "name": "Utah Jazz",
+  "city": "Utah",
+  "sport": "nba",
+  "logo": "media/logos/nba/utah.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+  "color": "#4e008e",
+  "alternateColor": "#79a3dc",
+  "division": "Northwest Division",
+  "standingSummary": "5th in Northwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "22-60"
+    },
+    {
+      "label": "Home Record",
+      "summary": "14-27"
+    },
+    {
+      "label": "Away Record",
+      "summary": "8-33"
+    }
+  ],
+  "venue": "Delta Center",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:19.716Z"
+}

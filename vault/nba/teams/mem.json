@@ -1,0 +1,36 @@
+{
+  "id": "MEM",
+  "espnId": "29",
+  "abbr": "MEM",
+  "name": "Memphis Grizzlies",
+  "city": "Memphis",
+  "sport": "nba",
+  "logo": "media/logos/nba/mem.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+  "color": "#5d76a9",
+  "alternateColor": "#12173f",
+  "division": "Southwest Division",
+  "standingSummary": "5th in Southwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "25-57"
+    },
+    {
+      "label": "Home Record",
+      "summary": "13-27"
+    },
+    {
+      "label": "Away Record",
+      "summary": "11-29"
+    }
+  ],
+  "venue": "FedExForum",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:35.452Z"
+}

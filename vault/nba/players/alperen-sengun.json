@@ -1,0 +1,150 @@
+{
+  "id": "sengual01",
+  "espnId": "4871144",
+  "slug": "sengual01",
+  "name": "Alperen Sengun",
+  "sport": "nba",
+  "position": "C",
+  "team": "HOU",
+  "headshot": "media/headshots/nba/sengual01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4871144.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "HOU",
+      "gp": "72",
+      "min": "33.3",
+      "pts": "20.4",
+      "reb": "8.9",
+      "ast": "6.2",
+      "stl": "1.2",
+      "blk": "1.1",
+      "fgPct": "51.9",
+      "fg3Pct": "30.5",
+      "ftPct": "69.1",
+      "to": "3.2"
+    },
+    {
+      "season": "2024-25",
+      "team": "HOU",
+      "gp": "76",
+      "min": "31.5",
+      "pts": "19.1",
+      "reb": "10.3",
+      "ast": "4.9",
+      "stl": "1.1",
+      "blk": "0.8",
+      "fgPct": "49.6",
+      "fg3Pct": "23.3",
+      "ftPct": "69.2",
+      "to": "2.6"
+    },
+    {
+      "season": "2023-24",
+      "team": "HOU",
+      "gp": "63",
+      "min": "32.5",
+      "pts": "21.1",
+      "reb": "9.3",
+      "ast": "5.0",
+      "stl": "1.2",
+      "blk": "0.7",
+      "fgPct": "53.7",
+      "fg3Pct": "29.7",
+      "ftPct": "69.3",
+      "to": "2.6"
+    },
+    {
+      "season": "2022-23",
+      "team": "HOU",
+      "gp": "75",
+      "min": "28.9",
+      "pts": "14.8",
+      "reb": "9.0",
+      "ast": "3.9",
+      "stl": "0.9",
+      "blk": "0.9",
+      "fgPct": "55.3",
+      "fg3Pct": "33.3",
+      "ftPct": "71.5",
+      "to": "2.6"
+    },
+    {
+      "season": "2021-22",
+      "team": "HOU",
+      "gp": "72",
+      "min": "20.7",
+      "pts": "9.6",
+      "reb": "5.5",
+      "ast": "2.6",
+      "stl": "0.8",
+      "blk": "0.9",
+      "fgPct": "47.4",
+      "fg3Pct": "24.8",
+      "ftPct": "71.1",
+      "to": "2.0"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 1",
+      "matchup": "vs LAL",
+      "result": "L 98-78",
+      "min": "38",
+      "pts": "17",
+      "reb": "11",
+      "ast": "1",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "Apr 29",
+      "matchup": "@ LAL",
+      "result": "W 99-93",
+      "min": "43",
+      "pts": "14",
+      "reb": "9",
+      "ast": "8",
+      "stl": "2",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 26",
+      "matchup": "vs LAL",
+      "result": "W 115-96",
+      "min": "33",
+      "pts": "19",
+      "reb": "6",
+      "ast": "2",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 24",
+      "matchup": "vs LAL",
+      "result": "L 112-108 OT",
+      "min": "47",
+      "pts": "33",
+      "reb": "16",
+      "ast": "6",
+      "stl": "3",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 21",
+      "matchup": "@ LAL",
+      "result": "L 101-94",
+      "min": "35",
+      "pts": "20",
+      "reb": "11",
+      "ast": "5",
+      "stl": "4",
+      "blk": "2"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:22:08.391Z"
+}

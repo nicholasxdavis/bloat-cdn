@@ -1,0 +1,105 @@
+{
+  "id": "jr.ma00",
+  "espnId": "4432708",
+  "slug": "jr.ma00",
+  "name": "Marvin Harrison Jr.",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "ARI",
+  "headshot": "media/headshots/nfl/jr.ma00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432708.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "ARI",
+      "gp": "12",
+      "min": "-",
+      "pts": "608",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2024",
+      "team": "ARI",
+      "gp": "17",
+      "min": "-",
+      "pts": "885",
+      "reb": "8",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Dec 28",
+      "matchup": "@ CIN",
+      "result": "L 37-14",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs ATL",
+      "result": "L 26-19",
+      "min": "—",
+      "pts": "14",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 30",
+      "matchup": "@ TB",
+      "result": "L 20-17",
+      "min": "—",
+      "pts": "69",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 9",
+      "matchup": "@ SEA",
+      "result": "L 44-22",
+      "min": "—",
+      "pts": "33",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 3",
+      "matchup": "@ DAL",
+      "result": "W 27-17",
+      "min": "—",
+      "pts": "96",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:44.264Z"
+}

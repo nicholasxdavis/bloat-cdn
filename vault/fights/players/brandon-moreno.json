@@ -1,0 +1,31 @@
+{
+  "id": "3027545",
+  "espnId": "3027545",
+  "slug": "3027545",
+  "name": "Brandon Moreno",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3027545.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3027545.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "23-10-2",
+      "min": "-",
+      "pts": "23",
+      "reb": "10",
+      "ast": "2",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:38:47.992Z"
+}

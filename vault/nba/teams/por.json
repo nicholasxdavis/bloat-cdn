@@ -1,0 +1,36 @@
+{
+  "id": "POR",
+  "espnId": "22",
+  "abbr": "POR",
+  "name": "Portland Trail Blazers",
+  "city": "Portland",
+  "sport": "nba",
+  "logo": "media/logos/nba/por.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+  "color": "#e03a3e",
+  "alternateColor": "#000000",
+  "division": "Northwest Division",
+  "standingSummary": "4th in Northwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "42-40"
+    },
+    {
+      "label": "Home Record",
+      "summary": "24-17"
+    },
+    {
+      "label": "Away Record",
+      "summary": "18-23"
+    }
+  ],
+  "venue": "Moda Center",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:32.364Z"
+}

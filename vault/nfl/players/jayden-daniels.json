@@ -1,0 +1,105 @@
+{
+  "id": "danieja00",
+  "espnId": "4426348",
+  "slug": "danieja00",
+  "name": "Jayden Daniels",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "WSH",
+  "headshot": "media/headshots/nfl/danieja00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "WSH",
+      "gp": "7",
+      "min": "-",
+      "pts": "1,262",
+      "reb": "8",
+      "ast": "3",
+      "stl": "114",
+      "blk": "188",
+      "fgPct": "44.7",
+      "fg3Pct": "88.1",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "WSH",
+      "gp": "17",
+      "min": "-",
+      "pts": "3,568",
+      "reb": "25",
+      "ast": "9",
+      "stl": "331",
+      "blk": "480",
+      "fgPct": "67.7",
+      "fg3Pct": "100.1",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Dec 7",
+      "matchup": "@ MIN",
+      "result": "L 31-0",
+      "min": "—",
+      "pts": "78",
+      "reb": "0",
+      "ast": "1",
+      "stl": "9",
+      "blk": "20"
+    },
+    {
+      "date": "Nov 2",
+      "matchup": "vs SEA",
+      "result": "L 38-14",
+      "min": "—",
+      "pts": "153",
+      "reb": "0",
+      "ast": "1",
+      "stl": "16",
+      "blk": "22"
+    },
+    {
+      "date": "Oct 19",
+      "matchup": "@ DAL",
+      "result": "L 44-22",
+      "min": "—",
+      "pts": "156",
+      "reb": "1",
+      "ast": "0",
+      "stl": "12",
+      "blk": "22"
+    },
+    {
+      "date": "Oct 13",
+      "matchup": "vs CHI",
+      "result": "L 25-24",
+      "min": "—",
+      "pts": "211",
+      "reb": "3",
+      "ast": "1",
+      "stl": "19",
+      "blk": "26"
+    },
+    {
+      "date": "Oct 5",
+      "matchup": "@ LAC",
+      "result": "W 27-10",
+      "min": "—",
+      "pts": "231",
+      "reb": "1",
+      "ast": "0",
+      "stl": "15",
+      "blk": "26"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:29.581Z"
+}

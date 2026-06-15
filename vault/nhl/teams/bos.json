@@ -1,0 +1,197 @@
+{
+  "id": "BOS",
+  "espnId": "1",
+  "abbr": "BOS",
+  "name": "Boston Bruins",
+  "city": "Boston",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/bos.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png",
+  "color": "#231f20",
+  "alternateColor": "#fdb71a",
+  "division": "Atlantic Division",
+  "standingSummary": "4th in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "45-27-10"
+    },
+    {
+      "label": "Home Record",
+      "summary": "29-11-1"
+    },
+    {
+      "label": "Away Record",
+      "summary": "16-16-9"
+    }
+  ],
+  "venue": "TD Garden",
+  "roster": [
+    {
+      "id": "5362407",
+      "name": "Attilio Biasca",
+      "position": "C"
+    },
+    {
+      "id": "4270247",
+      "name": "Michael Eyssimont",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4270247.png"
+    },
+    {
+      "id": "4268466",
+      "name": "Morgan Geekie",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4268466.png"
+    },
+    {
+      "id": "5275337",
+      "name": "James Hagens",
+      "position": "C"
+    },
+    {
+      "id": "4587985",
+      "name": "Mark Kastelic",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4587985.png"
+    },
+    {
+      "id": "4697442",
+      "name": "Marat Khusnutdinov",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697442.png"
+    },
+    {
+      "id": "2564154",
+      "name": "Sean Kuraly",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2564154.png"
+    },
+    {
+      "id": "3041994",
+      "name": "Elias Lindholm",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3041994.png"
+    },
+    {
+      "id": "5080207",
+      "name": "Fraser Minten",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080207.png"
+    },
+    {
+      "id": "4233575",
+      "name": "Casey Mittelstadt",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233575.png"
+    },
+    {
+      "id": "5080221",
+      "name": "Matthew Poitras",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080221.png"
+    },
+    {
+      "id": "4419815",
+      "name": "Alex Steeves",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4419815.png"
+    },
+    {
+      "id": "3899949",
+      "name": "Pavel Zacha",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3899949.png"
+    },
+    {
+      "id": "3120307",
+      "name": "Viktor Arvidsson",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3120307.png"
+    },
+    {
+      "id": "4064780",
+      "name": "Tanner Jeannot",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4064780.png"
+    },
+    {
+      "id": "3114778",
+      "name": "David Pastrnak",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114778.png"
+    },
+    {
+      "id": "4392308",
+      "name": "Jonathan Aspirot",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4392308.png"
+    },
+    {
+      "id": "4419724",
+      "name": "Jordan Harris",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4419724.png"
+    },
+    {
+      "id": "4233705",
+      "name": "Henri Jokiharju",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233705.png"
+    },
+    {
+      "id": "2968818",
+      "name": "Hampus Lindholm",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2968818.png"
+    },
+    {
+      "id": "4697461",
+      "name": "Mason Lohrei",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697461.png"
+    },
+    {
+      "id": "3988803",
+      "name": "Charlie McAvoy",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3988803.png"
+    },
+    {
+      "id": "4064936",
+      "name": "Andrew Peeke",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4064936.png"
+    },
+    {
+      "id": "4565232",
+      "name": "Victor Soderstrom",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565232.png"
+    },
+    {
+      "id": "3042021",
+      "name": "Nikita Zadorov",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042021.png"
+    },
+    {
+      "id": "3069266",
+      "name": "Joonas Korpisalo",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3069266.png"
+    },
+    {
+      "id": "4712036",
+      "name": "Jeremy Swayman",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4712036.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:10.740Z"
+}

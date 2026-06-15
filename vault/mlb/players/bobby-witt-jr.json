@@ -1,0 +1,150 @@
+{
+  "id": "jr.bo01",
+  "espnId": "42403",
+  "slug": "jr.bo01",
+  "name": "Bobby Witt Jr.",
+  "sport": "mlb",
+  "position": "SS",
+  "team": "KC",
+  "headshot": "media/headshots/mlb/jr.bo01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42403.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "KC",
+      "gp": "72",
+      "min": "286",
+      "pts": ".287",
+      "reb": "9",
+      "ast": "28",
+      "stl": "26",
+      "blk": "56",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "KC",
+      "gp": "157",
+      "min": "623",
+      "pts": ".295",
+      "reb": "23",
+      "ast": "88",
+      "stl": "38",
+      "blk": "125",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "KC",
+      "gp": "161",
+      "min": "636",
+      "pts": ".332",
+      "reb": "32",
+      "ast": "109",
+      "stl": "31",
+      "blk": "106",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "KC",
+      "gp": "158",
+      "min": "641",
+      "pts": ".276",
+      "reb": "30",
+      "ast": "96",
+      "stl": "49",
+      "blk": "121",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "KC",
+      "gp": "150",
+      "min": "591",
+      "pts": ".254",
+      "reb": "20",
+      "ast": "80",
+      "stl": "30",
+      "blk": "135",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "vs HOU",
+      "result": "W 4-0",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 13",
+      "matchup": "vs HOU",
+      "result": "L 8-7",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "vs HOU",
+      "result": "L 10-8",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 11",
+      "matchup": "vs TEX",
+      "result": "L 4-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "vs TEX",
+      "result": "L 6-4 F/10",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:38:38.284Z"
+}

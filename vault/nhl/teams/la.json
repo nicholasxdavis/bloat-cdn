@@ -1,0 +1,208 @@
+{
+  "id": "LA",
+  "espnId": "8",
+  "abbr": "LA",
+  "name": "Los Angeles Kings",
+  "city": "Los Angeles",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/la.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png",
+  "color": "#121212",
+  "alternateColor": "#a2aaad",
+  "division": "Pacific Division",
+  "standingSummary": "4th in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "35-27-20"
+    },
+    {
+      "label": "Home Record",
+      "summary": "15-17-9"
+    },
+    {
+      "label": "Away Record",
+      "summary": "20-10-11"
+    }
+  ],
+  "venue": "crypto.com Arena",
+  "roster": [
+    {
+      "id": "5104190",
+      "name": "Kenny Connors",
+      "position": "C"
+    },
+    {
+      "id": "4588042",
+      "name": "Cole Guttman",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4588042.png"
+    },
+    {
+      "id": "4874923",
+      "name": "Samuel Helenius",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874923.png"
+    },
+    {
+      "id": "3183",
+      "name": "Anze Kopitar",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3183.png"
+    },
+    {
+      "id": "2976848",
+      "name": "Scott Laughton",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2976848.png"
+    },
+    {
+      "id": "4565226",
+      "name": "Alex Turcotte",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565226.png"
+    },
+    {
+      "id": "3114743",
+      "name": "Kevin Fiala",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114743.png"
+    },
+    {
+      "id": "5077308",
+      "name": "Andrei Kuzmenko",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5077308.png"
+    },
+    {
+      "id": "4895214",
+      "name": "Jeff Malott",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4895214.png"
+    },
+    {
+      "id": "3096186",
+      "name": "Trevor Moore",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3096186.png"
+    },
+    {
+      "id": "3891952",
+      "name": "Artemi Panarin",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3891952.png"
+    },
+    {
+      "id": "2562596",
+      "name": "Joel Armia",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2562596.png"
+    },
+    {
+      "id": "4697383",
+      "name": "Quinton Byfield",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697383.png"
+    },
+    {
+      "id": "3941965",
+      "name": "Mathieu Joseph",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3941965.png"
+    },
+    {
+      "id": "3114802",
+      "name": "Adrian Kempe",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114802.png"
+    },
+    {
+      "id": "4697725",
+      "name": "Alex Laferriere",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697725.png"
+    },
+    {
+      "id": "4781650",
+      "name": "Taylor Ward",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4781650.png"
+    },
+    {
+      "id": "4588178",
+      "name": "Mikey Anderson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4588178.png"
+    },
+    {
+      "id": "2976843",
+      "name": "Cody Ceci",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2976843.png"
+    },
+    {
+      "id": "4874722",
+      "name": "Brandt Clarke",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874722.png"
+    },
+    {
+      "id": "3995",
+      "name": "Drew Doughty",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3995.png"
+    },
+    {
+      "id": "5738",
+      "name": "Brian Dumoulin",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5738.png"
+    },
+    {
+      "id": "2563034",
+      "name": "Joel Edmundson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2563034.png"
+    },
+    {
+      "id": "3150480",
+      "name": "Joe Hicketts",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3150480.png"
+    },
+    {
+      "id": "5188566",
+      "name": "Kirill Kirsanov",
+      "position": "D"
+    },
+    {
+      "id": "4063280",
+      "name": "Jacob Moverare",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4063280.png"
+    },
+    {
+      "id": "3036851",
+      "name": "Anton Forsberg",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3036851.png"
+    },
+    {
+      "id": "5216932",
+      "name": "Carter George",
+      "position": "G"
+    },
+    {
+      "id": "2610321",
+      "name": "Darcy Kuemper",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2610321.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:22.631Z"
+}

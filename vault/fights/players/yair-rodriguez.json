@@ -1,0 +1,31 @@
+{
+  "id": "3155420",
+  "espnId": "3155420",
+  "slug": "3155420",
+  "name": "Yair Rodriguez",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3155420.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3155420.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "21-5-0",
+      "min": "-",
+      "pts": "21",
+      "reb": "5",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:41:55.666Z"
+}

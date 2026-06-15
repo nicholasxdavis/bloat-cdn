@@ -1,0 +1,31 @@
+{
+  "id": "4350796",
+  "espnId": "4350796",
+  "slug": "4350796",
+  "name": "Erin Blanchfield",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4350796.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4350796.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "14-2-0",
+      "min": "-",
+      "pts": "14",
+      "reb": "2",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:39:15.955Z"
+}

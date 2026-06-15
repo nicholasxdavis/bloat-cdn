@@ -1,0 +1,45 @@
+{
+  "id": "6798",
+  "espnId": "6798",
+  "slug": "6798",
+  "name": "Brooks Koepka",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/6798.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/6798.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:50:36.001Z"
+}

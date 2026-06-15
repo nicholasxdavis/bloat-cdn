@@ -1,0 +1,45 @@
+{
+  "id": "4375972",
+  "espnId": "4375972",
+  "slug": "4375972",
+  "name": "Ludvig Åberg",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/4375972.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/4375972.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:50:15.112Z"
+}

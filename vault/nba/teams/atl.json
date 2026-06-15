@@ -1,0 +1,36 @@
+{
+  "id": "ATL",
+  "espnId": "1",
+  "abbr": "ATL",
+  "name": "Atlanta Hawks",
+  "city": "Atlanta",
+  "sport": "nba",
+  "logo": "media/logos/nba/atl.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+  "color": "#c8102e",
+  "alternateColor": "#fdb927",
+  "division": "Southeast Division",
+  "standingSummary": "1st in Southeast Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "46-36"
+    },
+    {
+      "label": "Home Record",
+      "summary": "24-17"
+    },
+    {
+      "label": "Away Record",
+      "summary": "22-19"
+    }
+  ],
+  "venue": "State Farm Arena",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:08.639Z"
+}

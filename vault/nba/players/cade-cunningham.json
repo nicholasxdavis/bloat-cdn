@@ -1,0 +1,150 @@
+{
+  "id": "cunnica01",
+  "espnId": "4432166",
+  "slug": "cunnica01",
+  "name": "Cade Cunningham",
+  "sport": "nba",
+  "position": "G",
+  "team": "DET",
+  "headshot": "media/headshots/nba/cunnica01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": "64",
+      "min": "33.9",
+      "pts": "23.9",
+      "reb": "5.5",
+      "ast": "9.9",
+      "stl": "1.4",
+      "blk": "0.8",
+      "fgPct": "46.1",
+      "fg3Pct": "34.2",
+      "ftPct": "81.2",
+      "to": "3.7"
+    },
+    {
+      "season": "2024-25",
+      "team": "DET",
+      "gp": "70",
+      "min": "35.0",
+      "pts": "26.1",
+      "reb": "6.1",
+      "ast": "9.1",
+      "stl": "1.0",
+      "blk": "0.8",
+      "fgPct": "46.9",
+      "fg3Pct": "35.6",
+      "ftPct": "84.6",
+      "to": "4.4"
+    },
+    {
+      "season": "2023-24",
+      "team": "DET",
+      "gp": "62",
+      "min": "33.5",
+      "pts": "22.7",
+      "reb": "4.3",
+      "ast": "7.5",
+      "stl": "0.9",
+      "blk": "0.4",
+      "fgPct": "44.9",
+      "fg3Pct": "35.5",
+      "ftPct": "86.9",
+      "to": "3.4"
+    },
+    {
+      "season": "2022-23",
+      "team": "DET",
+      "gp": "12",
+      "min": "33.3",
+      "pts": "19.9",
+      "reb": "6.2",
+      "ast": "6.0",
+      "stl": "0.8",
+      "blk": "0.6",
+      "fgPct": "41.5",
+      "fg3Pct": "27.9",
+      "ftPct": "83.7",
+      "to": "3.3"
+    },
+    {
+      "season": "2021-22",
+      "team": "DET",
+      "gp": "64",
+      "min": "32.6",
+      "pts": "17.4",
+      "reb": "5.5",
+      "ast": "5.6",
+      "stl": "1.2",
+      "blk": "0.7",
+      "fgPct": "41.6",
+      "fg3Pct": "31.4",
+      "ftPct": "84.5",
+      "to": "3.7"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 17",
+      "matchup": "vs CLE",
+      "result": "L 125-94",
+      "min": "37",
+      "pts": "13",
+      "reb": "4",
+      "ast": "5",
+      "stl": "2",
+      "blk": "0"
+    },
+    {
+      "date": "May 15",
+      "matchup": "@ CLE",
+      "result": "W 115-94",
+      "min": "42",
+      "pts": "21",
+      "reb": "2",
+      "ast": "8",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "May 13",
+      "matchup": "vs CLE",
+      "result": "L 117-113 OT",
+      "min": "48",
+      "pts": "39",
+      "reb": "7",
+      "ast": "9",
+      "stl": "2",
+      "blk": "0"
+    },
+    {
+      "date": "May 11",
+      "matchup": "@ CLE",
+      "result": "L 112-103",
+      "min": "39",
+      "pts": "19",
+      "reb": "3",
+      "ast": "6",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "May 9",
+      "matchup": "@ CLE",
+      "result": "L 116-109",
+      "min": "39",
+      "pts": "27",
+      "reb": "10",
+      "ast": "10",
+      "stl": "1",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:21:30.719Z"
+}

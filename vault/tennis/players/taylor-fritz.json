@@ -1,0 +1,31 @@
+{
+  "id": "2946",
+  "espnId": "2946",
+  "slug": "2946",
+  "name": "Taylor Fritz",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/2946.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/2946.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2015-2016",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:43:53.273Z"
+}

@@ -1,0 +1,191 @@
+{
+  "id": "LAD",
+  "espnId": "19",
+  "abbr": "LAD",
+  "name": "Los Angeles Dodgers",
+  "city": "Los Angeles",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/lad.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+  "color": "#005a9c",
+  "alternateColor": "#ffffff",
+  "standingSummary": "1st in NL West",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "45-27"
+    },
+    {
+      "label": "Home Record",
+      "summary": "22-12"
+    },
+    {
+      "label": "Away Record",
+      "summary": "23-15"
+    }
+  ],
+  "venue": "Dodger Stadium",
+  "roster": [
+    {
+      "id": "5136082",
+      "name": "Jack Dreyer",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5136082.png"
+    },
+    {
+      "id": "5194684",
+      "name": "Edgardo Henriquez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5194684.png"
+    },
+    {
+      "id": "39814",
+      "name": "Jonathan Hernandez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39814.png"
+    },
+    {
+      "id": "4306800",
+      "name": "Kyle Hurt",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4306800.png"
+    },
+    {
+      "id": "4313163",
+      "name": "Will Klein",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4313163.png"
+    },
+    {
+      "id": "39915",
+      "name": "Eric Lauer",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39915.png"
+    },
+    {
+      "id": "5134638",
+      "name": "Roki Sasaki",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134638.png"
+    },
+    {
+      "id": "35135",
+      "name": "Tanner Scott",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35135.png"
+    },
+    {
+      "id": "4417806",
+      "name": "Emmet Sheehan",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417806.png"
+    },
+    {
+      "id": "32185",
+      "name": "Blake Treinen",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32185.png"
+    },
+    {
+      "id": "42622",
+      "name": "Alex Vesia",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42622.png"
+    },
+    {
+      "id": "4417203",
+      "name": "Justin Wrobleski",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4417203.png"
+    },
+    {
+      "id": "4872587",
+      "name": "Yoshinobu Yamamoto",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872587.png"
+    },
+    {
+      "id": "40354",
+      "name": "Chuckie Robinson",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40354.png"
+    },
+    {
+      "id": "4619839",
+      "name": "Dalton Rushing",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4619839.png"
+    },
+    {
+      "id": "33039",
+      "name": "Mookie Betts",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33039.png"
+    },
+    {
+      "id": "39924",
+      "name": "Santiago Espinal",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39924.png"
+    },
+    {
+      "id": "4727589",
+      "name": "Alex Freeland",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4727589.png"
+    },
+    {
+      "id": "30193",
+      "name": "Freddie Freeman",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30193.png"
+    },
+    {
+      "id": "33303",
+      "name": "Max Muncy",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33303.png"
+    },
+    {
+      "id": "30791",
+      "name": "Miguel Rojas",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30791.png"
+    },
+    {
+      "id": "38994",
+      "name": "Alex Call",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38994.png"
+    },
+    {
+      "id": "42468",
+      "name": "Andy Pages",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42468.png"
+    },
+    {
+      "id": "34967",
+      "name": "Kyle Tucker",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34967.png"
+    },
+    {
+      "id": "4091943",
+      "name": "Ryan Ward",
+      "position": "LF"
+    },
+    {
+      "id": "39832",
+      "name": "Shohei Ohtani",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png"
+    }
+  ],
+  "tier": "tier1 global elite",
+  "top10": true,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:07.715Z"
+}

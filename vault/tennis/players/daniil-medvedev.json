@@ -1,0 +1,31 @@
+{
+  "id": "2383",
+  "espnId": "2383",
+  "slug": "2383",
+  "name": "Daniil Medvedev",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/2383.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/2383.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2014-2015",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:44:00.319Z"
+}

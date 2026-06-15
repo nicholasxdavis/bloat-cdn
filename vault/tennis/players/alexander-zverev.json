@@ -1,0 +1,31 @@
+{
+  "id": "2375",
+  "espnId": "2375",
+  "slug": "2375",
+  "name": "Alexander Zverev",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/2375.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/2375.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2013-2014",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:44:08.474Z"
+}

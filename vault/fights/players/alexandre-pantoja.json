@@ -1,0 +1,31 @@
+{
+  "id": "2560746",
+  "espnId": "2560746",
+  "slug": "2560746",
+  "name": "Alexandre Pantoja",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/2560746.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/2560746.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "30-6-0",
+      "min": "-",
+      "pts": "30",
+      "reb": "6",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:38:56.498Z"
+}

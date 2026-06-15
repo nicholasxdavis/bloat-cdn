@@ -1,0 +1,31 @@
+{
+  "id": "4020699",
+  "espnId": "4020699",
+  "slug": "4020699",
+  "name": "Shavkat Rakhmonov",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4020699.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4020699.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "19-0-0",
+      "min": "-",
+      "pts": "19",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:38:11.279Z"
+}

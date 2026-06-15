@@ -1,0 +1,191 @@
+{
+  "id": "SF",
+  "espnId": "26",
+  "abbr": "SF",
+  "name": "San Francisco Giants",
+  "city": "San Francisco",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/sf.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+  "color": "#000000",
+  "alternateColor": "#fd5a1e",
+  "standingSummary": "4th in NL West",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "29-43"
+    },
+    {
+      "label": "Home Record",
+      "summary": "14-20"
+    },
+    {
+      "label": "Away Record",
+      "summary": "15-23"
+    }
+  ],
+  "venue": "Oracle Park",
+  "roster": [
+    {
+      "id": "41309",
+      "name": "Tristan Beck",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41309.png"
+    },
+    {
+      "id": "41460",
+      "name": "JT Brubaker",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41460.png"
+    },
+    {
+      "id": "41225",
+      "name": "Sam Hentges",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41225.png"
+    },
+    {
+      "id": "32157",
+      "name": "Adrian Houser",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32157.png"
+    },
+    {
+      "id": "4875969",
+      "name": "Caleb Kilian",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4875969.png"
+    },
+    {
+      "id": "5185136",
+      "name": "Trevor McDonald",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5185136.png"
+    },
+    {
+      "id": "4152950",
+      "name": "Erik Miller",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4152950.png"
+    },
+    {
+      "id": "32175",
+      "name": "Robbie Ray",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32175.png"
+    },
+    {
+      "id": "4345404",
+      "name": "Landen Roupp",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345404.png"
+    },
+    {
+      "id": "39799",
+      "name": "Reiver Sanmartin",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39799.png"
+    },
+    {
+      "id": "4414123",
+      "name": "Dylan Smith",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414123.png"
+    },
+    {
+      "id": "5000950",
+      "name": "Ryan Walker",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5000950.png"
+    },
+    {
+      "id": "41216",
+      "name": "Logan Webb",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41216.png"
+    },
+    {
+      "id": "33452",
+      "name": "Eric Haase",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33452.png"
+    },
+    {
+      "id": "4751554",
+      "name": "Daniel Susac",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4751554.png"
+    },
+    {
+      "id": "33675",
+      "name": "Willy Adames",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33675.png"
+    },
+    {
+      "id": "39572",
+      "name": "Luis Arraez",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39572.png"
+    },
+    {
+      "id": "33857",
+      "name": "Matt Chapman",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33857.png"
+    },
+    {
+      "id": "33859",
+      "name": "Rafael Devers",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33859.png"
+    },
+    {
+      "id": "42985",
+      "name": "Buddy Kennedy",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42985.png"
+    },
+    {
+      "id": "42502",
+      "name": "Victor Bericoto",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42502.png"
+    },
+    {
+      "id": "5145886",
+      "name": "Jonah Cox",
+      "position": "CF"
+    },
+    {
+      "id": "4619467",
+      "name": "Drew Gilbert",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4619467.png"
+    },
+    {
+      "id": "5134621",
+      "name": "Jung Hoo Lee",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134621.png"
+    },
+    {
+      "id": "5149064",
+      "name": "Bryce Eldridge",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5149064.png"
+    },
+    {
+      "id": "4301949",
+      "name": "Casey Schmitt",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4301949.png"
+    }
+  ],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:19.576Z"
+}

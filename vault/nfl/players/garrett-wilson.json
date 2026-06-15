@@ -1,0 +1,135 @@
+{
+  "id": "wilsoga00",
+  "espnId": "4569618",
+  "slug": "wilsoga00",
+  "name": "Garrett Wilson",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "NYJ",
+  "headshot": "media/headshots/nfl/wilsoga00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4569618.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "NYJ",
+      "gp": "7",
+      "min": "-",
+      "pts": "395",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2024",
+      "team": "NYJ",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,104",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    },
+    {
+      "season": "2023",
+      "team": "NYJ",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,042",
+      "reb": "3",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    },
+    {
+      "season": "2022",
+      "team": "NYJ",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,103",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Nov 9",
+      "matchup": "vs CLE",
+      "result": "W 27-20",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Oct 12",
+      "matchup": "vs DEN",
+      "result": "L 13-11",
+      "min": "—",
+      "pts": "13",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Oct 5",
+      "matchup": "vs DAL",
+      "result": "L 37-22",
+      "min": "—",
+      "pts": "71",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 29",
+      "matchup": "@ MIA",
+      "result": "L 27-21",
+      "min": "—",
+      "pts": "82",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 21",
+      "matchup": "@ TB",
+      "result": "L 29-27",
+      "min": "—",
+      "pts": "84",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:49.247Z"
+}

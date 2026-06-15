@@ -1,0 +1,31 @@
+{
+  "id": "394",
+  "espnId": "394",
+  "slug": "394",
+  "name": "Serena Williams",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/394.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/394.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "1995-1996",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:56:44.712Z"
+}

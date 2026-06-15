@@ -1,0 +1,135 @@
+{
+  "id": "williga01",
+  "espnId": "4345076",
+  "slug": "williga01",
+  "name": "Gavin Williams",
+  "sport": "mlb",
+  "position": "SP",
+  "team": "CLE",
+  "headshot": "media/headshots/mlb/williga01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "CLE",
+      "gp": "14",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "3.32",
+      "fg3Pct": "1.10",
+      "ftPct": "9",
+      "to": "3"
+    },
+    {
+      "season": "2025",
+      "team": "CLE",
+      "gp": "31",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "3.06",
+      "fg3Pct": "1.27",
+      "ftPct": "12",
+      "to": "5"
+    },
+    {
+      "season": "2024",
+      "team": "CLE",
+      "gp": "16",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "4.86",
+      "fg3Pct": "1.37",
+      "ftPct": "3",
+      "to": "10"
+    },
+    {
+      "season": "2023",
+      "team": "CLE",
+      "gp": "16",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "3.29",
+      "fg3Pct": "1.26",
+      "ftPct": "3",
+      "to": "5"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 8",
+      "matchup": "vs NYY",
+      "result": "L 7-5 F/10",
+      "min": "—",
+      "pts": "—",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jun 3",
+      "matchup": "@ NYY",
+      "result": "W 5-4",
+      "min": "—",
+      "pts": "—",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 27",
+      "matchup": "vs WSH",
+      "result": "W 3-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 22",
+      "matchup": "@ PHI",
+      "result": "W 1-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 17",
+      "matchup": "vs CIN",
+      "result": "W 10-3",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:52:37.989Z"
+}

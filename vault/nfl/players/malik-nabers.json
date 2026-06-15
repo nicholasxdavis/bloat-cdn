@@ -1,0 +1,94 @@
+{
+  "id": "naberma00",
+  "espnId": "4595348",
+  "slug": "naberma00",
+  "name": "Malik Nabers",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "NYG",
+  "headshot": "media/headshots/nfl/naberma00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4595348.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "NYG",
+      "gp": "4",
+      "min": "-",
+      "pts": "271",
+      "reb": "2",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2024",
+      "team": "NYG",
+      "gp": "15",
+      "min": "-",
+      "pts": "1,204",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Sep 28",
+      "matchup": "vs LAC",
+      "result": "W 21-18",
+      "min": "—",
+      "pts": "20",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 21",
+      "matchup": "vs KC",
+      "result": "L 22-9",
+      "min": "—",
+      "pts": "13",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 14",
+      "matchup": "@ DAL",
+      "result": "L 40-37 OT",
+      "min": "—",
+      "pts": "167",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Sep 7",
+      "matchup": "@ WSH",
+      "result": "L 21-6",
+      "min": "—",
+      "pts": "71",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:39.909Z"
+}

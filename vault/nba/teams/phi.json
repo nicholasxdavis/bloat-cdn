@@ -1,0 +1,36 @@
+{
+  "id": "PHI",
+  "espnId": "20",
+  "abbr": "PHI",
+  "name": "Philadelphia 76ers",
+  "city": "Philadelphia",
+  "sport": "nba",
+  "logo": "media/logos/nba/phi.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+  "color": "#1d428a",
+  "alternateColor": "#e01234",
+  "division": "Atlantic Division",
+  "standingSummary": "4th in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "45-37"
+    },
+    {
+      "label": "Home Record",
+      "summary": "23-18"
+    },
+    {
+      "label": "Away Record",
+      "summary": "22-19"
+    }
+  ],
+  "venue": "Xfinity Mobile Arena",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:48.751Z"
+}

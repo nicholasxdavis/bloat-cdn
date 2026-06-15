@@ -1,0 +1,120 @@
+{
+  "id": "nacuapu00",
+  "espnId": "4426515",
+  "slug": "nacuapu00",
+  "name": "Puka Nacua",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "LAR",
+  "headshot": "media/headshots/nfl/nacuapu00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4426515.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "LAR",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,715",
+      "reb": "10",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2024",
+      "team": "LAR",
+      "gp": "11",
+      "min": "-",
+      "pts": "990",
+      "reb": "3",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2023",
+      "team": "LAR",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,486",
+      "reb": "6",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 25",
+      "matchup": "@ SEA",
+      "result": "L 31-27",
+      "min": "—",
+      "pts": "165",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 18",
+      "matchup": "@ CHI",
+      "result": "W 20-17 OT",
+      "min": "—",
+      "pts": "56",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 10",
+      "matchup": "@ CAR",
+      "result": "W 34-31",
+      "min": "—",
+      "pts": "111",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs ARI",
+      "result": "W 37-20",
+      "min": "—",
+      "pts": "76",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 29",
+      "matchup": "@ ATL",
+      "result": "L 27-24",
+      "min": "—",
+      "pts": "47",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:35.303Z"
+}

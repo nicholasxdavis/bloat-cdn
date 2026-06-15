@@ -1,0 +1,192 @@
+{
+  "id": "NYM",
+  "espnId": "21",
+  "abbr": "NYM",
+  "name": "New York Mets",
+  "city": "New York",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/nym.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+  "color": "#002d72",
+  "alternateColor": "#ff5910",
+  "standingSummary": "5th in NL East",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "32-39"
+    },
+    {
+      "label": "Home Record",
+      "summary": "18-18"
+    },
+    {
+      "label": "Away Record",
+      "summary": "14-21"
+    }
+  ],
+  "venue": "Citi Field",
+  "roster": [
+    {
+      "id": "4916509",
+      "name": "Huascar Brazoban",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4916509.png"
+    },
+    {
+      "id": "41094",
+      "name": "Daniel Duarte",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41094.png"
+    },
+    {
+      "id": "33244",
+      "name": "Sean Manaea",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33244.png"
+    },
+    {
+      "id": "4433874",
+      "name": "Nolan McLean",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4433874.png"
+    },
+    {
+      "id": "36133",
+      "name": "A.J. Minter",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36133.png"
+    },
+    {
+      "id": "39825",
+      "name": "Freddy Peralta",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39825.png"
+    },
+    {
+      "id": "36089",
+      "name": "Cionel Perez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36089.png"
+    },
+    {
+      "id": "40921",
+      "name": "David Peterson",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40921.png"
+    },
+    {
+      "id": "32005",
+      "name": "Brooks Raley",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32005.png"
+    },
+    {
+      "id": "4414215",
+      "name": "Christian Scott",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4414215.png"
+    },
+    {
+      "id": "42848",
+      "name": "Austin Warren",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42848.png"
+    },
+    {
+      "id": "33770",
+      "name": "Luke Weaver",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33770.png"
+    },
+    {
+      "id": "33224",
+      "name": "Devin Williams",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33224.png"
+    },
+    {
+      "id": "41253",
+      "name": "Francisco Alvarez",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41253.png"
+    },
+    {
+      "id": "33805",
+      "name": "Luis Torrens",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33805.png"
+    },
+    {
+      "id": "42414",
+      "name": "Brett Baty",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42414.png"
+    },
+    {
+      "id": "38904",
+      "name": "Bo Bichette",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38904.png"
+    },
+    {
+      "id": "40462",
+      "name": "Vidal Brujan",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40462.png"
+    },
+    {
+      "id": "32146",
+      "name": "Marcus Semien",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32146.png"
+    },
+    {
+      "id": "41034",
+      "name": "Mark Vientos",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41034.png"
+    },
+    {
+      "id": "4987650",
+      "name": "Eric Wagaman",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4987650.png"
+    },
+    {
+      "id": "41575",
+      "name": "Jared Young",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41575.png"
+    },
+    {
+      "id": "4925604",
+      "name": "Carson Benge",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4925604.png"
+    },
+    {
+      "id": "5208019",
+      "name": "A.J. Ewing",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5208019.png"
+    },
+    {
+      "id": "36969",
+      "name": "Juan Soto",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36969.png"
+    },
+    {
+      "id": "40948",
+      "name": "MJ Melendez",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40948.png"
+    }
+  ],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:25.589Z"
+}

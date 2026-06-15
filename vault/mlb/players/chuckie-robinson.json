@@ -1,0 +1,91 @@
+{
+  "id": "robinch01",
+  "espnId": "40354",
+  "slug": "robinch01",
+  "name": "Chuckie Robinson",
+  "sport": "mlb",
+  "position": "C",
+  "team": "LAD",
+  "headshot": "media/headshots/mlb/robinch01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/40354.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "LAD",
+      "gp": "1",
+      "min": "2",
+      "pts": ".000",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "LAD",
+      "gp": "1",
+      "min": "1",
+      "pts": ".000",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "CHW",
+      "gp": "26",
+      "min": "70",
+      "pts": ".129",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "20",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "CIN",
+      "gp": "25",
+      "min": "59",
+      "pts": ".136",
+      "reb": "2",
+      "ast": "5",
+      "stl": "0",
+      "blk": "17",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 12",
+      "matchup": "@ CHW",
+      "result": "L 8-2",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:52:04.614Z"
+}

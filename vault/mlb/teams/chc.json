@@ -1,0 +1,192 @@
+{
+  "id": "CHC",
+  "espnId": "16",
+  "abbr": "CHC",
+  "name": "Chicago Cubs",
+  "city": "Chicago",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/chc.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+  "color": "#0e3386",
+  "alternateColor": "#cc3433",
+  "standingSummary": "3rd in NL Cent",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "37-35"
+    },
+    {
+      "label": "Home Record",
+      "summary": "20-15"
+    },
+    {
+      "label": "Away Record",
+      "summary": "17-20"
+    }
+  ],
+  "venue": "Wrigley Field",
+  "roster": [
+    {
+      "id": "5002950",
+      "name": "Javier Assad",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5002950.png"
+    },
+    {
+      "id": "41516",
+      "name": "Ben Brown",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41516.png"
+    },
+    {
+      "id": "40944",
+      "name": "Edward Cabrera",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40944.png"
+    },
+    {
+      "id": "5134630",
+      "name": "Shota Imanaga",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134630.png"
+    },
+    {
+      "id": "36161",
+      "name": "Phil Maton",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36161.png"
+    },
+    {
+      "id": "36088",
+      "name": "Hoby Milner",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36088.png"
+    },
+    {
+      "id": "4875225",
+      "name": "Daniel Palencia",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4875225.png"
+    },
+    {
+      "id": "33950",
+      "name": "Colin Rea",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33950.png"
+    },
+    {
+      "id": "3963340",
+      "name": "Ethan Roberts",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/3963340.png"
+    },
+    {
+      "id": "41220",
+      "name": "Ryan Rolison",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41220.png"
+    },
+    {
+      "id": "32440",
+      "name": "Caleb Thielbar",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32440.png"
+    },
+    {
+      "id": "36728",
+      "name": "Trent Thornton",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36728.png"
+    },
+    {
+      "id": "40384",
+      "name": "Jacob Webb",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40384.png"
+    },
+    {
+      "id": "38905",
+      "name": "Miguel Amaya",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38905.png"
+    },
+    {
+      "id": "32797",
+      "name": "Carson Kelly",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32797.png"
+    },
+    {
+      "id": "34886",
+      "name": "Alex Bregman",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34886.png"
+    },
+    {
+      "id": "42415",
+      "name": "Michael Busch",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42415.png"
+    },
+    {
+      "id": "41219",
+      "name": "Nico Hoerner",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41219.png"
+    },
+    {
+      "id": "5012995",
+      "name": "Pedro Ramirez",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5012995.png"
+    },
+    {
+      "id": "34895",
+      "name": "Dansby Swanson",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34895.png"
+    },
+    {
+      "id": "4717833",
+      "name": "Pete Crow-Armstrong",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4717833.png"
+    },
+    {
+      "id": "34945",
+      "name": "Ian Happ",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34945.png"
+    },
+    {
+      "id": "4867667",
+      "name": "Matt Shaw",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4867667.png"
+    },
+    {
+      "id": "4142424",
+      "name": "Seiya Suzuki",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png"
+    },
+    {
+      "id": "4987418",
+      "name": "Moises Ballesteros",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4987418.png"
+    },
+    {
+      "id": "33711",
+      "name": "Michael Conforto",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33711.png"
+    }
+  ],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:13.617Z"
+}

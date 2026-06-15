@@ -1,0 +1,31 @@
+{
+  "id": "4684751",
+  "espnId": "4684751",
+  "slug": "4684751",
+  "name": "Khamzat Chimaev",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4684751.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4684751.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "15-1-0",
+      "min": "-",
+      "pts": "15",
+      "reb": "1",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:36:55.185Z"
+}

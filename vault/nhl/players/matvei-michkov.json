@@ -1,0 +1,105 @@
+{
+  "id": "michkma01",
+  "espnId": "5149170",
+  "slug": "michkma01",
+  "name": "Matvei Michkov",
+  "sport": "nhl",
+  "position": "RW",
+  "team": "PHI",
+  "headshot": "media/headshots/nhl/michkma01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5149170.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "25-26",
+      "team": "PHI",
+      "gp": "81",
+      "min": "-",
+      "pts": "51",
+      "reb": "20",
+      "ast": "31",
+      "stl": "0",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "24-25",
+      "team": "PHI",
+      "gp": "80",
+      "min": "-",
+      "pts": "63",
+      "reb": "26",
+      "ast": "37",
+      "stl": "-18",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 7",
+      "matchup": "vs CAR",
+      "result": "L 4-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
+      "date": "May 4",
+      "matchup": "@ CAR",
+      "result": "L 3-2 OT",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
+      "date": "May 2",
+      "matchup": "@ CAR",
+      "result": "L 3-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-3",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 29",
+      "matchup": "vs PIT",
+      "result": "W 1-0 OT",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 25",
+      "matchup": "vs PIT",
+      "result": "L 4-2",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:44:09.497Z"
+}

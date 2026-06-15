@@ -1,0 +1,45 @@
+{
+  "id": "9478",
+  "espnId": "9478",
+  "slug": "9478",
+  "name": "Scottie Scheffler",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/9478.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/9478.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:49:43.422Z"
+}

@@ -1,0 +1,569 @@
+{
+  "id": "SEA",
+  "espnId": "26",
+  "abbr": "SEA",
+  "name": "Seattle Seahawks",
+  "city": "Seattle",
+  "sport": "nfl",
+  "logo": "media/logos/nfl/sea.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+  "color": "#002a5c",
+  "alternateColor": "#69be28",
+  "standingSummary": "1st in NFC West",
+  "record": [],
+  "venue": "Lumen Field",
+  "roster": [
+    {
+      "id": "4678006",
+      "name": "Elijah Arroyo",
+      "position": "TE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4678006.png"
+    },
+    {
+      "id": "4576297",
+      "name": "AJ Barner",
+      "position": "TE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4576297.png"
+    },
+    {
+      "id": "4360405",
+      "name": "Jake Bobo",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360405.png"
+    },
+    {
+      "id": "4429211",
+      "name": "Anthony Bradford",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429211.png"
+    },
+    {
+      "id": "4429313",
+      "name": "Tyrone Broden",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429313.png"
+    },
+    {
+      "id": "4570075",
+      "name": "Logan Brown",
+      "position": "OT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4570075.png"
+    },
+    {
+      "id": "4040774",
+      "name": "Harrison Bryant",
+      "position": "TE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040774.png"
+    },
+    {
+      "id": "4612077",
+      "name": "Bryce Cabeldue",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4612077.png"
+    },
+    {
+      "id": "4426385",
+      "name": "Zach Charbonnet",
+      "position": "RB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426385.png"
+    },
+    {
+      "id": "3929636",
+      "name": "Irvin Charles",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929636.png"
+    },
+    {
+      "id": "4426376",
+      "name": "Charles Cross",
+      "position": "OT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426376.png"
+    },
+    {
+      "id": "3912547",
+      "name": "Sam Darnold",
+      "position": "QB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png"
+    },
+    {
+      "id": "4600597",
+      "name": "Montorie Foster Jr.",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4600597.png"
+    },
+    {
+      "id": "2576789",
+      "name": "Bobby Hart",
+      "position": "OT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576789.png"
+    },
+    {
+      "id": "4362135",
+      "name": "Christian Haynes",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362135.png"
+    },
+    {
+      "id": "4685381",
+      "name": "Emmanuel Henderson Jr.",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685381.png"
+    },
+    {
+      "id": "4429835",
+      "name": "George Holani",
+      "position": "RB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429835.png"
+    },
+    {
+      "id": "4597703",
+      "name": "Tory Horton",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4597703.png"
+    },
+    {
+      "id": "3914630",
+      "name": "Josh Jones",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3914630.png"
+    },
+    {
+      "id": "4035693",
+      "name": "Velus Jones Jr.",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035693.png"
+    },
+    {
+      "id": "4569547",
+      "name": "Nick Kallerup",
+      "position": "TE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569547.png"
+    },
+    {
+      "id": "4567135",
+      "name": "Amari Kight",
+      "position": "OT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567135.png"
+    },
+    {
+      "id": "2977187",
+      "name": "Cooper Kupp",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2977187.png"
+    },
+    {
+      "id": "3924327",
+      "name": "Drew Lock",
+      "position": "QB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3924327.png"
+    },
+    {
+      "id": "4245171",
+      "name": "Abraham Lucas",
+      "position": "OT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4245171.png"
+    },
+    {
+      "id": "4430070",
+      "name": "Federico Maranges",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430070.png"
+    },
+    {
+      "id": "5097854",
+      "name": "Lance Mason",
+      "position": "TE",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5097854.png"
+    },
+    {
+      "id": "4427391",
+      "name": "Kenny McIntosh",
+      "position": "RB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427391.png"
+    },
+    {
+      "id": "4432734",
+      "name": "Jalen Milroe",
+      "position": "QB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432734.png"
+    },
+    {
+      "id": "4370807",
+      "name": "Olu Oluwatimi",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4370807.png"
+    },
+    {
+      "id": "4691688",
+      "name": "Robbie Ouzts",
+      "position": "FB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4691688.png"
+    },
+    {
+      "id": "4685512",
+      "name": "Jadarian Price",
+      "position": "RB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685512.png"
+    },
+    {
+      "id": "4432525",
+      "name": "Mason Richman",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432525.png"
+    },
+    {
+      "id": "4700149",
+      "name": "Rashad Rochelle",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4700149.png"
+    },
+    {
+      "id": "4243176",
+      "name": "Brady Russell",
+      "position": "FB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243176.png"
+    },
+    {
+      "id": "2975863",
+      "name": "Eric Saubert",
+      "position": "TE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2975863.png"
+    },
+    {
+      "id": "4032473",
+      "name": "Rashid Shaheed",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4032473.png"
+    },
+    {
+      "id": "4430878",
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png"
+    },
+    {
+      "id": "4592823",
+      "name": "Beau Stephens",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4592823.png"
+    },
+    {
+      "id": "4383409",
+      "name": "Jalen Sundell",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4383409.png"
+    },
+    {
+      "id": "4241983",
+      "name": "Cody White",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241983.png"
+    },
+    {
+      "id": "4431479",
+      "name": "Ricky White III",
+      "position": "WR",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431479.png"
+    },
+    {
+      "id": "4887558",
+      "name": "Emanuel Wilson",
+      "position": "RB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4887558.png"
+    },
+    {
+      "id": "4428943",
+      "name": "Jacardia Wright",
+      "position": "RB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428943.png"
+    },
+    {
+      "id": "4693346",
+      "name": "Grey Zabel",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4693346.png"
+    },
+    {
+      "id": "4608386",
+      "name": "D'Anthony Bell",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4608386.png"
+    },
+    {
+      "id": "4430262",
+      "name": "Bud Clark",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430262.png"
+    },
+    {
+      "id": "2094390",
+      "name": "Michael Dansby",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2094390.png"
+    },
+    {
+      "id": "4609203",
+      "name": "Deven Eastern",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4609203.png"
+    },
+    {
+      "id": "4869523",
+      "name": "Nick Emmanwori",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869523.png"
+    },
+    {
+      "id": "4427190",
+      "name": "AJ Finley",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427190.png"
+    },
+    {
+      "id": "2980100",
+      "name": "Dante Fowler Jr.",
+      "position": "DE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2980100.png"
+    },
+    {
+      "id": "4693934",
+      "name": "Andre Fuller",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4693934.png"
+    },
+    {
+      "id": "5087235",
+      "name": "Jalan Gaines",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5087235.png"
+    },
+    {
+      "id": "4567226",
+      "name": "Derick Hall",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567226.png"
+    },
+    {
+      "id": "4431145",
+      "name": "Maxen Hook",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431145.png"
+    },
+    {
+      "id": "4603089",
+      "name": "Aidan Hubbard",
+      "position": "DE",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4603089.png"
+    },
+    {
+      "id": "4242516",
+      "name": "Noah Igbinoghene",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242516.png"
+    },
+    {
+      "id": "4605478",
+      "name": "Jared Ivey",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4605478.png"
+    },
+    {
+      "id": "4036430",
+      "name": "Shemar Jean-Charles",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036430.png"
+    },
+    {
+      "id": "4372020",
+      "name": "Josh Jobe",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372020.png"
+    },
+    {
+      "id": "4362851",
+      "name": "Ernest Jones IV",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362851.png"
+    },
+    {
+      "id": "4685425",
+      "name": "Marvin Jones Jr.",
+      "position": "DE",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4685425.png"
+    },
+    {
+      "id": "4686540",
+      "name": "Tyrice Knight",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686540.png"
+    },
+    {
+      "id": "16802",
+      "name": "DeMarcus Lawrence",
+      "position": "DE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16802.png"
+    },
+    {
+      "id": "4046675",
+      "name": "Julian Love",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4046675.png"
+    },
+    {
+      "id": "4430838",
+      "name": "Rylie Mills",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430838.png"
+    },
+    {
+      "id": "4572055",
+      "name": "Mike Morris",
+      "position": "DE",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4572055.png"
+    },
+    {
+      "id": "4570040",
+      "name": "Byron Murphy II",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4570040.png"
+    },
+    {
+      "id": "4684543",
+      "name": "Julian Neal",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684543.png"
+    },
+    {
+      "id": "3120358",
+      "name": "Uchenna Nwosu",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3120358.png"
+    },
+    {
+      "id": "4364623",
+      "name": "Patrick O'Connell",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4364623.png"
+    },
+    {
+      "id": "4605491",
+      "name": "Connor O'Toole",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4605491.png"
+    },
+    {
+      "id": "4247808",
+      "name": "Ty Okada",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4247808.png"
+    },
+    {
+      "id": "4602943",
+      "name": "Chris Paul Jr.",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4602943.png"
+    },
+    {
+      "id": "4259651",
+      "name": "Brandon Pili",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259651.png"
+    },
+    {
+      "id": "4567222",
+      "name": "Nehemiah Pritchett",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567222.png"
+    },
+    {
+      "id": "3115312",
+      "name": "Jarran Reed",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115312.png"
+    },
+    {
+      "id": "5081916",
+      "name": "Uso Seumalo",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5081916.png"
+    },
+    {
+      "id": "4685984",
+      "name": "Jamie Sheriff",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685984.png"
+    },
+    {
+      "id": "4686447",
+      "name": "J.R. Singleton",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686447.png"
+    },
+    {
+      "id": "4037521",
+      "name": "Chazz Surratt",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037521.png"
+    },
+    {
+      "id": "4428657",
+      "name": "Bubba Thomas",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428657.png"
+    },
+    {
+      "id": "4428659",
+      "name": "Drake Thomas",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428659.png"
+    },
+    {
+      "id": "4248455",
+      "name": "Rodney Thomas II",
+      "position": "S",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248455.png"
+    },
+    {
+      "id": "4567416",
+      "name": "Ja'Markis Weston",
+      "position": "LB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567416.png"
+    },
+    {
+      "id": "2971622",
+      "name": "Leonard Williams",
+      "position": "DT",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2971622.png"
+    },
+    {
+      "id": "4575431",
+      "name": "Devon Witherspoon",
+      "position": "CB",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4575431.png"
+    },
+    {
+      "id": "3929851",
+      "name": "Michael Dickson",
+      "position": "P",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929851.png"
+    },
+    {
+      "id": "2473037",
+      "name": "Jason Myers",
+      "position": "PK",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2473037.png"
+    },
+    {
+      "id": "4259606",
+      "name": "Chris Stoll",
+      "position": "LS",
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259606.png"
+    }
+  ],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:08.407Z"
+}

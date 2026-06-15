@@ -1,0 +1,198 @@
+{
+  "id": "SD",
+  "espnId": "25",
+  "abbr": "SD",
+  "name": "San Diego Padres",
+  "city": "San Diego",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/sd.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+  "color": "#2f241d",
+  "alternateColor": "#ffc425",
+  "standingSummary": "2nd in NL West",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "37-33"
+    },
+    {
+      "label": "Home Record",
+      "summary": "19-19"
+    },
+    {
+      "label": "Away Record",
+      "summary": "18-14"
+    }
+  ],
+  "venue": "Petco Park",
+  "roster": [
+    {
+      "id": "32145",
+      "name": "Jason Adam",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32145.png"
+    },
+    {
+      "id": "39251",
+      "name": "Walker Buehler",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39251.png"
+    },
+    {
+      "id": "41065",
+      "name": "Griffin Canning",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41065.png"
+    },
+    {
+      "id": "32055",
+      "name": "Yu Darvish",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32055.png"
+    },
+    {
+      "id": "32697",
+      "name": "Lucas Giolito",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32697.png"
+    },
+    {
+      "id": "40429",
+      "name": "Michael King",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40429.png"
+    },
+    {
+      "id": "4228723",
+      "name": "Ron Marinaccio",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4228723.png"
+    },
+    {
+      "id": "4142414",
+      "name": "Yuki Matsui",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4142414.png"
+    },
+    {
+      "id": "4730225",
+      "name": "Mason Miller",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4730225.png"
+    },
+    {
+      "id": "40917",
+      "name": "Adrian Morejon",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40917.png"
+    },
+    {
+      "id": "5270578",
+      "name": "David Morgan",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5270578.png"
+    },
+    {
+      "id": "36036",
+      "name": "Wandy Peralta",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36036.png"
+    },
+    {
+      "id": "5266086",
+      "name": "Bradgley Rodriguez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5266086.png"
+    },
+    {
+      "id": "4722847",
+      "name": "Randy Vasquez",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722847.png"
+    },
+    {
+      "id": "40577",
+      "name": "Rodolfo Duran",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40577.png"
+    },
+    {
+      "id": "43035",
+      "name": "Blake Hunt",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/43035.png"
+    },
+    {
+      "id": "31606",
+      "name": "Xander Bogaerts",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31606.png"
+    },
+    {
+      "id": "35591",
+      "name": "Ty France",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35591.png"
+    },
+    {
+      "id": "31097",
+      "name": "Manny Machado",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31097.png"
+    },
+    {
+      "id": "40700",
+      "name": "Gavin Sheets",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40700.png"
+    },
+    {
+      "id": "39904",
+      "name": "Nick Solak",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39904.png"
+    },
+    {
+      "id": "5329585",
+      "name": "Sung-Mun Song",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5329585.png"
+    },
+    {
+      "id": "4413898",
+      "name": "Will Wagner",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4413898.png"
+    },
+    {
+      "id": "42704",
+      "name": "Jase Bowen",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42704.png"
+    },
+    {
+      "id": "4872691",
+      "name": "Jackson Merrill",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4872691.png"
+    },
+    {
+      "id": "35983",
+      "name": "Fernando Tatis Jr.",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35983.png"
+    },
+    {
+      "id": "39710",
+      "name": "Samad Taylor",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39710.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:34.633Z"
+}

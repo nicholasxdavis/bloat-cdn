@@ -1,0 +1,105 @@
+{
+  "id": "willica00",
+  "espnId": "4431611",
+  "slug": "willica00",
+  "name": "Caleb Williams",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "CHI",
+  "headshot": "media/headshots/nfl/willica00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "CHI",
+      "gp": "17",
+      "min": "-",
+      "pts": "3,942",
+      "reb": "27",
+      "ast": "7",
+      "stl": "330",
+      "blk": "568",
+      "fgPct": "58.2",
+      "fg3Pct": "90.1",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "CHI",
+      "gp": "17",
+      "min": "-",
+      "pts": "3,541",
+      "reb": "20",
+      "ast": "6",
+      "stl": "351",
+      "blk": "562",
+      "fgPct": "43.3",
+      "fg3Pct": "87.8",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 18",
+      "matchup": "vs LAR",
+      "result": "L 20-17 OT",
+      "min": "—",
+      "pts": "257",
+      "reb": "2",
+      "ast": "3",
+      "stl": "23",
+      "blk": "42"
+    },
+    {
+      "date": "Jan 10",
+      "matchup": "vs GB",
+      "result": "W 31-27",
+      "min": "—",
+      "pts": "361",
+      "reb": "2",
+      "ast": "2",
+      "stl": "24",
+      "blk": "48"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs DET",
+      "result": "L 19-16",
+      "min": "—",
+      "pts": "212",
+      "reb": "2",
+      "ast": "1",
+      "stl": "20",
+      "blk": "33"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "@ SF",
+      "result": "L 42-38",
+      "min": "—",
+      "pts": "330",
+      "reb": "2",
+      "ast": "0",
+      "stl": "25",
+      "blk": "42"
+    },
+    {
+      "date": "Dec 20",
+      "matchup": "vs GB",
+      "result": "W 22-16 OT",
+      "min": "—",
+      "pts": "250",
+      "reb": "2",
+      "ast": "0",
+      "stl": "19",
+      "blk": "34"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:25:07.872Z"
+}

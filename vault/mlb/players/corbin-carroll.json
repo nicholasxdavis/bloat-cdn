@@ -1,0 +1,150 @@
+{
+  "id": "carroco01",
+  "espnId": "42404",
+  "slug": "carroco01",
+  "name": "Corbin Carroll",
+  "sport": "mlb",
+  "position": "RF",
+  "team": "ARI",
+  "headshot": "media/headshots/mlb/carroco01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42404.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "ARI",
+      "gp": "68",
+      "min": "252",
+      "pts": ".278",
+      "reb": "12",
+      "ast": "34",
+      "stl": "8",
+      "blk": "63",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "ARI",
+      "gp": "143",
+      "min": "564",
+      "pts": ".259",
+      "reb": "31",
+      "ast": "84",
+      "stl": "32",
+      "blk": "153",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "ARI",
+      "gp": "158",
+      "min": "589",
+      "pts": ".231",
+      "reb": "22",
+      "ast": "74",
+      "stl": "35",
+      "blk": "130",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "ARI",
+      "gp": "155",
+      "min": "565",
+      "pts": ".285",
+      "reb": "25",
+      "ast": "76",
+      "stl": "54",
+      "blk": "125",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "ARI",
+      "gp": "32",
+      "min": "104",
+      "pts": ".260",
+      "reb": "4",
+      "ast": "14",
+      "stl": "2",
+      "blk": "31",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "@ CIN",
+      "result": "W 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 13",
+      "matchup": "@ CIN",
+      "result": "L 2-1",
+      "min": "5",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "@ CIN",
+      "result": "W 5-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 11",
+      "matchup": "@ MIA",
+      "result": "L 2-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ MIA",
+      "result": "L 8-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:39:05.541Z"
+}

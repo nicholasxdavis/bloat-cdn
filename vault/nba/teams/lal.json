@@ -1,0 +1,36 @@
+{
+  "id": "LAL",
+  "espnId": "13",
+  "abbr": "LAL",
+  "name": "Los Angeles Lakers",
+  "city": "Los Angeles",
+  "sport": "nba",
+  "logo": "media/logos/nba/lal.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+  "color": "#552583",
+  "alternateColor": "#fdb927",
+  "division": "Pacific Division",
+  "standingSummary": "1st in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "53-29"
+    },
+    {
+      "label": "Home Record",
+      "summary": "28-13"
+    },
+    {
+      "label": "Away Record",
+      "summary": "25-16"
+    }
+  ],
+  "venue": "crypto.com Arena",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": true,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:11.963Z"
+}

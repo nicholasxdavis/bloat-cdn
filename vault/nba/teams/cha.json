@@ -1,0 +1,36 @@
+{
+  "id": "CHA",
+  "espnId": "30",
+  "abbr": "CHA",
+  "name": "Charlotte Hornets",
+  "city": "Charlotte",
+  "sport": "nba",
+  "logo": "media/logos/nba/cha.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+  "color": "#008ca8",
+  "alternateColor": "#1d1060",
+  "division": "Southeast Division",
+  "standingSummary": "3rd in Southeast Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "44-38"
+    },
+    {
+      "label": "Home Record",
+      "summary": "21-20"
+    },
+    {
+      "label": "Away Record",
+      "summary": "23-18"
+    }
+  ],
+  "venue": "Spectrum Center",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:25.920Z"
+}

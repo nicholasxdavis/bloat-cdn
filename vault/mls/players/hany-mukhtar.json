@@ -1,0 +1,103 @@
+{
+  "id": "mukhtha01",
+  "espnId": "174548",
+  "slug": "mukhtha01",
+  "name": "Hany Mukhtar",
+  "sport": "mls",
+  "position": "M",
+  "team": "NSH",
+  "headshot": "media/headshots/mls/mukhtha01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/174548.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026 Concacaf Champions Cup",
+      "gp": "-",
+      "min": "-",
+      "pts": "1",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "1",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026 MLS",
+      "gp": "-",
+      "min": "-",
+      "pts": "6",
+      "reb": "5",
+      "ast": "-",
+      "stl": "-",
+      "blk": "2",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 23",
+      "matchup": "vs NYC",
+      "result": "W 2-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "May 17",
+      "matchup": "vs LAFC",
+      "result": "W 3-2",
+      "min": "—",
+      "pts": "3",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "May 13",
+      "matchup": "@ NE",
+      "result": "W 3-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "May 9",
+      "matchup": "vs DC",
+      "result": "D 2-2",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "May 5",
+      "matchup": "@ UANL",
+      "result": "L 1-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:51:26.064Z"
+}

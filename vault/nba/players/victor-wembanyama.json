@@ -1,0 +1,120 @@
+{
+  "id": "wembavi01",
+  "espnId": "5104157",
+  "slug": "wembavi01",
+  "name": "Victor Wembanyama",
+  "sport": "nba",
+  "position": "F",
+  "team": "SA",
+  "headshot": "media/headshots/nba/wembavi01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "SA",
+      "gp": "64",
+      "min": "29.2",
+      "pts": "25.0",
+      "reb": "11.5",
+      "ast": "3.1",
+      "stl": "1.0",
+      "blk": "3.1",
+      "fgPct": "51.2",
+      "fg3Pct": "34.9",
+      "ftPct": "82.7",
+      "to": "2.4"
+    },
+    {
+      "season": "2024-25",
+      "team": "SA",
+      "gp": "46",
+      "min": "33.2",
+      "pts": "24.3",
+      "reb": "11.0",
+      "ast": "3.7",
+      "stl": "1.1",
+      "blk": "3.8",
+      "fgPct": "47.6",
+      "fg3Pct": "35.2",
+      "ftPct": "83.6",
+      "to": "3.2"
+    },
+    {
+      "season": "2023-24",
+      "team": "SA",
+      "gp": "71",
+      "min": "29.7",
+      "pts": "21.4",
+      "reb": "10.6",
+      "ast": "3.9",
+      "stl": "1.2",
+      "blk": "3.6",
+      "fgPct": "46.5",
+      "fg3Pct": "32.5",
+      "ftPct": "79.6",
+      "to": "3.7"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 13",
+      "matchup": "vs NY",
+      "result": "L 94-90",
+      "min": "38",
+      "pts": "19",
+      "reb": "14",
+      "ast": "2",
+      "stl": "0",
+      "blk": "5"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ NY",
+      "result": "L 107-106",
+      "min": "44",
+      "pts": "24",
+      "reb": "13",
+      "ast": "1",
+      "stl": "0",
+      "blk": "3"
+    },
+    {
+      "date": "Jun 8",
+      "matchup": "@ NY",
+      "result": "W 115-111",
+      "min": "39",
+      "pts": "32",
+      "reb": "8",
+      "ast": "6",
+      "stl": "2",
+      "blk": "3"
+    },
+    {
+      "date": "Jun 5",
+      "matchup": "vs NY",
+      "result": "L 105-104",
+      "min": "40",
+      "pts": "29",
+      "reb": "9",
+      "ast": "2",
+      "stl": "2",
+      "blk": "4"
+    },
+    {
+      "date": "Jun 3",
+      "matchup": "vs NY",
+      "result": "L 105-95",
+      "min": "38",
+      "pts": "26",
+      "reb": "12",
+      "ast": "2",
+      "stl": "1",
+      "blk": "3"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:20:05.656Z"
+}

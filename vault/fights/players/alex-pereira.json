@@ -1,0 +1,31 @@
+{
+  "id": "4705658",
+  "espnId": "4705658",
+  "slug": "4705658",
+  "name": "Alex Pereira",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4705658.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4705658.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "13-4-0",
+      "min": "-",
+      "pts": "13",
+      "reb": "4",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:35:38.083Z"
+}

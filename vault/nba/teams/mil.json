@@ -1,0 +1,36 @@
+{
+  "id": "MIL",
+  "espnId": "15",
+  "abbr": "MIL",
+  "name": "Milwaukee Bucks",
+  "city": "Milwaukee",
+  "sport": "nba",
+  "logo": "media/logos/nba/mil.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+  "color": "#00471b",
+  "alternateColor": "#eee1c6",
+  "division": "Central Division",
+  "standingSummary": "3rd in Central Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "32-50"
+    },
+    {
+      "label": "Home Record",
+      "summary": "19-22"
+    },
+    {
+      "label": "Away Record",
+      "summary": "13-28"
+    }
+  ],
+  "venue": "BMO Harris Bradley Center",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:51.648Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "nixbo00",
+  "espnId": "4426338",
+  "slug": "nixbo00",
+  "name": "Bo Nix",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "DEN",
+  "headshot": "media/headshots/nfl/nixbo00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "DEN",
+      "gp": "17",
+      "min": "-",
+      "pts": "3,931",
+      "reb": "25",
+      "ast": "11",
+      "stl": "388",
+      "blk": "612",
+      "fgPct": "58.3",
+      "fg3Pct": "87.8",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "DEN",
+      "gp": "17",
+      "min": "-",
+      "pts": "3,775",
+      "reb": "29",
+      "ast": "12",
+      "stl": "376",
+      "blk": "567",
+      "fgPct": "53.5",
+      "fg3Pct": "93.3",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 17",
+      "matchup": "vs BUF",
+      "result": "W 33-30 OT",
+      "min": "—",
+      "pts": "279",
+      "reb": "3",
+      "ast": "1",
+      "stl": "26",
+      "blk": "46"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs LAC",
+      "result": "W 19-3",
+      "min": "—",
+      "pts": "141",
+      "reb": "0",
+      "ast": "0",
+      "stl": "14",
+      "blk": "23"
+    },
+    {
+      "date": "Dec 25",
+      "matchup": "@ KC",
+      "result": "W 20-13",
+      "min": "—",
+      "pts": "182",
+      "reb": "1",
+      "ast": "1",
+      "stl": "26",
+      "blk": "38"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs JAX",
+      "result": "L 34-20",
+      "min": "—",
+      "pts": "352",
+      "reb": "1",
+      "ast": "1",
+      "stl": "28",
+      "blk": "47"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "vs GB",
+      "result": "W 34-26",
+      "min": "—",
+      "pts": "302",
+      "reb": "4",
+      "ast": "0",
+      "stl": "23",
+      "blk": "34"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:01.367Z"
+}

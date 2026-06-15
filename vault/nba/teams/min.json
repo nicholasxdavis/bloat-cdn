@@ -1,0 +1,36 @@
+{
+  "id": "MIN",
+  "espnId": "16",
+  "abbr": "MIN",
+  "name": "Minnesota Timberwolves",
+  "city": "Minnesota",
+  "sport": "nba",
+  "logo": "media/logos/nba/min.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+  "color": "#266092",
+  "alternateColor": "#79bc43",
+  "division": "Northwest Division",
+  "standingSummary": "3rd in Northwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "49-33"
+    },
+    {
+      "label": "Home Record",
+      "summary": "26-15"
+    },
+    {
+      "label": "Away Record",
+      "summary": "23-18"
+    }
+  ],
+  "venue": "Target Center",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:13.808Z"
+}

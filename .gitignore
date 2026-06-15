@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+ingest/.cache/
+ingest/logs/
+PSScriptModule-main/
+.engine/

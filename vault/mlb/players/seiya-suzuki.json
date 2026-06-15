@@ -1,0 +1,150 @@
+{
+  "id": "suzukse01",
+  "espnId": "4142424",
+  "slug": "suzukse01",
+  "name": "Seiya Suzuki",
+  "sport": "mlb",
+  "position": "RF",
+  "team": "CHC",
+  "headshot": "media/headshots/mlb/suzukse01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "CHC",
+      "gp": "57",
+      "min": "208",
+      "pts": ".255",
+      "reb": "10",
+      "ast": "28",
+      "stl": "0",
+      "blk": "62",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "CHC",
+      "gp": "151",
+      "min": "571",
+      "pts": ".245",
+      "reb": "32",
+      "ast": "103",
+      "stl": "5",
+      "blk": "164",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "CHC",
+      "gp": "132",
+      "min": "512",
+      "pts": ".283",
+      "reb": "21",
+      "ast": "73",
+      "stl": "16",
+      "blk": "160",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "CHC",
+      "gp": "138",
+      "min": "515",
+      "pts": ".285",
+      "reb": "20",
+      "ast": "74",
+      "stl": "6",
+      "blk": "130",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "CHC",
+      "gp": "111",
+      "min": "397",
+      "pts": ".262",
+      "reb": "14",
+      "ast": "46",
+      "stl": "9",
+      "blk": "110",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 13",
+      "matchup": "@ SF",
+      "result": "W 6-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "@ SF",
+      "result": "W 5-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 11",
+      "matchup": "@ COL",
+      "result": "W 9-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "4",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ COL",
+      "result": "L 3-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "3"
+    },
+    {
+      "date": "Jun 9",
+      "matchup": "@ COL",
+      "result": "L 7-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:53:08.291Z"
+}

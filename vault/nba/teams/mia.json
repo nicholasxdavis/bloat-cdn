@@ -1,0 +1,36 @@
+{
+  "id": "MIA",
+  "espnId": "14",
+  "abbr": "MIA",
+  "name": "Miami Heat",
+  "city": "Miami",
+  "sport": "nba",
+  "logo": "media/logos/nba/mia.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+  "color": "#98002e",
+  "alternateColor": "#000000",
+  "division": "Southeast Division",
+  "standingSummary": "4th in Southeast Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "43-39"
+    },
+    {
+      "label": "Home Record",
+      "summary": "26-15"
+    },
+    {
+      "label": "Away Record",
+      "summary": "17-24"
+    }
+  ],
+  "venue": "Kaseya Center",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:21.242Z"
+}

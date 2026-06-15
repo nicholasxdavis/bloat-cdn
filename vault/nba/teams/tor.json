@@ -1,0 +1,36 @@
+{
+  "id": "TOR",
+  "espnId": "28",
+  "abbr": "TOR",
+  "name": "Toronto Raptors",
+  "city": "Toronto",
+  "sport": "nba",
+  "logo": "media/logos/nba/tor.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+  "color": "#d91244",
+  "alternateColor": "#000000",
+  "division": "Atlantic Division",
+  "standingSummary": "3rd in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "46-36"
+    },
+    {
+      "label": "Home Record",
+      "summary": "24-17"
+    },
+    {
+      "label": "Away Record",
+      "summary": "22-19"
+    }
+  ],
+  "venue": "Scotiabank Arena",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:54.793Z"
+}

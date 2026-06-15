@@ -1,0 +1,31 @@
+{
+  "id": "3782",
+  "espnId": "3782",
+  "slug": "3782",
+  "name": "Carlos Alcaraz",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/3782.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/3782.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2018-2019",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:43:06.145Z"
+}

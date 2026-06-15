@@ -1,0 +1,36 @@
+{
+  "id": "NO",
+  "espnId": "3",
+  "abbr": "NO",
+  "name": "New Orleans Pelicans",
+  "city": "New Orleans",
+  "sport": "nba",
+  "logo": "media/logos/nba/no.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+  "color": "#0a2240",
+  "alternateColor": "#b4975a",
+  "division": "Southwest Division",
+  "standingSummary": "3rd in Southwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "26-56"
+    },
+    {
+      "label": "Home Record",
+      "summary": "17-24"
+    },
+    {
+      "label": "Away Record",
+      "summary": "9-32"
+    }
+  ],
+  "venue": "Smoothie King Center",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:38.313Z"
+}

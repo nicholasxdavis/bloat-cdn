@@ -1,0 +1,45 @@
+{
+  "id": "5539",
+  "espnId": "5539",
+  "slug": "5539",
+  "name": "Tommy Fleetwood",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/5539.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/5539.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:50:19.694Z"
+}

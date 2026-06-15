@@ -1,0 +1,192 @@
+{
+  "id": "SEA",
+  "espnId": "12",
+  "abbr": "SEA",
+  "name": "Seattle Mariners",
+  "city": "Seattle",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/sea.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
+  "color": "#005c5c",
+  "alternateColor": "#0c2c56",
+  "standingSummary": "1st in AL West",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "37-36"
+    },
+    {
+      "label": "Home Record",
+      "summary": "19-16"
+    },
+    {
+      "label": "Away Record",
+      "summary": "18-20"
+    }
+  ],
+  "venue": "T-Mobile Park",
+  "roster": [
+    {
+      "id": "41939",
+      "name": "Eduard Bazardo",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41939.png"
+    },
+    {
+      "id": "35124",
+      "name": "Luis Castillo",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35124.png"
+    },
+    {
+      "id": "4630786",
+      "name": "Nick Davila",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4630786.png"
+    },
+    {
+      "id": "5119607",
+      "name": "Jose Ferrer",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5119607.png"
+    },
+    {
+      "id": "41221",
+      "name": "Logan Gilbert",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41221.png"
+    },
+    {
+      "id": "4297897",
+      "name": "Emerson Hancock",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4297897.png"
+    },
+    {
+      "id": "4300541",
+      "name": "Alex Hoppe",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4300541.png"
+    },
+    {
+      "id": "42406",
+      "name": "George Kirby",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42406.png"
+    },
+    {
+      "id": "4654313",
+      "name": "Bryce Miller",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4654313.png"
+    },
+    {
+      "id": "40939",
+      "name": "Andres Munoz",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40939.png"
+    },
+    {
+      "id": "40996",
+      "name": "Michael Rucker",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40996.png"
+    },
+    {
+      "id": "40327",
+      "name": "Gabe Speier",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40327.png"
+    },
+    {
+      "id": "4629089",
+      "name": "Bryan Woo",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4629089.png"
+    },
+    {
+      "id": "33667",
+      "name": "Mitch Garver",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33667.png"
+    },
+    {
+      "id": "40702",
+      "name": "Jhonny Pereda",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40702.png"
+    },
+    {
+      "id": "5149068",
+      "name": "Colt Emerson",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5149068.png"
+    },
+    {
+      "id": "40900",
+      "name": "Miles Mastrobuoni",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40900.png"
+    },
+    {
+      "id": "35066",
+      "name": "Josh Naylor",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35066.png"
+    },
+    {
+      "id": "32861",
+      "name": "Patrick Wisdom",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32861.png"
+    },
+    {
+      "id": "5080641",
+      "name": "Cole Young",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080641.png"
+    },
+    {
+      "id": "36488",
+      "name": "Randy Arozarena",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36488.png"
+    },
+    {
+      "id": "40422",
+      "name": "Luke Raley",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40422.png"
+    },
+    {
+      "id": "35042",
+      "name": "Victor Robles",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35042.png"
+    },
+    {
+      "id": "41044",
+      "name": "Julio Rodriguez",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41044.png"
+    },
+    {
+      "id": "4345621",
+      "name": "Dominic Canzone",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345621.png"
+    },
+    {
+      "id": "33411",
+      "name": "Rob Refsnyder",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33411.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:47.112Z"
+}

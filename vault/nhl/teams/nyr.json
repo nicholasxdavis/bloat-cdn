@@ -1,0 +1,209 @@
+{
+  "id": "NYR",
+  "espnId": "13",
+  "abbr": "NYR",
+  "name": "New York Rangers",
+  "city": "New York",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/nyr.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png",
+  "color": "#0056ae",
+  "alternateColor": "#e51937",
+  "division": "Metropolitan Division",
+  "standingSummary": "8th in Metropolitan Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "34-39-9"
+    },
+    {
+      "label": "Home Record",
+      "summary": "14-20-7"
+    },
+    {
+      "label": "Away Record",
+      "summary": "20-19-2"
+    }
+  ],
+  "venue": "Madison Square Garden",
+  "roster": [
+    {
+      "id": "3025614",
+      "name": "Jonny Brodzinski",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3025614.png"
+    },
+    {
+      "id": "4894222",
+      "name": "Adam Edstrom",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4894222.png"
+    },
+    {
+      "id": "5188370",
+      "name": "Noah Laba",
+      "position": "C"
+    },
+    {
+      "id": "4697820",
+      "name": "Matt Rempe",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697820.png"
+    },
+    {
+      "id": "2563036",
+      "name": "Vincent Trocheck",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2563036.png"
+    },
+    {
+      "id": "2562637",
+      "name": "Mika Zibanejad",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2562637.png"
+    },
+    {
+      "id": "4697654",
+      "name": "Brett Berard",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697654.png"
+    },
+    {
+      "id": "3042283",
+      "name": "Anton Blidh",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042283.png"
+    },
+    {
+      "id": "4697468",
+      "name": "Will Cuylle",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697468.png"
+    },
+    {
+      "id": "4588750",
+      "name": "Tye Kartye",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4588750.png"
+    },
+    {
+      "id": "4697382",
+      "name": "Alexis Lafreniere",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697382.png"
+    },
+    {
+      "id": "2590852",
+      "name": "J.T. Miller",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2590852.png"
+    },
+    {
+      "id": "3149827",
+      "name": "Conor Sheary",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3149827.png"
+    },
+    {
+      "id": "5080232",
+      "name": "Adam Sykora",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080232.png"
+    },
+    {
+      "id": "5188348",
+      "name": "Jaroslav Chmelar",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5188348.png"
+    },
+    {
+      "id": "5149204",
+      "name": "Gabe Perreault",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5149204.png"
+    },
+    {
+      "id": "4063502",
+      "name": "Taylor Raddysh",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4063502.png"
+    },
+    {
+      "id": "3941946",
+      "name": "Will Borgen",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3941946.png"
+    },
+    {
+      "id": "5188394",
+      "name": "Drew Fortescue",
+      "position": "D"
+    },
+    {
+      "id": "4197146",
+      "name": "Adam Fox",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4197146.png"
+    },
+    {
+      "id": "3942292",
+      "name": "Vladislav Gavrikov",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942292.png"
+    },
+    {
+      "id": "4874915",
+      "name": "Vincent Iorio",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874915.png"
+    },
+    {
+      "id": "4565272",
+      "name": "Matthew Robertson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565272.png"
+    },
+    {
+      "id": "4697402",
+      "name": "Braden Schneider",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697402.png"
+    },
+    {
+      "id": "4233619",
+      "name": "Urho Vaakanainen",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233619.png"
+    },
+    {
+      "id": "4697705",
+      "name": "Dylan Garand",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697705.png"
+    },
+    {
+      "id": "3042069",
+      "name": "Spencer Martin",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042069.png"
+    },
+    {
+      "id": "3634",
+      "name": "Jonathan Quick",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3634.png"
+    },
+    {
+      "id": "3151297",
+      "name": "Igor Shesterkin",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3151297.png"
+    }
+  ],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:04.503Z"
+}

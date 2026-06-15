@@ -1,0 +1,105 @@
+{
+  "id": "celebma01",
+  "espnId": "5206628",
+  "slug": "celebma01",
+  "name": "Macklin Celebrini",
+  "sport": "nhl",
+  "position": "C",
+  "team": "SJ",
+  "headshot": "media/headshots/nhl/celebma01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5206628.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "25-26",
+      "team": "SJ",
+      "gp": "82",
+      "min": "-",
+      "pts": "115",
+      "reb": "45",
+      "ast": "70",
+      "stl": "8",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "24-25",
+      "team": "SJ",
+      "gp": "70",
+      "min": "-",
+      "pts": "63",
+      "reb": "25",
+      "ast": "38",
+      "stl": "-31",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 16",
+      "matchup": "@ WPG",
+      "result": "W 6-1",
+      "min": "—",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 15",
+      "matchup": "@ CHI",
+      "result": "L 5-2",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-3",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 13",
+      "matchup": "@ NSH",
+      "result": "W 3-2",
+      "min": "—",
+      "pts": "2",
+      "reb": "2",
+      "ast": "0",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 11",
+      "matchup": "vs VAN",
+      "result": "L 4-3 SO",
+      "min": "—",
+      "pts": "2",
+      "reb": "0",
+      "ast": "2",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 9",
+      "matchup": "@ ANA",
+      "result": "L 6-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:44:03.068Z"
+}

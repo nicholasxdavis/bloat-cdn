@@ -1,0 +1,36 @@
+{
+  "id": "BKN",
+  "espnId": "17",
+  "abbr": "BKN",
+  "name": "Brooklyn Nets",
+  "city": "Brooklyn",
+  "sport": "nba",
+  "logo": "media/logos/nba/bkn.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+  "color": "#000000",
+  "alternateColor": "#ffffff",
+  "division": "Atlantic Division",
+  "standingSummary": "5th in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "20-62"
+    },
+    {
+      "label": "Home Record",
+      "summary": "12-29"
+    },
+    {
+      "label": "Away Record",
+      "summary": "8-33"
+    }
+  ],
+  "venue": "Prudential Center",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:45.637Z"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "TOR",
+  "espnId": "21",
+  "abbr": "TOR",
+  "name": "Toronto Maple Leafs",
+  "city": "Toronto",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/tor.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png",
+  "color": "#003e7e",
+  "alternateColor": "#ffffff",
+  "division": "Atlantic Division",
+  "standingSummary": "8th in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "32-36-14"
+    },
+    {
+      "label": "Home Record",
+      "summary": "18-15-8"
+    },
+    {
+      "label": "Away Record",
+      "summary": "14-21-6"
+    }
+  ],
+  "venue": "Scotiabank Arena",
+  "roster": [
+    {
+      "id": "3042014",
+      "name": "Max Domi",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042014.png"
+    },
+    {
+      "id": "4378685",
+      "name": "Bo Groulx",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4378685.png"
+    },
+    {
+      "id": "2555316",
+      "name": "Calle Jarnkrok",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2555316.png"
+    },
+    {
+      "id": "4588638",
+      "name": "Dakota Joshua",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4588638.png"
+    },
+    {
+      "id": "3939658",
+      "name": "Steven Lorentz",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3939658.png"
+    },
+    {
+      "id": "4024123",
+      "name": "Auston Matthews",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4024123.png"
+    },
+    {
+      "id": "5160",
+      "name": "John Tavares",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5160.png"
+    },
+    {
+      "id": "4874919",
+      "name": "Matthew Knies",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874919.png"
+    },
+    {
+      "id": "4587580",
+      "name": "Matias Maccelli",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4587580.png"
+    },
+    {
+      "id": "4565275",
+      "name": "Nicholas Robertson",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565275.png"
+    },
+    {
+      "id": "3114736",
+      "name": "William Nylander",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114736.png"
+    },
+    {
+      "id": "4392642",
+      "name": "Simon Benoit",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4392642.png"
+    },
+    {
+      "id": "3904175",
+      "name": "Brandon Carlo",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3904175.png"
+    },
+    {
+      "id": "5488",
+      "name": "Oliver Ekman-Larsson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5488.png"
+    },
+    {
+      "id": "3020803",
+      "name": "Jake McCabe",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3020803.png"
+    },
+    {
+      "id": "3941140",
+      "name": "Philippe Myers",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3941140.png"
+    },
+    {
+      "id": "2976833",
+      "name": "Morgan Rielly",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2976833.png"
+    },
+    {
+      "id": "3096102",
+      "name": "Troy Stecher",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3096102.png"
+    },
+    {
+      "id": "5592",
+      "name": "Chris Tanev",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5592.png"
+    },
+    {
+      "id": "3067313",
+      "name": "Anthony Stolarz",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3067313.png"
+    },
+    {
+      "id": "4271575",
+      "name": "Joseph Woll",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4271575.png"
+    }
+  ],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:01.617Z"
+}

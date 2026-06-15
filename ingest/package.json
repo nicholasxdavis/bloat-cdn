@@ -1,0 +1,26 @@
+{
+  "name": "@siyf/bloat-ingest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "tsx src/cli/ingest-player.ts",
+    "ingest-roster": "tsx src/cli/ingest-roster.ts",
+    "ingest-team": "tsx src/cli/ingest-team.ts",
+    "backfill-headshots": "tsx src/cli/backfill-headshots.ts",
+    "scrape": "tsx src/cli/run-need.ts",
+    "scrape-teams": "tsx src/cli/run-need-teams.ts",
+    "manifest": "tsx src/cli/build-manifest.ts",
+    "stats": "tsx src/cli/stats.ts",
+    "sync": "tsx src/cli/sync.ts",
+    "sync-nightly": "tsx src/cli/sync-nightly.ts",
+    "sync-weekly": "tsx src/cli/sync-weekly.ts",
+    "sync-detail": "tsx src/cli/sync-detail.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}

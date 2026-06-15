@@ -1,0 +1,36 @@
+{
+  "id": "WSH",
+  "espnId": "27",
+  "abbr": "WSH",
+  "name": "Washington Wizards",
+  "city": "Washington",
+  "sport": "nba",
+  "logo": "media/logos/nba/wsh.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+  "color": "#e31837",
+  "alternateColor": "#002b5c",
+  "division": "Southeast Division",
+  "standingSummary": "5th in Southeast Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "17-65"
+    },
+    {
+      "label": "Home Record",
+      "summary": "11-30"
+    },
+    {
+      "label": "Away Record",
+      "summary": "6-35"
+    }
+  ],
+  "venue": "Capital One Arena",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:22.831Z"
+}

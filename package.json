@@ -1,0 +1,17 @@
+{
+  "name": "bloat",
+  "private": true,
+  "scripts": {
+    "scrape": "npm run scrape --prefix ingest",
+    "scrape-teams": "npm run scrape-teams --prefix ingest",
+    "ingest": "npm run ingest --prefix ingest",
+    "backfill-headshots": "npm run backfill-headshots --prefix ingest",
+    "manifest": "npm run manifest --prefix ingest",
+    "stats": "npm run stats --prefix ingest",
+    "sync": "npm run sync --prefix ingest",
+    "sync-nightly": "npm run sync-nightly --prefix ingest",
+    "sync-weekly": "npm run sync-weekly --prefix ingest",
+    "sync-detail": "npm run sync-detail --prefix ingest",
+    "serve": "npx --yes serve published -l 8787"
+  }
+}

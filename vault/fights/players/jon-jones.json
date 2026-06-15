@@ -1,0 +1,31 @@
+{
+  "id": "2335639",
+  "espnId": "2335639",
+  "slug": "2335639",
+  "name": "Jon Jones",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/2335639.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/2335639.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "28-1-0",
+      "min": "-",
+      "pts": "28",
+      "reb": "1",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:35:28.820Z"
+}

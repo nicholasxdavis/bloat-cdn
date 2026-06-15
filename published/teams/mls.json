@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ATL",
+    "espnId": "18418",
+    "name": "Atlanta United FC",
+    "abbr": "ATL",
+    "city": "Atlanta United FC",
+    "logo": "media/logos/mls/atl.png",
+    "color": "#9d2235",
+    "alternateColor": "#aa9767"
+  },
+  {
+    "id": "ATX",
+    "espnId": "20906",
+    "name": "Austin FC",
+    "abbr": "ATX",
+    "city": "Austin FC",
+    "logo": "media/logos/mls/atx.png",
+    "color": "#00b140",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "MTL",
+    "espnId": "9720",
+    "name": "CF Montréal",
+    "abbr": "MTL",
+    "city": "CF Montréal",
+    "logo": "media/logos/mls/mtl.png",
+    "color": "#003da6",
+    "alternateColor": "#c1c5c8"
+  },
+  {
+    "id": "CLT",
+    "espnId": "21300",
+    "name": "Charlotte FC",
+    "abbr": "CLT",
+    "city": "Charlotte FC",
+    "logo": "media/logos/mls/clt.png",
+    "color": "#0085ca",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "CHI",
+    "espnId": "182",
+    "name": "Chicago Fire FC",
+    "abbr": "CHI",
+    "city": "Chicago Fire FC",
+    "logo": "media/logos/mls/chi.png",
+    "color": "#7ccdef",
+    "alternateColor": "#ff0000"
+  },
+  {
+    "id": "COL",
+    "espnId": "184",
+    "name": "Colorado Rapids",
+    "abbr": "COL",
+    "city": "Colorado Rapids",
+    "logo": "media/logos/mls/col.png",
+    "color": "#8a2432",
+    "alternateColor": "#8ab7e9"
+  },
+  {
+    "id": "CLB",
+    "espnId": "183",
+    "name": "Columbus Crew",
+    "abbr": "CLB",
+    "city": "Columbus Crew",
+    "logo": "media/logos/mls/clb.png",
+    "color": "#000000",
+    "alternateColor": "#fedd00"
+  },
+  {
+    "id": "DC",
+    "espnId": "193",
+    "name": "D.C. United",
+    "abbr": "DC",
+    "city": "D.C. United",
+    "logo": "media/logos/mls/dc.png",
+    "color": "#000000",
+    "alternateColor": "#d61018"
+  },
+  {
+    "id": "CIN",
+    "espnId": "18267",
+    "name": "FC Cincinnati",
+    "abbr": "CIN",
+    "city": "FC Cincinnati",
+    "logo": "media/logos/mls/cin.png",
+    "color": "#003087",
+    "alternateColor": "#fe5000"
+  },
+  {
+    "id": "DAL",
+    "espnId": "185",
+    "name": "FC Dallas",
+    "abbr": "DAL",
+    "city": "FC Dallas",
+    "logo": "media/logos/mls/dal.png",
+    "color": "#c6093b",
+    "alternateColor": "#001f5b"
+  },
+  {
+    "id": "HOU",
+    "espnId": "6077",
+    "name": "Houston Dynamo FC",
+    "abbr": "HOU",
+    "city": "Houston Dynamo FC",
+    "logo": "media/logos/mls/hou.png",
+    "color": "#ff6b00",
+    "alternateColor": "#101820"
+  },
+  {
+    "id": "MIA",
+    "espnId": "20232",
+    "name": "Inter Miami CF",
+    "abbr": "MIA",
+    "city": "Inter Miami CF",
+    "logo": "media/logos/mls/mia.png",
+    "color": "#231f20",
+    "alternateColor": "#f7b5cd"
+  },
+  {
+    "id": "LA",
+    "espnId": "187",
+    "name": "LA Galaxy",
+    "abbr": "LA",
+    "city": "LA Galaxy",
+    "logo": "media/logos/mls/la.png",
+    "color": "#00235d",
+    "alternateColor": "#ffffff"
+  },
+  {
+    "id": "LAFC",
+    "espnId": "18966",
+    "name": "LAFC",
+    "abbr": "LAFC",
+    "city": "LAFC",
+    "logo": "media/logos/mls/lafc.png",
+    "color": "#000000",
+    "alternateColor": "#c7a36f"
+  },
+  {
+    "id": "MIN",
+    "espnId": "17362",
+    "name": "Minnesota United FC",
+    "abbr": "MIN",
+    "city": "Minnesota United FC",
+    "logo": "media/logos/mls/min.png",
+    "color": "#000000",
+    "alternateColor": "#9bcde4"
+  },
+  {
+    "id": "NSH",
+    "espnId": "18986",
+    "name": "Nashville SC",
+    "abbr": "NSH",
+    "city": "Nashville SC",
+    "logo": "media/logos/mls/nsh.png",
+    "color": "#ece83a",
+    "alternateColor": "#1f1646"
+  },
+  {
+    "id": "NE",
+    "espnId": "189",
+    "name": "New England Revolution",
+    "abbr": "NE",
+    "city": "New England Revolution",
+    "logo": "media/logos/mls/ne.png",
+    "color": "#022166",
+    "alternateColor": "#ce0e2d"
+  },
+  {
+    "id": "NYC",
+    "espnId": "17606",
+    "name": "New York City FC",
+    "abbr": "NYC",
+    "city": "New York City FC",
+    "logo": "media/logos/mls/nyc.png",
+    "color": "#9fd2ff",
+    "alternateColor": "#000229"
+  },
+  {
+    "id": "ORL",
+    "espnId": "12011",
+    "name": "Orlando City SC",
+    "abbr": "ORL",
+    "city": "Orlando City SC",
+    "logo": "media/logos/mls/orl.png",
+    "color": "#60269e",
+    "alternateColor": "#f0d283"
+  },
+  {
+    "id": "PHI",
+    "espnId": "10739",
+    "name": "Philadelphia Union",
+    "abbr": "PHI",
+    "city": "Philadelphia Union",
+    "logo": "media/logos/mls/phi.png",
+    "color": "#051f31",
+    "alternateColor": "#e0d0a6"
+  },
+  {
+    "id": "POR",
+    "espnId": "9723",
+    "name": "Portland Timbers",
+    "abbr": "POR",
+    "city": "Portland Timbers",
+    "logo": "media/logos/mls/por.png",
+    "color": "#2c5234",
+    "alternateColor": "#c99700"
+  },
+  {
+    "id": "RSL",
+    "espnId": "4771",
+    "name": "Real Salt Lake",
+    "abbr": "RSL",
+    "city": "Real Salt Lake",
+    "logo": "media/logos/mls/rsl.png",
+    "color": "#a32035",
+    "alternateColor": "#daa900"
+  },
+  {
+    "id": "RBNY",
+    "espnId": "190",
+    "name": "Red Bull New York",
+    "abbr": "RBNY",
+    "city": "Red Bull New York",
+    "logo": "media/logos/mls/rbny.png",
+    "color": "#ba0c2f",
+    "alternateColor": "#ffc72c"
+  },
+  {
+    "id": "SD",
+    "espnId": "22529",
+    "name": "San Diego FC",
+    "abbr": "SD",
+    "city": "San Diego FC",
+    "logo": "media/logos/mls/sd.png",
+    "color": "#697a7C",
+    "alternateColor": "#F89E1A"
+  },
+  {
+    "id": "SJ",
+    "espnId": "191",
+    "name": "San Jose Earthquakes",
+    "abbr": "SJ",
+    "city": "San Jose Earthquakes",
+    "logo": "media/logos/mls/sj.png",
+    "color": "#003da6",
+    "alternateColor": "#ffffff"
+  },
+  {
+    "id": "SEA",
+    "espnId": "9726",
+    "name": "Seattle Sounders FC",
+    "abbr": "SEA",
+    "city": "Seattle Sounders FC",
+    "logo": "media/logos/mls/sea.png",
+    "color": "#2dc84d",
+    "alternateColor": "#0033a0"
+  },
+  {
+    "id": "SKC",
+    "espnId": "186",
+    "name": "Sporting Kansas City",
+    "abbr": "SKC",
+    "city": "Sporting Kansas City",
+    "logo": "media/logos/mls/skc.png",
+    "color": "#a7c6ed",
+    "alternateColor": "#0a2240"
+  },
+  {
+    "id": "STL",
+    "espnId": "21812",
+    "name": "St. Louis CITY SC",
+    "abbr": "STL",
+    "city": "St. Louis CITY SC",
+    "logo": "media/logos/mls/stl.png",
+    "color": "#ec1458",
+    "alternateColor": "#001544"
+  },
+  {
+    "id": "TOR",
+    "espnId": "7318",
+    "name": "Toronto FC",
+    "abbr": "TOR",
+    "city": "Toronto FC",
+    "logo": "media/logos/mls/tor.png",
+    "color": "#aa182c",
+    "alternateColor": "#a2a9ad"
+  },
+  {
+    "id": "VAN",
+    "espnId": "9727",
+    "name": "Vancouver Whitecaps",
+    "abbr": "VAN",
+    "city": "Vancouver Whitecaps",
+    "logo": "media/logos/mls/van.png",
+    "color": "#ffffff",
+    "alternateColor": "#12284c"
+  }
+]

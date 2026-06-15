@@ -1,0 +1,120 @@
+{
+  "id": "brancbr00",
+  "espnId": "4692025",
+  "slug": "brancbr00",
+  "name": "Brian Branch",
+  "sport": "nfl",
+  "position": "S",
+  "team": "DET",
+  "headshot": "media/headshots/nfl/brancbr00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4692025.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "DET",
+      "gp": "12",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "DET",
+      "gp": "16",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "4",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "DET",
+      "gp": "15",
+      "min": "-",
+      "pts": "0",
+      "reb": "1",
+      "ast": "3",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Dec 4",
+      "matchup": "vs DAL",
+      "result": "W 44-30",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 27",
+      "matchup": "vs GB",
+      "result": "L 31-24",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 23",
+      "matchup": "vs NYG",
+      "result": "W 34-27 OT",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 16",
+      "matchup": "@ PHI",
+      "result": "L 16-9",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 9",
+      "matchup": "@ WSH",
+      "result": "W 44-22",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:25.897Z"
+}

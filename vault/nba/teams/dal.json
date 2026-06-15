@@ -1,0 +1,36 @@
+{
+  "id": "DAL",
+  "espnId": "6",
+  "abbr": "DAL",
+  "name": "Dallas Mavericks",
+  "city": "Dallas",
+  "sport": "nba",
+  "logo": "media/logos/nba/dal.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+  "color": "#0064b1",
+  "alternateColor": "#bbc4ca",
+  "division": "Southwest Division",
+  "standingSummary": "3rd in Southwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "26-56"
+    },
+    {
+      "label": "Home Record",
+      "summary": "16-25"
+    },
+    {
+      "label": "Away Record",
+      "summary": "10-30"
+    }
+  ],
+  "venue": "American Airlines Center",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:36.052Z"
+}

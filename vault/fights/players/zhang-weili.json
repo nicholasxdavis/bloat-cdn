@@ -1,0 +1,31 @@
+{
+  "id": "4350762",
+  "espnId": "4350762",
+  "slug": "4350762",
+  "name": "Zhang Weili",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4350762.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4350762.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "26-4-0",
+      "min": "-",
+      "pts": "26",
+      "reb": "4",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:39:33.576Z"
+}

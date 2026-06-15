@@ -1,0 +1,4521 @@
+{
+  "version": 1,
+  "syncedAt": "2026-06-15T17:56:44.717Z",
+  "players": [
+    {
+      "sport": "fights",
+      "name": "Alex Pereira",
+      "slug": "4705658",
+      "espnId": "4705658",
+      "legend": false,
+      "headshot": "media/headshots/fights/4705658.png",
+      "statsPath": "stats/espn-mma/4705658.json",
+      "vaultPath": "vault/fights/players/alex-pereira.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:35:38.086Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Alexandre Pantoja",
+      "slug": "2560746",
+      "espnId": "2560746",
+      "legend": false,
+      "headshot": "media/headshots/fights/2560746.png",
+      "statsPath": "stats/espn-mma/2560746.json",
+      "vaultPath": "vault/fights/players/alexandre-pantoja.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:56.501Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Amanda Nunes",
+      "slug": "2516131",
+      "espnId": "2516131",
+      "legend": false,
+      "headshot": "media/headshots/fights/2516131.png",
+      "statsPath": "stats/espn-mma/2516131.json",
+      "vaultPath": "vault/fights/players/amanda-nunes.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:37:32.279Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Arman Tsarukyan",
+      "slug": "4419372",
+      "espnId": "4419372",
+      "legend": false,
+      "headshot": "media/headshots/fights/4419372.png",
+      "statsPath": "stats/espn-mma/4419372.json",
+      "vaultPath": "vault/fights/players/arman-tsarukyan.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:37:43.357Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Belal Muhammad",
+      "slug": "3172112",
+      "espnId": "3172112",
+      "legend": false,
+      "headshot": "media/headshots/fights/3172112.png",
+      "statsPath": "stats/espn-mma/3172112.json",
+      "vaultPath": "vault/fights/players/belal-muhammad.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:02.299Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Brandon Moreno",
+      "slug": "3027545",
+      "espnId": "3027545",
+      "legend": false,
+      "headshot": "media/headshots/fights/3027545.png",
+      "statsPath": "stats/espn-mma/3027545.json",
+      "vaultPath": "vault/fights/players/brandon-moreno.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:47.995Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Charles Oliveira",
+      "slug": "2504169",
+      "espnId": "2504169",
+      "legend": false,
+      "headshot": "media/headshots/fights/2504169.png",
+      "statsPath": "stats/espn-mma/2504169.json",
+      "vaultPath": "vault/fights/players/charles-oliveira.json",
+      "rowCount": 49,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:45:15.916Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Claressa Shields",
+      "slug": "4708687",
+      "espnId": "4708687",
+      "legend": false,
+      "headshot": "media/headshots/fights/4708687.png",
+      "statsPath": "stats/espn-mma/4708687.json",
+      "vaultPath": "vault/fights/players/claressa-shields.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:42:58.464Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Conor McGregor",
+      "slug": "3022677",
+      "espnId": "3022677",
+      "legend": true,
+      "headshot": "media/headshots/fights/3022677.png",
+      "statsPath": "stats/espn-mma/3022677.json",
+      "vaultPath": "vault/fights/players/conor-mcgregor.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:54:56.558Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Diego Lopes",
+      "slug": "4881999",
+      "espnId": "4881999",
+      "legend": false,
+      "headshot": "media/headshots/fights/4881999.png",
+      "statsPath": "stats/espn-mma/4881999.json",
+      "vaultPath": "vault/fights/players/diego-lopes.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:40:09.771Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Dricus Du Plessis",
+      "slug": "3166126",
+      "espnId": "3166126",
+      "legend": false,
+      "headshot": "media/headshots/fights/3166126.png",
+      "statsPath": "stats/espn-mma/3166126.json",
+      "vaultPath": "vault/fights/players/dricus-du-plessis.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:37:22.871Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Erin Blanchfield",
+      "slug": "4350796",
+      "espnId": "4350796",
+      "legend": false,
+      "headshot": "media/headshots/fights/4350796.png",
+      "statsPath": "stats/espn-mma/4350796.json",
+      "vaultPath": "vault/fights/players/erin-blanchfield.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:39:15.958Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Ilia Topuria",
+      "slug": "4350812",
+      "espnId": "4350812",
+      "legend": false,
+      "headshot": "media/headshots/fights/4350812.png",
+      "statsPath": "stats/espn-mma/4350812.json",
+      "vaultPath": "vault/fights/players/ilia-topuria.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:36:19.216Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Islam Makhachev",
+      "slug": "3332412",
+      "espnId": "3332412",
+      "legend": false,
+      "headshot": "media/headshots/fights/3332412.png",
+      "statsPath": "stats/espn-mma/3332412.json",
+      "vaultPath": "vault/fights/players/islam-makhachev.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:36:10.175Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Israel Adesanya",
+      "slug": "4285679",
+      "espnId": "4285679",
+      "legend": false,
+      "headshot": "media/headshots/fights/4285679.png",
+      "statsPath": "stats/espn-mma/4285679.json",
+      "vaultPath": "vault/fights/players/israel-adesanya.json",
+      "rowCount": 30,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:46:32.371Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Jamahal Hill",
+      "slug": "4425355",
+      "espnId": "4425355",
+      "legend": false,
+      "headshot": "media/headshots/fights/4425355.png",
+      "statsPath": "stats/espn-mma/4425355.json",
+      "vaultPath": "vault/fights/players/jamahal-hill.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:29.276Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Joel Álvarez",
+      "slug": "4411888",
+      "espnId": "4411888",
+      "legend": false,
+      "headshot": "media/headshots/fights/4411888.png",
+      "statsPath": "stats/espn-mma/4411888.json",
+      "vaultPath": "vault/fights/players/joel-alvarez.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:40:34.585Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Jon Jones",
+      "slug": "2335639",
+      "espnId": "2335639",
+      "legend": false,
+      "headshot": "media/headshots/fights/2335639.png",
+      "statsPath": "stats/espn-mma/2335639.json",
+      "vaultPath": "vault/fights/players/jon-jones.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:35:28.823Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Justin Gaethje",
+      "slug": "3022345",
+      "espnId": "3022345",
+      "legend": false,
+      "headshot": "media/headshots/fights/3022345.png",
+      "statsPath": "stats/espn-mma/3022345.json",
+      "vaultPath": "vault/fights/players/justin-gaethje.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:37:04.164Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Kai Kara-France",
+      "slug": "4243885",
+      "espnId": "4243885",
+      "legend": false,
+      "headshot": "media/headshots/fights/4243885.png",
+      "statsPath": "stats/espn-mma/4243885.json",
+      "vaultPath": "vault/fights/players/kai-kara-france.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:39:06.501Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Khalil Rountree Jr.",
+      "slug": "4028627",
+      "espnId": "4028627",
+      "legend": false,
+      "headshot": "media/headshots/fights/4028627.png",
+      "statsPath": "stats/espn-mma/4028627.json",
+      "vaultPath": "vault/fights/players/khalil-rountree-jr.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:38.367Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Khamzat Chimaev",
+      "slug": "4684751",
+      "espnId": "4684751",
+      "legend": false,
+      "headshot": "media/headshots/fights/4684751.png",
+      "statsPath": "stats/espn-mma/4684751.json",
+      "vaultPath": "vault/fights/players/khamzat-chimaev.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:36:55.188Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Leon Edwards",
+      "slug": "3152929",
+      "espnId": "3152929",
+      "legend": false,
+      "headshot": "media/headshots/fights/3152929.png",
+      "statsPath": "stats/espn-mma/3152929.json",
+      "vaultPath": "vault/fights/players/leon-edwards.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:37:51.531Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Magomed Ankalaev",
+      "slug": "4273399",
+      "espnId": "4273399",
+      "legend": false,
+      "headshot": "media/headshots/fights/4273399.png",
+      "statsPath": "stats/espn-mma/4273399.json",
+      "vaultPath": "vault/fights/players/magomed-ankalaev.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:20.494Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Merab Dvalishvili",
+      "slug": "3948572",
+      "espnId": "3948572",
+      "legend": false,
+      "headshot": "media/headshots/fights/3948572.png",
+      "statsPath": "stats/espn-mma/3948572.json",
+      "vaultPath": "vault/fights/players/merab-dvalishvili.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:36:37.522Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Naoki Inoue",
+      "slug": "4204438",
+      "espnId": "4204438",
+      "legend": false,
+      "headshot": "media/headshots/fights/4204438.png",
+      "statsPath": "stats/espn-mma/4204438.json",
+      "vaultPath": "vault/fights/players/naoki-inoue.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:40:54.754Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Nassourdine Imavov",
+      "slug": "4690539",
+      "espnId": "4690539",
+      "legend": false,
+      "headshot": "media/headshots/fights/4690539.png",
+      "statsPath": "stats/espn-mma/4690539.json",
+      "vaultPath": "vault/fights/players/nassourdine-imavov.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:40:00.827Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Natalia Silva",
+      "slug": "4054605",
+      "espnId": "4054605",
+      "legend": true,
+      "headshot": "media/headshots/fights/4054605.png",
+      "statsPath": "stats/espn-mma/4054605.json",
+      "vaultPath": "vault/fights/players/natalia-silva.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:55:12.986Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Paddy Pimblett",
+      "slug": "4008549",
+      "espnId": "4008549",
+      "legend": false,
+      "headshot": "media/headshots/fights/4008549.png",
+      "statsPath": "stats/espn-mma/4008549.json",
+      "vaultPath": "vault/fights/players/paddy-pimblett.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:37:14.136Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Robert Whittaker",
+      "slug": "3009717",
+      "espnId": "3009717",
+      "legend": false,
+      "headshot": "media/headshots/fights/3009717.png",
+      "statsPath": "stats/espn-mma/3009717.json",
+      "vaultPath": "vault/fights/players/robert-whittaker.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:39:51.712Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Ronda Rousey",
+      "slug": "2563796",
+      "espnId": "2563796",
+      "legend": true,
+      "headshot": "media/headshots/fights/2563796.png",
+      "statsPath": "stats/espn-mma/2563796.json",
+      "vaultPath": "vault/fights/players/ronda-rousey.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:55:38.473Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Rose Namajunas",
+      "slug": "3032973",
+      "espnId": "3032973",
+      "legend": false,
+      "headshot": "media/headshots/fights/3032973.png",
+      "statsPath": "stats/espn-mma/3032973.json",
+      "vaultPath": "vault/fights/players/rose-namajunas.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:39:43.531Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Sean O'Malley",
+      "slug": "4205093",
+      "espnId": "4205093",
+      "legend": false,
+      "headshot": "media/headshots/fights/4205093.png",
+      "statsPath": "stats/espn-mma/4205093.json",
+      "vaultPath": "vault/fights/players/sean-o-malley.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:36:27.973Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Shavkat Rakhmonov",
+      "slug": "4020699",
+      "espnId": "4020699",
+      "legend": false,
+      "headshot": "media/headshots/fights/4020699.png",
+      "statsPath": "stats/espn-mma/4020699.json",
+      "vaultPath": "vault/fights/players/shavkat-rakhmonov.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:38:11.284Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Steve Garcia",
+      "slug": "3023804",
+      "espnId": "3023804",
+      "legend": false,
+      "headshot": "media/headshots/fights/3023804.png",
+      "statsPath": "stats/espn-mma/3023804.json",
+      "vaultPath": "vault/fights/players/steve-garcia.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:41:11.514Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Tom Aspinall",
+      "slug": "4010976",
+      "espnId": "4010976",
+      "legend": false,
+      "headshot": "media/headshots/fights/4010976.png",
+      "statsPath": "stats/espn-mma/4010976.json",
+      "vaultPath": "vault/fights/players/tom-aspinall.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:36:46.845Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Usman Nurmagomedov",
+      "slug": "4726566",
+      "espnId": "4726566",
+      "legend": true,
+      "headshot": "media/headshots/fights/4726566.png",
+      "statsPath": "stats/espn-mma/4726566.json",
+      "vaultPath": "vault/fights/players/usman-nurmagomedov.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:55:25.778Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Valentina Shevchenko",
+      "slug": "2554705",
+      "espnId": "2554705",
+      "legend": false,
+      "headshot": "media/headshots/fights/2554705.png",
+      "statsPath": "stats/espn-mma/2554705.json",
+      "vaultPath": "vault/fights/players/valentina-shevchenko.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:39:24.573Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Yair Rodriguez",
+      "slug": "3155420",
+      "espnId": "3155420",
+      "legend": false,
+      "headshot": "media/headshots/fights/3155420.png",
+      "statsPath": "stats/espn-mma/3155420.json",
+      "vaultPath": "vault/fights/players/yair-rodriguez.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:41:55.668Z"
+    },
+    {
+      "sport": "fights",
+      "name": "Zhang Weili",
+      "slug": "4350762",
+      "espnId": "4350762",
+      "legend": false,
+      "headshot": "media/headshots/fights/4350762.png",
+      "statsPath": "stats/espn-mma/4350762.json",
+      "vaultPath": "vault/fights/players/zhang-weili.json",
+      "rowCount": 1,
+      "sources": [
+        "espn_mma_core"
+      ],
+      "ingestedAt": "2026-06-15T17:39:33.579Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Brooks Koepka",
+      "slug": "6798",
+      "espnId": "6798",
+      "legend": false,
+      "headshot": "media/headshots/golf/6798.png",
+      "statsPath": "stats/espn-golf/6798.json",
+      "vaultPath": "vault/golf/players/brooks-koepka.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:36.005Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Bryson DeChambeau",
+      "slug": "10046",
+      "espnId": "10046",
+      "legend": false,
+      "headshot": "media/headshots/golf/10046.png",
+      "statsPath": "stats/espn-golf/10046.json",
+      "vaultPath": "vault/golf/players/bryson-dechambeau.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:49:52.803Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Collin Morikawa",
+      "slug": "10592",
+      "espnId": "10592",
+      "legend": false,
+      "headshot": "media/headshots/golf/10592.png",
+      "statsPath": "stats/espn-golf/10592.json",
+      "vaultPath": "vault/golf/players/collin-morikawa.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:05.925Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Jon Rahm",
+      "slug": "9780",
+      "espnId": "9780",
+      "legend": false,
+      "headshot": "media/headshots/golf/9780.png",
+      "statsPath": "stats/espn-golf/9780.json",
+      "vaultPath": "vault/golf/players/jon-rahm.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:49:57.115Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Jordan Spieth",
+      "slug": "5467",
+      "espnId": "5467",
+      "legend": true,
+      "headshot": "media/headshots/golf/5467.png",
+      "statsPath": "stats/espn-golf/5467.json",
+      "vaultPath": "vault/golf/players/jordan-spieth.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:57:46.830Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Justin Thomas",
+      "slug": "4848",
+      "espnId": "4848",
+      "legend": false,
+      "headshot": "media/headshots/golf/4848.png",
+      "statsPath": "stats/espn-golf/4848.json",
+      "vaultPath": "vault/golf/players/justin-thomas.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:31.221Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Ludvig Åberg",
+      "slug": "4375972",
+      "espnId": "4375972",
+      "legend": false,
+      "headshot": "media/headshots/golf/4375972.png",
+      "statsPath": "stats/espn-golf/4375972.json",
+      "vaultPath": "vault/golf/players/ludvig-aberg.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:15.115Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Patrick Cantlay",
+      "slug": "6007",
+      "espnId": "6007",
+      "legend": false,
+      "headshot": "media/headshots/golf/6007.png",
+      "statsPath": "stats/espn-golf/6007.json",
+      "vaultPath": "vault/golf/players/patrick-cantlay.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:40.470Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Phil Mickelson",
+      "slug": "308",
+      "espnId": "308",
+      "legend": true,
+      "headshot": "media/headshots/golf/308.png",
+      "statsPath": "stats/espn-golf/308.json",
+      "vaultPath": "vault/golf/players/phil-mickelson.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:57:40.622Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Rory McIlroy",
+      "slug": "3470",
+      "espnId": "3470",
+      "legend": false,
+      "headshot": "media/headshots/golf/3470.png",
+      "statsPath": "stats/espn-golf/3470.json",
+      "vaultPath": "vault/golf/players/rory-mcilroy.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:49:48.882Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Ryan Palmer",
+      "slug": "962",
+      "espnId": "962",
+      "legend": true,
+      "headshot": "media/headshots/golf/962.png",
+      "statsPath": "stats/espn-golf/962.json",
+      "vaultPath": "vault/golf/players/ryan-palmer.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:56:31.714Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Scottie Scheffler",
+      "slug": "9478",
+      "espnId": "9478",
+      "legend": false,
+      "headshot": "media/headshots/golf/9478.png",
+      "statsPath": "stats/espn-golf/9478.json",
+      "vaultPath": "vault/golf/players/scottie-scheffler.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:49:43.426Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Sergio García",
+      "slug": "158",
+      "espnId": "158",
+      "legend": false,
+      "headshot": "media/headshots/golf/158.png",
+      "statsPath": "stats/espn-golf/158.json",
+      "vaultPath": "vault/golf/players/sergio-garcia.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:45.440Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Tiger Woods",
+      "slug": "462",
+      "espnId": "462",
+      "legend": false,
+      "headshot": "media/headshots/golf/462.png",
+      "statsPath": "stats/espn-golf/462.json",
+      "vaultPath": "vault/golf/players/tiger-woods.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:10.606Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Tommy Fleetwood",
+      "slug": "5539",
+      "espnId": "5539",
+      "legend": false,
+      "headshot": "media/headshots/golf/5539.png",
+      "statsPath": "stats/espn-golf/5539.json",
+      "vaultPath": "vault/golf/players/tommy-fleetwood.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:19.696Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Viktor Hovland",
+      "slug": "4364873",
+      "espnId": "4364873",
+      "legend": false,
+      "headshot": "media/headshots/golf/4364873.png",
+      "statsPath": "stats/espn-golf/4364873.json",
+      "vaultPath": "vault/golf/players/viktor-hovland.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:27.432Z"
+    },
+    {
+      "sport": "golf",
+      "name": "Xander Schauffele",
+      "slug": "10140",
+      "espnId": "10140",
+      "legend": false,
+      "headshot": "media/headshots/golf/10140.png",
+      "statsPath": "stats/espn-golf/10140.json",
+      "vaultPath": "vault/golf/players/xander-schauffele.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:01.776Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Aaron Judge",
+      "slug": "judgeaa01",
+      "espnId": "33192",
+      "legend": false,
+      "headshot": "media/headshots/mlb/judgeaa01.png",
+      "statsPath": "stats/bref/judgeaa01.json",
+      "vaultPath": "vault/mlb/players/aaron-judge.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:58.888Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Adley Rutschman",
+      "slug": "rutscad01",
+      "espnId": "42178",
+      "legend": false,
+      "headshot": "media/headshots/mlb/rutscad01.png",
+      "statsPath": "stats/bref/rutscad01.json",
+      "vaultPath": "vault/mlb/players/adley-rutschman.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:00.071Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Blake Snell",
+      "slug": "snellbl01",
+      "espnId": "33748",
+      "legend": false,
+      "headshot": "media/headshots/mlb/snellbl01.png",
+      "statsPath": "stats/bref/snellbl01.json",
+      "vaultPath": "vault/mlb/players/blake-snell.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:23.295Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Bobby Witt Jr.",
+      "slug": "jr.bo01",
+      "espnId": "42403",
+      "legend": false,
+      "headshot": "media/headshots/mlb/jr.bo01.png",
+      "statsPath": "stats/bref/jr.bo01.json",
+      "vaultPath": "vault/mlb/players/bobby-witt-jr.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:38.287Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Bryce Harper",
+      "slug": "harpebr01",
+      "espnId": "30951",
+      "legend": false,
+      "headshot": "media/headshots/mlb/harpebr01.png",
+      "statsPath": "stats/bref/harpebr01.json",
+      "vaultPath": "vault/mlb/players/bryce-harper.json",
+      "rowCount": 15,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:28.243Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Cal Raleigh",
+      "slug": "raleica01",
+      "espnId": "41292",
+      "legend": false,
+      "headshot": "media/headshots/mlb/raleica01.png",
+      "statsPath": "stats/bref/raleica01.json",
+      "vaultPath": "vault/mlb/players/cal-raleigh.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:30.175Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Chris Sale",
+      "slug": "salech01",
+      "espnId": "30948",
+      "legend": false,
+      "headshot": "media/headshots/mlb/salech01.png",
+      "statsPath": "stats/bref/salech01.json",
+      "vaultPath": "vault/mlb/players/chris-sale.json",
+      "rowCount": 16,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:09.770Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Chuckie Robinson",
+      "slug": "robinch01",
+      "espnId": "40354",
+      "legend": true,
+      "headshot": "media/headshots/mlb/robinch01.png",
+      "statsPath": "stats/bref/robinch01.json",
+      "vaultPath": "vault/mlb/players/chuckie-robinson.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:52:04.618Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "CJ Abrams",
+      "slug": "abramcj01",
+      "espnId": "42402",
+      "legend": false,
+      "headshot": "media/headshots/mlb/abramcj01.png",
+      "statsPath": "stats/bref/abramcj01.json",
+      "vaultPath": "vault/mlb/players/cj-abrams.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:27.029Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Corbin Burnes",
+      "slug": "burneco01",
+      "espnId": "39878",
+      "legend": false,
+      "headshot": "media/headshots/mlb/burneco01.png",
+      "statsPath": "stats/bref/burneco01.json",
+      "vaultPath": "vault/mlb/players/corbin-burnes.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:27.311Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Corbin Carroll",
+      "slug": "carroco01",
+      "espnId": "42404",
+      "legend": false,
+      "headshot": "media/headshots/mlb/carroco01.png",
+      "statsPath": "stats/bref/carroco01.json",
+      "vaultPath": "vault/mlb/players/corbin-carroll.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:05.546Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Corey Seager",
+      "slug": "seageco01",
+      "espnId": "32691",
+      "legend": false,
+      "headshot": "media/headshots/mlb/seageco01.png",
+      "statsPath": "stats/bref/seageco01.json",
+      "vaultPath": "vault/mlb/players/corey-seager.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:42.282Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Dylan Crews",
+      "slug": "crewsdy01",
+      "espnId": "4719511",
+      "legend": false,
+      "headshot": "media/headshots/mlb/crewsdy01.png",
+      "statsPath": "stats/bref/crewsdy01.json",
+      "vaultPath": "vault/mlb/players/dylan-crews.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:50.001Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Elly De La Cruz",
+      "slug": "cruzel01",
+      "espnId": "4917694",
+      "legend": false,
+      "headshot": "media/headshots/mlb/cruzel01.png",
+      "statsPath": "stats/bref/cruzel01.json",
+      "vaultPath": "vault/mlb/players/elly-de-la-cruz.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:01.842Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Fernando Tatis Jr.",
+      "slug": "jr.fe01",
+      "espnId": "35983",
+      "legend": false,
+      "headshot": "media/headshots/mlb/jr.fe01.png",
+      "statsPath": "stats/bref/jr.fe01.json",
+      "vaultPath": "vault/mlb/players/fernando-tatis-jr.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:23.986Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Francisco Lindor",
+      "slug": "lindofr01",
+      "espnId": "32129",
+      "legend": false,
+      "headshot": "media/headshots/mlb/lindofr01.png",
+      "statsPath": "stats/bref/lindofr01.json",
+      "vaultPath": "vault/mlb/players/francisco-lindor.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:33.961Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Freddie Freeman",
+      "slug": "freemfr01",
+      "espnId": "30193",
+      "legend": false,
+      "headshot": "media/headshots/mlb/freemfr01.png",
+      "statsPath": "stats/bref/freemfr01.json",
+      "vaultPath": "vault/mlb/players/freddie-freeman.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:29:07.825Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Gavin Williams",
+      "slug": "williga01",
+      "espnId": "4345076",
+      "legend": true,
+      "headshot": "media/headshots/mlb/williga01.png",
+      "statsPath": "stats/bref/williga01.json",
+      "vaultPath": "vault/mlb/players/gavin-williams.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:52:37.992Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Gunnar Henderson",
+      "slug": "hendegu01",
+      "espnId": "42507",
+      "legend": false,
+      "headshot": "media/headshots/mlb/hendegu01.png",
+      "statsPath": "stats/bref/hendegu01.json",
+      "vaultPath": "vault/mlb/players/gunnar-henderson.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:56.459Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Jackson Chourio",
+      "slug": "chourja01",
+      "espnId": "4917869",
+      "legend": false,
+      "headshot": "media/headshots/mlb/chourja01.png",
+      "statsPath": "stats/bref/chourja01.json",
+      "vaultPath": "vault/mlb/players/jackson-chourio.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:14.706Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Jackson Holliday",
+      "slug": "hollija01",
+      "espnId": "5080633",
+      "legend": false,
+      "headshot": "media/headshots/mlb/hollija01.png",
+      "statsPath": "stats/bref/hollija01.json",
+      "vaultPath": "vault/mlb/players/jackson-holliday.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:10.324Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Jacob deGrom",
+      "slug": "degroja01",
+      "espnId": "32796",
+      "legend": false,
+      "headshot": "media/headshots/mlb/degroja01.png",
+      "statsPath": "stats/bref/degroja01.json",
+      "vaultPath": "vault/mlb/players/jacob-degrom.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:31.886Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "James Wood",
+      "slug": "woodja01",
+      "espnId": "4918256",
+      "legend": false,
+      "headshot": "media/headshots/mlb/woodja01.png",
+      "statsPath": "stats/bref/woodja01.json",
+      "vaultPath": "vault/mlb/players/james-wood.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:54.511Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Jazz Chisholm Jr.",
+      "slug": "jr.ja01",
+      "espnId": "41433",
+      "legend": false,
+      "headshot": "media/headshots/mlb/jr.ja01.png",
+      "statsPath": "stats/bref/jr.ja01.json",
+      "vaultPath": "vault/mlb/players/jazz-chisholm-jr.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:22.575Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Jose Ramirez",
+      "slug": "ramirjo01",
+      "espnId": "32801",
+      "legend": false,
+      "headshot": "media/headshots/mlb/ramirjo01.png",
+      "statsPath": "stats/bref/ramirjo01.json",
+      "vaultPath": "vault/mlb/players/jose-ramirez.json",
+      "rowCount": 14,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:46.624Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Juan Soto",
+      "slug": "sotoju01",
+      "espnId": "36969",
+      "legend": false,
+      "headshot": "media/headshots/mlb/sotoju01.png",
+      "statsPath": "stats/bref/sotoju01.json",
+      "vaultPath": "vault/mlb/players/juan-soto.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:29:12.375Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Julio Rodriguez",
+      "slug": "rodriju01",
+      "espnId": "41044",
+      "legend": false,
+      "headshot": "media/headshots/mlb/rodriju01.png",
+      "statsPath": "stats/bref/rodriju01.json",
+      "vaultPath": "vault/mlb/players/julio-rodriguez.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:56.021Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Ketel Marte",
+      "slug": "marteke01",
+      "espnId": "32512",
+      "legend": false,
+      "headshot": "media/headshots/mlb/marteke01.png",
+      "statsPath": "stats/bref/marteke01.json",
+      "vaultPath": "vault/mlb/players/ketel-marte.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:09.498Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Kyle Tucker",
+      "slug": "tuckeky01",
+      "espnId": "34967",
+      "legend": false,
+      "headshot": "media/headshots/mlb/tuckeky01.png",
+      "statsPath": "stats/bref/tuckeky01.json",
+      "vaultPath": "vault/mlb/players/kyle-tucker.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:40.931Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Logan Webb",
+      "slug": "webblo01",
+      "espnId": "41216",
+      "legend": false,
+      "headshot": "media/headshots/mlb/webblo01.png",
+      "statsPath": "stats/bref/webblo01.json",
+      "vaultPath": "vault/mlb/players/logan-webb.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:18.326Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Manny Machado",
+      "slug": "machama01",
+      "espnId": "31097",
+      "legend": false,
+      "headshot": "media/headshots/mlb/machama01.png",
+      "statsPath": "stats/bref/machama01.json",
+      "vaultPath": "vault/mlb/players/manny-machado.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:38.134Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Matt Olson",
+      "slug": "olsonma01",
+      "espnId": "32767",
+      "legend": false,
+      "headshot": "media/headshots/mlb/olsonma01.png",
+      "statsPath": "stats/bref/olsonma01.json",
+      "vaultPath": "vault/mlb/players/matt-olson.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:59.071Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Max Fried",
+      "slug": "friedma01",
+      "espnId": "32685",
+      "legend": false,
+      "headshot": "media/headshots/mlb/friedma01.png",
+      "statsPath": "stats/bref/friedma01.json",
+      "vaultPath": "vault/mlb/players/max-fried.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:36.448Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Mike Trout",
+      "slug": "troutmi01",
+      "espnId": "30836",
+      "legend": true,
+      "headshot": "media/headshots/mlb/troutmi01.png",
+      "statsPath": "stats/bref/troutmi01.json",
+      "vaultPath": "vault/mlb/players/mike-trout.json",
+      "rowCount": 16,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:55:37.772Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Mookie Betts",
+      "slug": "bettsmo01",
+      "espnId": "33039",
+      "legend": false,
+      "headshot": "media/headshots/mlb/bettsmo01.png",
+      "statsPath": "stats/bref/bettsmo01.json",
+      "vaultPath": "vault/mlb/players/mookie-betts.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:29:03.342Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Oneil Cruz",
+      "slug": "cruzon01",
+      "espnId": "39712",
+      "legend": false,
+      "headshot": "media/headshots/mlb/cruzon01.png",
+      "statsPath": "stats/bref/cruzon01.json",
+      "vaultPath": "vault/mlb/players/oneil-cruz.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:17.678Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Ozzie Albies",
+      "slug": "albieoz01",
+      "espnId": "33783",
+      "legend": false,
+      "headshot": "media/headshots/mlb/albieoz01.png",
+      "statsPath": "stats/bref/albieoz01.json",
+      "vaultPath": "vault/mlb/players/ozzie-albies.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:04.049Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Paul Skenes",
+      "slug": "skenepa01",
+      "espnId": "4719507",
+      "legend": false,
+      "headshot": "media/headshots/mlb/skenepa01.png",
+      "statsPath": "stats/bref/skenepa01.json",
+      "vaultPath": "vault/mlb/players/paul-skenes.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:43.446Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Pete Alonso",
+      "slug": "alonspe01",
+      "espnId": "37498",
+      "legend": false,
+      "headshot": "media/headshots/mlb/alonspe01.png",
+      "statsPath": "stats/bref/alonspe01.json",
+      "vaultPath": "vault/mlb/players/pete-alonso.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:47.210Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Rafael Devers",
+      "slug": "deverra01",
+      "espnId": "33859",
+      "legend": false,
+      "headshot": "media/headshots/mlb/deverra01.png",
+      "statsPath": "stats/bref/deverra01.json",
+      "vaultPath": "vault/mlb/players/rafael-devers.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:13.073Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Randy Rodriguez",
+      "slug": "rodrira01",
+      "espnId": "4919929",
+      "legend": true,
+      "headshot": "media/headshots/mlb/rodrira01.png",
+      "statsPath": "stats/bref/rodrira01.json",
+      "vaultPath": "vault/mlb/players/randy-rodriguez.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:53:35.630Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Roman Anthony",
+      "slug": "anthoro01",
+      "espnId": "5080767",
+      "legend": false,
+      "headshot": "media/headshots/mlb/anthoro01.png",
+      "statsPath": "stats/bref/anthoro01.json",
+      "vaultPath": "vault/mlb/players/roman-anthony.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:52.986Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Ronald Acuna Jr.",
+      "slug": "jr.ro01",
+      "espnId": "36185",
+      "legend": false,
+      "headshot": "media/headshots/mlb/jr.ro01.png",
+      "statsPath": "stats/bref/jr.ro01.json",
+      "vaultPath": "vault/mlb/players/ronald-acuna-jr.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:33.585Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Seiya Suzuki",
+      "slug": "suzukse01",
+      "espnId": "4142424",
+      "legend": true,
+      "headshot": "media/headshots/mlb/suzukse01.png",
+      "statsPath": "stats/bref/suzukse01.json",
+      "vaultPath": "vault/mlb/players/seiya-suzuki.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:53:08.293Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Shohei Ohtani",
+      "slug": "ohtansh01",
+      "espnId": "39832",
+      "legend": false,
+      "headshot": "media/headshots/mlb/ohtansh01.png",
+      "statsPath": "stats/bref/ohtansh01.json",
+      "vaultPath": "vault/mlb/players/shohei-ohtani.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:54.282Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Spencer Strider",
+      "slug": "stridsp01",
+      "espnId": "4307825",
+      "legend": false,
+      "headshot": "media/headshots/mlb/stridsp01.png",
+      "statsPath": "stats/bref/stridsp01.json",
+      "vaultPath": "vault/mlb/players/spencer-strider.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:31.784Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Tarik Skubal",
+      "slug": "skubata01",
+      "espnId": "42409",
+      "legend": false,
+      "headshot": "media/headshots/mlb/skubata01.png",
+      "statsPath": "stats/bref/skubata01.json",
+      "vaultPath": "vault/mlb/players/tarik-skubal.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:04.739Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Vladimir Guerrero Jr.",
+      "slug": "jr.vl01",
+      "espnId": "35002",
+      "legend": false,
+      "headshot": "media/headshots/mlb/jr.vl01.png",
+      "statsPath": "stats/bref/jr.vl01.json",
+      "vaultPath": "vault/mlb/players/vladimir-guerrero-jr.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:19.229Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Wyatt Langford",
+      "slug": "langfwy01",
+      "espnId": "4719324",
+      "legend": false,
+      "headshot": "media/headshots/mlb/langfwy01.png",
+      "statsPath": "stats/bref/langfwy01.json",
+      "vaultPath": "vault/mlb/players/wyatt-langford.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:45.453Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Yordan Alvarez",
+      "slug": "alvaryo01",
+      "espnId": "36018",
+      "legend": false,
+      "headshot": "media/headshots/mlb/alvaryo01.png",
+      "statsPath": "stats/bref/alvaryo01.json",
+      "vaultPath": "vault/mlb/players/yordan-alvarez.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:39:51.157Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Yoshinobu Yamamoto",
+      "slug": "yamamyo01",
+      "espnId": "4872587",
+      "legend": false,
+      "headshot": "media/headshots/mlb/yamamyo01.png",
+      "statsPath": "stats/bref/yamamyo01.json",
+      "vaultPath": "vault/mlb/players/yoshinobu-yamamoto.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:38:25.199Z"
+    },
+    {
+      "sport": "mlb",
+      "name": "Zack Wheeler",
+      "slug": "wheelza01",
+      "espnId": "31267",
+      "legend": false,
+      "headshot": "media/headshots/mlb/wheelza01.png",
+      "statsPath": "stats/bref/wheelza01.json",
+      "vaultPath": "vault/mlb/players/zack-wheeler.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:40:13.657Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Christian Benteke",
+      "slug": "bentech01",
+      "espnId": "106957",
+      "legend": false,
+      "headshot": "media/headshots/mls/bentech01.png",
+      "statsPath": "stats/fbref/bentech01.json",
+      "vaultPath": "vault/mls/players/christian-benteke.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:46:03.315Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Cucho Hernández",
+      "slug": "hernácu01",
+      "espnId": "336809",
+      "legend": false,
+      "headshot": "media/headshots/mls/hernácu01.png",
+      "statsPath": "stats/fbref/hernácu01.json",
+      "vaultPath": "vault/mls/players/cucho-hernandez.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:46:21.399Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Denis Bouanga",
+      "slug": "bouande01",
+      "espnId": "213304",
+      "legend": false,
+      "headshot": "media/headshots/mls/bouande01.png",
+      "statsPath": "stats/fbref/bouande01.json",
+      "vaultPath": "vault/mls/players/denis-bouanga.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:51:37.687Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Diego Rossi",
+      "slug": "rossidi01",
+      "espnId": "235817",
+      "legend": false,
+      "headshot": "media/headshots/mls/rossidi01.png",
+      "statsPath": "stats/fbref/rossidi01.json",
+      "vaultPath": "vault/mls/players/diego-rossi.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:46:15.290Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Hany Mukhtar",
+      "slug": "mukhtha01",
+      "espnId": "174548",
+      "legend": false,
+      "headshot": "media/headshots/mls/mukhtha01.png",
+      "statsPath": "stats/fbref/mukhtha01.json",
+      "vaultPath": "vault/mls/players/hany-mukhtar.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:51:26.066Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Lionel Messi",
+      "slug": "messili01",
+      "espnId": "45843",
+      "legend": false,
+      "headshot": "media/headshots/mls/messili01.png",
+      "statsPath": "stats/fbref/messili01.json",
+      "vaultPath": "vault/mls/players/lionel-messi.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:50:49.259Z"
+    },
+    {
+      "sport": "mls",
+      "name": "Miguel Almirón",
+      "slug": "almirmi01",
+      "espnId": "48128",
+      "legend": false,
+      "headshot": "media/headshots/mls/almirmi01.png",
+      "statsPath": "stats/fbref/almirmi01.json",
+      "vaultPath": "vault/mls/players/miguel-almiron.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:45:57.136Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Alperen Sengun",
+      "slug": "sengual01",
+      "espnId": "4871144",
+      "legend": false,
+      "headshot": "media/headshots/nba/sengual01.png",
+      "statsPath": "stats/bbref/sengual01.json",
+      "vaultPath": "vault/nba/players/alperen-sengun.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:08.395Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Amen Thompson",
+      "slug": "thompam01",
+      "espnId": "4684740",
+      "legend": false,
+      "headshot": "media/headshots/nba/thompam01.png",
+      "statsPath": "stats/bbref/thompam01.json",
+      "vaultPath": "vault/nba/players/amen-thompson.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:54.699Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Anthony Edwards",
+      "slug": "edwaran01",
+      "espnId": "4594268",
+      "legend": false,
+      "headshot": "media/headshots/nba/edwaran01.png",
+      "statsPath": "stats/bbref/edwaran01.json",
+      "vaultPath": "vault/nba/players/anthony-edwards.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:14.471Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Ausar Thompson",
+      "slug": "thompau01",
+      "espnId": "4684742",
+      "legend": false,
+      "headshot": "media/headshots/nba/thompau01.png",
+      "statsPath": "stats/bbref/thompau01.json",
+      "vaultPath": "vault/nba/players/ausar-thompson.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:01.582Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Austin Reaves",
+      "slug": "reaveau01",
+      "espnId": "4066457",
+      "legend": false,
+      "headshot": "media/headshots/nba/reaveau01.png",
+      "statsPath": "stats/bbref/reaveau01.json",
+      "vaultPath": "vault/nba/players/austin-reaves.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:50.674Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Bam Adebayo",
+      "slug": "adebaba01",
+      "espnId": "4066261",
+      "legend": false,
+      "headshot": "media/headshots/nba/adebaba01.png",
+      "statsPath": "stats/bbref/adebaba01.json",
+      "vaultPath": "vault/nba/players/bam-adebayo.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:41.220Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Brandon Miller",
+      "slug": "millebr01",
+      "espnId": "4433287",
+      "legend": false,
+      "headshot": "media/headshots/nba/millebr01.png",
+      "statsPath": "stats/bbref/millebr01.json",
+      "vaultPath": "vault/nba/players/brandon-miller.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:37.110Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Cade Cunningham",
+      "slug": "cunnica01",
+      "espnId": "4432166",
+      "legend": false,
+      "headshot": "media/headshots/nba/cunnica01.png",
+      "statsPath": "stats/bbref/cunnica01.json",
+      "vaultPath": "vault/nba/players/cade-cunningham.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:30.722Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Chet Holmgren",
+      "slug": "holmgch01",
+      "espnId": "4433255",
+      "legend": false,
+      "headshot": "media/headshots/nba/holmgch01.png",
+      "statsPath": "stats/bbref/holmgch01.json",
+      "vaultPath": "vault/nba/players/chet-holmgren.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:41.861Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Cooper Flagg",
+      "slug": "flaggco01",
+      "espnId": "5041939",
+      "legend": false,
+      "headshot": "media/headshots/nba/flaggco01.png",
+      "statsPath": "stats/bbref/flaggco01.json",
+      "vaultPath": "vault/nba/players/cooper-flagg.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:32.470Z"
+    },
+    {
+      "sport": "nba",
+      "name": "D'Angelo Russell",
+      "slug": "russed'01",
+      "espnId": "3136776",
+      "legend": true,
+      "headshot": "media/headshots/nba/russed'01.png",
+      "statsPath": "stats/bbref/russed'01.json",
+      "vaultPath": "vault/nba/players/d-angelo-russell.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:47:26.159Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Damian Lillard",
+      "slug": "lillada01",
+      "espnId": "6606",
+      "legend": false,
+      "headshot": "media/headshots/nba/lillada01.png",
+      "statsPath": "stats/bbref/lillada01.json",
+      "vaultPath": "vault/nba/players/damian-lillard.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:04.636Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Darius Garland",
+      "slug": "garlada01",
+      "espnId": "4396907",
+      "legend": false,
+      "headshot": "media/headshots/nba/garlada01.png",
+      "statsPath": "stats/bbref/garlada01.json",
+      "vaultPath": "vault/nba/players/darius-garland.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:22.190Z"
+    },
+    {
+      "sport": "nba",
+      "name": "De'Aaron Fox",
+      "slug": "foxde01",
+      "espnId": "4066259",
+      "legend": false,
+      "headshot": "media/headshots/nba/foxde01.png",
+      "statsPath": "stats/bbref/foxde01.json",
+      "vaultPath": "vault/nba/players/de-aaron-fox.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:04.716Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Desmond Bane",
+      "slug": "banede01",
+      "espnId": "4066320",
+      "legend": false,
+      "headshot": "media/headshots/nba/banede01.png",
+      "statsPath": "stats/bbref/banede01.json",
+      "vaultPath": "vault/nba/players/desmond-bane.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:37.485Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Devin Booker",
+      "slug": "bookede01",
+      "espnId": "3136193",
+      "legend": false,
+      "headshot": "media/headshots/nba/bookede01.png",
+      "statsPath": "stats/bbref/bookede01.json",
+      "vaultPath": "vault/nba/players/devin-booker.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:50.747Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Dirk Nowitzki",
+      "slug": "nowitdi01",
+      "espnId": "609",
+      "legend": true,
+      "headshot": "media/headshots/nba/nowitdi01.png",
+      "statsPath": "stats/bbref/nowitdi01.json",
+      "vaultPath": "vault/nba/players/dirk-nowitzki.json",
+      "rowCount": 21,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:47:49.021Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Donovan Mitchell",
+      "slug": "mitchdo01",
+      "espnId": "3908809",
+      "legend": false,
+      "headshot": "media/headshots/nba/mitchdo01.png",
+      "statsPath": "stats/bbref/mitchdo01.json",
+      "vaultPath": "vault/nba/players/donovan-mitchell.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:10.976Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Draymond Green",
+      "slug": "greendr01",
+      "espnId": "6589",
+      "legend": false,
+      "headshot": "media/headshots/nba/greendr01.png",
+      "statsPath": "stats/bbref/greendr01.json",
+      "vaultPath": "vault/nba/players/draymond-green.json",
+      "rowCount": 14,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:18.727Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Dwyane Wade",
+      "slug": "wadedw01",
+      "espnId": "1987",
+      "legend": true,
+      "headshot": "media/headshots/nba/wadedw01.png",
+      "statsPath": "stats/bbref/wadedw01.json",
+      "vaultPath": "vault/nba/players/dwyane-wade.json",
+      "rowCount": 18,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:48:47.700Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Evan Mobley",
+      "slug": "mobleev01",
+      "espnId": "4432158",
+      "legend": false,
+      "headshot": "media/headshots/nba/mobleev01.png",
+      "statsPath": "stats/bbref/mobleev01.json",
+      "vaultPath": "vault/nba/players/evan-mobley.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:28.938Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Franz Wagner",
+      "slug": "wagnefr01",
+      "espnId": "4566434",
+      "legend": false,
+      "headshot": "media/headshots/nba/wagnefr01.png",
+      "statsPath": "stats/bbref/wagnefr01.json",
+      "vaultPath": "vault/nba/players/franz-wagner.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:13.080Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Giannis Antetokounmpo",
+      "slug": "antetgi01",
+      "espnId": "3032977",
+      "legend": false,
+      "headshot": "media/headshots/nba/antetgi01.png",
+      "statsPath": "stats/bbref/antetgi01.json",
+      "vaultPath": "vault/nba/players/giannis-antetokounmpo.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:41.637Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Ja Morant",
+      "slug": "moranja01",
+      "espnId": "4279888",
+      "legend": false,
+      "headshot": "media/headshots/nba/moranja01.png",
+      "statsPath": "stats/bbref/moranja01.json",
+      "vaultPath": "vault/nba/players/ja-morant.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:46.910Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jalen Brunson",
+      "slug": "brunsja01",
+      "espnId": "3934672",
+      "legend": false,
+      "headshot": "media/headshots/nba/brunsja01.png",
+      "statsPath": "stats/bbref/brunsja01.json",
+      "vaultPath": "vault/nba/players/jalen-brunson.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:10.338Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jalen Williams",
+      "slug": "willija01",
+      "espnId": "4593803",
+      "legend": false,
+      "headshot": "media/headshots/nba/willija01.png",
+      "statsPath": "stats/bbref/willija01.json",
+      "vaultPath": "vault/nba/players/jalen-williams.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:46.002Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jamal Murray",
+      "slug": "murraja01",
+      "espnId": "3936299",
+      "legend": false,
+      "headshot": "media/headshots/nba/murraja01.png",
+      "statsPath": "stats/bbref/murraja01.json",
+      "vaultPath": "vault/nba/players/jamal-murray.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:18.501Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jaren Jackson Jr.",
+      "slug": "jr.ja01",
+      "espnId": "4277961",
+      "legend": false,
+      "headshot": "media/headshots/nba/jr.ja01.png",
+      "statsPath": "stats/bbref/jr.ja01.json",
+      "vaultPath": "vault/nba/players/jaren-jackson-jr.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:45.561Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jaylen Brown",
+      "slug": "brownja01",
+      "espnId": "3917376",
+      "legend": false,
+      "headshot": "media/headshots/nba/brownja01.png",
+      "statsPath": "stats/bbref/brownja01.json",
+      "vaultPath": "vault/nba/players/jaylen-brown.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:59.508Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jayson Tatum",
+      "slug": "tatumja01",
+      "espnId": "4065648",
+      "legend": false,
+      "headshot": "media/headshots/nba/tatumja01.png",
+      "statsPath": "stats/bbref/tatumja01.json",
+      "vaultPath": "vault/nba/players/jayson-tatum.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:28.901Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Jimmy Butler III",
+      "slug": "iiiji01",
+      "espnId": "6430",
+      "legend": false,
+      "headshot": "media/headshots/nba/iiiji01.png",
+      "statsPath": "stats/bbref/iiiji01.json",
+      "vaultPath": "vault/nba/players/jimmy-butler-iii.json",
+      "rowCount": 19,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:35:06.158Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Josh Hart",
+      "slug": "hartjo01",
+      "espnId": "3062679",
+      "legend": false,
+      "headshot": "media/headshots/nba/hartjo01.png",
+      "statsPath": "stats/bbref/hartjo01.json",
+      "vaultPath": "vault/nba/players/josh-hart.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:27.541Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Julius Randle",
+      "slug": "randlju01",
+      "espnId": "3064514",
+      "legend": false,
+      "headshot": "media/headshots/nba/randlju01.png",
+      "statsPath": "stats/bbref/randlju01.json",
+      "vaultPath": "vault/nba/players/julius-randle.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:41.448Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Karl-Anthony Towns",
+      "slug": "townska01",
+      "espnId": "3136195",
+      "legend": false,
+      "headshot": "media/headshots/nba/townska01.png",
+      "statsPath": "stats/bbref/townska01.json",
+      "vaultPath": "vault/nba/players/karl-anthony-towns.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:21.765Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Kawhi Leonard",
+      "slug": "leonaka01",
+      "espnId": "6450",
+      "legend": false,
+      "headshot": "media/headshots/nba/leonaka01.png",
+      "statsPath": "stats/bbref/leonaka01.json",
+      "vaultPath": "vault/nba/players/kawhi-leonard.json",
+      "rowCount": 14,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:04.856Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Kevin Durant",
+      "slug": "duranke01",
+      "espnId": "3202",
+      "legend": false,
+      "headshot": "media/headshots/nba/duranke01.png",
+      "statsPath": "stats/bbref/duranke01.json",
+      "vaultPath": "vault/nba/players/kevin-durant.json",
+      "rowCount": 20,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:37.186Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Kevin Garnett",
+      "slug": "garneke01",
+      "espnId": "261",
+      "legend": true,
+      "headshot": "media/headshots/nba/garneke01.png",
+      "statsPath": "stats/bbref/garneke01.json",
+      "vaultPath": "vault/nba/players/kevin-garnett.json",
+      "rowCount": 23,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:48:13.038Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Klay Thompson",
+      "slug": "thompkl01",
+      "espnId": "6475",
+      "legend": false,
+      "headshot": "media/headshots/nba/thompkl01.png",
+      "statsPath": "stats/bbref/thompkl01.json",
+      "vaultPath": "vault/nba/players/klay-thompson.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:13.867Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Kobe Bryant",
+      "slug": "bryanko01",
+      "espnId": "110",
+      "legend": true,
+      "headshot": "media/headshots/nba/bryanko01.png",
+      "statsPath": "stats/bbref/bryanko01.json",
+      "vaultPath": "vault/nba/players/kobe-bryant.json",
+      "rowCount": 20,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:46:33.288Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Kyrie Irving",
+      "slug": "irvinky01",
+      "espnId": "6442",
+      "legend": false,
+      "headshot": "media/headshots/nba/irvinky01.png",
+      "statsPath": "stats/bbref/irvinky01.json",
+      "vaultPath": "vault/nba/players/kyrie-irving.json",
+      "rowCount": 16,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:55.037Z"
+    },
+    {
+      "sport": "nba",
+      "name": "LaMelo Ball",
+      "slug": "ballla01",
+      "espnId": "4432816",
+      "legend": false,
+      "headshot": "media/headshots/nba/ballla01.png",
+      "statsPath": "stats/bbref/ballla01.json",
+      "vaultPath": "vault/nba/players/lamelo-ball.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:55.480Z"
+    },
+    {
+      "sport": "nba",
+      "name": "LeBron James",
+      "slug": "jamesle01",
+      "espnId": "1966",
+      "legend": false,
+      "headshot": "media/headshots/nba/jamesle01.png",
+      "statsPath": "stats/bbref/jamesle01.json",
+      "vaultPath": "vault/nba/players/lebron-james.json",
+      "rowCount": 23,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:18:07.954Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Luka Doncic",
+      "slug": "doncilu01",
+      "espnId": "3945274",
+      "legend": false,
+      "headshot": "media/headshots/nba/doncilu01.png",
+      "statsPath": "stats/bbref/doncilu01.json",
+      "vaultPath": "vault/nba/players/luka-doncic.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:18:16.952Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Mikal Bridges",
+      "slug": "bridgmi01",
+      "espnId": "3147657",
+      "legend": false,
+      "headshot": "media/headshots/nba/bridgmi01.png",
+      "statsPath": "stats/bbref/bridgmi01.json",
+      "vaultPath": "vault/nba/players/mikal-bridges.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:45.878Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Nikola Jokic",
+      "slug": "jokicni01",
+      "espnId": "3112335",
+      "legend": false,
+      "headshot": "media/headshots/nba/jokicni01.png",
+      "statsPath": "stats/bbref/jokicni01.json",
+      "vaultPath": "vault/nba/players/nikola-jokic.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:23.586Z"
+    },
+    {
+      "sport": "nba",
+      "name": "OG Anunoby",
+      "slug": "anunoog01",
+      "espnId": "3934719",
+      "legend": false,
+      "headshot": "media/headshots/nba/anunoog01.png",
+      "statsPath": "stats/bbref/anunoog01.json",
+      "vaultPath": "vault/nba/players/og-anunoby.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:31.918Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Paolo Banchero",
+      "slug": "banchpa01",
+      "espnId": "4432573",
+      "legend": false,
+      "headshot": "media/headshots/nba/banchpa01.png",
+      "statsPath": "stats/bbref/banchpa01.json",
+      "vaultPath": "vault/nba/players/paolo-banchero.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:27.081Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Paul George",
+      "slug": "georgpa01",
+      "espnId": "4251",
+      "legend": false,
+      "headshot": "media/headshots/nba/georgpa01.png",
+      "statsPath": "stats/bbref/georgpa01.json",
+      "vaultPath": "vault/nba/players/paul-george.json",
+      "rowCount": 16,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:09.411Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Reed Sheppard",
+      "slug": "sheppre01",
+      "espnId": "4711272",
+      "legend": false,
+      "headshot": "media/headshots/nba/sheppre01.png",
+      "statsPath": "stats/bbref/sheppre01.json",
+      "vaultPath": "vault/nba/players/reed-sheppard.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:05.484Z"
+    },
+    {
+      "sport": "nba",
+      "name": "RJ Barrett",
+      "slug": "barrerj01",
+      "espnId": "4395625",
+      "legend": false,
+      "headshot": "media/headshots/nba/barrerj01.png",
+      "statsPath": "stats/bbref/barrerj01.json",
+      "vaultPath": "vault/nba/players/rj-barrett.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:23.124Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Rudy Gobert",
+      "slug": "goberru01",
+      "espnId": "3032976",
+      "legend": false,
+      "headshot": "media/headshots/nba/goberru01.png",
+      "statsPath": "stats/bbref/goberru01.json",
+      "vaultPath": "vault/nba/players/rudy-gobert.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:55.823Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Scottie Barnes",
+      "slug": "barnesc01",
+      "espnId": "4433134",
+      "legend": false,
+      "headshot": "media/headshots/nba/barnesc01.png",
+      "statsPath": "stats/bbref/barnesc01.json",
+      "vaultPath": "vault/nba/players/scottie-barnes.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:22:32.367Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Scotty Pippen Jr.",
+      "slug": "jr.sc01",
+      "espnId": "4431785",
+      "legend": true,
+      "headshot": "media/headshots/nba/jr.sc01.png",
+      "statsPath": "stats/bbref/jr.sc01.json",
+      "vaultPath": "vault/nba/players/scotty-pippen-jr.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:48:56.574Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Shai Gilgeous-Alexander",
+      "slug": "gilgesh01",
+      "espnId": "4278073",
+      "legend": false,
+      "headshot": "media/headshots/nba/gilgesh01.png",
+      "statsPath": "stats/bbref/gilgesh01.json",
+      "vaultPath": "vault/nba/players/shai-gilgeous-alexander.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:19.111Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Shaquille O'Neal",
+      "slug": "o'neash01",
+      "espnId": "614",
+      "legend": true,
+      "headshot": "media/headshots/nba/o'neash01.png",
+      "statsPath": "stats/bbref/o'neash01.json",
+      "vaultPath": "vault/nba/players/shaquille-o-neal.json",
+      "rowCount": 21,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:46:57.701Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Stephen Curry",
+      "slug": "curryst01",
+      "espnId": "3975",
+      "legend": false,
+      "headshot": "media/headshots/nba/curryst01.png",
+      "statsPath": "stats/bbref/curryst01.json",
+      "vaultPath": "vault/nba/players/stephen-curry.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:18:12.480Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Trae Young",
+      "slug": "youngtr01",
+      "espnId": "4277905",
+      "legend": false,
+      "headshot": "media/headshots/nba/youngtr01.png",
+      "statsPath": "stats/bbref/youngtr01.json",
+      "vaultPath": "vault/nba/players/trae-young.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:59.953Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Tyrese Haliburton",
+      "slug": "halibty01",
+      "espnId": "4396993",
+      "legend": false,
+      "headshot": "media/headshots/nba/halibty01.png",
+      "statsPath": "stats/bbref/halibty01.json",
+      "vaultPath": "vault/nba/players/tyrese-haliburton.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:14.788Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Tyrese Maxey",
+      "slug": "maxeyty01",
+      "espnId": "4431678",
+      "legend": false,
+      "headshot": "media/headshots/nba/maxeyty01.png",
+      "statsPath": "stats/bbref/maxeyty01.json",
+      "vaultPath": "vault/nba/players/tyrese-maxey.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:37.204Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Victor Wembanyama",
+      "slug": "wembavi01",
+      "espnId": "5104157",
+      "legend": false,
+      "headshot": "media/headshots/nba/wembavi01.png",
+      "statsPath": "stats/bbref/wembavi01.json",
+      "vaultPath": "vault/nba/players/victor-wembanyama.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:20:05.661Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Walker Kessler",
+      "slug": "kesslwa01",
+      "espnId": "4433136",
+      "legend": false,
+      "headshot": "media/headshots/nba/kesslwa01.png",
+      "statsPath": "stats/bbref/kesslwa01.json",
+      "vaultPath": "vault/nba/players/walker-kessler.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:23:50.310Z"
+    },
+    {
+      "sport": "nba",
+      "name": "Zion Williamson",
+      "slug": "willizi01",
+      "espnId": "4395628",
+      "legend": false,
+      "headshot": "media/headshots/nba/willizi01.png",
+      "statsPath": "stats/bbref/willizi01.json",
+      "vaultPath": "vault/nba/players/zion-williamson.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:21:50.500Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Aaron Rodgers",
+      "slug": "rodgeaa00",
+      "espnId": "8439",
+      "legend": false,
+      "headshot": "media/headshots/nfl/rodgeaa00.png",
+      "statsPath": "stats/pfr/rodgeaa00.json",
+      "vaultPath": "vault/nfl/players/aaron-rodgers.json",
+      "rowCount": 21,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:56.524Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Abdul Carter",
+      "slug": "carteab00",
+      "espnId": "4725996",
+      "legend": false,
+      "headshot": "media/headshots/nfl/carteab00.png",
+      "statsPath": "stats/pfr/carteab00.json",
+      "vaultPath": "vault/nfl/players/abdul-carter.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:45.590Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Aidan Hutchinson",
+      "slug": "hutchai00",
+      "espnId": "4372099",
+      "legend": false,
+      "headshot": "media/headshots/nfl/hutchai00.png",
+      "statsPath": "stats/pfr/hutchai00.json",
+      "vaultPath": "vault/nfl/players/aidan-hutchinson.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:49.858Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Aldon Smith",
+      "slug": "smithal00",
+      "espnId": "13988",
+      "legend": true,
+      "headshot": "media/headshots/nfl/smithal00.png",
+      "statsPath": "stats/pfr/smithal00.json",
+      "vaultPath": "vault/nfl/players/aldon-smith.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:50:36.996Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Amon-Ra St. Brown",
+      "slug": "brownam00",
+      "espnId": "4374302",
+      "legend": false,
+      "headshot": "media/headshots/nfl/brownam00.png",
+      "statsPath": "stats/pfr/brownam00.json",
+      "vaultPath": "vault/nfl/players/amon-ra-st-brown.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:11.640Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Baker Mayfield",
+      "slug": "mayfiba00",
+      "espnId": "3052587",
+      "legend": false,
+      "headshot": "media/headshots/nfl/mayfiba00.png",
+      "statsPath": "stats/pfr/mayfiba00.json",
+      "vaultPath": "vault/nfl/players/baker-mayfield.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:45.359Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Bijan Robinson",
+      "slug": "robinbi00",
+      "espnId": "4430807",
+      "legend": false,
+      "headshot": "media/headshots/nfl/robinbi00.png",
+      "statsPath": "stats/pfr/robinbi00.json",
+      "vaultPath": "vault/nfl/players/bijan-robinson.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:06.911Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Bo Nix",
+      "slug": "nixbo00",
+      "espnId": "4426338",
+      "legend": false,
+      "headshot": "media/headshots/nfl/nixbo00.png",
+      "statsPath": "stats/pfr/nixbo00.json",
+      "vaultPath": "vault/nfl/players/bo-nix.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:01.371Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Breece Hall",
+      "slug": "hallbr00",
+      "espnId": "4427366",
+      "legend": false,
+      "headshot": "media/headshots/nfl/hallbr00.png",
+      "statsPath": "stats/pfr/hallbr00.json",
+      "vaultPath": "vault/nfl/players/breece-hall.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:25.334Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Brian Branch",
+      "slug": "brancbr00",
+      "espnId": "4692025",
+      "legend": false,
+      "headshot": "media/headshots/nfl/brancbr00.png",
+      "statsPath": "stats/pfr/brancbr00.json",
+      "vaultPath": "vault/nfl/players/brian-branch.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:25.900Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Brock Purdy",
+      "slug": "purdybr00",
+      "espnId": "4361741",
+      "legend": false,
+      "headshot": "media/headshots/nfl/purdybr00.png",
+      "statsPath": "stats/pfr/purdybr00.json",
+      "vaultPath": "vault/nfl/players/brock-purdy.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:26.865Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "C.J. Stroud",
+      "slug": "strouc.00",
+      "espnId": "4432577",
+      "legend": false,
+      "headshot": "media/headshots/nfl/strouc.00.png",
+      "statsPath": "stats/pfr/strouc.00.json",
+      "vaultPath": "vault/nfl/players/c-j-stroud.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:57.133Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Caleb Williams",
+      "slug": "willica00",
+      "espnId": "4431611",
+      "legend": false,
+      "headshot": "media/headshots/nfl/willica00.png",
+      "statsPath": "stats/pfr/willica00.json",
+      "vaultPath": "vault/nfl/players/caleb-williams.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:07.875Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Cam Lewis",
+      "slug": "lewisca00",
+      "espnId": "3916577",
+      "legend": true,
+      "headshot": "media/headshots/nfl/lewisca00.png",
+      "statsPath": "stats/pfr/lewisca00.json",
+      "vaultPath": "vault/nfl/players/cam-lewis.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:51:31.861Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "CeeDee Lamb",
+      "slug": "lambce00",
+      "espnId": "4241389",
+      "legend": false,
+      "headshot": "media/headshots/nfl/lambce00.png",
+      "statsPath": "stats/pfr/lambce00.json",
+      "vaultPath": "vault/nfl/players/ceedee-lamb.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:31.275Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Chris Jones",
+      "slug": "jonesch00",
+      "espnId": "3044859",
+      "legend": false,
+      "headshot": "media/headshots/nfl/jonesch00.png",
+      "statsPath": "stats/pfr/jonesch00.json",
+      "vaultPath": "vault/nfl/players/chris-jones.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:36.145Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Christian McCaffrey",
+      "slug": "mccafch00",
+      "espnId": "3117251",
+      "legend": false,
+      "headshot": "media/headshots/nfl/mccafch00.png",
+      "statsPath": "stats/pfr/mccafch00.json",
+      "vaultPath": "vault/nfl/players/christian-mccaffrey.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:11.411Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Cooper DeJean",
+      "slug": "dejeaco00",
+      "espnId": "4682618",
+      "legend": false,
+      "headshot": "media/headshots/nfl/dejeaco00.png",
+      "statsPath": "stats/pfr/dejeaco00.json",
+      "vaultPath": "vault/nfl/players/cooper-dejean.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:45.373Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Cooper Kupp",
+      "slug": "kuppco00",
+      "espnId": "2977187",
+      "legend": false,
+      "headshot": "media/headshots/nfl/kuppco00.png",
+      "statsPath": "stats/pfr/kuppco00.json",
+      "vaultPath": "vault/nfl/players/cooper-kupp.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:36.624Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Dak Prescott",
+      "slug": "prescda00",
+      "espnId": "2577417",
+      "legend": false,
+      "headshot": "media/headshots/nfl/prescda00.png",
+      "statsPath": "stats/pfr/prescda00.json",
+      "vaultPath": "vault/nfl/players/dak-prescott.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:22.223Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Derrick Henry",
+      "slug": "henryde00",
+      "espnId": "3043078",
+      "legend": false,
+      "headshot": "media/headshots/nfl/henryde00.png",
+      "statsPath": "stats/pfr/henryde00.json",
+      "vaultPath": "vault/nfl/players/derrick-henry.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:16.642Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "DeVonta Smith",
+      "slug": "smithde00",
+      "espnId": "4241478",
+      "legend": false,
+      "headshot": "media/headshots/nfl/smithde00.png",
+      "statsPath": "stats/pfr/smithde00.json",
+      "vaultPath": "vault/nfl/players/devonta-smith.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:53.562Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "DK Metcalf",
+      "slug": "metcadk00",
+      "espnId": "4047650",
+      "legend": false,
+      "headshot": "media/headshots/nfl/metcadk00.png",
+      "statsPath": "stats/pfr/metcadk00.json",
+      "vaultPath": "vault/nfl/players/dk-metcalf.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:02.372Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Drake Maye",
+      "slug": "mayedr00",
+      "espnId": "4431452",
+      "legend": false,
+      "headshot": "media/headshots/nfl/mayedr00.png",
+      "statsPath": "stats/pfr/mayedr00.json",
+      "vaultPath": "vault/nfl/players/drake-maye.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:35.244Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Fred Warner",
+      "slug": "warnefr00",
+      "espnId": "3138826",
+      "legend": false,
+      "headshot": "media/headshots/nfl/warnefr00.png",
+      "statsPath": "stats/pfr/warnefr00.json",
+      "vaultPath": "vault/nfl/players/fred-warner.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:07.983Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Garrett Wilson",
+      "slug": "wilsoga00",
+      "espnId": "4569618",
+      "legend": false,
+      "headshot": "media/headshots/nfl/wilsoga00.png",
+      "statsPath": "stats/pfr/wilsoga00.json",
+      "vaultPath": "vault/nfl/players/garrett-wilson.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:49.250Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Geno Smith",
+      "slug": "smithge00",
+      "espnId": "15864",
+      "legend": false,
+      "headshot": "media/headshots/nfl/smithge00.png",
+      "statsPath": "stats/pfr/smithge00.json",
+      "vaultPath": "vault/nfl/players/geno-smith.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:05.564Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "George Kittle",
+      "slug": "kittlge00",
+      "espnId": "3040151",
+      "legend": false,
+      "headshot": "media/headshots/nfl/kittlge00.png",
+      "statsPath": "stats/pfr/kittlge00.json",
+      "vaultPath": "vault/nfl/players/george-kittle.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:14.554Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Ja'Marr Chase",
+      "slug": "chaseja00",
+      "espnId": "4362628",
+      "legend": false,
+      "headshot": "media/headshots/nfl/chaseja00.png",
+      "statsPath": "stats/pfr/chaseja00.json",
+      "vaultPath": "vault/nfl/players/ja-marr-chase.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:22.555Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jahmyr Gibbs",
+      "slug": "gibbsja00",
+      "espnId": "4429795",
+      "legend": false,
+      "headshot": "media/headshots/nfl/gibbsja00.png",
+      "statsPath": "stats/pfr/gibbsja00.json",
+      "vaultPath": "vault/nfl/players/jahmyr-gibbs.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:20.744Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jalen Hurts",
+      "slug": "hurtsja00",
+      "espnId": "4040715",
+      "legend": false,
+      "headshot": "media/headshots/nfl/hurtsja00.png",
+      "statsPath": "stats/pfr/hurtsja00.json",
+      "vaultPath": "vault/nfl/players/jalen-hurts.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:19.566Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jaxon Smith-Njigba",
+      "slug": "smithja00",
+      "espnId": "4430878",
+      "legend": false,
+      "headshot": "media/headshots/nfl/smithja00.png",
+      "statsPath": "stats/pfr/smithja00.json",
+      "vaultPath": "vault/nfl/players/jaxon-smith-njigba.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:16.051Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jayden Daniels",
+      "slug": "danieja00",
+      "espnId": "4426348",
+      "legend": false,
+      "headshot": "media/headshots/nfl/danieja00.png",
+      "statsPath": "stats/pfr/danieja00.json",
+      "vaultPath": "vault/nfl/players/jayden-daniels.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:29.583Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Joe Burrow",
+      "slug": "burrojo00",
+      "espnId": "3915511",
+      "legend": false,
+      "headshot": "media/headshots/nfl/burrojo00.png",
+      "statsPath": "stats/pfr/burrojo00.json",
+      "vaultPath": "vault/nfl/players/joe-burrow.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:38.732Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jonathan Taylor",
+      "slug": "taylojo00",
+      "espnId": "4242335",
+      "legend": false,
+      "headshot": "media/headshots/nfl/taylojo00.png",
+      "statsPath": "stats/pfr/taylojo00.json",
+      "vaultPath": "vault/nfl/players/jonathan-taylor.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:29.673Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jonathan Taylor",
+      "slug": "taylojo00",
+      "espnId": "4242335",
+      "legend": true,
+      "headshot": "media/headshots/nfl/taylojo00.png",
+      "statsPath": "stats/pfr/taylojo00.json",
+      "vaultPath": "vault/nfl/players/jonathan-taylor.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:49:46.420Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Jordan Love",
+      "slug": "lovejo00",
+      "espnId": "4036378",
+      "legend": false,
+      "headshot": "media/headshots/nfl/lovejo00.png",
+      "statsPath": "stats/pfr/lovejo00.json",
+      "vaultPath": "vault/nfl/players/jordan-love.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:40.242Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Josh Allen",
+      "slug": "allenjo00",
+      "espnId": "3918298",
+      "legend": false,
+      "headshot": "media/headshots/nfl/allenjo00.png",
+      "statsPath": "stats/pfr/allenjo00.json",
+      "vaultPath": "vault/nfl/players/josh-allen.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:14.889Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Justin Jefferson",
+      "slug": "jeffeju00",
+      "espnId": "4262921",
+      "legend": false,
+      "headshot": "media/headshots/nfl/jeffeju00.png",
+      "statsPath": "stats/pfr/jeffeju00.json",
+      "vaultPath": "vault/nfl/players/justin-jefferson.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:47.790Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Kyle Hamilton",
+      "slug": "hamilky00",
+      "espnId": "4575517",
+      "legend": false,
+      "headshot": "media/headshots/nfl/hamilky00.png",
+      "statsPath": "stats/pfr/hamilky00.json",
+      "vaultPath": "vault/nfl/players/kyle-hamilton.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:21.404Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Lamar Jackson",
+      "slug": "jacksla00",
+      "espnId": "3916387",
+      "legend": false,
+      "headshot": "media/headshots/nfl/jacksla00.png",
+      "statsPath": "stats/pfr/jacksla00.json",
+      "vaultPath": "vault/nfl/players/lamar-jackson.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:43.799Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Malik Nabers",
+      "slug": "naberma00",
+      "espnId": "4595348",
+      "legend": false,
+      "headshot": "media/headshots/nfl/naberma00.png",
+      "statsPath": "stats/pfr/naberma00.json",
+      "vaultPath": "vault/nfl/players/malik-nabers.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:39.912Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Marvin Harrison Jr.",
+      "slug": "jr.ma00",
+      "espnId": "4432708",
+      "legend": false,
+      "headshot": "media/headshots/nfl/jr.ma00.png",
+      "statsPath": "stats/pfr/jr.ma00.json",
+      "vaultPath": "vault/nfl/players/marvin-harrison-jr.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:44.267Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Matthew Stafford",
+      "slug": "staffma00",
+      "espnId": "12483",
+      "legend": false,
+      "headshot": "media/headshots/nfl/staffma00.png",
+      "statsPath": "stats/pfr/staffma00.json",
+      "vaultPath": "vault/nfl/players/matthew-stafford.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:49.264Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Maxx Crosby",
+      "slug": "crosbma00",
+      "espnId": "3916655",
+      "legend": false,
+      "headshot": "media/headshots/nfl/crosbma00.png",
+      "statsPath": "stats/pfr/crosbma00.json",
+      "vaultPath": "vault/nfl/players/maxx-crosby.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:49.623Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Micah Parsons",
+      "slug": "parsomi00",
+      "espnId": "4361423",
+      "legend": false,
+      "headshot": "media/headshots/nfl/parsomi00.png",
+      "statsPath": "stats/pfr/parsomi00.json",
+      "vaultPath": "vault/nfl/players/micah-parsons.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:53.668Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Myles Garrett",
+      "slug": "garremy00",
+      "espnId": "3122132",
+      "legend": false,
+      "headshot": "media/headshots/nfl/garremy00.png",
+      "statsPath": "stats/pfr/garremy00.json",
+      "vaultPath": "vault/nfl/players/myles-garrett.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:58.816Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Nick Bosa",
+      "slug": "bosani00",
+      "espnId": "4040605",
+      "legend": false,
+      "headshot": "media/headshots/nfl/bosani00.png",
+      "statsPath": "stats/pfr/bosani00.json",
+      "vaultPath": "vault/nfl/players/nick-bosa.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:04.056Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Pat Surtain II",
+      "slug": "iipa00",
+      "espnId": "4372012",
+      "legend": false,
+      "headshot": "media/headshots/nfl/iipa00.png",
+      "statsPath": "stats/pfr/iipa00.json",
+      "vaultPath": "vault/nfl/players/pat-surtain-ii.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:35:21.340Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Patrick Mahomes",
+      "slug": "mahompa00",
+      "espnId": "3139477",
+      "legend": false,
+      "headshot": "media/headshots/nfl/mahompa00.png",
+      "statsPath": "stats/pfr/mahompa00.json",
+      "vaultPath": "vault/nfl/players/patrick-mahomes.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:10.440Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Peyton Manning",
+      "slug": "mannipe00",
+      "espnId": "1428",
+      "legend": true,
+      "headshot": "media/headshots/nfl/mannipe00.png",
+      "statsPath": "stats/pfr/mannipe00.json",
+      "vaultPath": "vault/nfl/players/peyton-manning.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:49:29.815Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Puka Nacua",
+      "slug": "nacuapu00",
+      "espnId": "4426515",
+      "legend": false,
+      "headshot": "media/headshots/nfl/nacuapu00.png",
+      "statsPath": "stats/pfr/nacuapu00.json",
+      "vaultPath": "vault/nfl/players/puka-nacua.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:35.306Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Quinyon Mitchell",
+      "slug": "mitchqu00",
+      "espnId": "4686273",
+      "legend": false,
+      "headshot": "media/headshots/nfl/mitchqu00.png",
+      "statsPath": "stats/pfr/mitchqu00.json",
+      "vaultPath": "vault/nfl/players/quinyon-mitchell.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:40.302Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Rashee Rice",
+      "slug": "ricera00",
+      "espnId": "4428331",
+      "legend": true,
+      "headshot": "media/headshots/nfl/ricera00.png",
+      "statsPath": "stats/pfr/ricera00.json",
+      "vaultPath": "vault/nfl/players/rashee-rice.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:49:38.823Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Riley Moss",
+      "slug": "mossri00",
+      "espnId": "4382401",
+      "legend": true,
+      "headshot": "media/headshots/nfl/mossri00.png",
+      "statsPath": "stats/pfr/mossri00.json",
+      "vaultPath": "vault/nfl/players/riley-moss.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:50:48.122Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Saquon Barkley",
+      "slug": "barklsa00",
+      "espnId": "3929630",
+      "legend": false,
+      "headshot": "media/headshots/nfl/barklsa00.png",
+      "statsPath": "stats/pfr/barklsa00.json",
+      "vaultPath": "vault/nfl/players/saquon-barkley.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:24:23.878Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Sauce Gardner",
+      "slug": "gardnsa00",
+      "espnId": "4427250",
+      "legend": false,
+      "headshot": "media/headshots/nfl/gardnsa00.png",
+      "statsPath": "stats/pfr/gardnsa00.json",
+      "vaultPath": "vault/nfl/players/sauce-gardner.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:12.410Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Shedeur Sanders",
+      "slug": "sandesh00",
+      "espnId": "4432762",
+      "legend": false,
+      "headshot": "media/headshots/nfl/sandesh00.png",
+      "statsPath": "stats/pfr/sandesh00.json",
+      "vaultPath": "vault/nfl/players/shedeur-sanders.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:02.283Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Shedeur Sanders",
+      "slug": "sandesh00",
+      "espnId": "4432762",
+      "legend": true,
+      "headshot": "media/headshots/nfl/sandesh00.png",
+      "statsPath": "stats/pfr/sandesh00.json",
+      "vaultPath": "vault/nfl/players/shedeur-sanders.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:51:39.250Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "T.J. Watt",
+      "slug": "wattt.00",
+      "espnId": "3045282",
+      "legend": false,
+      "headshot": "media/headshots/nfl/wattt.00.png",
+      "statsPath": "stats/pfr/wattt.00.json",
+      "vaultPath": "vault/nfl/players/t-j-watt.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:54.352Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Tee Higgins",
+      "slug": "higgite00",
+      "espnId": "4239993",
+      "legend": false,
+      "headshot": "media/headshots/nfl/higgite00.png",
+      "statsPath": "stats/pfr/higgite00.json",
+      "vaultPath": "vault/nfl/players/tee-higgins.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:57.894Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Tom Brady",
+      "slug": "bradyto00",
+      "espnId": "2330",
+      "legend": true,
+      "headshot": "media/headshots/nfl/bradyto00.png",
+      "statsPath": "stats/pfr/bradyto00.json",
+      "vaultPath": "vault/nfl/players/tom-brady.json",
+      "rowCount": 23,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:49:20.647Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Travis Hunter",
+      "slug": "huntetr00",
+      "espnId": "4685415",
+      "legend": false,
+      "headshot": "media/headshots/nfl/huntetr00.png",
+      "statsPath": "stats/pfr/huntetr00.json",
+      "vaultPath": "vault/nfl/players/travis-hunter.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:27:40.665Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Travis Kelce",
+      "slug": "kelcetr00",
+      "espnId": "15847",
+      "legend": false,
+      "headshot": "media/headshots/nfl/kelcetr00.png",
+      "statsPath": "stats/pfr/kelcetr00.json",
+      "vaultPath": "vault/nfl/players/travis-kelce.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:10.028Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Trevor Lawrence",
+      "slug": "lawretr00",
+      "espnId": "4360310",
+      "legend": false,
+      "headshot": "media/headshots/nfl/lawretr00.png",
+      "statsPath": "stats/pfr/lawretr00.json",
+      "vaultPath": "vault/nfl/players/trevor-lawrence.json",
+      "rowCount": 5,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:31.362Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Trey Hendrickson",
+      "slug": "hendrtr00",
+      "espnId": "3052743",
+      "legend": false,
+      "headshot": "media/headshots/nfl/hendrtr00.png",
+      "statsPath": "stats/pfr/hendrtr00.json",
+      "vaultPath": "vault/nfl/players/trey-hendrickson.json",
+      "rowCount": 9,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:28:31.458Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Tua Tagovailoa",
+      "slug": "tagovtu00",
+      "espnId": "4241479",
+      "legend": false,
+      "headshot": "media/headshots/nfl/tagovtu00.png",
+      "statsPath": "stats/pfr/tagovtu00.json",
+      "vaultPath": "vault/nfl/players/tua-tagovailoa.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:25:35.749Z"
+    },
+    {
+      "sport": "nfl",
+      "name": "Tyreek Hill",
+      "slug": "hillty00",
+      "espnId": "3116406",
+      "legend": false,
+      "headshot": "media/headshots/nfl/hillty00.png",
+      "statsPath": "stats/pfr/hillty00.json",
+      "vaultPath": "vault/nfl/players/tyreek-hill.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T15:26:26.484Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Adam Fox",
+      "slug": "foxad01",
+      "espnId": "4197146",
+      "legend": false,
+      "headshot": "media/headshots/nhl/foxad01.png",
+      "statsPath": "stats/href/foxad01.json",
+      "vaultPath": "vault/nhl/players/adam-fox.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:46.272Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Aleksander Barkov",
+      "slug": "barkoal01",
+      "espnId": "3041970",
+      "legend": false,
+      "headshot": "media/headshots/nhl/barkoal01.png",
+      "statsPath": "stats/href/barkoal01.json",
+      "vaultPath": "vault/nhl/players/aleksander-barkov.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:17.195Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Alex Ovechkin",
+      "slug": "ovechal01",
+      "espnId": "3101",
+      "legend": false,
+      "headshot": "media/headshots/nhl/ovechal01.png",
+      "statsPath": "stats/href/ovechal01.json",
+      "vaultPath": "vault/nhl/players/alex-ovechkin.json",
+      "rowCount": 21,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:54.532Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Andrei Vasilevskiy",
+      "slug": "vasilan01",
+      "espnId": "2976847",
+      "legend": false,
+      "headshot": "media/headshots/nhl/vasilan01.png",
+      "statsPath": "stats/href/vasilan01.json",
+      "vaultPath": "vault/nhl/players/andrei-vasilevskiy.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:53.490Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Artemi Panarin",
+      "slug": "panarar01",
+      "espnId": "3891952",
+      "legend": false,
+      "headshot": "media/headshots/nhl/panarar01.png",
+      "statsPath": "stats/href/panarar01.json",
+      "vaultPath": "vault/nhl/players/artemi-panarin.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:39.735Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Auston Matthews",
+      "slug": "matthau01",
+      "espnId": "4024123",
+      "legend": false,
+      "headshot": "media/headshots/nhl/matthau01.png",
+      "statsPath": "stats/href/matthau01.json",
+      "vaultPath": "vault/nhl/players/auston-matthews.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:40.683Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Brady Tkachuk",
+      "slug": "tkachbr01",
+      "espnId": "4319858",
+      "legend": false,
+      "headshot": "media/headshots/nhl/tkachbr01.png",
+      "statsPath": "stats/href/tkachbr01.json",
+      "vaultPath": "vault/nhl/players/brady-tkachuk.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:08.177Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Brayden Point",
+      "slug": "pointbr01",
+      "espnId": "3151187",
+      "legend": false,
+      "headshot": "media/headshots/nhl/pointbr01.png",
+      "statsPath": "stats/href/pointbr01.json",
+      "vaultPath": "vault/nhl/players/brayden-point.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:54.937Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Brendan Lemieux",
+      "slug": "lemiebr01",
+      "espnId": "3114983",
+      "legend": true,
+      "headshot": "media/headshots/nhl/lemiebr01.png",
+      "statsPath": "stats/href/lemiebr01.json",
+      "vaultPath": "vault/nhl/players/brendan-lemieux.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:53:59.770Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Brock Boeser",
+      "slug": "boesebr01",
+      "espnId": "3899979",
+      "legend": false,
+      "headshot": "media/headshots/nhl/boesebr01.png",
+      "statsPath": "stats/href/boesebr01.json",
+      "vaultPath": "vault/nhl/players/brock-boeser.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:36.021Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Cale Makar",
+      "slug": "makarca01",
+      "espnId": "4233563",
+      "legend": false,
+      "headshot": "media/headshots/nhl/makarca01.png",
+      "statsPath": "stats/href/makarca01.json",
+      "vaultPath": "vault/nhl/players/cale-makar.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:49.704Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Connor Bedard",
+      "slug": "bedarco01",
+      "espnId": "5149125",
+      "legend": false,
+      "headshot": "media/headshots/nhl/bedarco01.png",
+      "statsPath": "stats/href/bedarco01.json",
+      "vaultPath": "vault/nhl/players/connor-bedard.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:12.741Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Connor McDavid",
+      "slug": "mcdavco01",
+      "espnId": "3895074",
+      "legend": false,
+      "headshot": "media/headshots/nhl/mcdavco01.png",
+      "statsPath": "stats/href/mcdavco01.json",
+      "vaultPath": "vault/nhl/players/connor-mcdavid.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:36.098Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "David Pastrnak",
+      "slug": "pastrda01",
+      "espnId": "3114778",
+      "legend": false,
+      "headshot": "media/headshots/nhl/pastrda01.png",
+      "statsPath": "stats/href/pastrda01.json",
+      "vaultPath": "vault/nhl/players/david-pastrnak.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:44.668Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Elias Pettersson",
+      "slug": "petteel01",
+      "espnId": "4233566",
+      "legend": false,
+      "headshot": "media/headshots/nhl/petteel01.png",
+      "statsPath": "stats/href/petteel01.json",
+      "vaultPath": "vault/nhl/players/elias-pettersson.json",
+      "rowCount": 8,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:30.904Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Igor Shesterkin",
+      "slug": "shestig01",
+      "espnId": "3151297",
+      "legend": false,
+      "headshot": "media/headshots/nhl/shestig01.png",
+      "statsPath": "stats/href/shestig01.json",
+      "vaultPath": "vault/nhl/players/igor-shesterkin.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:17.172Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Jack Hughes",
+      "slug": "hugheja01",
+      "espnId": "4565222",
+      "legend": false,
+      "headshot": "media/headshots/nhl/hugheja01.png",
+      "statsPath": "stats/href/hugheja01.json",
+      "vaultPath": "vault/nhl/players/jack-hughes.json",
+      "rowCount": 7,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:21.503Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Jeremy Swayman",
+      "slug": "swaymje01",
+      "espnId": "4712036",
+      "legend": false,
+      "headshot": "media/headshots/nhl/swaymje01.png",
+      "statsPath": "stats/href/swaymje01.json",
+      "vaultPath": "vault/nhl/players/jeremy-swayman.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:49.126Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Kirill Kaprizov",
+      "slug": "kapriki01",
+      "espnId": "3942335",
+      "legend": false,
+      "headshot": "media/headshots/nhl/kapriki01.png",
+      "statsPath": "stats/href/kapriki01.json",
+      "vaultPath": "vault/nhl/players/kirill-kaprizov.json",
+      "rowCount": 6,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:35.317Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Leon Draisaitl",
+      "slug": "draisle01",
+      "espnId": "3114727",
+      "legend": false,
+      "headshot": "media/headshots/nhl/draisle01.png",
+      "statsPath": "stats/href/draisle01.json",
+      "vaultPath": "vault/nhl/players/leon-draisaitl.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:03.265Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Logan Cooley",
+      "slug": "coolelo01",
+      "espnId": "5080143",
+      "legend": false,
+      "headshot": "media/headshots/nhl/coolelo01.png",
+      "statsPath": "stats/href/coolelo01.json",
+      "vaultPath": "vault/nhl/players/logan-cooley.json",
+      "rowCount": 3,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:44:14.010Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Luke Hughes",
+      "slug": "hughelu01",
+      "espnId": "4874719",
+      "legend": false,
+      "headshot": "media/headshots/nhl/hughelu01.png",
+      "statsPath": "stats/href/hughelu01.json",
+      "vaultPath": "vault/nhl/players/luke-hughes.json",
+      "rowCount": 4,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:30.760Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Macklin Celebrini",
+      "slug": "celebma01",
+      "espnId": "5206628",
+      "legend": false,
+      "headshot": "media/headshots/nhl/celebma01.png",
+      "statsPath": "stats/href/celebma01.json",
+      "vaultPath": "vault/nhl/players/macklin-celebrini.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:44:03.070Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Matthew Tkachuk",
+      "slug": "tkachma01",
+      "espnId": "4024854",
+      "legend": false,
+      "headshot": "media/headshots/nhl/tkachma01.png",
+      "statsPath": "stats/href/tkachma01.json",
+      "vaultPath": "vault/nhl/players/matthew-tkachuk.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:03.605Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Matvei Michkov",
+      "slug": "michkma01",
+      "espnId": "5149170",
+      "legend": false,
+      "headshot": "media/headshots/nhl/michkma01.png",
+      "statsPath": "stats/href/michkma01.json",
+      "vaultPath": "vault/nhl/players/matvei-michkov.json",
+      "rowCount": 2,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:44:09.501Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Mikko Rantanen",
+      "slug": "rantami01",
+      "espnId": "3899938",
+      "legend": false,
+      "headshot": "media/headshots/nhl/rantami01.png",
+      "statsPath": "stats/href/rantami01.json",
+      "vaultPath": "vault/nhl/players/mikko-rantanen.json",
+      "rowCount": 14,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:21.997Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Mitch Marner",
+      "slug": "marnemi01",
+      "espnId": "3899937",
+      "legend": false,
+      "headshot": "media/headshots/nhl/marnemi01.png",
+      "statsPath": "stats/href/marnemi01.json",
+      "vaultPath": "vault/nhl/players/mitch-marner.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:08.763Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Nathan MacKinnon",
+      "slug": "mackina01",
+      "espnId": "3041969",
+      "legend": false,
+      "headshot": "media/headshots/nhl/mackina01.png",
+      "statsPath": "stats/href/mackina01.json",
+      "vaultPath": "vault/nhl/players/nathan-mackinnon.json",
+      "rowCount": 13,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:45.299Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Nicolas Roy",
+      "slug": "royni01",
+      "espnId": "3943996",
+      "legend": true,
+      "headshot": "media/headshots/nhl/royni01.png",
+      "statsPath": "stats/href/royni01.json",
+      "vaultPath": "vault/nhl/players/nicolas-roy.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:54:17.843Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Nikita Kucherov",
+      "slug": "kucheni01",
+      "espnId": "2563060",
+      "legend": false,
+      "headshot": "media/headshots/nhl/kucheni01.png",
+      "statsPath": "stats/href/kucheni01.json",
+      "vaultPath": "vault/nhl/players/nikita-kucherov.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:50.205Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Quinn Hughes",
+      "slug": "hughequ01",
+      "espnId": "4320548",
+      "legend": false,
+      "headshot": "media/headshots/nhl/hughequ01.png",
+      "statsPath": "stats/href/hughequ01.json",
+      "vaultPath": "vault/nhl/players/quinn-hughes.json",
+      "rowCount": 10,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:26.896Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Roman Josi",
+      "slug": "josiro01",
+      "espnId": "5436",
+      "legend": false,
+      "headshot": "media/headshots/nhl/josiro01.png",
+      "statsPath": "stats/href/josiro01.json",
+      "vaultPath": "vault/nhl/players/roman-josi.json",
+      "rowCount": 15,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:27.164Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Sam Reinhart",
+      "slug": "reinhsa01",
+      "espnId": "3114722",
+      "legend": false,
+      "headshot": "media/headshots/nhl/reinhsa01.png",
+      "statsPath": "stats/href/reinhsa01.json",
+      "vaultPath": "vault/nhl/players/sam-reinhart.json",
+      "rowCount": 12,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:12.743Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Sergei Bobrovsky",
+      "slug": "bobrose01",
+      "espnId": "5571",
+      "legend": false,
+      "headshot": "media/headshots/nhl/bobrose01.png",
+      "statsPath": "stats/href/bobrose01.json",
+      "vaultPath": "vault/nhl/players/sergei-bobrovsky.json",
+      "rowCount": 16,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:58.940Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Sidney Crosby",
+      "slug": "crosbsi01",
+      "espnId": "3114",
+      "legend": false,
+      "headshot": "media/headshots/nhl/crosbsi01.png",
+      "statsPath": "stats/href/crosbsi01.json",
+      "vaultPath": "vault/nhl/players/sidney-crosby.json",
+      "rowCount": 21,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:41:58.604Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "Victor Hedman",
+      "slug": "hedmavi01",
+      "espnId": "5157",
+      "legend": false,
+      "headshot": "media/headshots/nhl/hedmavi01.png",
+      "statsPath": "stats/href/hedmavi01.json",
+      "vaultPath": "vault/nhl/players/victor-hedman.json",
+      "rowCount": 17,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:42:59.228Z"
+    },
+    {
+      "sport": "nhl",
+      "name": "William Nylander",
+      "slug": "nylanwi01",
+      "espnId": "3114736",
+      "legend": false,
+      "headshot": "media/headshots/nhl/nylanwi01.png",
+      "statsPath": "stats/href/nylanwi01.json",
+      "vaultPath": "vault/nhl/players/william-nylander.json",
+      "rowCount": 11,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T16:43:39.983Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Alexander Zverev",
+      "slug": "2375",
+      "espnId": "2375",
+      "legend": false,
+      "headshot": "media/headshots/tennis/2375.png",
+      "statsPath": "stats/espn-tennis/2375.json",
+      "vaultPath": "vault/tennis/players/alexander-zverev.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:44:08.479Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Aryna Sabalenka",
+      "slug": "3038",
+      "espnId": "3038",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3038.png",
+      "statsPath": "stats/espn-tennis/3038.json",
+      "vaultPath": "vault/tennis/players/aryna-sabalenka.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:36.713Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Carlos Alcaraz",
+      "slug": "3782",
+      "espnId": "3782",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3782.png",
+      "statsPath": "stats/espn-tennis/3782.json",
+      "vaultPath": "vault/tennis/players/carlos-alcaraz.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:06.148Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Coco Gauff",
+      "slug": "3626",
+      "espnId": "3626",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3626.png",
+      "statsPath": "stats/espn-tennis/3626.json",
+      "vaultPath": "vault/tennis/players/coco-gauff.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:29.014Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Daniil Medvedev",
+      "slug": "2383",
+      "espnId": "2383",
+      "legend": false,
+      "headshot": "media/headshots/tennis/2383.png",
+      "statsPath": "stats/espn-tennis/2383.json",
+      "vaultPath": "vault/tennis/players/daniil-medvedev.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:44:00.322Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Elena Rybakina",
+      "slug": "3126",
+      "espnId": "3126",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3126.png",
+      "statsPath": "stats/espn-tennis/3126.json",
+      "vaultPath": "vault/tennis/players/elena-rybakina.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:45:31.683Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Frances Tiafoe",
+      "slug": "2708",
+      "espnId": "2708",
+      "legend": false,
+      "headshot": "media/headshots/tennis/2708.png",
+      "statsPath": "stats/espn-tennis/2708.json",
+      "vaultPath": "vault/tennis/players/frances-tiafoe.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:44:53.551Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Iga Swiatek",
+      "slug": "3730",
+      "espnId": "3730",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3730.png",
+      "statsPath": "stats/espn-tennis/3730.json",
+      "vaultPath": "vault/tennis/players/iga-swiatek.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:45.289Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Jannik Sinner",
+      "slug": "3623",
+      "espnId": "3623",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3623.png",
+      "statsPath": "stats/espn-tennis/3623.json",
+      "vaultPath": "vault/tennis/players/jannik-sinner.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:13.633Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Jessica Pegula",
+      "slug": "2113",
+      "espnId": "2113",
+      "legend": false,
+      "headshot": "media/headshots/tennis/2113.png",
+      "statsPath": "stats/espn-tennis/2113.json",
+      "vaultPath": "vault/tennis/players/jessica-pegula.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:45:23.830Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Lorenzo Musetti",
+      "slug": "3764",
+      "espnId": "3764",
+      "legend": false,
+      "headshot": "media/headshots/tennis/3764.png",
+      "statsPath": "stats/espn-tennis/3764.json",
+      "vaultPath": "vault/tennis/players/lorenzo-musetti.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:44:30.328Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Madison Keys",
+      "slug": "1556",
+      "espnId": "1556",
+      "legend": false,
+      "headshot": "media/headshots/tennis/1556.png",
+      "statsPath": "stats/espn-tennis/1556.json",
+      "vaultPath": "vault/tennis/players/madison-keys.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:45:16.252Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Novak Djokovic",
+      "slug": "296",
+      "espnId": "296",
+      "legend": false,
+      "headshot": "media/headshots/tennis/296.png",
+      "statsPath": "stats/espn-tennis/296.json",
+      "vaultPath": "vault/tennis/players/novak-djokovic.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:21.316Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Rafael Nadal",
+      "slug": "261",
+      "espnId": "261",
+      "legend": true,
+      "headshot": "media/headshots/tennis/261.png",
+      "statsPath": "stats/espn-tennis/261.json",
+      "vaultPath": "vault/tennis/players/rafael-nadal.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:56:42.084Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Roger Federer",
+      "slug": "425",
+      "espnId": "425",
+      "legend": true,
+      "headshot": "media/headshots/tennis/425.png",
+      "statsPath": "stats/espn-tennis/425.json",
+      "vaultPath": "vault/tennis/players/roger-federer.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:56:34.039Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Serena Williams",
+      "slug": "394",
+      "espnId": "394",
+      "legend": true,
+      "headshot": "media/headshots/tennis/394.png",
+      "statsPath": "stats/espn-tennis/394.json",
+      "vaultPath": "vault/tennis/players/serena-williams.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:56:44.716Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Taylor Fritz",
+      "slug": "2946",
+      "espnId": "2946",
+      "legend": false,
+      "headshot": "media/headshots/tennis/2946.png",
+      "statsPath": "stats/espn-tennis/2946.json",
+      "vaultPath": "vault/tennis/players/taylor-fritz.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:43:53.276Z"
+    },
+    {
+      "sport": "tennis",
+      "name": "Tommy Paul",
+      "slug": "2964",
+      "espnId": "2964",
+      "legend": false,
+      "headshot": "media/headshots/tennis/2964.png",
+      "statsPath": "stats/espn-tennis/2964.json",
+      "vaultPath": "vault/tennis/players/tommy-paul.json",
+      "rowCount": 1,
+      "sources": [
+        "espn"
+      ],
+      "ingestedAt": "2026-06-15T17:44:22.812Z"
+    }
+  ]
+}

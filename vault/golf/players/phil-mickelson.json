@@ -1,0 +1,45 @@
+{
+  "id": "308",
+  "espnId": "308",
+  "slug": "308",
+  "name": "Phil Mickelson",
+  "sport": "golf",
+  "headshot": "media/headshots/golf/308.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/308.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "PGA TOUR",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "Majors",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:57:40.619Z"
+}

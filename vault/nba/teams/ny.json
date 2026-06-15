@@ -1,0 +1,36 @@
+{
+  "id": "NY",
+  "espnId": "18",
+  "abbr": "NY",
+  "name": "New York Knicks",
+  "city": "New York",
+  "sport": "nba",
+  "logo": "media/logos/nba/ny.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+  "color": "#1d428a",
+  "alternateColor": "#f58426",
+  "division": "Atlantic Division",
+  "standingSummary": "2nd in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "53-29"
+    },
+    {
+      "label": "Home Record",
+      "summary": "30-10"
+    },
+    {
+      "label": "Away Record",
+      "summary": "22-19"
+    }
+  ],
+  "venue": "Madison Square Garden",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": true,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:17.922Z"
+}

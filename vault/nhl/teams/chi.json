@@ -1,0 +1,213 @@
+{
+  "id": "CHI",
+  "espnId": "4",
+  "abbr": "CHI",
+  "name": "Chicago Blackhawks",
+  "city": "Chicago",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/chi.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png",
+  "color": "#e31937",
+  "alternateColor": "#000000",
+  "division": "Central Division",
+  "standingSummary": "8th in Central Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "29-39-14"
+    },
+    {
+      "label": "Home Record",
+      "summary": "14-19-8"
+    },
+    {
+      "label": "Away Record",
+      "summary": "15-20-6"
+    }
+  ],
+  "venue": "United Center",
+  "roster": [
+    {
+      "id": "5149125",
+      "name": "Connor Bedard",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5149125.png"
+    },
+    {
+      "id": "5216886",
+      "name": "Sacha Boisvert",
+      "position": "C"
+    },
+    {
+      "id": "3115033",
+      "name": "Ryan Donato",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3115033.png"
+    },
+    {
+      "id": "5291935",
+      "name": "Anton Frondell",
+      "position": "C"
+    },
+    {
+      "id": "5080227",
+      "name": "Ryan Greene",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080227.png"
+    },
+    {
+      "id": "3151322",
+      "name": "Sam Lafferty",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3151322.png"
+    },
+    {
+      "id": "5149194",
+      "name": "Oliver Moore",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5149194.png"
+    },
+    {
+      "id": "5080157",
+      "name": "Frank Nazar",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080157.png"
+    },
+    {
+      "id": "2592095",
+      "name": "Teuvo Teravainen",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2592095.png"
+    },
+    {
+      "id": "3942809",
+      "name": "Dominic Toninato",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942809.png"
+    },
+    {
+      "id": "3042056",
+      "name": "Tyler Bertuzzi",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042056.png"
+    },
+    {
+      "id": "3042044",
+      "name": "Andre Burakovsky",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042044.png"
+    },
+    {
+      "id": "5173765",
+      "name": "Nick Lardis",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5173765.png"
+    },
+    {
+      "id": "3149619",
+      "name": "Andrew Mangiapane",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3149619.png"
+    },
+    {
+      "id": "3942746",
+      "name": "Brett Seney",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942746.png"
+    },
+    {
+      "id": "4697787",
+      "name": "Landon Slaggert",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697787.png"
+    },
+    {
+      "id": "4422415",
+      "name": "Ilya Mikheyev",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4422415.png"
+    },
+    {
+      "id": "4697681",
+      "name": "Louis Crevier",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697681.png"
+    },
+    {
+      "id": "4894726",
+      "name": "Ethan Del Mastro",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4894726.png"
+    },
+    {
+      "id": "3944278",
+      "name": "Cavan Fitzgerald",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3944278.png"
+    },
+    {
+      "id": "3069448",
+      "name": "Matt Grzelcyk",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3069448.png"
+    },
+    {
+      "id": "4697717",
+      "name": "Wyatt Kaiser",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697717.png"
+    },
+    {
+      "id": "5080148",
+      "name": "Kevin Korchinski",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080148.png"
+    },
+    {
+      "id": "5206648",
+      "name": "Artyom Levshunov",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5206648.png"
+    },
+    {
+      "id": "5080173",
+      "name": "Sam Rinzel",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080173.png"
+    },
+    {
+      "id": "4565266",
+      "name": "Alex Vlasic",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565266.png"
+    },
+    {
+      "id": "4565234",
+      "name": "Spencer Knight",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565234.png"
+    },
+    {
+      "id": "5331647",
+      "name": "Dave Nozzolillo",
+      "position": "G"
+    },
+    {
+      "id": "4894729",
+      "name": "Arvid Soderblom",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4894729.png"
+    },
+    {
+      "id": "5174104",
+      "name": "Mitchell Weeks",
+      "position": "G"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:16.572Z"
+}

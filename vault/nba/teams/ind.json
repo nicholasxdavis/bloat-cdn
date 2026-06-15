@@ -1,0 +1,36 @@
+{
+  "id": "IND",
+  "espnId": "11",
+  "abbr": "IND",
+  "name": "Indiana Pacers",
+  "city": "Indiana",
+  "sport": "nba",
+  "logo": "media/logos/nba/ind.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+  "color": "#0c2340",
+  "alternateColor": "#ffd520",
+  "division": "Central Division",
+  "standingSummary": "5th in Central Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "19-63"
+    },
+    {
+      "label": "Home Record",
+      "summary": "11-30"
+    },
+    {
+      "label": "Away Record",
+      "summary": "8-33"
+    }
+  ],
+  "venue": "Gainbridge Fieldhouse",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:10.754Z"
+}

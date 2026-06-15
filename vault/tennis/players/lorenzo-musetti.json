@@ -1,0 +1,31 @@
+{
+  "id": "3764",
+  "espnId": "3764",
+  "slug": "3764",
+  "name": "Lorenzo Musetti",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/3764.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/3764.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2019-2020",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:44:30.325Z"
+}

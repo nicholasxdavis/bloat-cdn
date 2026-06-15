@@ -1,0 +1,209 @@
+{
+  "id": "WSH",
+  "espnId": "23",
+  "abbr": "WSH",
+  "name": "Washington Capitals",
+  "city": "Washington",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/wsh.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png",
+  "color": "#d71830",
+  "alternateColor": "#0b1f41",
+  "division": "Metropolitan Division",
+  "standingSummary": "4th in Metropolitan Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "43-30-9"
+    },
+    {
+      "label": "Home Record",
+      "summary": "25-11-5"
+    },
+    {
+      "label": "Away Record",
+      "summary": "18-19-4"
+    }
+  ],
+  "venue": "Capital One Arena",
+  "roster": [
+    {
+      "id": "4996093",
+      "name": "Ethen Frank",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4996093.png"
+    },
+    {
+      "id": "4267976",
+      "name": "David Kampf",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4267976.png"
+    },
+    {
+      "id": "4697405",
+      "name": "Hendrix Lapierre",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697405.png"
+    },
+    {
+      "id": "4565246",
+      "name": "Connor McMichael",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565246.png"
+    },
+    {
+      "id": "4587943",
+      "name": "Aliaksei Protas",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4587943.png"
+    },
+    {
+      "id": "3899933",
+      "name": "Dylan Strome",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3899933.png"
+    },
+    {
+      "id": "3904107",
+      "name": "Anthony Beauvillier",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3904107.png"
+    },
+    {
+      "id": "4024833",
+      "name": "Pierre-Luc Dubois",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4024833.png"
+    },
+    {
+      "id": "5080168",
+      "name": "Ivan Miroshnichenko",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080168.png"
+    },
+    {
+      "id": "3101",
+      "name": "Alex Ovechkin",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3101.png"
+    },
+    {
+      "id": "5229146",
+      "name": "Ilya Protas",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5229146.png"
+    },
+    {
+      "id": "4197009",
+      "name": "Brandon Duhaime",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4197009.png"
+    },
+    {
+      "id": "5149172",
+      "name": "Ryan Leonard",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5149172.png"
+    },
+    {
+      "id": "4697783",
+      "name": "Justin Sourdif",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697783.png"
+    },
+    {
+      "id": "2970615",
+      "name": "Tom Wilson",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2970615.png"
+    },
+    {
+      "id": "4587929",
+      "name": "Declan Chisholm",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4587929.png"
+    },
+    {
+      "id": "4024950",
+      "name": "Jakob Chychrun",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4024950.png"
+    },
+    {
+      "id": "4378677",
+      "name": "Martin Fehervary",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4378677.png"
+    },
+    {
+      "id": "5216918",
+      "name": "Cole Hutson",
+      "position": "D"
+    },
+    {
+      "id": "4233618",
+      "name": "Timothy Liljegren",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233618.png"
+    },
+    {
+      "id": "2529256",
+      "name": "Dylan McIlrath",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2529256.png"
+    },
+    {
+      "id": "3942924",
+      "name": "Matt Roy",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942924.png"
+    },
+    {
+      "id": "4352803",
+      "name": "Rasmus Sandin",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4352803.png"
+    },
+    {
+      "id": "4196930",
+      "name": "Corey Schueneman",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4196930.png"
+    },
+    {
+      "id": "3025524",
+      "name": "Trevor van Riemsdyk",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3025524.png"
+    },
+    {
+      "id": "3095975",
+      "name": "Charlie Lindgren",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3095975.png"
+    },
+    {
+      "id": "5104602",
+      "name": "Clay Stevenson",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5104602.png"
+    },
+    {
+      "id": "4272888",
+      "name": "Logan Thompson",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4272888.png"
+    },
+    {
+      "id": "4894322",
+      "name": "Jesper Vikman",
+      "position": "G"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:25.739Z"
+}

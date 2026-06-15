@@ -1,0 +1,31 @@
+{
+  "id": "3009717",
+  "espnId": "3009717",
+  "slug": "3009717",
+  "name": "Robert Whittaker",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3009717.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3009717.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "27-9-0",
+      "min": "-",
+      "pts": "27",
+      "reb": "9",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:39:51.708Z"
+}

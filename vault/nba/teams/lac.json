@@ -1,0 +1,36 @@
+{
+  "id": "LAC",
+  "espnId": "12",
+  "abbr": "LAC",
+  "name": "LA Clippers",
+  "city": "LA",
+  "sport": "nba",
+  "logo": "media/logos/nba/lac.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+  "color": "#12173f",
+  "alternateColor": "#c8102e",
+  "division": "Pacific Division",
+  "standingSummary": "3rd in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "42-40"
+    },
+    {
+      "label": "Home Record",
+      "summary": "23-18"
+    },
+    {
+      "label": "Away Record",
+      "summary": "19-22"
+    }
+  ],
+  "venue": "crypto.com Arena",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:32.940Z"
+}

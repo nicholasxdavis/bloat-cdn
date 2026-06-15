@@ -1,0 +1,192 @@
+{
+  "id": "STL",
+  "espnId": "24",
+  "abbr": "STL",
+  "name": "St. Louis Cardinals",
+  "city": "St. Louis",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/stl.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+  "color": "#be0a14",
+  "alternateColor": "#001541",
+  "standingSummary": "2nd in NL Cent",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "38-31"
+    },
+    {
+      "label": "Home Record",
+      "summary": "19-16"
+    },
+    {
+      "label": "Away Record",
+      "summary": "19-15"
+    }
+  ],
+  "venue": "Busch Stadium",
+  "roster": [
+    {
+      "id": "42735",
+      "name": "Justin Bruihl",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42735.png"
+    },
+    {
+      "id": "5123582",
+      "name": "Gordon Graceffo",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5123582.png"
+    },
+    {
+      "id": "5006093",
+      "name": "Kyle Leahy",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5006093.png"
+    },
+    {
+      "id": "41173",
+      "name": "Matthew Liberatore",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41173.png"
+    },
+    {
+      "id": "40937",
+      "name": "Dustin May",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40937.png"
+    },
+    {
+      "id": "4424141",
+      "name": "Michael McGreevy",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4424141.png"
+    },
+    {
+      "id": "41509",
+      "name": "Riley O'Brien",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41509.png"
+    },
+    {
+      "id": "4109034",
+      "name": "Andre Pallante",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4109034.png"
+    },
+    {
+      "id": "40456",
+      "name": "JoJo Romero",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40456.png"
+    },
+    {
+      "id": "5201199",
+      "name": "Chris Roycroft",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5201199.png"
+    },
+    {
+      "id": "4917836",
+      "name": "George Soriano",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917836.png"
+    },
+    {
+      "id": "33301",
+      "name": "Ryne Stanek",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33301.png"
+    },
+    {
+      "id": "4649953",
+      "name": "Matt Svanson",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4649953.png"
+    },
+    {
+      "id": "4749675",
+      "name": "Jimmy Crooks",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4749675.png"
+    },
+    {
+      "id": "42608",
+      "name": "Pedro Pages",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42608.png"
+    },
+    {
+      "id": "4345070",
+      "name": "Alec Burleson",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4345070.png"
+    },
+    {
+      "id": "4722953",
+      "name": "Blaze Jordan",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722953.png"
+    },
+    {
+      "id": "4941056",
+      "name": "JJ Wetherholt",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4941056.png"
+    },
+    {
+      "id": "4683365",
+      "name": "Masyn Winn",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4683365.png"
+    },
+    {
+      "id": "4843048",
+      "name": "Nathan Church",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4843048.png"
+    },
+    {
+      "id": "38851",
+      "name": "Jose Fermin",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/38851.png"
+    },
+    {
+      "id": "4448736",
+      "name": "Lars Nootbaar",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4448736.png"
+    },
+    {
+      "id": "5125653",
+      "name": "Bryan Torres",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5125653.png"
+    },
+    {
+      "id": "41047",
+      "name": "Nelson Velazquez",
+      "position": "OF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41047.png"
+    },
+    {
+      "id": "4684778",
+      "name": "Jordan Walker",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4684778.png"
+    },
+    {
+      "id": "41889",
+      "name": "Ivan Herrera",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41889.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:37.718Z"
+}

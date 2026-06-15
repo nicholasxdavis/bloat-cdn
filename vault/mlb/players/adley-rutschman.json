@@ -1,0 +1,150 @@
+{
+  "id": "rutscad01",
+  "espnId": "42178",
+  "slug": "rutscad01",
+  "name": "Adley Rutschman",
+  "sport": "mlb",
+  "position": "C",
+  "team": "BAL",
+  "headshot": "media/headshots/mlb/rutscad01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42178.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "BAL",
+      "gp": "51",
+      "min": "189",
+      "pts": ".265",
+      "reb": "8",
+      "ast": "40",
+      "stl": "0",
+      "blk": "31",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "BAL",
+      "gp": "90",
+      "min": "322",
+      "pts": ".220",
+      "reb": "9",
+      "ast": "29",
+      "stl": "0",
+      "blk": "57",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "BAL",
+      "gp": "148",
+      "min": "571",
+      "pts": ".250",
+      "reb": "19",
+      "ast": "79",
+      "stl": "1",
+      "blk": "103",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "BAL",
+      "gp": "154",
+      "min": "588",
+      "pts": ".277",
+      "reb": "20",
+      "ast": "80",
+      "stl": "1",
+      "blk": "101",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "BAL",
+      "gp": "113",
+      "min": "398",
+      "pts": ".254",
+      "reb": "13",
+      "ast": "42",
+      "stl": "4",
+      "blk": "86",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "vs SD",
+      "result": "L 5-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "vs SD",
+      "result": "W 7-3",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 11",
+      "matchup": "vs SEA",
+      "result": "W 7-5",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "3",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 7",
+      "matchup": "@ TOR",
+      "result": "L 6-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 6",
+      "matchup": "@ TOR",
+      "result": "L 6-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:40:00.069Z"
+}

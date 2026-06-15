@@ -1,0 +1,117 @@
+{
+  "id": "hernácu01",
+  "espnId": "336809",
+  "slug": "hernácu01",
+  "name": "Cucho Hernández",
+  "sport": "mls",
+  "position": "F",
+  "team": "BET",
+  "headshot": "media/headshots/mls/hernácu01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/336809.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26 Europa League",
+      "gp": "-",
+      "min": "-",
+      "pts": "3",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "1",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025-26 Spanish Copa del Rey",
+      "gp": "-",
+      "min": "-",
+      "pts": "1",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "1",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026 International Friendly",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 7",
+      "matchup": "vs JOR",
+      "result": "W 2-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 1",
+      "matchup": "vs CRC",
+      "result": "W 3-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "May 23",
+      "matchup": "vs LEV",
+      "result": "W 2-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "May 12",
+      "matchup": "vs ELC",
+      "result": "W 2-1",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "May 9",
+      "matchup": "@ RSO",
+      "result": "D 2-2",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:46:21.396Z"
+}

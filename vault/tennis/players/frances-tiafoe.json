@@ -1,0 +1,31 @@
+{
+  "id": "2708",
+  "espnId": "2708",
+  "slug": "2708",
+  "name": "Frances Tiafoe",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/2708.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/2708.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2015-2016",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:44:53.549Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "SAC",
+  "espnId": "23",
+  "abbr": "SAC",
+  "name": "Sacramento Kings",
+  "city": "Sacramento",
+  "sport": "nba",
+  "logo": "media/logos/nba/sac.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+  "color": "#5a2d81",
+  "alternateColor": "#6a7a82",
+  "division": "Pacific Division",
+  "standingSummary": "5th in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "22-60"
+    },
+    {
+      "label": "Home Record",
+      "summary": "15-26"
+    },
+    {
+      "label": "Away Record",
+      "summary": "7-34"
+    }
+  ],
+  "venue": "Sleep Train Arena",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:00.779Z"
+}

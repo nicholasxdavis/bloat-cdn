@@ -1,0 +1,135 @@
+{
+  "id": "hutchai00",
+  "espnId": "4372099",
+  "slug": "hutchai00",
+  "name": "Aidan Hutchinson",
+  "sport": "nfl",
+  "position": "DE",
+  "team": "DET",
+  "headshot": "media/headshots/nfl/hutchai00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4372099.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "DET",
+      "gp": "5",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "3",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "@ CHI",
+      "result": "W 19-16",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 25",
+      "matchup": "@ MIN",
+      "result": "L 23-10",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs PIT",
+      "result": "L 29-24",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ LAR",
+      "result": "L 41-34",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 4",
+      "matchup": "vs DAL",
+      "result": "W 44-30",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:49.855Z"
+}

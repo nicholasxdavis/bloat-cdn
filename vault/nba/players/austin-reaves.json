@@ -1,0 +1,150 @@
+{
+  "id": "reaveau01",
+  "espnId": "4066457",
+  "slug": "reaveau01",
+  "name": "Austin Reaves",
+  "sport": "nba",
+  "position": "G",
+  "team": "LAL",
+  "headshot": "media/headshots/nba/reaveau01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4066457.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "LAL",
+      "gp": "51",
+      "min": "34.5",
+      "pts": "23.3",
+      "reb": "4.7",
+      "ast": "5.5",
+      "stl": "1.1",
+      "blk": "0.4",
+      "fgPct": "49.0",
+      "fg3Pct": "36.0",
+      "ftPct": "87.1",
+      "to": "3.0"
+    },
+    {
+      "season": "2024-25",
+      "team": "LAL",
+      "gp": "73",
+      "min": "34.9",
+      "pts": "20.2",
+      "reb": "4.5",
+      "ast": "5.8",
+      "stl": "1.1",
+      "blk": "0.3",
+      "fgPct": "46.0",
+      "fg3Pct": "37.7",
+      "ftPct": "87.7",
+      "to": "2.4"
+    },
+    {
+      "season": "2023-24",
+      "team": "LAL",
+      "gp": "82",
+      "min": "32.1",
+      "pts": "15.9",
+      "reb": "4.3",
+      "ast": "5.5",
+      "stl": "0.8",
+      "blk": "0.3",
+      "fgPct": "48.6",
+      "fg3Pct": "36.7",
+      "ftPct": "85.3",
+      "to": "2.1"
+    },
+    {
+      "season": "2022-23",
+      "team": "LAL",
+      "gp": "64",
+      "min": "28.8",
+      "pts": "13.0",
+      "reb": "3.0",
+      "ast": "3.4",
+      "stl": "0.5",
+      "blk": "0.3",
+      "fgPct": "52.9",
+      "fg3Pct": "39.8",
+      "ftPct": "86.4",
+      "to": "1.5"
+    },
+    {
+      "season": "2021-22",
+      "team": "LAL",
+      "gp": "61",
+      "min": "23.2",
+      "pts": "7.3",
+      "reb": "3.2",
+      "ast": "1.8",
+      "stl": "0.5",
+      "blk": "0.3",
+      "fgPct": "45.9",
+      "fg3Pct": "31.7",
+      "ftPct": "83.9",
+      "to": "0.7"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 11",
+      "matchup": "vs OKC",
+      "result": "L 115-110",
+      "min": "43",
+      "pts": "27",
+      "reb": "7",
+      "ast": "6",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "May 9",
+      "matchup": "vs OKC",
+      "result": "L 131-108",
+      "min": "39",
+      "pts": "17",
+      "reb": "3",
+      "ast": "9",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "May 7",
+      "matchup": "@ OKC",
+      "result": "L 125-107",
+      "min": "38",
+      "pts": "31",
+      "reb": "2",
+      "ast": "6",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "May 5",
+      "matchup": "@ OKC",
+      "result": "L 108-90",
+      "min": "36",
+      "pts": "8",
+      "reb": "5",
+      "ast": "6",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "May 1",
+      "matchup": "@ HOU",
+      "result": "W 98-78",
+      "min": "31",
+      "pts": "15",
+      "reb": "3",
+      "ast": "2",
+      "stl": "0",
+      "blk": "3"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:22:50.671Z"
+}

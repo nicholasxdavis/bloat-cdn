@@ -1,0 +1,192 @@
+{
+  "id": "ATL",
+  "espnId": "15",
+  "abbr": "ATL",
+  "name": "Atlanta Braves",
+  "city": "Atlanta",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/atl.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+  "color": "#0c2340",
+  "alternateColor": "#ba0c2f",
+  "standingSummary": "1st in NL East",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "46-25"
+    },
+    {
+      "label": "Home Record",
+      "summary": "22-11"
+    },
+    {
+      "label": "Away Record",
+      "summary": "24-14"
+    }
+  ],
+  "venue": "Truist Park",
+  "roster": [
+    {
+      "id": "4416462",
+      "name": "Dylan Dodd",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4416462.png"
+    },
+    {
+      "id": "4301067",
+      "name": "Bryce Elder",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4301067.png"
+    },
+    {
+      "id": "5291189",
+      "name": "Didier Fuentes",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5291189.png"
+    },
+    {
+      "id": "33840",
+      "name": "Grant Holmes",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33840.png"
+    },
+    {
+      "id": "33618",
+      "name": "Raisel Iglesias",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33618.png"
+    },
+    {
+      "id": "40715",
+      "name": "James Karinchak",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40715.png"
+    },
+    {
+      "id": "41455",
+      "name": "Dylan Lee",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41455.png"
+    },
+    {
+      "id": "33860",
+      "name": "Reynaldo Lopez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33860.png"
+    },
+    {
+      "id": "5016983",
+      "name": "Anthony Molina",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5016983.png"
+    },
+    {
+      "id": "31098",
+      "name": "Martin Perez",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31098.png"
+    },
+    {
+      "id": "5080757",
+      "name": "JR Ritchie",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5080757.png"
+    },
+    {
+      "id": "30948",
+      "name": "Chris Sale",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30948.png"
+    },
+    {
+      "id": "4148749",
+      "name": "Robert Suarez",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4148749.png"
+    },
+    {
+      "id": "32101",
+      "name": "Sandy Leon",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32101.png"
+    },
+    {
+      "id": "35314",
+      "name": "Austin Wynns",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35314.png"
+    },
+    {
+      "id": "33783",
+      "name": "Ozzie Albies",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33783.png"
+    },
+    {
+      "id": "35304",
+      "name": "Mauricio Dubon",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35304.png"
+    },
+    {
+      "id": "4089862",
+      "name": "Ha-Seong Kim",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4089862.png"
+    },
+    {
+      "id": "33832",
+      "name": "Jorge Mateo",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33832.png"
+    },
+    {
+      "id": "32767",
+      "name": "Matt Olson",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32767.png"
+    },
+    {
+      "id": "34982",
+      "name": "Austin Riley",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34982.png"
+    },
+    {
+      "id": "34287",
+      "name": "Rowdy Tellez",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/34287.png"
+    },
+    {
+      "id": "42470",
+      "name": "Michael Harris II",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42470.png"
+    },
+    {
+      "id": "39963",
+      "name": "Eli White",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39963.png"
+    },
+    {
+      "id": "33341",
+      "name": "Mike Yastrzemski",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33341.png"
+    },
+    {
+      "id": "33218",
+      "name": "Dominic Smith",
+      "position": "DH",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33218.png"
+    }
+  ],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:16.665Z"
+}

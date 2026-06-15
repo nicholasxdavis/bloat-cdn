@@ -1,0 +1,150 @@
+{
+  "id": "chaseja00",
+  "espnId": "4362628",
+  "slug": "chaseja00",
+  "name": "Ja'Marr Chase",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "CIN",
+  "headshot": "media/headshots/nfl/chaseja00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "CIN",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,412",
+      "reb": "8",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2024",
+      "team": "CIN",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,708",
+      "reb": "17",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2023",
+      "team": "CIN",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,216",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2022",
+      "team": "CIN",
+      "gp": "12",
+      "min": "-",
+      "pts": "1,046",
+      "reb": "9",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    },
+    {
+      "season": "2021",
+      "team": "CIN",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,455",
+      "reb": "13",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "vs CLE",
+      "result": "L 20-18",
+      "min": "—",
+      "pts": "96",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "vs ARI",
+      "result": "W 37-14",
+      "min": "—",
+      "pts": "60",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "@ MIA",
+      "result": "W 45-21",
+      "min": "—",
+      "pts": "109",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "vs BAL",
+      "result": "L 24-0",
+      "min": "—",
+      "pts": "132",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "@ BUF",
+      "result": "L 39-34",
+      "min": "—",
+      "pts": "44",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:26:22.552Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "CLE",
+  "espnId": "5",
+  "abbr": "CLE",
+  "name": "Cleveland Cavaliers",
+  "city": "Cleveland",
+  "sport": "nba",
+  "logo": "media/logos/nba/cle.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+  "color": "#860038",
+  "alternateColor": "#bc945c",
+  "division": "Central Division",
+  "standingSummary": "2nd in Central Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "52-30"
+    },
+    {
+      "label": "Home Record",
+      "summary": "27-14"
+    },
+    {
+      "label": "Away Record",
+      "summary": "25-16"
+    }
+  ],
+  "venue": "Rocket Arena",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:30.128Z"
+}

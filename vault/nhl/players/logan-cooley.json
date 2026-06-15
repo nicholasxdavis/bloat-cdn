@@ -1,0 +1,120 @@
+{
+  "id": "coolelo01",
+  "espnId": "5080143",
+  "slug": "coolelo01",
+  "name": "Logan Cooley",
+  "sport": "nhl",
+  "position": "C",
+  "team": "UTAH",
+  "headshot": "media/headshots/nhl/coolelo01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5080143.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "25-26",
+      "team": "UTA",
+      "gp": "54",
+      "min": "-",
+      "pts": "43",
+      "reb": "24",
+      "ast": "19",
+      "stl": "3",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "24-25",
+      "team": "UTAH",
+      "gp": "75",
+      "min": "-",
+      "pts": "65",
+      "reb": "25",
+      "ast": "40",
+      "stl": "1",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "23-24",
+      "team": "ARI",
+      "gp": "82",
+      "min": "-",
+      "pts": "44",
+      "reb": "20",
+      "ast": "24",
+      "stl": "-13",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 1",
+      "matchup": "vs VGK",
+      "result": "L 5-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 29",
+      "matchup": "@ VGK",
+      "result": "L 5-4 2OT",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 27",
+      "matchup": "vs VGK",
+      "result": "L 5-4 OT",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 24",
+      "matchup": "vs VGK",
+      "result": "W 4-2",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
+      "date": "Apr 21",
+      "matchup": "@ VGK",
+      "result": "W 3-2",
+      "min": "—",
+      "pts": "1",
+      "reb": "1",
+      "ast": "0",
+      "stl": "2",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:44:14.008Z"
+}

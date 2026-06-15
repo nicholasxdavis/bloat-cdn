@@ -1,0 +1,192 @@
+{
+  "id": "LAA",
+  "espnId": "3",
+  "abbr": "LAA",
+  "name": "Los Angeles Angels",
+  "city": "Los Angeles",
+  "sport": "mlb",
+  "logo": "media/logos/mlb/laa.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
+  "color": "#ba0021",
+  "alternateColor": "#c4ced4",
+  "standingSummary": "5th in AL West",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "29-43"
+    },
+    {
+      "label": "Home Record",
+      "summary": "17-20"
+    },
+    {
+      "label": "Away Record",
+      "summary": "12-23"
+    }
+  ],
+  "venue": "Angel Stadium",
+  "roster": [
+    {
+      "id": "5221123",
+      "name": "Sam Aldegheri",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5221123.png"
+    },
+    {
+      "id": "4621489",
+      "name": "Sam Bachman",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4621489.png"
+    },
+    {
+      "id": "4326697",
+      "name": "Reid Detmers",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4326697.png"
+    },
+    {
+      "id": "5273851",
+      "name": "Mitch Farris",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5273851.png"
+    },
+    {
+      "id": "5207461",
+      "name": "Samy Natera Jr.",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5207461.png"
+    },
+    {
+      "id": "31010",
+      "name": "Drew Pomeranz",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31010.png"
+    },
+    {
+      "id": "41196",
+      "name": "Grayson Rodriguez",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41196.png"
+    },
+    {
+      "id": "4413990",
+      "name": "Chase Silseth",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4413990.png"
+    },
+    {
+      "id": "40973",
+      "name": "Jose Soriano",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40973.png"
+    },
+    {
+      "id": "36023",
+      "name": "Brent Suter",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/36023.png"
+    },
+    {
+      "id": "5197476",
+      "name": "Walbert Urena",
+      "position": "SP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5197476.png"
+    },
+    {
+      "id": "32623",
+      "name": "Kirby Yates",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32623.png"
+    },
+    {
+      "id": "4722057",
+      "name": "Ryan Zeferjahn",
+      "position": "RP",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4722057.png"
+    },
+    {
+      "id": "42047",
+      "name": "Logan O'Hoppe",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42047.png"
+    },
+    {
+      "id": "4981312",
+      "name": "Logan Porter",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4981312.png"
+    },
+    {
+      "id": "4917822",
+      "name": "Denzer Guzman",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917822.png"
+    },
+    {
+      "id": "41170",
+      "name": "Nick Madrigal",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41170.png"
+    },
+    {
+      "id": "33351",
+      "name": "Trey Mancini",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33351.png"
+    },
+    {
+      "id": "4666100",
+      "name": "Zach Neto",
+      "position": "SS",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4666100.png"
+    },
+    {
+      "id": "42479",
+      "name": "Oswald Peraza",
+      "position": "2B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42479.png"
+    },
+    {
+      "id": "4739755",
+      "name": "Nolan Schanuel",
+      "position": "1B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4739755.png"
+    },
+    {
+      "id": "37232",
+      "name": "Donovan Walton",
+      "position": "3B",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/37232.png"
+    },
+    {
+      "id": "40854",
+      "name": "Jo Adell",
+      "position": "RF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/40854.png"
+    },
+    {
+      "id": "4424090",
+      "name": "Wade Meckler",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4424090.png"
+    },
+    {
+      "id": "33954",
+      "name": "Jose Siri",
+      "position": "LF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33954.png"
+    },
+    {
+      "id": "30836",
+      "name": "Mike Trout",
+      "position": "CF",
+      "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30836.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:40.700Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "sandesh00",
+  "espnId": "4432762",
+  "slug": "sandesh00",
+  "name": "Shedeur Sanders",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "CLE",
+  "headshot": "media/headshots/nfl/sandesh00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432762.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "CLE",
+      "gp": "8",
+      "min": "-",
+      "pts": "1,400",
+      "reb": "7",
+      "ast": "10",
+      "stl": "120",
+      "blk": "212",
+      "fgPct": "18.9",
+      "fg3Pct": "68.1",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "@ CIN",
+      "result": "W 20-18",
+      "min": "—",
+      "pts": "111",
+      "reb": "0",
+      "ast": "0",
+      "stl": "11",
+      "blk": "22"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "vs PIT",
+      "result": "W 13-6",
+      "min": "—",
+      "pts": "186",
+      "reb": "1",
+      "ast": "2",
+      "stl": "17",
+      "blk": "23"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs BUF",
+      "result": "L 23-20",
+      "min": "—",
+      "pts": "157",
+      "reb": "1",
+      "ast": "2",
+      "stl": "20",
+      "blk": "29"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ CHI",
+      "result": "L 31-3",
+      "min": "—",
+      "pts": "177",
+      "reb": "0",
+      "ast": "3",
+      "stl": "18",
+      "blk": "35"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs TEN",
+      "result": "L 31-29",
+      "min": "—",
+      "pts": "364",
+      "reb": "3",
+      "ast": "1",
+      "stl": "23",
+      "blk": "42"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:51:39.247Z"
+}

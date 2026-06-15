@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ARI",
+    "espnId": "29",
+    "name": "Arizona Diamondbacks",
+    "abbr": "ARI",
+    "city": "Arizona",
+    "logo": "media/logos/mlb/ari.png",
+    "color": "#aa182c",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "ATH",
+    "espnId": "11",
+    "name": "Athletics",
+    "abbr": "ATH",
+    "city": "Athletics",
+    "logo": "media/logos/mlb/ath.png",
+    "color": "#003831",
+    "alternateColor": "#efb21e"
+  },
+  {
+    "id": "ATL",
+    "espnId": "15",
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "city": "Atlanta",
+    "logo": "media/logos/mlb/atl.png",
+    "color": "#0c2340",
+    "alternateColor": "#ba0c2f"
+  },
+  {
+    "id": "BAL",
+    "espnId": "1",
+    "name": "Baltimore Orioles",
+    "abbr": "BAL",
+    "city": "Baltimore",
+    "logo": "media/logos/mlb/bal.png",
+    "color": "#df4601",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "BOS",
+    "espnId": "2",
+    "name": "Boston Red Sox",
+    "abbr": "BOS",
+    "city": "Boston",
+    "logo": "media/logos/mlb/bos.png",
+    "color": "#0d2b56",
+    "alternateColor": "#bd3039"
+  },
+  {
+    "id": "CHC",
+    "espnId": "16",
+    "name": "Chicago Cubs",
+    "abbr": "CHC",
+    "city": "Chicago",
+    "logo": "media/logos/mlb/chc.png",
+    "color": "#0e3386",
+    "alternateColor": "#cc3433"
+  },
+  {
+    "id": "CHW",
+    "espnId": "4",
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "city": "Chicago",
+    "logo": "media/logos/mlb/chw.png",
+    "color": "#000000",
+    "alternateColor": "#c4ced4"
+  },
+  {
+    "id": "CIN",
+    "espnId": "17",
+    "name": "Cincinnati Reds",
+    "abbr": "CIN",
+    "city": "Cincinnati",
+    "logo": "media/logos/mlb/cin.png",
+    "color": "#c6011f",
+    "alternateColor": "#ffffff"
+  },
+  {
+    "id": "CLE",
+    "espnId": "5",
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "city": "Cleveland",
+    "logo": "media/logos/mlb/cle.png",
+    "color": "#002b5c",
+    "alternateColor": "#e31937"
+  },
+  {
+    "id": "COL",
+    "espnId": "27",
+    "name": "Colorado Rockies",
+    "abbr": "COL",
+    "city": "Colorado",
+    "logo": "media/logos/mlb/col.png",
+    "color": "#33006f",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "DET",
+    "espnId": "6",
+    "name": "Detroit Tigers",
+    "abbr": "DET",
+    "city": "Detroit",
+    "logo": "media/logos/mlb/det.png",
+    "color": "#0a2240",
+    "alternateColor": "#ff4713"
+  },
+  {
+    "id": "HOU",
+    "espnId": "18",
+    "name": "Houston Astros",
+    "abbr": "HOU",
+    "city": "Houston",
+    "logo": "media/logos/mlb/hou.png",
+    "color": "#002d62",
+    "alternateColor": "#eb6e1f"
+  },
+  {
+    "id": "KC",
+    "espnId": "7",
+    "name": "Kansas City Royals",
+    "abbr": "KC",
+    "city": "Kansas City",
+    "logo": "media/logos/mlb/kc.png",
+    "color": "#004687",
+    "alternateColor": "#7ab2dd"
+  },
+  {
+    "id": "LAA",
+    "espnId": "3",
+    "name": "Los Angeles Angels",
+    "abbr": "LAA",
+    "city": "Los Angeles",
+    "logo": "media/logos/mlb/laa.png",
+    "color": "#ba0021",
+    "alternateColor": "#c4ced4"
+  },
+  {
+    "id": "LAD",
+    "espnId": "19",
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "city": "Los Angeles",
+    "logo": "media/logos/mlb/lad.png",
+    "color": "#005a9c",
+    "alternateColor": "#ffffff"
+  },
+  {
+    "id": "MIA",
+    "espnId": "28",
+    "name": "Miami Marlins",
+    "abbr": "MIA",
+    "city": "Miami",
+    "logo": "media/logos/mlb/mia.png",
+    "color": "#00a3e0",
+    "alternateColor": "#000000"
+  },
+  {
+    "id": "MIL",
+    "espnId": "8",
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "city": "Milwaukee",
+    "logo": "media/logos/mlb/mil.png",
+    "color": "#13294b",
+    "alternateColor": "#ffc72c"
+  },
+  {
+    "id": "MIN",
+    "espnId": "9",
+    "name": "Minnesota Twins",
+    "abbr": "MIN",
+    "city": "Minnesota",
+    "logo": "media/logos/mlb/min.png",
+    "color": "#031f40",
+    "alternateColor": "#e20e32"
+  },
+  {
+    "id": "NYM",
+    "espnId": "21",
+    "name": "New York Mets",
+    "abbr": "NYM",
+    "city": "New York",
+    "logo": "media/logos/mlb/nym.png",
+    "color": "#002d72",
+    "alternateColor": "#ff5910"
+  },
+  {
+    "id": "NYY",
+    "espnId": "10",
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "city": "New York",
+    "logo": "media/logos/mlb/nyy.png",
+    "color": "#132448",
+    "alternateColor": "#c4ced4"
+  },
+  {
+    "id": "PHI",
+    "espnId": "22",
+    "name": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "city": "Philadelphia",
+    "logo": "media/logos/mlb/phi.png",
+    "color": "#e81828",
+    "alternateColor": "#003278"
+  },
+  {
+    "id": "PIT",
+    "espnId": "23",
+    "name": "Pittsburgh Pirates",
+    "abbr": "PIT",
+    "city": "Pittsburgh",
+    "logo": "media/logos/mlb/pit.png",
+    "color": "#000000",
+    "alternateColor": "#fdb827"
+  },
+  {
+    "id": "SD",
+    "espnId": "25",
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "city": "San Diego",
+    "logo": "media/logos/mlb/sd.png",
+    "color": "#2f241d",
+    "alternateColor": "#ffc425"
+  },
+  {
+    "id": "SF",
+    "espnId": "26",
+    "name": "San Francisco Giants",
+    "abbr": "SF",
+    "city": "San Francisco",
+    "logo": "media/logos/mlb/sf.png",
+    "color": "#000000",
+    "alternateColor": "#fd5a1e"
+  },
+  {
+    "id": "SEA",
+    "espnId": "12",
+    "name": "Seattle Mariners",
+    "abbr": "SEA",
+    "city": "Seattle",
+    "logo": "media/logos/mlb/sea.png",
+    "color": "#005c5c",
+    "alternateColor": "#0c2c56"
+  },
+  {
+    "id": "STL",
+    "espnId": "24",
+    "name": "St. Louis Cardinals",
+    "abbr": "STL",
+    "city": "St. Louis",
+    "logo": "media/logos/mlb/stl.png",
+    "color": "#be0a14",
+    "alternateColor": "#001541"
+  },
+  {
+    "id": "TB",
+    "espnId": "30",
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "city": "Tampa Bay",
+    "logo": "media/logos/mlb/tb.png",
+    "color": "#092c5c",
+    "alternateColor": "#8fbce6"
+  },
+  {
+    "id": "TEX",
+    "espnId": "13",
+    "name": "Texas Rangers",
+    "abbr": "TEX",
+    "city": "Texas",
+    "logo": "media/logos/mlb/tex.png",
+    "color": "#003278",
+    "alternateColor": "#c0111f"
+  },
+  {
+    "id": "TOR",
+    "espnId": "14",
+    "name": "Toronto Blue Jays",
+    "abbr": "TOR",
+    "city": "Toronto",
+    "logo": "media/logos/mlb/tor.png",
+    "color": "#134a8e",
+    "alternateColor": "#6cace5"
+  },
+  {
+    "id": "WSH",
+    "espnId": "20",
+    "name": "Washington Nationals",
+    "abbr": "WSH",
+    "city": "Washington",
+    "logo": "media/logos/mlb/wsh.png",
+    "color": "#ab0003",
+    "alternateColor": "#11225b"
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "id": "kesslwa01",
+  "espnId": "4433136",
+  "slug": "kesslwa01",
+  "name": "Walker Kessler",
+  "sport": "nba",
+  "position": "C",
+  "team": "UTAH",
+  "headshot": "media/headshots/nba/kesslwa01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433136.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "UTAH",
+      "gp": "5",
+      "min": "30.8",
+      "pts": "14.4",
+      "reb": "10.8",
+      "ast": "3.0",
+      "stl": "1.4",
+      "blk": "1.8",
+      "fgPct": "70.3",
+      "fg3Pct": "75.0",
+      "ftPct": "70.0",
+      "to": "3.2"
+    },
+    {
+      "season": "2024-25",
+      "team": "UTAH",
+      "gp": "58",
+      "min": "30.0",
+      "pts": "11.1",
+      "reb": "12.2",
+      "ast": "1.7",
+      "stl": "0.6",
+      "blk": "2.4",
+      "fgPct": "66.3",
+      "fg3Pct": "17.6",
+      "ftPct": "52.0",
+      "to": "1.5"
+    },
+    {
+      "season": "2023-24",
+      "team": "UTAH",
+      "gp": "64",
+      "min": "23.3",
+      "pts": "8.1",
+      "reb": "7.5",
+      "ast": "0.9",
+      "stl": "0.5",
+      "blk": "2.4",
+      "fgPct": "65.4",
+      "fg3Pct": "21.1",
+      "ftPct": "60.2",
+      "to": "1.0"
+    },
+    {
+      "season": "2022-23",
+      "team": "UTAH",
+      "gp": "74",
+      "min": "23.0",
+      "pts": "9.2",
+      "reb": "8.4",
+      "ast": "0.9",
+      "stl": "0.4",
+      "blk": "2.3",
+      "fgPct": "72.0",
+      "fg3Pct": "33.3",
+      "ftPct": "51.6",
+      "to": "0.8"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Oct 31",
+      "matchup": "@ PHX",
+      "result": "L 118-96",
+      "min": "29",
+      "pts": "4",
+      "reb": "13",
+      "ast": "1",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Oct 29",
+      "matchup": "vs POR",
+      "result": "L 136-134",
+      "min": "32",
+      "pts": "18",
+      "reb": "12",
+      "ast": "4",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Oct 27",
+      "matchup": "vs PHX",
+      "result": "W 138-134 OT",
+      "min": "35",
+      "pts": "25",
+      "reb": "11",
+      "ast": "4",
+      "stl": "0",
+      "blk": "4"
+    },
+    {
+      "date": "Oct 24",
+      "matchup": "@ SAC",
+      "result": "L 105-104",
+      "min": "30",
+      "pts": "3",
+      "reb": "9",
+      "ast": "2",
+      "stl": "3",
+      "blk": "0"
+    },
+    {
+      "date": "Oct 22",
+      "matchup": "vs LAC",
+      "result": "W 129-108",
+      "min": "29",
+      "pts": "22",
+      "reb": "9",
+      "ast": "4",
+      "stl": "2",
+      "blk": "4"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:50.307Z"
+}

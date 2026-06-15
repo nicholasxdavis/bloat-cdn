@@ -1,0 +1,210 @@
+{
+  "id": "VAN",
+  "espnId": "22",
+  "abbr": "VAN",
+  "name": "Vancouver Canucks",
+  "city": "Vancouver",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/van.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
+  "color": "#003e7e",
+  "alternateColor": "#008752",
+  "division": "Pacific Division",
+  "standingSummary": "8th in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "25-49-8"
+    },
+    {
+      "label": "Home Record",
+      "summary": "9-27-5"
+    },
+    {
+      "label": "Away Record",
+      "summary": "16-22-3"
+    }
+  ],
+  "venue": "Rogers Arena",
+  "roster": [
+    {
+      "id": "4697579",
+      "name": "Nils Aman",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697579.png"
+    },
+    {
+      "id": "3024916",
+      "name": "Teddy Blueger",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3024916.png"
+    },
+    {
+      "id": "4233643",
+      "name": "Filip Chytil",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233643.png"
+    },
+    {
+      "id": "5291951",
+      "name": "Braeden Cootes",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5291951.png"
+    },
+    {
+      "id": "4331586",
+      "name": "Curtis Douglas",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4331586.png"
+    },
+    {
+      "id": "4587713",
+      "name": "Linus Karlsson",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4587713.png"
+    },
+    {
+      "id": "4233566",
+      "name": "Elias Pettersson",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233566.png"
+    },
+    {
+      "id": "4874912",
+      "name": "Aatu Raty",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874912.png"
+    },
+    {
+      "id": "4697391",
+      "name": "Marco Rossi",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697391.png"
+    },
+    {
+      "id": "4894721",
+      "name": "Ilya Safonov",
+      "position": "C"
+    },
+    {
+      "id": "4996099",
+      "name": "Max Sasson",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4996099.png"
+    },
+    {
+      "id": "3900240",
+      "name": "Jake DeBrusk",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3900240.png"
+    },
+    {
+      "id": "4565263",
+      "name": "Nils Hoglander",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565263.png"
+    },
+    {
+      "id": "5251",
+      "name": "Evander Kane",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5251.png"
+    },
+    {
+      "id": "4712146",
+      "name": "Drew O'Connor",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4712146.png"
+    },
+    {
+      "id": "5080163",
+      "name": "Liam Ohgren",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080163.png"
+    },
+    {
+      "id": "3899979",
+      "name": "Brock Boeser",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3899979.png"
+    },
+    {
+      "id": "5206642",
+      "name": "Zeev Buium",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5206642.png"
+    },
+    {
+      "id": "5829",
+      "name": "Derek Forbort",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5829.png"
+    },
+    {
+      "id": "4063607",
+      "name": "Filip Hronek",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4063607.png"
+    },
+    {
+      "id": "4233653",
+      "name": "Pierre-Olivier Joseph",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233653.png"
+    },
+    {
+      "id": "5188334",
+      "name": "Victor Mancini",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5188334.png"
+    },
+    {
+      "id": "5238086",
+      "name": "Elias N. Pettersson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5238086.png"
+    },
+    {
+      "id": "3114995",
+      "name": "Marcus Pettersson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114995.png"
+    },
+    {
+      "id": "5149180",
+      "name": "Tom Willander",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5149180.png"
+    },
+    {
+      "id": "3096217",
+      "name": "Thatcher Demko",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3096217.png"
+    },
+    {
+      "id": "4341584",
+      "name": "Kevin Lankinen",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4341584.png"
+    },
+    {
+      "id": "4271212",
+      "name": "Jiri Patera",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4271212.png"
+    },
+    {
+      "id": "5188534",
+      "name": "Nikita Tolopilo",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5188534.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:31.771Z"
+}

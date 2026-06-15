@@ -1,0 +1,31 @@
+{
+  "id": "1556",
+  "espnId": "1556",
+  "slug": "1556",
+  "name": "Madison Keys",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/1556.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/1556.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2009-2010",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:45:16.249Z"
+}

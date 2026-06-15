@@ -1,0 +1,120 @@
+{
+  "id": "ricera00",
+  "espnId": "4428331",
+  "slug": "ricera00",
+  "name": "Rashee Rice",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "KC",
+  "headshot": "media/headshots/nfl/ricera00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4428331.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "KC",
+      "gp": "8",
+      "min": "-",
+      "pts": "571",
+      "reb": "5",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2024",
+      "team": "KC",
+      "gp": "4",
+      "min": "-",
+      "pts": "288",
+      "reb": "2",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2023",
+      "team": "KC",
+      "gp": "16",
+      "min": "-",
+      "pts": "938",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Dec 14",
+      "matchup": "vs LAC",
+      "result": "L 16-13",
+      "min": "—",
+      "pts": "51",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs HOU",
+      "result": "L 20-10",
+      "min": "—",
+      "pts": "34",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 27",
+      "matchup": "@ DAL",
+      "result": "L 31-28",
+      "min": "—",
+      "pts": "92",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 23",
+      "matchup": "vs IND",
+      "result": "W 23-20 OT",
+      "min": "—",
+      "pts": "141",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Nov 16",
+      "matchup": "@ DEN",
+      "result": "L 22-19",
+      "min": "—",
+      "pts": "38",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:49:38.820Z"
+}

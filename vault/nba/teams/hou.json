@@ -1,0 +1,36 @@
+{
+  "id": "HOU",
+  "espnId": "10",
+  "abbr": "HOU",
+  "name": "Houston Rockets",
+  "city": "Houston",
+  "sport": "nba",
+  "logo": "media/logos/nba/hou.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+  "color": "#ce1141",
+  "alternateColor": "#000000",
+  "division": "Southwest Division",
+  "standingSummary": "2nd in Southwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "52-30"
+    },
+    {
+      "label": "Home Record",
+      "summary": "30-11"
+    },
+    {
+      "label": "Away Record",
+      "summary": "22-19"
+    }
+  ],
+  "venue": "Toyota Center (Houston)",
+  "roster": [],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:27.066Z"
+}

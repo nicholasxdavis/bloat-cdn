@@ -1,0 +1,120 @@
+{
+  "id": "smithja00",
+  "espnId": "4430878",
+  "slug": "smithja00",
+  "name": "Jaxon Smith-Njigba",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "SEA",
+  "headshot": "media/headshots/nfl/smithja00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "SEA",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,793",
+      "reb": "10",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "3"
+    },
+    {
+      "season": "2024",
+      "team": "SEA",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,130",
+      "reb": "6",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2023",
+      "team": "SEA",
+      "gp": "17",
+      "min": "-",
+      "pts": "628",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Feb 8",
+      "matchup": "vs NE",
+      "result": "W 29-13",
+      "min": "—",
+      "pts": "27",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 25",
+      "matchup": "vs LAR",
+      "result": "W 31-27",
+      "min": "—",
+      "pts": "153",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 17",
+      "matchup": "vs SF",
+      "result": "W 41-6",
+      "min": "—",
+      "pts": "19",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jan 3",
+      "matchup": "@ SF",
+      "result": "W 13-3",
+      "min": "—",
+      "pts": "84",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "@ CAR",
+      "result": "W 27-10",
+      "min": "—",
+      "pts": "72",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:25:16.048Z"
+}

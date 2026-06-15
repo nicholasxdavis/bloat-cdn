@@ -1,0 +1,31 @@
+{
+  "id": "4708687",
+  "espnId": "4708687",
+  "slug": "4708687",
+  "name": "Claressa Shields",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4708687.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4708687.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "2-1-0",
+      "min": "-",
+      "pts": "2",
+      "reb": "1",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:42:58.459Z"
+}

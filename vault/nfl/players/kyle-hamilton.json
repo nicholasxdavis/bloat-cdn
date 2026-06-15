@@ -1,0 +1,135 @@
+{
+  "id": "hamilky00",
+  "espnId": "4575517",
+  "slug": "hamilky00",
+  "name": "Kyle Hamilton",
+  "sport": "nfl",
+  "position": "S",
+  "team": "BAL",
+  "headshot": "media/headshots/nfl/hamilky00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4575517.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "BAL",
+      "gp": "16",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "BAL",
+      "gp": "17",
+      "min": "-",
+      "pts": "8",
+      "reb": "0",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2023",
+      "team": "BAL",
+      "gp": "15",
+      "min": "-",
+      "pts": "0",
+      "reb": "1",
+      "ast": "4",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2022",
+      "team": "BAL",
+      "gp": "16",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "@ PIT",
+      "result": "L 26-24",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 27",
+      "matchup": "@ GB",
+      "result": "W 41-24",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs NE",
+      "result": "L 28-24",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ CIN",
+      "result": "W 24-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs PIT",
+      "result": "L 27-22",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:21.401Z"
+}

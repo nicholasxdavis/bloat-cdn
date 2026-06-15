@@ -1,0 +1,105 @@
+{
+  "id": "mayedr00",
+  "espnId": "4431452",
+  "slug": "mayedr00",
+  "name": "Drake Maye",
+  "sport": "nfl",
+  "position": "QB",
+  "team": "NE",
+  "headshot": "media/headshots/nfl/mayedr00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "NE",
+      "gp": "17",
+      "min": "-",
+      "pts": "4,394",
+      "reb": "31",
+      "ast": "8",
+      "stl": "354",
+      "blk": "492",
+      "fgPct": "77.1",
+      "fg3Pct": "113.5",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "NE",
+      "gp": "13",
+      "min": "-",
+      "pts": "2,276",
+      "reb": "15",
+      "ast": "10",
+      "stl": "225",
+      "blk": "338",
+      "fgPct": "55.2",
+      "fg3Pct": "88.1",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Feb 8",
+      "matchup": "vs SEA",
+      "result": "L 29-13",
+      "min": "—",
+      "pts": "295",
+      "reb": "2",
+      "ast": "2",
+      "stl": "27",
+      "blk": "43"
+    },
+    {
+      "date": "Jan 25",
+      "matchup": "@ DEN",
+      "result": "W 10-7",
+      "min": "—",
+      "pts": "86",
+      "reb": "0",
+      "ast": "0",
+      "stl": "10",
+      "blk": "21"
+    },
+    {
+      "date": "Jan 18",
+      "matchup": "vs HOU",
+      "result": "W 28-16",
+      "min": "—",
+      "pts": "179",
+      "reb": "3",
+      "ast": "1",
+      "stl": "16",
+      "blk": "27"
+    },
+    {
+      "date": "Jan 11",
+      "matchup": "vs LAC",
+      "result": "W 16-3",
+      "min": "—",
+      "pts": "268",
+      "reb": "1",
+      "ast": "1",
+      "stl": "17",
+      "blk": "29"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs MIA",
+      "result": "W 38-10",
+      "min": "—",
+      "pts": "191",
+      "reb": "1",
+      "ast": "0",
+      "stl": "14",
+      "blk": "18"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:35.241Z"
+}

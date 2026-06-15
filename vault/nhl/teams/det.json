@@ -1,0 +1,180 @@
+{
+  "id": "DET",
+  "espnId": "5",
+  "abbr": "DET",
+  "name": "Detroit Red Wings",
+  "city": "Detroit",
+  "sport": "nhl",
+  "logo": "media/logos/nhl/det.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+  "color": "#e30526",
+  "alternateColor": "#ffffff",
+  "division": "Atlantic Division",
+  "standingSummary": "6th in Atlantic Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "41-31-10"
+    },
+    {
+      "label": "Home Record",
+      "summary": "21-16-4"
+    },
+    {
+      "label": "Away Record",
+      "summary": "20-15-6"
+    }
+  ],
+  "venue": "Little Caesars Arena",
+  "roster": [
+    {
+      "id": "3942043",
+      "name": "Mason Appleton",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3942043.png"
+    },
+    {
+      "id": "3042114",
+      "name": "Andrew Copp",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3042114.png"
+    },
+    {
+      "id": "5188599",
+      "name": "Emmitt Finnie",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5188599.png"
+    },
+    {
+      "id": "5080152",
+      "name": "Marco Kasper",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5080152.png"
+    },
+    {
+      "id": "3114755",
+      "name": "Dylan Larkin",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3114755.png"
+    },
+    {
+      "id": "4233576",
+      "name": "Michael Rasmussen",
+      "position": "C",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4233576.png"
+    },
+    {
+      "id": "3041995",
+      "name": "J.T. Compher",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3041995.png"
+    },
+    {
+      "id": "3792",
+      "name": "David Perron",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3792.png"
+    },
+    {
+      "id": "4697385",
+      "name": "Lucas Raymond",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697385.png"
+    },
+    {
+      "id": "3822",
+      "name": "James van Riemsdyk",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3822.png"
+    },
+    {
+      "id": "2525761",
+      "name": "Austin Watson",
+      "position": "LW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2525761.png"
+    },
+    {
+      "id": "4063433",
+      "name": "Alex DeBrincat",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4063433.png"
+    },
+    {
+      "id": "3735",
+      "name": "Patrick Kane",
+      "position": "RW",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3735.png"
+    },
+    {
+      "id": "5276295",
+      "name": "Eduards Tralmaks",
+      "position": "RW"
+    },
+    {
+      "id": "4352798",
+      "name": "Jacob Bernard-Docker",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4352798.png"
+    },
+    {
+      "id": "5246",
+      "name": "Ben Chiarot",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5246.png"
+    },
+    {
+      "id": "4874720",
+      "name": "Simon Edvinsson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4874720.png"
+    },
+    {
+      "id": "5746",
+      "name": "Justin Faulk",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5746.png"
+    },
+    {
+      "id": "5073",
+      "name": "Travis Hamonic",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5073.png"
+    },
+    {
+      "id": "4565282",
+      "name": "Albert Johansson",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565282.png"
+    },
+    {
+      "id": "4565227",
+      "name": "Moritz Seider",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4565227.png"
+    },
+    {
+      "id": "2590824",
+      "name": "John Gibson",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2590824.png"
+    },
+    {
+      "id": "5302578",
+      "name": "Michal Postava",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5302578.png"
+    },
+    {
+      "id": "5734",
+      "name": "Cam Talbot",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/5734.png"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:19.631Z"
+}

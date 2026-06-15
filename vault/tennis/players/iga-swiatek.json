@@ -1,0 +1,31 @@
+{
+  "id": "3730",
+  "espnId": "3730",
+  "slug": "3730",
+  "name": "Iga Swiatek",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/3730.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/3730.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2016-2017",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:43:45.285Z"
+}

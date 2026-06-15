@@ -1,0 +1,31 @@
+{
+  "id": "4726566",
+  "espnId": "4726566",
+  "slug": "4726566",
+  "name": "Usman Nurmagomedov",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4726566.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4726566.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "21-0-0",
+      "min": "-",
+      "pts": "21",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:55:25.776Z"
+}

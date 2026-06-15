@@ -1,0 +1,150 @@
+{
+  "id": "brownam00",
+  "espnId": "4374302",
+  "slug": "brownam00",
+  "name": "Amon-Ra St. Brown",
+  "sport": "nfl",
+  "position": "WR",
+  "team": "DET",
+  "headshot": "media/headshots/nfl/brownam00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4374302.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,401",
+      "reb": "11",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2024",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,263",
+      "reb": "12",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2023",
+      "team": "DET",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,515",
+      "reb": "10",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2022",
+      "team": "DET",
+      "gp": "16",
+      "min": "-",
+      "pts": "1,161",
+      "reb": "6",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
+      "season": "2021",
+      "team": "DET",
+      "gp": "17",
+      "min": "-",
+      "pts": "912",
+      "reb": "5",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "@ CHI",
+      "result": "W 19-16",
+      "min": "—",
+      "pts": "139",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 25",
+      "matchup": "@ MIN",
+      "result": "L 23-10",
+      "min": "—",
+      "pts": "68",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "vs PIT",
+      "result": "L 29-24",
+      "min": "—",
+      "pts": "54",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "@ LAR",
+      "result": "L 41-34",
+      "min": "—",
+      "pts": "164",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 4",
+      "matchup": "vs DAL",
+      "result": "W 44-30",
+      "min": "—",
+      "pts": "92",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:25:11.636Z"
+}

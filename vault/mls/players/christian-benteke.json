@@ -1,0 +1,89 @@
+{
+  "id": "bentech01",
+  "espnId": "106957",
+  "slug": "bentech01",
+  "name": "Christian Benteke",
+  "sport": "mls",
+  "position": "F",
+  "team": "AWFC",
+  "headshot": "media/headshots/mls/bentech01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/106957.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26 AFC Champions League Elite",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 14",
+      "matchup": "@ ITT",
+      "result": "L 1-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Oct 18",
+      "matchup": "@ ATL",
+      "result": "D 1-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Oct 4",
+      "matchup": "vs CLT",
+      "result": "L 1-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Sep 27",
+      "matchup": "vs PHI",
+      "result": "L 6-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Sep 20",
+      "matchup": "@ MIA",
+      "result": "L 3-2",
+      "min": "—",
+      "pts": "1",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:46:03.312Z"
+}

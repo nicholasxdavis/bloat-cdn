@@ -1,0 +1,31 @@
+{
+  "id": "4054605",
+  "espnId": "4054605",
+  "slug": "4054605",
+  "name": "Natalia Silva",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4054605.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4054605.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "20-5-1",
+      "min": "-",
+      "pts": "20",
+      "reb": "5",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:55:12.983Z"
+}

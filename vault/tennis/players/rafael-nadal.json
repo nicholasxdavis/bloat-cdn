@@ -1,0 +1,31 @@
+{
+  "id": "261",
+  "espnId": "261",
+  "slug": "261",
+  "name": "Rafael Nadal",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/261.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/261.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2001-2002",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:56:42.081Z"
+}

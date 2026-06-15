@@ -1,0 +1,120 @@
+{
+  "id": "skenepa01",
+  "espnId": "4719507",
+  "slug": "skenepa01",
+  "name": "Paul Skenes",
+  "sport": "mlb",
+  "position": "SP",
+  "team": "PIT",
+  "headshot": "media/headshots/mlb/skenepa01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "PIT",
+      "gp": "15",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "2.85",
+      "fg3Pct": "0.93",
+      "ftPct": "6",
+      "to": "6"
+    },
+    {
+      "season": "2025",
+      "team": "PIT",
+      "gp": "32",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "1.97",
+      "fg3Pct": "0.95",
+      "ftPct": "10",
+      "to": "10"
+    },
+    {
+      "season": "2024",
+      "team": "PIT",
+      "gp": "23",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "1.96",
+      "fg3Pct": "0.95",
+      "ftPct": "11",
+      "to": "3"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "vs MIA",
+      "result": "L 4-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jun 9",
+      "matchup": "vs LAD",
+      "result": "L 12-3",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jun 3",
+      "matchup": "@ HOU",
+      "result": "L 11-9",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 28",
+      "matchup": "vs CHC",
+      "result": "L 7-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "May 23",
+      "matchup": "@ TOR",
+      "result": "L 5-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:38:43.443Z"
+}

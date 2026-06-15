@@ -1,0 +1,190 @@
+{
+  "id": "LAFC",
+  "espnId": "18966",
+  "abbr": "LAFC",
+  "name": "LAFC",
+  "city": "LAFC",
+  "sport": "mls",
+  "logo": "media/logos/mls/lafc.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
+  "color": "#000000",
+  "alternateColor": "#c7a36f",
+  "standingSummary": "5th in MLS",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "7-3-5"
+    }
+  ],
+  "roster": [
+    {
+      "id": "43372",
+      "name": "Hugo Lloris",
+      "position": "G"
+    },
+    {
+      "id": "262728",
+      "name": "Thomas Hasal",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/262728.png"
+    },
+    {
+      "id": "337443",
+      "name": "Cabral Carter",
+      "position": "G"
+    },
+    {
+      "id": "183758",
+      "name": "Ryan Hollingshead",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/183758.png"
+    },
+    {
+      "id": "199904",
+      "name": "Eddie Segura",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/199904.png"
+    },
+    {
+      "id": "201103",
+      "name": "Aaron Long",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/201103.png"
+    },
+    {
+      "id": "218252",
+      "name": "Sergi Palencia",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/218252.png"
+    },
+    {
+      "id": "239175",
+      "name": "Ryan Porteous",
+      "position": "D"
+    },
+    {
+      "id": "283453",
+      "name": "Nkosi Tafari",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/283453.png"
+    },
+    {
+      "id": "319023",
+      "name": "Kenny Nielsen",
+      "position": "D"
+    },
+    {
+      "id": "364684",
+      "name": "Lorenzo Dellavalle",
+      "position": "D"
+    },
+    {
+      "id": "370116",
+      "name": "Artem Smolyakov",
+      "position": "D"
+    },
+    {
+      "id": "193171",
+      "name": "Mark Delgado",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/193171.png"
+    },
+    {
+      "id": "231192",
+      "name": "Timothy Tillman",
+      "position": "M"
+    },
+    {
+      "id": "270505",
+      "name": "Stephen Eustáquio",
+      "position": "M"
+    },
+    {
+      "id": "274296",
+      "name": "Mathieu Choinière",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/274296.png"
+    },
+    {
+      "id": "295727",
+      "name": "Ryan Raposo",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/295727.png"
+    },
+    {
+      "id": "322658",
+      "name": "Igor Jesus",
+      "position": "M"
+    },
+    {
+      "id": "347031",
+      "name": "Amin Boudri",
+      "position": "M"
+    },
+    {
+      "id": "386924",
+      "name": "Matthew Evans",
+      "position": "M"
+    },
+    {
+      "id": "398302",
+      "name": "Jude Terry",
+      "position": "M"
+    },
+    {
+      "id": "115713",
+      "name": "David Martínez",
+      "position": "F"
+    },
+    {
+      "id": "149945",
+      "name": "Son Heung-Min",
+      "position": "F"
+    },
+    {
+      "id": "179237",
+      "name": "Tyler Boyd",
+      "position": "F"
+    },
+    {
+      "id": "213304",
+      "name": "Denis Bouanga",
+      "position": "F",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/213304.png"
+    },
+    {
+      "id": "251805",
+      "name": "Jeremy Ebobisse",
+      "position": "F",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/251805.png"
+    },
+    {
+      "id": "286214",
+      "name": "Jacob Shaffelburg",
+      "position": "F",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/286214.png"
+    },
+    {
+      "id": "340613",
+      "name": "Nathan Ordaz",
+      "position": "F",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/340613.png"
+    },
+    {
+      "id": "391448",
+      "name": "Adrian Wibowo",
+      "position": "F"
+    },
+    {
+      "id": "399932",
+      "name": "Marius Aiyenero",
+      "position": "F"
+    }
+  ],
+  "tier": "tier4 global mix",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:38:33.453Z"
+}

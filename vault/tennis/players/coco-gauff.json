@@ -1,0 +1,31 @@
+{
+  "id": "3626",
+  "espnId": "3626",
+  "slug": "3626",
+  "name": "Coco Gauff",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/3626.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/3626.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2018-2019",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:43:29.011Z"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "MIA",
+  "espnId": "20232",
+  "abbr": "MIA",
+  "name": "Inter Miami CF",
+  "city": "Inter Miami CF",
+  "sport": "mls",
+  "logo": "media/logos/mls/mia.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+  "color": "#231f20",
+  "alternateColor": "#f7b5cd",
+  "standingSummary": "2nd in MLS",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "9-4-2"
+    }
+  ],
+  "roster": [
+    {
+      "id": "231059",
+      "name": "Dayne St. Clair",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/231059.png"
+    },
+    {
+      "id": "256444",
+      "name": "Luis Barraza",
+      "position": "G",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/256444.png"
+    },
+    {
+      "id": "297047",
+      "name": "Rocco Ríos Novo",
+      "position": "G"
+    },
+    {
+      "id": "231241",
+      "name": "Sergio Reguilón",
+      "position": "D"
+    },
+    {
+      "id": "285473",
+      "name": "Facundo Mura",
+      "position": "D"
+    },
+    {
+      "id": "310279",
+      "name": "Maximiliano Falcón",
+      "position": "D"
+    },
+    {
+      "id": "314952",
+      "name": "Micael",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/314952.png"
+    },
+    {
+      "id": "315617",
+      "name": "Gonzalo Luján",
+      "position": "D"
+    },
+    {
+      "id": "316269",
+      "name": "Ian Fray",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/316269.png"
+    },
+    {
+      "id": "316344",
+      "name": "Noah Allen",
+      "position": "D",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/316344.png"
+    },
+    {
+      "id": "359239",
+      "name": "Israel Boatwright",
+      "position": "D"
+    },
+    {
+      "id": "364401",
+      "name": "Tyler Hall",
+      "position": "D"
+    },
+    {
+      "id": "399951",
+      "name": "Cesar Abadia-Reda",
+      "position": "D"
+    },
+    {
+      "id": "401415",
+      "name": "Daniel Sumalla",
+      "position": "D"
+    },
+    {
+      "id": "174466",
+      "name": "Rodrigo De Paul",
+      "position": "M"
+    },
+    {
+      "id": "199032",
+      "name": "Santiago Morales",
+      "position": "M"
+    },
+    {
+      "id": "229289",
+      "name": "David Ruiz",
+      "position": "M"
+    },
+    {
+      "id": "290715",
+      "name": "David Ayala",
+      "position": "M",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/290715.png"
+    },
+    {
+      "id": "315594",
+      "name": "Telasco Segovia",
+      "position": "M"
+    },
+    {
+      "id": "329025",
+      "name": "Yannick Bright",
+      "position": "M"
+    },
+    {
+      "id": "399922",
+      "name": "Joseph Convers",
+      "position": "M"
+    },
+    {
+      "id": "401414",
+      "name": "Preston Plambeck",
+      "position": "M"
+    },
+    {
+      "id": "406938",
+      "name": "Alexander Shaw",
+      "position": "M"
+    },
+    {
+      "id": "45843",
+      "name": "Lionel Messi",
+      "position": "F",
+      "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/45843.png"
+    },
+    {
+      "id": "125088",
+      "name": "Luis Suárez",
+      "position": "F"
+    },
+    {
+      "id": "228394",
+      "name": "Germán Berterame",
+      "position": "F"
+    },
+    {
+      "id": "315801",
+      "name": "Tadeo Allende",
+      "position": "F"
+    },
+    {
+      "id": "387661",
+      "name": "Mateo Silvetti",
+      "position": "F"
+    },
+    {
+      "id": "399970",
+      "name": "Dániel Pintér",
+      "position": "F"
+    }
+  ],
+  "tier": "tier1 global elite",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:37:37.747Z"
+}

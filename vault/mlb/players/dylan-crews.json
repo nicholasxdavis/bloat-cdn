@@ -1,0 +1,120 @@
+{
+  "id": "crewsdy01",
+  "espnId": "4719511",
+  "slug": "crewsdy01",
+  "name": "Dylan Crews",
+  "sport": "mlb",
+  "position": "RF",
+  "team": "WSH",
+  "headshot": "media/headshots/mlb/crewsdy01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4719511.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2026",
+      "team": "WSH",
+      "gp": "22",
+      "min": "83",
+      "pts": ".193",
+      "reb": "3",
+      "ast": "10",
+      "stl": "2",
+      "blk": "17",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2025",
+      "team": "WSH",
+      "gp": "85",
+      "min": "293",
+      "pts": ".208",
+      "reb": "10",
+      "ast": "27",
+      "stl": "17",
+      "blk": "76",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "WSH",
+      "gp": "31",
+      "min": "119",
+      "pts": ".218",
+      "reb": "3",
+      "ast": "8",
+      "stl": "12",
+      "blk": "26",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 14",
+      "matchup": "vs SEA",
+      "result": "W 10-1",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 13",
+      "matchup": "vs SEA",
+      "result": "W 8-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jun 12",
+      "matchup": "vs SEA",
+      "result": "L 10-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ SF",
+      "result": "L 11-10",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 9",
+      "matchup": "@ SF",
+      "result": "W 6-3",
+      "min": "1",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T16:40:49.997Z"
+}

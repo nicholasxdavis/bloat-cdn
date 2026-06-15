@@ -1,0 +1,105 @@
+{
+  "id": "rodrira01",
+  "espnId": "4919929",
+  "slug": "rodrira01",
+  "name": "Randy Rodriguez",
+  "sport": "mlb",
+  "position": "RP",
+  "team": "SF",
+  "headshot": "media/headshots/mlb/rodrira01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4919929.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "SF",
+      "gp": "50",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "1.78",
+      "fg3Pct": "0.89",
+      "ftPct": "3",
+      "to": "5"
+    },
+    {
+      "season": "2024",
+      "team": "SF",
+      "gp": "35",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "4.30",
+      "fg3Pct": "1.24",
+      "ftPct": "3",
+      "to": "2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Aug 22",
+      "matchup": "@ MIL",
+      "result": "L 5-4",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Aug 18",
+      "matchup": "@ SD",
+      "result": "W 4-3",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Aug 15",
+      "matchup": "vs TB",
+      "result": "L 7-6",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Aug 6",
+      "matchup": "@ PIT",
+      "result": "W 4-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Aug 4",
+      "matchup": "@ PIT",
+      "result": "L 5-4",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:53:35.627Z"
+}

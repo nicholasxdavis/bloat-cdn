@@ -1,0 +1,36 @@
+{
+  "id": "PHX",
+  "espnId": "21",
+  "abbr": "PHX",
+  "name": "Phoenix Suns",
+  "city": "Phoenix",
+  "sport": "nba",
+  "logo": "media/logos/nba/phx.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+  "color": "#29127a",
+  "alternateColor": "#e56020",
+  "division": "Pacific Division",
+  "standingSummary": "2nd in Pacific Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "45-37"
+    },
+    {
+      "label": "Home Record",
+      "summary": "25-16"
+    },
+    {
+      "label": "Away Record",
+      "summary": "20-21"
+    }
+  ],
+  "venue": "Mortgage Matchup Center",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:23:57.783Z"
+}

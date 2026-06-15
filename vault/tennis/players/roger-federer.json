@@ -1,0 +1,31 @@
+{
+  "id": "425",
+  "espnId": "425",
+  "slug": "425",
+  "name": "Roger Federer",
+  "sport": "tennis",
+  "headshot": "media/headshots/tennis/425.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/tennis/players/full/425.png",
+  "legend": true,
+  "seasonHistory": [
+    {
+      "season": "1998-1999",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Retired",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T17:56:34.035Z"
+}

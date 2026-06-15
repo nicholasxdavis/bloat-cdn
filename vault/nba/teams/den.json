@@ -1,0 +1,36 @@
+{
+  "id": "DEN",
+  "espnId": "7",
+  "abbr": "DEN",
+  "name": "Denver Nuggets",
+  "city": "Denver",
+  "sport": "nba",
+  "logo": "media/logos/nba/den.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+  "color": "#0e2240",
+  "alternateColor": "#fec524",
+  "division": "Northwest Division",
+  "standingSummary": "2nd in Northwest Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "54-28"
+    },
+    {
+      "label": "Home Record",
+      "summary": "28-13"
+    },
+    {
+      "label": "Away Record",
+      "summary": "26-15"
+    }
+  ],
+  "venue": "Ball Arena",
+  "roster": [],
+  "tier": "tier2 national heavyweights",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:03.883Z"
+}

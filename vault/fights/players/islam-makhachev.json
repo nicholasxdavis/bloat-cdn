@@ -1,0 +1,31 @@
+{
+  "id": "3332412",
+  "espnId": "3332412",
+  "slug": "3332412",
+  "name": "Islam Makhachev",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/3332412.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3332412.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "28-1-0",
+      "min": "-",
+      "pts": "28",
+      "reb": "1",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:36:10.173Z"
+}

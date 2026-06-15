@@ -1,0 +1,120 @@
+{
+  "id": "robinbi00",
+  "espnId": "4430807",
+  "slug": "robinbi00",
+  "name": "Bijan Robinson",
+  "sport": "nfl",
+  "position": "RB",
+  "team": "ATL",
+  "headshot": "media/headshots/nfl/robinbi00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4430807.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "ATL",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,478",
+      "reb": "7",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "3"
+    },
+    {
+      "season": "2024",
+      "team": "ATL",
+      "gp": "17",
+      "min": "-",
+      "pts": "1,456",
+      "reb": "14",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
+      "season": "2023",
+      "team": "ATL",
+      "gp": "17",
+      "min": "-",
+      "pts": "976",
+      "reb": "4",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "4"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 4",
+      "matchup": "vs NO",
+      "result": "W 19-17",
+      "min": "—",
+      "pts": "33",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 29",
+      "matchup": "vs LAR",
+      "result": "W 27-24",
+      "min": "—",
+      "pts": "195",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 21",
+      "matchup": "@ ARI",
+      "result": "W 26-19",
+      "min": "—",
+      "pts": "76",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 11",
+      "matchup": "@ TB",
+      "result": "W 29-28",
+      "min": "—",
+      "pts": "93",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 7",
+      "matchup": "vs SEA",
+      "result": "L 37-9",
+      "min": "—",
+      "pts": "86",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:27:06.908Z"
+}

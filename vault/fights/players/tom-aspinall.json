@@ -1,0 +1,31 @@
+{
+  "id": "4010976",
+  "espnId": "4010976",
+  "slug": "4010976",
+  "name": "Tom Aspinall",
+  "sport": "fights",
+  "headshot": "media/headshots/fights/4010976.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/4010976.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "Career",
+      "gp": "15-3-0",
+      "min": "-",
+      "pts": "15",
+      "reb": "3",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn_mma_core"
+  ],
+  "ingestedAt": "2026-06-15T17:36:46.841Z"
+}

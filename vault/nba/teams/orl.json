@@ -1,0 +1,36 @@
+{
+  "id": "ORL",
+  "espnId": "19",
+  "abbr": "ORL",
+  "name": "Orlando Magic",
+  "city": "Orlando",
+  "sport": "nba",
+  "logo": "media/logos/nba/orl.png",
+  "logoSource": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+  "color": "#0150b5",
+  "alternateColor": "#9ca0a3",
+  "division": "Southeast Division",
+  "standingSummary": "2nd in Southeast Division",
+  "record": [
+    {
+      "label": "Overall Record",
+      "summary": "45-37"
+    },
+    {
+      "label": "Home Record",
+      "summary": "25-15"
+    },
+    {
+      "label": "Away Record",
+      "summary": "19-20"
+    }
+  ],
+  "venue": "Kia Center",
+  "roster": [],
+  "tier": "tier3 regional powerhouses",
+  "top10": false,
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:24:16.719Z"
+}

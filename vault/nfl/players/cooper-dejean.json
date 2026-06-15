@@ -1,0 +1,105 @@
+{
+  "id": "dejeaco00",
+  "espnId": "4682618",
+  "slug": "dejeaco00",
+  "name": "Cooper DeJean",
+  "sport": "nfl",
+  "position": "CB",
+  "team": "PHI",
+  "headshot": "media/headshots/nfl/dejeaco00.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4682618.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025",
+      "team": "PHI",
+      "gp": "16",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "2",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2024",
+      "team": "PHI",
+      "gp": "16",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jan 11",
+      "matchup": "vs SF",
+      "result": "L 23-19",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 28",
+      "matchup": "@ BUF",
+      "result": "W 13-12",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 20",
+      "matchup": "@ WSH",
+      "result": "W 29-18",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 14",
+      "matchup": "vs LV",
+      "result": "W 31-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Dec 8",
+      "matchup": "@ LAC",
+      "result": "L 22-19 OT",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-15T15:28:45.370Z"
+}
