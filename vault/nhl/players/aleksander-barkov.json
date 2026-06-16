@@ -193,7 +193,7 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 17",
+      "date": "Jun 18",
       "matchup": "vs EDM",
       "result": "W 5-1",
       "min": "—",
@@ -204,7 +204,7 @@
       "blk": "—"
     },
     {
-      "date": "Jun 14",
+      "date": "Jun 15",
       "matchup": "@ EDM",
       "result": "W 5-2",
       "min": "—",
@@ -215,7 +215,7 @@
       "blk": "—"
     },
     {
-      "date": "Jun 12",
+      "date": "Jun 13",
       "matchup": "vs EDM",
       "result": "L 5-4 OT",
       "min": "—",
@@ -226,7 +226,7 @@
       "blk": "—"
     },
     {
-      "date": "Jun 9",
+      "date": "Jun 10",
       "matchup": "vs EDM",
       "result": "W 6-1",
       "min": "—",
@@ -237,7 +237,7 @@
       "blk": "—"
     },
     {
-      "date": "Jun 6",
+      "date": "Jun 7",
       "matchup": "@ EDM",
       "result": "W 5-4 2OT",
       "min": "—",
@@ -251,5 +251,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:43:17.192Z"
+  "ingestedAt": "2026-06-16T12:49:12.242Z",
+  "statsSyncedAt": "2026-06-16T12:49:12.242Z"
 }

@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "72",
-      "min": "261",
-      "pts": ".326",
+      "gp": "73",
+      "min": "265",
+      "pts": ".328",
       "reb": "24",
       "ast": "54",
       "stl": "1",
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 16",
+      "matchup": "vs DET",
+      "result": "L 9-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jun 14",
       "matchup": "@ KC",
       "result": "L 4-0",
@@ -155,7 +166,7 @@
       "blk": "0"
     },
     {
-      "date": "Jun 12",
+      "date": "Jun 13",
       "matchup": "@ KC",
       "result": "W 10-8",
       "min": "5",
@@ -166,7 +177,7 @@
       "blk": "0"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "matchup": "@ LAA",
       "result": "L 3-2 F/10",
       "min": "4",
@@ -175,21 +186,11 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 9",
-      "matchup": "@ LAA",
-      "result": "L 10-1",
-      "min": "2",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:39:51.154Z"
+  "ingestedAt": "2026-06-16T12:48:58.547Z",
+  "statsSyncedAt": "2026-06-16T12:48:58.547Z"
 }

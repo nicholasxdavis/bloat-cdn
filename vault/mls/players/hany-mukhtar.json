@@ -41,7 +41,7 @@
   ],
   "recentGames": [
     {
-      "date": "May 23",
+      "date": "May 24",
       "matchup": "vs NYC",
       "result": "W 2-1",
       "min": "—",
@@ -52,7 +52,7 @@
       "blk": "0"
     },
     {
-      "date": "May 17",
+      "date": "May 18",
       "matchup": "vs LAFC",
       "result": "W 3-2",
       "min": "—",
@@ -74,7 +74,7 @@
       "blk": "0"
     },
     {
-      "date": "May 9",
+      "date": "May 10",
       "matchup": "vs DC",
       "result": "D 2-2",
       "min": "—",
@@ -85,7 +85,7 @@
       "blk": "1"
     },
     {
-      "date": "May 5",
+      "date": "May 6",
       "matchup": "@ UANL",
       "result": "L 1-0",
       "min": "—",
@@ -99,5 +99,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:51:26.064Z"
+  "ingestedAt": "2026-06-16T12:49:07.634Z",
+  "statsSyncedAt": "2026-06-16T12:49:07.634Z"
 }

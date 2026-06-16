@@ -238,7 +238,7 @@
   ],
   "recentGames": [
     {
-      "date": "Apr 13",
+      "date": "Apr 14",
       "matchup": "vs SJ",
       "result": "L 3-2",
       "min": "—",
@@ -260,7 +260,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 7",
+      "date": "Apr 8",
       "matchup": "@ ANA",
       "result": "W 5-0",
       "min": "—",
@@ -271,7 +271,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 6",
+      "date": "Apr 7",
       "matchup": "@ LA",
       "result": "L 3-2 SO",
       "min": "—",
@@ -282,7 +282,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 4",
+      "date": "Apr 5",
       "matchup": "@ SJ",
       "result": "W 6-3",
       "min": "—",
@@ -296,5 +296,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:43:27.161Z"
+  "ingestedAt": "2026-06-16T12:49:59.929Z",
+  "statsSyncedAt": "2026-06-16T12:49:59.929Z"
 }

@@ -55,7 +55,7 @@
   ],
   "recentGames": [
     {
-      "date": "May 24",
+      "date": "May 25",
       "matchup": "vs SEA",
       "result": "W 1-0",
       "min": "—",
@@ -66,7 +66,7 @@
       "blk": "0"
     },
     {
-      "date": "May 17",
+      "date": "May 18",
       "matchup": "@ NSH",
       "result": "L 3-2",
       "min": "—",
@@ -77,7 +77,7 @@
       "blk": "0"
     },
     {
-      "date": "May 13",
+      "date": "May 14",
       "matchup": "@ STL",
       "result": "L 2-1",
       "min": "—",
@@ -88,7 +88,7 @@
       "blk": "0"
     },
     {
-      "date": "May 6",
+      "date": "May 7",
       "matchup": "@ TOL",
       "result": "L 4-0",
       "min": "—",
@@ -99,7 +99,7 @@
       "blk": "0"
     },
     {
-      "date": "May 2",
+      "date": "May 3",
       "matchup": "@ SD",
       "result": "D 2-2",
       "min": "—",
@@ -113,5 +113,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:51:37.684Z"
+  "ingestedAt": "2026-06-16T12:49:05.343Z",
+  "statsSyncedAt": "2026-06-16T12:49:05.343Z"
 }

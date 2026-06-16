@@ -10,29 +10,29 @@
   "seasonHistory": [
     {
       "season": "PGA TOUR",
-      "gp": "-",
+      "gp": "8",
       "min": "-",
       "pts": "-",
-      "reb": "-",
-      "ast": "-",
-      "stl": "-",
-      "blk": "-",
-      "fgPct": "-",
-      "fg3Pct": "-",
+      "reb": "3",
+      "ast": "1",
+      "stl": "$7,995,825",
+      "blk": "7",
+      "fgPct": "--",
+      "fg3Pct": "--",
       "ftPct": "-",
       "to": "-"
     },
     {
       "season": "Majors",
-      "gp": "-",
+      "gp": "2",
       "min": "-",
       "pts": "-",
-      "reb": "-",
-      "ast": "-",
-      "stl": "-",
-      "blk": "-",
-      "fgPct": "-",
-      "fg3Pct": "-",
+      "reb": "2",
+      "ast": "1",
+      "stl": "$5,137,050",
+      "blk": "2",
+      "fgPct": "69.0",
+      "fg3Pct": "69.0",
       "ftPct": "-",
       "to": "-"
     }
@@ -41,5 +41,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:49:48.880Z"
+  "ingestedAt": "2026-06-16T12:46:47.797Z",
+  "statsSyncedAt": "2026-06-16T12:46:47.797Z"
 }

@@ -144,7 +144,7 @@
       "blk": "—"
     },
     {
-      "date": "May 27",
+      "date": "May 28",
       "matchup": "vs PIT",
       "result": "L 9-6",
       "min": "—",
@@ -155,7 +155,7 @@
       "blk": "—"
     },
     {
-      "date": "May 21",
+      "date": "May 22",
       "matchup": "@ LAD",
       "result": "L 3-1",
       "min": "—",
@@ -166,7 +166,7 @@
       "blk": "—"
     },
     {
-      "date": "May 16",
+      "date": "May 17",
       "matchup": "vs COL",
       "result": "W 8-0",
       "min": "—",
@@ -177,7 +177,7 @@
       "blk": "—"
     },
     {
-      "date": "May 10",
+      "date": "May 11",
       "matchup": "vs LAD",
       "result": "W 3-0",
       "min": "—",
@@ -191,5 +191,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:40:27.307Z"
+  "ingestedAt": "2026-06-16T12:48:24.686Z",
+  "statsSyncedAt": "2026-06-16T12:48:24.686Z"
 }

@@ -196,7 +196,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 27",
+      "date": "Apr 28",
       "matchup": "@ TEX",
       "result": "W 4-2",
       "min": "—",
@@ -221,5 +221,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:40:36.445Z"
+  "ingestedAt": "2026-06-16T12:48:45.034Z",
+  "statsSyncedAt": "2026-06-16T12:48:45.034Z"
 }

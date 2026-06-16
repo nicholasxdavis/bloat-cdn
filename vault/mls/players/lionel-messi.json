@@ -55,7 +55,7 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 9",
+      "date": "Jun 10",
       "matchup": "vs ISL",
       "result": "W 3-0",
       "min": "—",
@@ -113,5 +113,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:50:49.257Z"
+  "ingestedAt": "2026-06-16T12:49:09.076Z",
+  "statsSyncedAt": "2026-06-16T12:49:09.076Z"
 }

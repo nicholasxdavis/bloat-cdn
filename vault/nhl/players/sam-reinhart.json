@@ -204,7 +204,7 @@
       "blk": "—"
     },
     {
-      "date": "Mar 6",
+      "date": "Mar 7",
       "matchup": "@ DET",
       "result": "W 3-1",
       "min": "—",
@@ -215,7 +215,7 @@
       "blk": "—"
     },
     {
-      "date": "Mar 5",
+      "date": "Mar 6",
       "matchup": "@ CBJ",
       "result": "L 4-2",
       "min": "—",
@@ -226,7 +226,7 @@
       "blk": "—"
     },
     {
-      "date": "Mar 3",
+      "date": "Mar 4",
       "matchup": "@ NJ",
       "result": "L 5-1",
       "min": "—",
@@ -251,5 +251,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:43:12.739Z"
+  "ingestedAt": "2026-06-16T12:50:00.804Z",
+  "statsSyncedAt": "2026-06-16T12:50:00.804Z"
 }

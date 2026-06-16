@@ -178,7 +178,7 @@
   ],
   "recentGames": [
     {
-      "date": "May 9",
+      "date": "May 10",
       "matchup": "vs ATL",
       "result": "L 7-2",
       "min": "—",
@@ -192,5 +192,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:40:23.292Z"
+  "ingestedAt": "2026-06-16T12:48:19.371Z",
+  "statsSyncedAt": "2026-06-16T12:48:19.371Z"
 }

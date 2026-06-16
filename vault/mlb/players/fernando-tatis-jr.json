@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SD",
-      "gp": "69",
-      "min": "266",
-      "pts": ".282",
+      "gp": "70",
+      "min": "269",
+      "pts": ".279",
       "reb": "2",
       "ast": "24",
       "stl": "17",
-      "blk": "63",
+      "blk": "64",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -118,6 +118,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 15",
+      "matchup": "@ STL",
+      "result": "L 3-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jun 14",
       "matchup": "@ BAL",
       "result": "W 5-2",
@@ -160,21 +171,11 @@
       "ast": "2",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 9",
-      "matchup": "vs CIN",
-      "result": "L 5-3 F/11",
-      "min": "6",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:39:23.982Z"
+  "ingestedAt": "2026-06-16T12:48:29.485Z",
+  "statsSyncedAt": "2026-06-16T12:48:29.485Z"
 }

@@ -91,7 +91,7 @@
       "blk": "1"
     },
     {
-      "date": "Jun 10",
+      "date": "Jun 11",
       "matchup": "@ ATH",
       "result": "L 4-3",
       "min": "5",
@@ -102,7 +102,7 @@
       "blk": "0"
     },
     {
-      "date": "Jun 9",
+      "date": "Jun 10",
       "matchup": "@ ATH",
       "result": "L 7-5",
       "min": "5",
@@ -116,5 +116,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:39:14.701Z"
+  "ingestedAt": "2026-06-16T12:48:33.210Z",
+  "statsSyncedAt": "2026-06-16T12:48:33.210Z"
 }

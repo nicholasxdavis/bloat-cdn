@@ -144,7 +144,7 @@
       "blk": "—"
     },
     {
-      "date": "Jun 8",
+      "date": "Jun 9",
       "matchup": "vs WSH",
       "result": "L 4-3",
       "min": "—",
@@ -166,7 +166,7 @@
       "blk": "—"
     },
     {
-      "date": "May 29",
+      "date": "May 30",
       "matchup": "@ COL",
       "result": "L 8-6",
       "min": "—",
@@ -177,7 +177,7 @@
       "blk": "—"
     },
     {
-      "date": "May 5",
+      "date": "May 6",
       "matchup": "vs SD",
       "result": "L 10-5",
       "min": "—",
@@ -191,5 +191,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:40:18.323Z"
+  "ingestedAt": "2026-06-16T12:48:42.458Z",
+  "statsSyncedAt": "2026-06-16T12:48:42.458Z"
 }

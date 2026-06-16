@@ -80,7 +80,7 @@
       "blk": "—"
     },
     {
-      "date": "Jun 3",
+      "date": "Jun 4",
       "matchup": "@ HOU",
       "result": "L 11-9",
       "min": "—",
@@ -116,5 +116,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:38:43.443Z"
+  "ingestedAt": "2026-06-16T12:48:48.701Z",
+  "statsSyncedAt": "2026-06-16T12:48:48.701Z"
 }

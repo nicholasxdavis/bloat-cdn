@@ -350,7 +350,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 25",
+      "date": "Apr 26",
       "matchup": "@ PHI",
       "result": "W 4-2",
       "min": "—",
@@ -386,5 +386,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:41:58.600Z"
+  "ingestedAt": "2026-06-16T12:50:02.712Z",
+  "statsSyncedAt": "2026-06-16T12:50:02.712Z"
 }

@@ -162,7 +162,7 @@
   ],
   "recentGames": [
     {
-      "date": "May 13",
+      "date": "May 14",
       "matchup": "@ COL",
       "result": "L 4-3 OT",
       "min": "—",
@@ -173,7 +173,7 @@
       "blk": "—"
     },
     {
-      "date": "May 11",
+      "date": "May 12",
       "matchup": "vs COL",
       "result": "L 5-2",
       "min": "—",
@@ -184,7 +184,7 @@
       "blk": "—"
     },
     {
-      "date": "May 9",
+      "date": "May 10",
       "matchup": "vs COL",
       "result": "W 5-1",
       "min": "—",
@@ -195,7 +195,7 @@
       "blk": "—"
     },
     {
-      "date": "May 5",
+      "date": "May 6",
       "matchup": "@ COL",
       "result": "L 5-2",
       "min": "—",
@@ -206,7 +206,7 @@
       "blk": "—"
     },
     {
-      "date": "May 3",
+      "date": "May 4",
       "matchup": "@ COL",
       "result": "L 9-6",
       "min": "—",
@@ -220,5 +220,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:42:26.893Z"
+  "ingestedAt": "2026-06-16T12:49:59.096Z",
+  "statsSyncedAt": "2026-06-16T12:49:59.096Z"
 }

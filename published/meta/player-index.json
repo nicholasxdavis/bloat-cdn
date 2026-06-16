@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-06-15T17:56:44.717Z",
+  "syncedAt": "2026-06-16T12:50:03.687Z",
   "players": [
     {
       "sport": "fights",
@@ -11,11 +11,12 @@
       "headshot": "media/headshots/fights/4705658.png",
       "statsPath": "stats/espn-mma/4705658.json",
       "vaultPath": "vault/fights/players/alex-pereira.json",
-      "rowCount": 1,
+      "rowCount": 13,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:35:38.086Z"
+      "ingestedAt": "2026-06-15T17:35:38.086Z",
+      "statsSyncedAt": "2026-06-16T12:45:19.348Z"
     },
     {
       "sport": "fights",
@@ -26,11 +27,12 @@
       "headshot": "media/headshots/fights/2560746.png",
       "statsPath": "stats/espn-mma/2560746.json",
       "vaultPath": "vault/fights/players/alexandre-pantoja.json",
-      "rowCount": 1,
+      "rowCount": 34,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:56.501Z"
+      "ingestedAt": "2026-06-15T17:38:56.501Z",
+      "statsSyncedAt": "2026-06-16T12:45:20.485Z"
     },
     {
       "sport": "fights",
@@ -41,11 +43,12 @@
       "headshot": "media/headshots/fights/2516131.png",
       "statsPath": "stats/espn-mma/2516131.json",
       "vaultPath": "vault/fights/players/amanda-nunes.json",
-      "rowCount": 1,
+      "rowCount": 24,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:37:32.279Z"
+      "ingestedAt": "2026-06-15T17:37:32.279Z",
+      "statsSyncedAt": "2026-06-16T12:45:21.623Z"
     },
     {
       "sport": "fights",
@@ -56,11 +59,12 @@
       "headshot": "media/headshots/fights/4419372.png",
       "statsPath": "stats/espn-mma/4419372.json",
       "vaultPath": "vault/fights/players/arman-tsarukyan.json",
-      "rowCount": 1,
+      "rowCount": 12,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:37:43.357Z"
+      "ingestedAt": "2026-06-15T17:37:43.357Z",
+      "statsSyncedAt": "2026-06-16T12:45:22.722Z"
     },
     {
       "sport": "fights",
@@ -71,11 +75,12 @@
       "headshot": "media/headshots/fights/3172112.png",
       "statsPath": "stats/espn-mma/3172112.json",
       "vaultPath": "vault/fights/players/belal-muhammad.json",
-      "rowCount": 1,
+      "rowCount": 26,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:02.299Z"
+      "ingestedAt": "2026-06-15T17:38:02.299Z",
+      "statsSyncedAt": "2026-06-16T12:45:23.826Z"
     },
     {
       "sport": "fights",
@@ -86,11 +91,12 @@
       "headshot": "media/headshots/fights/3027545.png",
       "statsPath": "stats/espn-mma/3027545.json",
       "vaultPath": "vault/fights/players/brandon-moreno.json",
-      "rowCount": 1,
+      "rowCount": 28,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:47.995Z"
+      "ingestedAt": "2026-06-15T17:38:47.995Z",
+      "statsSyncedAt": "2026-06-16T12:45:24.945Z"
     },
     {
       "sport": "fights",
@@ -101,11 +107,12 @@
       "headshot": "media/headshots/fights/2504169.png",
       "statsPath": "stats/espn-mma/2504169.json",
       "vaultPath": "vault/fights/players/charles-oliveira.json",
-      "rowCount": 49,
+      "rowCount": 48,
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:45:15.916Z"
+      "ingestedAt": "2026-06-15T16:45:15.916Z",
+      "statsSyncedAt": "2026-06-16T12:45:26.022Z"
     },
     {
       "sport": "fights",
@@ -146,11 +153,12 @@
       "headshot": "media/headshots/fights/4881999.png",
       "statsPath": "stats/espn-mma/4881999.json",
       "vaultPath": "vault/fights/players/diego-lopes.json",
-      "rowCount": 1,
+      "rowCount": 11,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:40:09.771Z"
+      "ingestedAt": "2026-06-15T17:40:09.771Z",
+      "statsSyncedAt": "2026-06-16T12:45:29.354Z"
     },
     {
       "sport": "fights",
@@ -161,11 +169,12 @@
       "headshot": "media/headshots/fights/3166126.png",
       "statsPath": "stats/espn-mma/3166126.json",
       "vaultPath": "vault/fights/players/dricus-du-plessis.json",
-      "rowCount": 1,
+      "rowCount": 16,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:37:22.871Z"
+      "ingestedAt": "2026-06-15T17:37:22.871Z",
+      "statsSyncedAt": "2026-06-16T12:45:30.391Z"
     },
     {
       "sport": "fights",
@@ -176,11 +185,12 @@
       "headshot": "media/headshots/fights/4350796.png",
       "statsPath": "stats/espn-mma/4350796.json",
       "vaultPath": "vault/fights/players/erin-blanchfield.json",
-      "rowCount": 1,
+      "rowCount": 10,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:39:15.958Z"
+      "ingestedAt": "2026-06-15T17:39:15.958Z",
+      "statsSyncedAt": "2026-06-16T12:45:31.494Z"
     },
     {
       "sport": "fights",
@@ -191,11 +201,12 @@
       "headshot": "media/headshots/fights/4350812.png",
       "statsPath": "stats/espn-mma/4350812.json",
       "vaultPath": "vault/fights/players/ilia-topuria.json",
-      "rowCount": 1,
+      "rowCount": 14,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:36:19.216Z"
+      "ingestedAt": "2026-06-15T17:36:19.216Z",
+      "statsSyncedAt": "2026-06-16T12:45:32.480Z"
     },
     {
       "sport": "fights",
@@ -206,11 +217,12 @@
       "headshot": "media/headshots/fights/3332412.png",
       "statsPath": "stats/espn-mma/3332412.json",
       "vaultPath": "vault/fights/players/islam-makhachev.json",
-      "rowCount": 1,
+      "rowCount": 20,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:36:10.175Z"
+      "ingestedAt": "2026-06-15T17:36:10.175Z",
+      "statsSyncedAt": "2026-06-16T12:45:33.486Z"
     },
     {
       "sport": "fights",
@@ -221,11 +233,12 @@
       "headshot": "media/headshots/fights/4285679.png",
       "statsPath": "stats/espn-mma/4285679.json",
       "vaultPath": "vault/fights/players/israel-adesanya.json",
-      "rowCount": 30,
+      "rowCount": 21,
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:46:32.371Z"
+      "ingestedAt": "2026-06-15T16:46:32.371Z",
+      "statsSyncedAt": "2026-06-16T12:45:34.622Z"
     },
     {
       "sport": "fights",
@@ -236,11 +249,12 @@
       "headshot": "media/headshots/fights/4425355.png",
       "statsPath": "stats/espn-mma/4425355.json",
       "vaultPath": "vault/fights/players/jamahal-hill.json",
-      "rowCount": 1,
+      "rowCount": 12,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:29.276Z"
+      "ingestedAt": "2026-06-15T17:38:29.276Z",
+      "statsSyncedAt": "2026-06-16T12:45:35.662Z"
     },
     {
       "sport": "fights",
@@ -251,11 +265,12 @@
       "headshot": "media/headshots/fights/4411888.png",
       "statsPath": "stats/espn-mma/4411888.json",
       "vaultPath": "vault/fights/players/joel-alvarez.json",
-      "rowCount": 1,
+      "rowCount": 11,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:40:34.585Z"
+      "ingestedAt": "2026-06-15T17:40:34.585Z",
+      "statsSyncedAt": "2026-06-16T12:45:36.796Z"
     },
     {
       "sport": "fights",
@@ -266,11 +281,12 @@
       "headshot": "media/headshots/fights/2335639.png",
       "statsPath": "stats/espn-mma/2335639.json",
       "vaultPath": "vault/fights/players/jon-jones.json",
-      "rowCount": 1,
+      "rowCount": 25,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:35:28.823Z"
+      "ingestedAt": "2026-06-15T17:35:28.823Z",
+      "statsSyncedAt": "2026-06-16T12:45:37.926Z"
     },
     {
       "sport": "fights",
@@ -281,11 +297,12 @@
       "headshot": "media/headshots/fights/3022345.png",
       "statsPath": "stats/espn-mma/3022345.json",
       "vaultPath": "vault/fights/players/justin-gaethje.json",
-      "rowCount": 1,
+      "rowCount": 23,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:37:04.164Z"
+      "ingestedAt": "2026-06-15T17:37:04.164Z",
+      "statsSyncedAt": "2026-06-16T12:45:38.939Z"
     },
     {
       "sport": "fights",
@@ -296,11 +313,12 @@
       "headshot": "media/headshots/fights/4243885.png",
       "statsPath": "stats/espn-mma/4243885.json",
       "vaultPath": "vault/fights/players/kai-kara-france.json",
-      "rowCount": 1,
+      "rowCount": 26,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:39:06.501Z"
+      "ingestedAt": "2026-06-15T17:39:06.501Z",
+      "statsSyncedAt": "2026-06-16T12:45:39.969Z"
     },
     {
       "sport": "fights",
@@ -311,11 +329,12 @@
       "headshot": "media/headshots/fights/4028627.png",
       "statsPath": "stats/espn-mma/4028627.json",
       "vaultPath": "vault/fights/players/khalil-rountree-jr.json",
-      "rowCount": 1,
+      "rowCount": 21,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:38.367Z"
+      "ingestedAt": "2026-06-15T17:38:38.367Z",
+      "statsSyncedAt": "2026-06-16T12:45:41.065Z"
     },
     {
       "sport": "fights",
@@ -326,11 +345,12 @@
       "headshot": "media/headshots/fights/4684751.png",
       "statsPath": "stats/espn-mma/4684751.json",
       "vaultPath": "vault/fights/players/khamzat-chimaev.json",
-      "rowCount": 1,
+      "rowCount": 10,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:36:55.188Z"
+      "ingestedAt": "2026-06-15T17:36:55.188Z",
+      "statsSyncedAt": "2026-06-16T12:45:42.085Z"
     },
     {
       "sport": "fights",
@@ -341,11 +361,12 @@
       "headshot": "media/headshots/fights/3152929.png",
       "statsPath": "stats/espn-mma/3152929.json",
       "vaultPath": "vault/fights/players/leon-edwards.json",
-      "rowCount": 1,
+      "rowCount": 23,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:37:51.531Z"
+      "ingestedAt": "2026-06-15T17:37:51.531Z",
+      "statsSyncedAt": "2026-06-16T12:45:43.259Z"
     },
     {
       "sport": "fights",
@@ -356,11 +377,12 @@
       "headshot": "media/headshots/fights/4273399.png",
       "statsPath": "stats/espn-mma/4273399.json",
       "vaultPath": "vault/fights/players/magomed-ankalaev.json",
-      "rowCount": 1,
+      "rowCount": 20,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:20.494Z"
+      "ingestedAt": "2026-06-15T17:38:20.494Z",
+      "statsSyncedAt": "2026-06-16T12:45:44.560Z"
     },
     {
       "sport": "fights",
@@ -371,11 +393,12 @@
       "headshot": "media/headshots/fights/3948572.png",
       "statsPath": "stats/espn-mma/3948572.json",
       "vaultPath": "vault/fights/players/merab-dvalishvili.json",
-      "rowCount": 1,
+      "rowCount": 19,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:36:37.522Z"
+      "ingestedAt": "2026-06-15T17:36:37.522Z",
+      "statsSyncedAt": "2026-06-16T12:45:45.637Z"
     },
     {
       "sport": "fights",
@@ -401,11 +424,12 @@
       "headshot": "media/headshots/fights/4690539.png",
       "statsPath": "stats/espn-mma/4690539.json",
       "vaultPath": "vault/fights/players/nassourdine-imavov.json",
-      "rowCount": 1,
+      "rowCount": 12,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:40:00.827Z"
+      "ingestedAt": "2026-06-15T17:40:00.827Z",
+      "statsSyncedAt": "2026-06-16T12:45:48.830Z"
     },
     {
       "sport": "fights",
@@ -431,11 +455,12 @@
       "headshot": "media/headshots/fights/4008549.png",
       "statsPath": "stats/espn-mma/4008549.json",
       "vaultPath": "vault/fights/players/paddy-pimblett.json",
-      "rowCount": 1,
+      "rowCount": 10,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:37:14.136Z"
+      "ingestedAt": "2026-06-15T17:37:14.136Z",
+      "statsSyncedAt": "2026-06-16T12:45:49.808Z"
     },
     {
       "sport": "fights",
@@ -446,11 +471,12 @@
       "headshot": "media/headshots/fights/3009717.png",
       "statsPath": "stats/espn-mma/3009717.json",
       "vaultPath": "vault/fights/players/robert-whittaker.json",
-      "rowCount": 1,
+      "rowCount": 24,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:39:51.712Z"
+      "ingestedAt": "2026-06-15T17:39:51.712Z",
+      "statsSyncedAt": "2026-06-16T12:45:50.840Z"
     },
     {
       "sport": "fights",
@@ -476,11 +502,12 @@
       "headshot": "media/headshots/fights/3032973.png",
       "statsPath": "stats/espn-mma/3032973.json",
       "vaultPath": "vault/fights/players/rose-namajunas.json",
-      "rowCount": 1,
+      "rowCount": 21,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:39:43.531Z"
+      "ingestedAt": "2026-06-15T17:39:43.531Z",
+      "statsSyncedAt": "2026-06-16T12:45:51.859Z"
     },
     {
       "sport": "fights",
@@ -491,11 +518,12 @@
       "headshot": "media/headshots/fights/4205093.png",
       "statsPath": "stats/espn-mma/4205093.json",
       "vaultPath": "vault/fights/players/sean-o-malley.json",
-      "rowCount": 1,
+      "rowCount": 18,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:36:27.973Z"
+      "ingestedAt": "2026-06-15T17:36:27.973Z",
+      "statsSyncedAt": "2026-06-16T12:45:53.009Z"
     },
     {
       "sport": "fights",
@@ -506,11 +534,12 @@
       "headshot": "media/headshots/fights/4020699.png",
       "statsPath": "stats/espn-mma/4020699.json",
       "vaultPath": "vault/fights/players/shavkat-rakhmonov.json",
-      "rowCount": 1,
+      "rowCount": 8,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:38:11.284Z"
+      "ingestedAt": "2026-06-15T17:38:11.284Z",
+      "statsSyncedAt": "2026-06-16T12:45:54.079Z"
     },
     {
       "sport": "fights",
@@ -521,11 +550,12 @@
       "headshot": "media/headshots/fights/3023804.png",
       "statsPath": "stats/espn-mma/3023804.json",
       "vaultPath": "vault/fights/players/steve-garcia.json",
-      "rowCount": 1,
+      "rowCount": 13,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:41:11.514Z"
+      "ingestedAt": "2026-06-15T17:41:11.514Z",
+      "statsSyncedAt": "2026-06-16T12:45:55.124Z"
     },
     {
       "sport": "fights",
@@ -536,11 +566,12 @@
       "headshot": "media/headshots/fights/4010976.png",
       "statsPath": "stats/espn-mma/4010976.json",
       "vaultPath": "vault/fights/players/tom-aspinall.json",
-      "rowCount": 1,
+      "rowCount": 10,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:36:46.845Z"
+      "ingestedAt": "2026-06-15T17:36:46.845Z",
+      "statsSyncedAt": "2026-06-16T12:45:56.243Z"
     },
     {
       "sport": "fights",
@@ -566,11 +597,12 @@
       "headshot": "media/headshots/fights/2554705.png",
       "statsPath": "stats/espn-mma/2554705.json",
       "vaultPath": "vault/fights/players/valentina-shevchenko.json",
-      "rowCount": 1,
+      "rowCount": 24,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:39:24.573Z"
+      "ingestedAt": "2026-06-15T17:39:24.573Z",
+      "statsSyncedAt": "2026-06-16T12:45:57.268Z"
     },
     {
       "sport": "fights",
@@ -581,11 +613,12 @@
       "headshot": "media/headshots/fights/3155420.png",
       "statsPath": "stats/espn-mma/3155420.json",
       "vaultPath": "vault/fights/players/yair-rodriguez.json",
-      "rowCount": 1,
+      "rowCount": 20,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:41:55.668Z"
+      "ingestedAt": "2026-06-15T17:41:55.668Z",
+      "statsSyncedAt": "2026-06-16T12:45:58.300Z"
     },
     {
       "sport": "fights",
@@ -596,11 +629,12 @@
       "headshot": "media/headshots/fights/4350762.png",
       "statsPath": "stats/espn-mma/4350762.json",
       "vaultPath": "vault/fights/players/zhang-weili.json",
-      "rowCount": 1,
+      "rowCount": 13,
       "sources": [
-        "espn_mma_core"
+        "espn"
       ],
-      "ingestedAt": "2026-06-15T17:39:33.579Z"
+      "ingestedAt": "2026-06-15T17:39:33.579Z",
+      "statsSyncedAt": "2026-06-16T12:45:59.349Z"
     },
     {
       "sport": "golf",
@@ -615,7 +649,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:36.005Z"
+      "ingestedAt": "2026-06-15T16:50:36.005Z",
+      "statsSyncedAt": "2026-06-16T12:46:00.303Z"
     },
     {
       "sport": "golf",
@@ -630,7 +665,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:49:52.803Z"
+      "ingestedAt": "2026-06-15T16:49:52.803Z",
+      "statsSyncedAt": "2026-06-16T12:46:01.237Z"
     },
     {
       "sport": "golf",
@@ -645,7 +681,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:05.925Z"
+      "ingestedAt": "2026-06-15T16:50:05.925Z",
+      "statsSyncedAt": "2026-06-16T12:46:22.656Z"
     },
     {
       "sport": "golf",
@@ -660,7 +697,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:49:57.115Z"
+      "ingestedAt": "2026-06-15T16:49:57.115Z",
+      "statsSyncedAt": "2026-06-16T12:46:23.630Z"
     },
     {
       "sport": "golf",
@@ -690,7 +728,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:31.221Z"
+      "ingestedAt": "2026-06-15T16:50:31.221Z",
+      "statsSyncedAt": "2026-06-16T12:46:24.514Z"
     },
     {
       "sport": "golf",
@@ -705,7 +744,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:15.115Z"
+      "ingestedAt": "2026-06-15T16:50:15.115Z",
+      "statsSyncedAt": "2026-06-16T12:46:45.847Z"
     },
     {
       "sport": "golf",
@@ -720,7 +760,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:40.470Z"
+      "ingestedAt": "2026-06-15T16:50:40.470Z",
+      "statsSyncedAt": "2026-06-16T12:46:46.783Z"
     },
     {
       "sport": "golf",
@@ -750,7 +791,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:49:48.882Z"
+      "ingestedAt": "2026-06-15T16:49:48.882Z",
+      "statsSyncedAt": "2026-06-16T12:46:47.798Z"
     },
     {
       "sport": "golf",
@@ -780,7 +822,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:49:43.426Z"
+      "ingestedAt": "2026-06-15T16:49:43.426Z",
+      "statsSyncedAt": "2026-06-16T12:46:48.711Z"
     },
     {
       "sport": "golf",
@@ -795,7 +838,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:45.440Z"
+      "ingestedAt": "2026-06-15T16:50:45.440Z",
+      "statsSyncedAt": "2026-06-16T12:46:49.626Z"
     },
     {
       "sport": "golf",
@@ -810,7 +854,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:10.606Z"
+      "ingestedAt": "2026-06-15T16:50:10.606Z",
+      "statsSyncedAt": "2026-06-16T12:47:11.348Z"
     },
     {
       "sport": "golf",
@@ -825,7 +870,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:19.696Z"
+      "ingestedAt": "2026-06-15T16:50:19.696Z",
+      "statsSyncedAt": "2026-06-16T12:47:33.077Z"
     },
     {
       "sport": "golf",
@@ -840,7 +886,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:27.432Z"
+      "ingestedAt": "2026-06-15T16:50:27.432Z",
+      "statsSyncedAt": "2026-06-16T12:47:54.761Z"
     },
     {
       "sport": "golf",
@@ -855,7 +902,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:01.776Z"
+      "ingestedAt": "2026-06-15T16:50:01.776Z",
+      "statsSyncedAt": "2026-06-16T12:48:16.324Z"
     },
     {
       "sport": "mlb",
@@ -870,7 +918,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T15:28:58.888Z"
+      "ingestedAt": "2026-06-15T15:28:58.888Z",
+      "statsSyncedAt": "2026-06-16T12:48:17.378Z"
     },
     {
       "sport": "mlb",
@@ -900,7 +949,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:23.295Z"
+      "ingestedAt": "2026-06-15T16:40:23.295Z",
+      "statsSyncedAt": "2026-06-16T12:48:19.371Z"
     },
     {
       "sport": "mlb",
@@ -915,7 +965,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:38:38.287Z"
+      "ingestedAt": "2026-06-15T16:38:38.287Z",
+      "statsSyncedAt": "2026-06-16T12:48:20.314Z"
     },
     {
       "sport": "mlb",
@@ -930,7 +981,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:28.243Z"
+      "ingestedAt": "2026-06-15T16:39:28.243Z",
+      "statsSyncedAt": "2026-06-16T12:48:21.162Z"
     },
     {
       "sport": "mlb",
@@ -945,7 +997,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:38:30.175Z"
+      "ingestedAt": "2026-06-15T16:38:30.175Z",
+      "statsSyncedAt": "2026-06-16T12:48:21.990Z"
     },
     {
       "sport": "mlb",
@@ -990,7 +1043,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:27.029Z"
+      "ingestedAt": "2026-06-15T16:41:27.029Z",
+      "statsSyncedAt": "2026-06-16T12:48:23.696Z"
     },
     {
       "sport": "mlb",
@@ -1005,7 +1059,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:27.311Z"
+      "ingestedAt": "2026-06-15T16:40:27.311Z",
+      "statsSyncedAt": "2026-06-16T12:48:24.687Z"
     },
     {
       "sport": "mlb",
@@ -1020,7 +1075,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:05.546Z"
+      "ingestedAt": "2026-06-15T16:39:05.546Z",
+      "statsSyncedAt": "2026-06-16T12:48:25.610Z"
     },
     {
       "sport": "mlb",
@@ -1035,7 +1091,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:42.282Z"
+      "ingestedAt": "2026-06-15T16:39:42.282Z",
+      "statsSyncedAt": "2026-06-16T12:48:26.577Z"
     },
     {
       "sport": "mlb",
@@ -1050,7 +1107,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:50.001Z"
+      "ingestedAt": "2026-06-15T16:40:50.001Z",
+      "statsSyncedAt": "2026-06-16T12:48:27.489Z"
     },
     {
       "sport": "mlb",
@@ -1080,7 +1138,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:23.986Z"
+      "ingestedAt": "2026-06-15T16:39:23.986Z",
+      "statsSyncedAt": "2026-06-16T12:48:29.486Z"
     },
     {
       "sport": "mlb",
@@ -1110,7 +1169,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T15:29:07.825Z"
+      "ingestedAt": "2026-06-15T15:29:07.825Z",
+      "statsSyncedAt": "2026-06-16T12:48:31.425Z"
     },
     {
       "sport": "mlb",
@@ -1155,7 +1215,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:14.706Z"
+      "ingestedAt": "2026-06-15T16:39:14.706Z",
+      "statsSyncedAt": "2026-06-16T12:48:33.210Z"
     },
     {
       "sport": "mlb",
@@ -1185,7 +1246,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:31.886Z"
+      "ingestedAt": "2026-06-15T16:40:31.886Z",
+      "statsSyncedAt": "2026-06-16T12:48:34.961Z"
     },
     {
       "sport": "mlb",
@@ -1200,7 +1262,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:54.511Z"
+      "ingestedAt": "2026-06-15T16:40:54.511Z",
+      "statsSyncedAt": "2026-06-16T12:48:36.118Z"
     },
     {
       "sport": "mlb",
@@ -1245,7 +1308,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T15:29:12.375Z"
+      "ingestedAt": "2026-06-15T15:29:12.375Z",
+      "statsSyncedAt": "2026-06-16T12:48:38.740Z"
     },
     {
       "sport": "mlb",
@@ -1275,7 +1339,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:09.498Z"
+      "ingestedAt": "2026-06-15T16:41:09.498Z",
+      "statsSyncedAt": "2026-06-16T12:48:40.537Z"
     },
     {
       "sport": "mlb",
@@ -1290,7 +1355,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:40.931Z"
+      "ingestedAt": "2026-06-15T16:40:40.931Z",
+      "statsSyncedAt": "2026-06-16T12:48:41.538Z"
     },
     {
       "sport": "mlb",
@@ -1305,7 +1371,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:18.326Z"
+      "ingestedAt": "2026-06-15T16:40:18.326Z",
+      "statsSyncedAt": "2026-06-16T12:48:42.459Z"
     },
     {
       "sport": "mlb",
@@ -1320,7 +1387,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:38.134Z"
+      "ingestedAt": "2026-06-15T16:39:38.134Z",
+      "statsSyncedAt": "2026-06-16T12:48:43.317Z"
     },
     {
       "sport": "mlb",
@@ -1350,7 +1418,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:36.448Z"
+      "ingestedAt": "2026-06-15T16:40:36.448Z",
+      "statsSyncedAt": "2026-06-16T12:48:45.035Z"
     },
     {
       "sport": "mlb",
@@ -1380,7 +1449,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T15:29:03.342Z"
+      "ingestedAt": "2026-06-15T15:29:03.342Z",
+      "statsSyncedAt": "2026-06-16T12:48:46.007Z"
     },
     {
       "sport": "mlb",
@@ -1395,7 +1465,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:17.678Z"
+      "ingestedAt": "2026-06-15T16:41:17.678Z",
+      "statsSyncedAt": "2026-06-16T12:48:46.839Z"
     },
     {
       "sport": "mlb",
@@ -1425,7 +1496,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:38:43.446Z"
+      "ingestedAt": "2026-06-15T16:38:43.446Z",
+      "statsSyncedAt": "2026-06-16T12:48:48.702Z"
     },
     {
       "sport": "mlb",
@@ -1455,7 +1527,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:13.073Z"
+      "ingestedAt": "2026-06-15T16:41:13.073Z",
+      "statsSyncedAt": "2026-06-16T12:48:50.572Z"
     },
     {
       "sport": "mlb",
@@ -1530,7 +1603,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T15:28:54.282Z"
+      "ingestedAt": "2026-06-15T15:28:54.282Z",
+      "statsSyncedAt": "2026-06-16T12:48:53.658Z"
     },
     {
       "sport": "mlb",
@@ -1590,7 +1664,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:45.453Z"
+      "ingestedAt": "2026-06-15T16:40:45.453Z",
+      "statsSyncedAt": "2026-06-16T12:48:57.719Z"
     },
     {
       "sport": "mlb",
@@ -1605,7 +1680,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:39:51.157Z"
+      "ingestedAt": "2026-06-15T16:39:51.157Z",
+      "statsSyncedAt": "2026-06-16T12:48:58.548Z"
     },
     {
       "sport": "mlb",
@@ -1620,7 +1696,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:38:25.199Z"
+      "ingestedAt": "2026-06-15T16:38:25.199Z",
+      "statsSyncedAt": "2026-06-16T12:48:59.584Z"
     },
     {
       "sport": "mlb",
@@ -1635,7 +1712,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:40:13.657Z"
+      "ingestedAt": "2026-06-15T16:40:13.657Z",
+      "statsSyncedAt": "2026-06-16T12:49:00.482Z"
     },
     {
       "sport": "mls",
@@ -1680,7 +1758,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:51:37.687Z"
+      "ingestedAt": "2026-06-15T16:51:37.687Z",
+      "statsSyncedAt": "2026-06-16T12:49:05.349Z"
     },
     {
       "sport": "mls",
@@ -1710,7 +1789,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:51:26.066Z"
+      "ingestedAt": "2026-06-15T16:51:26.066Z",
+      "statsSyncedAt": "2026-06-16T12:49:07.635Z"
     },
     {
       "sport": "mls",
@@ -1725,7 +1805,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:50:49.259Z"
+      "ingestedAt": "2026-06-15T16:50:49.259Z",
+      "statsSyncedAt": "2026-06-16T12:49:09.077Z"
     },
     {
       "sport": "mls",
@@ -1740,7 +1821,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T17:45:57.136Z"
+      "ingestedAt": "2026-06-15T17:45:57.136Z",
+      "statsSyncedAt": "2026-06-16T12:49:10.255Z"
     },
     {
       "sport": "nba",
@@ -3720,7 +3802,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:43:17.195Z"
+      "ingestedAt": "2026-06-15T16:43:17.195Z",
+      "statsSyncedAt": "2026-06-16T12:49:12.243Z"
     },
     {
       "sport": "nhl",
@@ -3765,7 +3848,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:39.735Z"
+      "ingestedAt": "2026-06-15T16:42:39.735Z",
+      "statsSyncedAt": "2026-06-16T12:49:14.932Z"
     },
     {
       "sport": "nhl",
@@ -3780,7 +3864,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:40.683Z"
+      "ingestedAt": "2026-06-15T16:41:40.683Z",
+      "statsSyncedAt": "2026-06-16T12:49:15.881Z"
     },
     {
       "sport": "nhl",
@@ -3840,7 +3925,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:43:36.021Z"
+      "ingestedAt": "2026-06-15T16:43:36.021Z",
+      "statsSyncedAt": "2026-06-16T12:49:18.781Z"
     },
     {
       "sport": "nhl",
@@ -3855,7 +3941,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:49.704Z"
+      "ingestedAt": "2026-06-15T16:41:49.704Z",
+      "statsSyncedAt": "2026-06-16T12:49:19.830Z"
     },
     {
       "sport": "nhl",
@@ -3870,7 +3957,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:12.741Z"
+      "ingestedAt": "2026-06-15T16:42:12.741Z",
+      "statsSyncedAt": "2026-06-16T12:49:20.920Z"
     },
     {
       "sport": "nhl",
@@ -3885,7 +3973,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:36.098Z"
+      "ingestedAt": "2026-06-15T16:41:36.098Z",
+      "statsSyncedAt": "2026-06-16T12:49:21.980Z"
     },
     {
       "sport": "nhl",
@@ -3915,7 +4004,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:43:30.904Z"
+      "ingestedAt": "2026-06-15T16:43:30.904Z",
+      "statsSyncedAt": "2026-06-16T12:49:23.960Z"
     },
     {
       "sport": "nhl",
@@ -3930,7 +4020,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:17.172Z"
+      "ingestedAt": "2026-06-15T16:42:17.172Z",
+      "statsSyncedAt": "2026-06-16T12:49:45.574Z"
     },
     {
       "sport": "nhl",
@@ -3975,7 +4066,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:35.317Z"
+      "ingestedAt": "2026-06-15T16:42:35.317Z",
+      "statsSyncedAt": "2026-06-16T12:49:48.542Z"
     },
     {
       "sport": "nhl",
@@ -3990,7 +4082,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:03.265Z"
+      "ingestedAt": "2026-06-15T16:42:03.265Z",
+      "statsSyncedAt": "2026-06-16T12:49:49.565Z"
     },
     {
       "sport": "nhl",
@@ -4005,7 +4098,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:44:14.010Z"
+      "ingestedAt": "2026-06-15T16:44:14.010Z",
+      "statsSyncedAt": "2026-06-16T12:49:50.414Z"
     },
     {
       "sport": "nhl",
@@ -4035,7 +4129,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:44:03.070Z"
+      "ingestedAt": "2026-06-15T16:44:03.070Z",
+      "statsSyncedAt": "2026-06-16T12:49:52.513Z"
     },
     {
       "sport": "nhl",
@@ -4065,7 +4160,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:44:09.501Z"
+      "ingestedAt": "2026-06-15T16:44:09.501Z",
+      "statsSyncedAt": "2026-06-16T12:49:54.566Z"
     },
     {
       "sport": "nhl",
@@ -4080,7 +4176,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:43:21.997Z"
+      "ingestedAt": "2026-06-15T16:43:21.997Z",
+      "statsSyncedAt": "2026-06-16T12:49:55.491Z"
     },
     {
       "sport": "nhl",
@@ -4095,7 +4192,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:08.763Z"
+      "ingestedAt": "2026-06-15T16:42:08.763Z",
+      "statsSyncedAt": "2026-06-16T12:49:56.358Z"
     },
     {
       "sport": "nhl",
@@ -4110,7 +4208,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:45.299Z"
+      "ingestedAt": "2026-06-15T16:41:45.299Z",
+      "statsSyncedAt": "2026-06-16T12:49:57.220Z"
     },
     {
       "sport": "nhl",
@@ -4155,7 +4254,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:26.896Z"
+      "ingestedAt": "2026-06-15T16:42:26.896Z",
+      "statsSyncedAt": "2026-06-16T12:49:59.097Z"
     },
     {
       "sport": "nhl",
@@ -4170,7 +4270,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:43:27.164Z"
+      "ingestedAt": "2026-06-15T16:43:27.164Z",
+      "statsSyncedAt": "2026-06-16T12:49:59.930Z"
     },
     {
       "sport": "nhl",
@@ -4185,7 +4286,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:43:12.743Z"
+      "ingestedAt": "2026-06-15T16:43:12.743Z",
+      "statsSyncedAt": "2026-06-16T12:50:00.805Z"
     },
     {
       "sport": "nhl",
@@ -4215,7 +4317,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:41:58.604Z"
+      "ingestedAt": "2026-06-15T16:41:58.604Z",
+      "statsSyncedAt": "2026-06-16T12:50:02.713Z"
     },
     {
       "sport": "nhl",
@@ -4230,7 +4333,8 @@
       "sources": [
         "espn"
       ],
-      "ingestedAt": "2026-06-15T16:42:59.228Z"
+      "ingestedAt": "2026-06-15T16:42:59.228Z",
+      "statsSyncedAt": "2026-06-16T12:50:03.686Z"
     },
     {
       "sport": "nhl",

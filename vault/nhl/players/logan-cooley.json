@@ -58,7 +58,7 @@
   ],
   "recentGames": [
     {
-      "date": "May 1",
+      "date": "May 2",
       "matchup": "vs VGK",
       "result": "L 5-1",
       "min": "—",
@@ -69,7 +69,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 29",
+      "date": "Apr 30",
       "matchup": "@ VGK",
       "result": "L 5-4 2OT",
       "min": "—",
@@ -80,7 +80,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 27",
+      "date": "Apr 28",
       "matchup": "vs VGK",
       "result": "L 5-4 OT",
       "min": "—",
@@ -91,7 +91,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 24",
+      "date": "Apr 25",
       "matchup": "vs VGK",
       "result": "W 4-2",
       "min": "—",
@@ -102,7 +102,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 21",
+      "date": "Apr 22",
       "matchup": "@ VGK",
       "result": "W 3-2",
       "min": "—",
@@ -116,5 +116,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:44:14.008Z"
+  "ingestedAt": "2026-06-16T12:49:50.413Z",
+  "statsSyncedAt": "2026-06-16T12:49:50.413Z"
 }

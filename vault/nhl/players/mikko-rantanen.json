@@ -233,7 +233,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 28",
+      "date": "Apr 29",
       "matchup": "vs MIN",
       "result": "L 4-2",
       "min": "—",
@@ -255,7 +255,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 22",
+      "date": "Apr 23",
       "matchup": "@ MIN",
       "result": "W 4-3 2OT",
       "min": "—",
@@ -266,7 +266,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 20",
+      "date": "Apr 21",
       "matchup": "vs MIN",
       "result": "W 4-2",
       "min": "—",
@@ -280,5 +280,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:43:21.985Z"
+  "ingestedAt": "2026-06-16T12:49:55.490Z",
+  "statsSyncedAt": "2026-06-16T12:49:55.490Z"
 }

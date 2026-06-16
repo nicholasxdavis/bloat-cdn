@@ -43,7 +43,7 @@
   ],
   "recentGames": [
     {
-      "date": "May 7",
+      "date": "May 8",
       "matchup": "vs CAR",
       "result": "L 4-1",
       "min": "—",
@@ -65,7 +65,7 @@
       "blk": "—"
     },
     {
-      "date": "May 2",
+      "date": "May 3",
       "matchup": "@ CAR",
       "result": "L 3-0",
       "min": "—",
@@ -87,7 +87,7 @@
       "blk": "—"
     },
     {
-      "date": "Apr 25",
+      "date": "Apr 26",
       "matchup": "vs PIT",
       "result": "L 4-2",
       "min": "—",
@@ -101,5 +101,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:44:09.497Z"
+  "ingestedAt": "2026-06-16T12:49:54.566Z",
+  "statsSyncedAt": "2026-06-16T12:49:54.566Z"
 }

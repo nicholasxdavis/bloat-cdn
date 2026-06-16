@@ -268,7 +268,7 @@
   ],
   "recentGames": [
     {
-      "date": "Mar 19",
+      "date": "Mar 20",
       "matchup": "@ VAN",
       "result": "W 6-2",
       "min": "—",
@@ -279,7 +279,7 @@
       "blk": "—"
     },
     {
-      "date": "Mar 17",
+      "date": "Mar 18",
       "matchup": "@ SEA",
       "result": "W 6-2",
       "min": "—",
@@ -326,5 +326,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:42:59.225Z"
+  "ingestedAt": "2026-06-16T12:50:03.685Z",
+  "statsSyncedAt": "2026-06-16T12:50:03.685Z"
 }

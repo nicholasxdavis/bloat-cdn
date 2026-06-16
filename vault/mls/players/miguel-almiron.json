@@ -69,7 +69,7 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 12",
+      "date": "Jun 13",
       "matchup": "@ USA",
       "result": "L 4-1",
       "min": "—",
@@ -113,7 +113,7 @@
       "blk": "0"
     },
     {
-      "date": "Apr 11",
+      "date": "Apr 12",
       "matchup": "@ CHI",
       "result": "L 1-0",
       "min": "—",
@@ -127,5 +127,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:45:57.130Z"
+  "ingestedAt": "2026-06-16T12:49:10.254Z",
+  "statsSyncedAt": "2026-06-16T12:49:10.254Z"
 }

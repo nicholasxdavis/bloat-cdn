@@ -237,7 +237,7 @@
       "blk": "1"
     },
     {
-      "date": "Jun 5",
+      "date": "Jun 6",
       "matchup": "vs CLE",
       "result": "W 3-2",
       "min": "4",
@@ -251,5 +251,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:39:42.277Z"
+  "ingestedAt": "2026-06-16T12:48:26.576Z",
+  "statsSyncedAt": "2026-06-16T12:48:26.576Z"
 }

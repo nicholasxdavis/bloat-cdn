@@ -241,7 +241,7 @@
       "blk": "—"
     },
     {
-      "date": "May 27",
+      "date": "May 28",
       "matchup": "vs HOU",
       "result": "L 4-3",
       "min": "—",
@@ -252,7 +252,7 @@
       "blk": "—"
     },
     {
-      "date": "May 22",
+      "date": "May 23",
       "matchup": "@ LAA",
       "result": "L 9-6",
       "min": "—",
@@ -266,5 +266,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:40:31.883Z"
+  "ingestedAt": "2026-06-16T12:48:34.961Z",
+  "statsSyncedAt": "2026-06-16T12:48:34.961Z"
 }
