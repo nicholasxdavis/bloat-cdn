@@ -1,0 +1,135 @@
+{
+  "id": "nembhan01",
+  "espnId": "4395712",
+  "slug": "nembhan01",
+  "name": "Andrew Nembhard",
+  "sport": "nba",
+  "position": "G",
+  "team": "IND",
+  "headshot": "media/headshots/nba/nembhan01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4395712.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "IND",
+      "gp": "57",
+      "min": "31.3",
+      "pts": "16.9",
+      "reb": "2.8",
+      "ast": "7.7",
+      "stl": "0.9",
+      "blk": "0.1",
+      "fgPct": "44.2",
+      "fg3Pct": "36.1",
+      "ftPct": "82.5",
+      "to": "2.4"
+    },
+    {
+      "season": "2024-25",
+      "team": "IND",
+      "gp": "65",
+      "min": "28.9",
+      "pts": "10.0",
+      "reb": "3.3",
+      "ast": "5.0",
+      "stl": "1.2",
+      "blk": "0.2",
+      "fgPct": "45.8",
+      "fg3Pct": "29.1",
+      "ftPct": "79.4",
+      "to": "1.7"
+    },
+    {
+      "season": "2023-24",
+      "team": "IND",
+      "gp": "68",
+      "min": "25.0",
+      "pts": "9.2",
+      "reb": "2.1",
+      "ast": "4.1",
+      "stl": "0.9",
+      "blk": "0.1",
+      "fgPct": "49.8",
+      "fg3Pct": "35.7",
+      "ftPct": "80.4",
+      "to": "1.5"
+    },
+    {
+      "season": "2022-23",
+      "team": "IND",
+      "gp": "75",
+      "min": "27.7",
+      "pts": "9.5",
+      "reb": "2.7",
+      "ast": "4.5",
+      "stl": "0.9",
+      "blk": "0.2",
+      "fgPct": "44.1",
+      "fg3Pct": "35.0",
+      "ftPct": "79.0",
+      "to": "1.7"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Mar 29",
+      "matchup": "vs MIA",
+      "result": "W 135-118",
+      "min": "36",
+      "pts": "15",
+      "reb": "3",
+      "ast": "10",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 27",
+      "matchup": "vs LAC",
+      "result": "L 114-113",
+      "min": "32",
+      "pts": "13",
+      "reb": "1",
+      "ast": "10",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Mar 25",
+      "matchup": "vs LAL",
+      "result": "L 137-130",
+      "min": "34",
+      "pts": "14",
+      "reb": "2",
+      "ast": "19",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 23",
+      "matchup": "@ ORL",
+      "result": "W 128-126",
+      "min": "35",
+      "pts": "13",
+      "reb": "7",
+      "ast": "14",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 21",
+      "matchup": "@ SA",
+      "result": "L 134-119",
+      "min": "28",
+      "pts": "25",
+      "reb": "1",
+      "ast": "7",
+      "stl": "1",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:55:07.330Z"
+}

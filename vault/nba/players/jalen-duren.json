@@ -1,0 +1,135 @@
+{
+  "id": "durenja01",
+  "espnId": "4433621",
+  "slug": "durenja01",
+  "name": "Jalen Duren",
+  "sport": "nba",
+  "position": "C",
+  "team": "DET",
+  "headshot": "media/headshots/nba/durenja01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433621.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": "70",
+      "min": "28.2",
+      "pts": "19.5",
+      "reb": "10.5",
+      "ast": "2.0",
+      "stl": "0.8",
+      "blk": "0.8",
+      "fgPct": "65.0",
+      "fg3Pct": "0.0",
+      "ftPct": "74.7",
+      "to": "1.9"
+    },
+    {
+      "season": "2024-25",
+      "team": "DET",
+      "gp": "78",
+      "min": "26.1",
+      "pts": "11.8",
+      "reb": "10.3",
+      "ast": "2.7",
+      "stl": "0.7",
+      "blk": "1.1",
+      "fgPct": "69.2",
+      "fg3Pct": "0.0",
+      "ftPct": "66.9",
+      "to": "1.7"
+    },
+    {
+      "season": "2023-24",
+      "team": "DET",
+      "gp": "61",
+      "min": "29.1",
+      "pts": "13.8",
+      "reb": "11.6",
+      "ast": "2.4",
+      "stl": "0.5",
+      "blk": "0.8",
+      "fgPct": "61.9",
+      "fg3Pct": "0.0",
+      "ftPct": "79.0",
+      "to": "2.1"
+    },
+    {
+      "season": "2022-23",
+      "team": "DET",
+      "gp": "67",
+      "min": "24.9",
+      "pts": "9.1",
+      "reb": "8.9",
+      "ast": "1.1",
+      "stl": "0.7",
+      "blk": "0.9",
+      "fgPct": "64.8",
+      "fg3Pct": "0.0",
+      "ftPct": "61.1",
+      "to": "1.4"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 17",
+      "matchup": "vs CLE",
+      "result": "L 125-94",
+      "min": "26",
+      "pts": "7",
+      "reb": "9",
+      "ast": "3",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "May 15",
+      "matchup": "@ CLE",
+      "result": "W 115-94",
+      "min": "27",
+      "pts": "15",
+      "reb": "11",
+      "ast": "0",
+      "stl": "1",
+      "blk": "3"
+    },
+    {
+      "date": "May 13",
+      "matchup": "vs CLE",
+      "result": "L 117-113 OT",
+      "min": "25",
+      "pts": "9",
+      "reb": "5",
+      "ast": "4",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "May 11",
+      "matchup": "@ CLE",
+      "result": "L 112-103",
+      "min": "27",
+      "pts": "8",
+      "reb": "2",
+      "ast": "2",
+      "stl": "2",
+      "blk": "1"
+    },
+    {
+      "date": "May 9",
+      "matchup": "@ CLE",
+      "result": "L 116-109",
+      "min": "29",
+      "pts": "11",
+      "reb": "4",
+      "ast": "1",
+      "stl": "2",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:54:37.527Z"
+}

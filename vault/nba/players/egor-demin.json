@@ -1,0 +1,90 @@
+{
+  "id": "demineg01",
+  "espnId": "5175643",
+  "slug": "demineg01",
+  "name": "Egor Demin",
+  "sport": "nba",
+  "position": "G",
+  "team": "BKN",
+  "headshot": "media/headshots/nba/demineg01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5175643.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "BKN",
+      "gp": "52",
+      "min": "25.2",
+      "pts": "10.3",
+      "reb": "3.2",
+      "ast": "3.3",
+      "stl": "0.8",
+      "blk": "0.3",
+      "fgPct": "39.9",
+      "fg3Pct": "38.5",
+      "ftPct": "83.1",
+      "to": "1.7"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Feb 27",
+      "matchup": "@ BOS",
+      "result": "L 148-111",
+      "min": "22",
+      "pts": "5",
+      "reb": "0",
+      "ast": "2",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Feb 26",
+      "matchup": "vs SA",
+      "result": "L 126-110",
+      "min": "25",
+      "pts": "6",
+      "reb": "5",
+      "ast": "9",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Feb 24",
+      "matchup": "vs DAL",
+      "result": "L 123-114",
+      "min": "28",
+      "pts": "3",
+      "reb": "5",
+      "ast": "2",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Feb 22",
+      "matchup": "@ ATL",
+      "result": "L 115-104",
+      "min": "28",
+      "pts": "13",
+      "reb": "1",
+      "ast": "4",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Feb 20",
+      "matchup": "@ OKC",
+      "result": "L 105-86",
+      "min": "28",
+      "pts": "3",
+      "reb": "5",
+      "ast": "3",
+      "stl": "1",
+      "blk": "2"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:11.769Z"
+}

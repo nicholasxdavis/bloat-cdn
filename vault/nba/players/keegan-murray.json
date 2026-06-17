@@ -1,0 +1,135 @@
+{
+  "id": "murrake01",
+  "espnId": "4594327",
+  "slug": "murrake01",
+  "name": "Keegan Murray",
+  "sport": "nba",
+  "position": "F",
+  "team": "SAC",
+  "headshot": "media/headshots/nba/murrake01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4594327.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "SAC",
+      "gp": "23",
+      "min": "34.5",
+      "pts": "14.0",
+      "reb": "5.7",
+      "ast": "1.7",
+      "stl": "1.0",
+      "blk": "1.6",
+      "fgPct": "42.0",
+      "fg3Pct": "27.7",
+      "ftPct": "77.6",
+      "to": "1.2"
+    },
+    {
+      "season": "2024-25",
+      "team": "SAC",
+      "gp": "76",
+      "min": "34.3",
+      "pts": "12.4",
+      "reb": "6.7",
+      "ast": "1.4",
+      "stl": "0.8",
+      "blk": "0.9",
+      "fgPct": "44.4",
+      "fg3Pct": "34.3",
+      "ftPct": "83.3",
+      "to": "0.8"
+    },
+    {
+      "season": "2023-24",
+      "team": "SAC",
+      "gp": "77",
+      "min": "33.6",
+      "pts": "15.2",
+      "reb": "5.5",
+      "ast": "1.7",
+      "stl": "1.0",
+      "blk": "0.8",
+      "fgPct": "45.4",
+      "fg3Pct": "35.8",
+      "ftPct": "83.1",
+      "to": "0.8"
+    },
+    {
+      "season": "2022-23",
+      "team": "SAC",
+      "gp": "80",
+      "min": "29.8",
+      "pts": "12.2",
+      "reb": "4.6",
+      "ast": "1.2",
+      "stl": "0.8",
+      "blk": "0.5",
+      "fgPct": "45.3",
+      "fg3Pct": "41.1",
+      "ftPct": "76.5",
+      "to": "0.8"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Feb 25",
+      "matchup": "@ HOU",
+      "result": "L 128-97",
+      "min": "9",
+      "pts": "3",
+      "reb": "1",
+      "ast": "0",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Feb 23",
+      "matchup": "@ MEM",
+      "result": "W 123-114",
+      "min": "34",
+      "pts": "6",
+      "reb": "5",
+      "ast": "5",
+      "stl": "0",
+      "blk": "3"
+    },
+    {
+      "date": "Feb 21",
+      "matchup": "@ SA",
+      "result": "L 139-122",
+      "min": "36",
+      "pts": "20",
+      "reb": "2",
+      "ast": "2",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Feb 19",
+      "matchup": "vs ORL",
+      "result": "L 131-94",
+      "min": "32",
+      "pts": "15",
+      "reb": "8",
+      "ast": "2",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Jan 4",
+      "matchup": "vs MIL",
+      "result": "L 115-98",
+      "min": "27",
+      "pts": "12",
+      "reb": "3",
+      "ast": "0",
+      "stl": "0",
+      "blk": "2"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:58:13.287Z"
+}

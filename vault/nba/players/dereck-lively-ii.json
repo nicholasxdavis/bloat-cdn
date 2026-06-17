@@ -1,0 +1,120 @@
+{
+  "id": "iide01",
+  "espnId": "4683688",
+  "slug": "iide01",
+  "name": "Dereck Lively II",
+  "sport": "nba",
+  "position": "C",
+  "team": "DAL",
+  "headshot": "media/headshots/nba/iide01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4683688.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "DAL",
+      "gp": "7",
+      "min": "16.4",
+      "pts": "4.3",
+      "reb": "5.3",
+      "ast": "1.9",
+      "stl": "0.6",
+      "blk": "1.6",
+      "fgPct": "61.1",
+      "fg3Pct": "0.0",
+      "ftPct": "80.0",
+      "to": "1.4"
+    },
+    {
+      "season": "2024-25",
+      "team": "DAL",
+      "gp": "36",
+      "min": "23.1",
+      "pts": "8.7",
+      "reb": "7.5",
+      "ast": "2.4",
+      "stl": "0.6",
+      "blk": "1.6",
+      "fgPct": "70.2",
+      "fg3Pct": "0.0",
+      "ftPct": "63.0",
+      "to": "1.1"
+    },
+    {
+      "season": "2023-24",
+      "team": "DAL",
+      "gp": "55",
+      "min": "23.5",
+      "pts": "8.8",
+      "reb": "6.9",
+      "ast": "1.1",
+      "stl": "0.7",
+      "blk": "1.4",
+      "fgPct": "74.7",
+      "fg3Pct": "0.0",
+      "ftPct": "50.6",
+      "to": "0.9"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Nov 21",
+      "matchup": "vs NO",
+      "result": "W 118-115",
+      "min": "18",
+      "pts": "4",
+      "reb": "4",
+      "ast": "2",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Nov 19",
+      "matchup": "vs NY",
+      "result": "L 113-111",
+      "min": "18",
+      "pts": "4",
+      "reb": "10",
+      "ast": "1",
+      "stl": "0",
+      "blk": "3"
+    },
+    {
+      "date": "Nov 16",
+      "matchup": "vs POR",
+      "result": "W 138-133 OT",
+      "min": "12",
+      "pts": "2",
+      "reb": "3",
+      "ast": "1",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "Nov 14",
+      "matchup": "vs LAC",
+      "result": "L 133-127 2OT",
+      "min": "17",
+      "pts": "4",
+      "reb": "5",
+      "ast": "0",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Oct 26",
+      "matchup": "vs TOR",
+      "result": "W 139-129",
+      "min": "21",
+      "pts": "4",
+      "reb": "7",
+      "ast": "4",
+      "stl": "0",
+      "blk": "3"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:54:13.512Z"
+}

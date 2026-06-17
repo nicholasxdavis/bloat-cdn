@@ -1,0 +1,105 @@
+{
+  "id": "wellsja01",
+  "espnId": "5112087",
+  "slug": "wellsja01",
+  "name": "Jaylen Wells",
+  "sport": "nba",
+  "position": "F",
+  "team": "MEM",
+  "headshot": "media/headshots/nba/wellsja01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5112087.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": "69",
+      "min": "26.4",
+      "pts": "12.5",
+      "reb": "3.2",
+      "ast": "1.6",
+      "stl": "0.9",
+      "blk": "0.1",
+      "fgPct": "43.1",
+      "fg3Pct": "35.3",
+      "ftPct": "78.4",
+      "to": "1.1"
+    },
+    {
+      "season": "2024-25",
+      "team": "MEM",
+      "gp": "79",
+      "min": "25.9",
+      "pts": "10.4",
+      "reb": "3.4",
+      "ast": "1.7",
+      "stl": "0.6",
+      "blk": "0.1",
+      "fgPct": "42.5",
+      "fg3Pct": "35.2",
+      "ftPct": "82.2",
+      "to": "0.9"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Mar 23",
+      "matchup": "@ ATL",
+      "result": "L 146-107",
+      "min": "20",
+      "pts": "4",
+      "reb": "2",
+      "ast": "2",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 21",
+      "matchup": "@ CHA",
+      "result": "L 124-101",
+      "min": "25",
+      "pts": "9",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 20",
+      "matchup": "vs BOS",
+      "result": "L 117-112",
+      "min": "20",
+      "pts": "6",
+      "reb": "0",
+      "ast": "0",
+      "stl": "2",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 18",
+      "matchup": "vs DEN",
+      "result": "W 125-118",
+      "min": "25",
+      "pts": "11",
+      "reb": "5",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 16",
+      "matchup": "@ CHI",
+      "result": "L 132-107",
+      "min": "23",
+      "pts": "16",
+      "reb": "3",
+      "ast": "1",
+      "stl": "1",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:55:48.787Z"
+}

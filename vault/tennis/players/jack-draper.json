@@ -1,0 +1,29 @@
+{
+  "id": "3856",
+  "espnId": "3856",
+  "slug": "3856",
+  "name": "Jack Draper",
+  "sport": "tennis",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2018-2019",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:10:49.192Z"
+}

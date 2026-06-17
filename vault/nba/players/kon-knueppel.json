@@ -1,0 +1,90 @@
+{
+  "id": "knuepko01",
+  "espnId": "5061575",
+  "slug": "knuepko01",
+  "name": "Kon Knueppel",
+  "sport": "nba",
+  "position": "G",
+  "team": "CHA",
+  "headshot": "media/headshots/nba/knuepko01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5061575.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": "81",
+      "min": "31.5",
+      "pts": "18.5",
+      "reb": "5.3",
+      "ast": "3.4",
+      "stl": "0.7",
+      "blk": "0.2",
+      "fgPct": "47.5",
+      "fg3Pct": "42.5",
+      "ftPct": "86.3",
+      "to": "2.0"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 17",
+      "matchup": "@ ORL",
+      "result": "L 121-90",
+      "min": "29",
+      "pts": "11",
+      "reb": "3",
+      "ast": "1",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 14",
+      "matchup": "vs MIA",
+      "result": "W 127-126 OT",
+      "min": "34",
+      "pts": "6",
+      "reb": "5",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 12",
+      "matchup": "@ NY",
+      "result": "W 110-96",
+      "min": "31",
+      "pts": "14",
+      "reb": "6",
+      "ast": "5",
+      "stl": "2",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 10",
+      "matchup": "vs DET",
+      "result": "L 118-100",
+      "min": "29",
+      "pts": "10",
+      "reb": "4",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 7",
+      "matchup": "@ BOS",
+      "result": "L 113-102",
+      "min": "35",
+      "pts": "13",
+      "reb": "5",
+      "ast": "5",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:28.297Z"
+}

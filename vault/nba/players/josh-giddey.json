@@ -1,0 +1,150 @@
+{
+  "id": "giddejo01",
+  "espnId": "4871145",
+  "slug": "giddejo01",
+  "name": "Josh Giddey",
+  "sport": "nba",
+  "position": "G",
+  "team": "CHI",
+  "headshot": "media/headshots/nba/giddejo01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4871145.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": "54",
+      "min": "32.1",
+      "pts": "17.0",
+      "reb": "8.3",
+      "ast": "9.1",
+      "stl": "1.0",
+      "blk": "0.5",
+      "fgPct": "44.8",
+      "fg3Pct": "36.4",
+      "ftPct": "76.3",
+      "to": "3.6"
+    },
+    {
+      "season": "2024-25",
+      "team": "CHI",
+      "gp": "70",
+      "min": "30.2",
+      "pts": "14.6",
+      "reb": "8.1",
+      "ast": "7.2",
+      "stl": "1.2",
+      "blk": "0.6",
+      "fgPct": "46.5",
+      "fg3Pct": "37.8",
+      "ftPct": "78.1",
+      "to": "2.9"
+    },
+    {
+      "season": "2023-24",
+      "team": "OKC",
+      "gp": "80",
+      "min": "25.2",
+      "pts": "12.3",
+      "reb": "6.4",
+      "ast": "4.8",
+      "stl": "0.7",
+      "blk": "0.6",
+      "fgPct": "47.5",
+      "fg3Pct": "33.7",
+      "ftPct": "80.6",
+      "to": "2.1"
+    },
+    {
+      "season": "2022-23",
+      "team": "OKC",
+      "gp": "76",
+      "min": "31.1",
+      "pts": "16.6",
+      "reb": "7.9",
+      "ast": "6.2",
+      "stl": "0.8",
+      "blk": "0.4",
+      "fgPct": "48.2",
+      "fg3Pct": "32.5",
+      "ftPct": "73.1",
+      "to": "2.8"
+    },
+    {
+      "season": "2021-22",
+      "team": "OKC",
+      "gp": "54",
+      "min": "31.5",
+      "pts": "12.5",
+      "reb": "7.8",
+      "ast": "6.4",
+      "stl": "0.9",
+      "blk": "0.4",
+      "fgPct": "41.9",
+      "fg3Pct": "26.3",
+      "ftPct": "70.9",
+      "to": "3.2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 3",
+      "matchup": "@ NY",
+      "result": "L 136-96",
+      "min": "26",
+      "pts": "6",
+      "reb": "5",
+      "ast": "5",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "Mar 30",
+      "matchup": "@ SA",
+      "result": "L 129-114",
+      "min": "33",
+      "pts": "9",
+      "reb": "7",
+      "ast": "10",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Mar 28",
+      "matchup": "@ MEM",
+      "result": "L 125-124",
+      "min": "35",
+      "pts": "18",
+      "reb": "13",
+      "ast": "10",
+      "stl": "2",
+      "blk": "3"
+    },
+    {
+      "date": "Mar 27",
+      "matchup": "@ OKC",
+      "result": "L 131-113",
+      "min": "33",
+      "pts": "5",
+      "reb": "7",
+      "ast": "11",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 25",
+      "matchup": "@ PHI",
+      "result": "L 157-137",
+      "min": "33",
+      "pts": "23",
+      "reb": "9",
+      "ast": "12",
+      "stl": "0",
+      "blk": "1"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:37.169Z"
+}

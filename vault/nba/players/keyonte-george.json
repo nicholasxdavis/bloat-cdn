@@ -1,0 +1,120 @@
+{
+  "id": "georgke01",
+  "espnId": "4433627",
+  "slug": "georgke01",
+  "name": "Keyonte George",
+  "sport": "nba",
+  "position": "G",
+  "team": "UTAH",
+  "headshot": "media/headshots/nba/georgke01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433627.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "UTAH",
+      "gp": "54",
+      "min": "33.1",
+      "pts": "23.6",
+      "reb": "3.7",
+      "ast": "6.1",
+      "stl": "1.1",
+      "blk": "0.3",
+      "fgPct": "45.6",
+      "fg3Pct": "37.1",
+      "ftPct": "89.2",
+      "to": "3.1"
+    },
+    {
+      "season": "2024-25",
+      "team": "UTAH",
+      "gp": "67",
+      "min": "31.5",
+      "pts": "16.8",
+      "reb": "3.8",
+      "ast": "5.6",
+      "stl": "0.7",
+      "blk": "0.1",
+      "fgPct": "39.1",
+      "fg3Pct": "34.3",
+      "ftPct": "81.8",
+      "to": "2.7"
+    },
+    {
+      "season": "2023-24",
+      "team": "UTAH",
+      "gp": "75",
+      "min": "27.0",
+      "pts": "13.0",
+      "reb": "2.8",
+      "ast": "4.4",
+      "stl": "0.5",
+      "blk": "0.1",
+      "fgPct": "39.1",
+      "fg3Pct": "33.4",
+      "ftPct": "84.8",
+      "to": "2.5"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Mar 11",
+      "matchup": "vs NY",
+      "result": "L 134-117",
+      "min": "20",
+      "pts": "14",
+      "reb": "2",
+      "ast": "5",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 9",
+      "matchup": "vs GS",
+      "result": "W 119-116",
+      "min": "24",
+      "pts": "15",
+      "reb": "0",
+      "ast": "2",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 7",
+      "matchup": "@ MIL",
+      "result": "L 113-99",
+      "min": "29",
+      "pts": "22",
+      "reb": "2",
+      "ast": "4",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 4",
+      "matchup": "@ PHI",
+      "result": "L 106-102",
+      "min": "30",
+      "pts": "30",
+      "reb": "4",
+      "ast": "2",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 2",
+      "matchup": "vs DEN",
+      "result": "L 128-125",
+      "min": "30",
+      "pts": "36",
+      "reb": "2",
+      "ast": "2",
+      "stl": "4",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:58:43.182Z"
+}

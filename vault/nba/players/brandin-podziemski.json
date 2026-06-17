@@ -1,0 +1,120 @@
+{
+  "id": "podzibr01",
+  "espnId": "4709138",
+  "slug": "podzibr01",
+  "name": "Brandin Podziemski",
+  "sport": "nba",
+  "position": "G",
+  "team": "GS",
+  "headshot": "media/headshots/nba/podzibr01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4709138.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "GS",
+      "gp": "82",
+      "min": "28.5",
+      "pts": "13.8",
+      "reb": "5.1",
+      "ast": "3.7",
+      "stl": "1.1",
+      "blk": "0.2",
+      "fgPct": "45.5",
+      "fg3Pct": "37.1",
+      "ftPct": "79.7",
+      "to": "1.6"
+    },
+    {
+      "season": "2024-25",
+      "team": "GS",
+      "gp": "64",
+      "min": "26.8",
+      "pts": "11.7",
+      "reb": "5.1",
+      "ast": "3.4",
+      "stl": "1.1",
+      "blk": "0.2",
+      "fgPct": "44.5",
+      "fg3Pct": "37.2",
+      "ftPct": "75.8",
+      "to": "1.2"
+    },
+    {
+      "season": "2023-24",
+      "team": "GS",
+      "gp": "74",
+      "min": "26.6",
+      "pts": "9.2",
+      "reb": "5.8",
+      "ast": "3.7",
+      "stl": "0.8",
+      "blk": "0.2",
+      "fgPct": "45.4",
+      "fg3Pct": "38.5",
+      "ftPct": "63.3",
+      "to": "1.2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 17",
+      "matchup": "@ PHX",
+      "result": "L 111-96",
+      "min": "39",
+      "pts": "23",
+      "reb": "10",
+      "ast": "0",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 15",
+      "matchup": "@ LAC",
+      "result": "W 126-121",
+      "min": "41",
+      "pts": "17",
+      "reb": "7",
+      "ast": "2",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 12",
+      "matchup": "@ LAC",
+      "result": "L 115-110",
+      "min": "21",
+      "pts": "10",
+      "reb": "4",
+      "ast": "2",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 10",
+      "matchup": "@ SAC",
+      "result": "L 124-118",
+      "min": "32",
+      "pts": "30",
+      "reb": "3",
+      "ast": "1",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 9",
+      "matchup": "vs LAL",
+      "result": "L 119-103",
+      "min": "24",
+      "pts": "17",
+      "reb": "1",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:54:42.147Z"
+}

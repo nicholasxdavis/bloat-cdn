@@ -1,0 +1,105 @@
+{
+  "id": "castlst01",
+  "espnId": "4845367",
+  "slug": "castlst01",
+  "name": "Stephon Castle",
+  "sport": "nba",
+  "position": "G",
+  "team": "SA",
+  "headshot": "media/headshots/nba/castlst01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4845367.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "SA",
+      "gp": "68",
+      "min": "30.0",
+      "pts": "16.7",
+      "reb": "5.3",
+      "ast": "7.4",
+      "stl": "1.1",
+      "blk": "0.3",
+      "fgPct": "47.1",
+      "fg3Pct": "33.2",
+      "ftPct": "73.4",
+      "to": "3.2"
+    },
+    {
+      "season": "2024-25",
+      "team": "SA",
+      "gp": "81",
+      "min": "26.7",
+      "pts": "14.7",
+      "reb": "3.7",
+      "ast": "4.1",
+      "stl": "0.9",
+      "blk": "0.3",
+      "fgPct": "42.8",
+      "fg3Pct": "28.5",
+      "ftPct": "72.4",
+      "to": "2.2"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Jun 13",
+      "matchup": "vs NY",
+      "result": "L 94-90",
+      "min": "32",
+      "pts": "6",
+      "reb": "5",
+      "ast": "4",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 10",
+      "matchup": "@ NY",
+      "result": "L 107-106",
+      "min": "26",
+      "pts": "13",
+      "reb": "5",
+      "ast": "5",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 8",
+      "matchup": "@ NY",
+      "result": "W 115-111",
+      "min": "38",
+      "pts": "23",
+      "reb": "5",
+      "ast": "5",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 5",
+      "matchup": "vs NY",
+      "result": "L 105-104",
+      "min": "28",
+      "pts": "14",
+      "reb": "4",
+      "ast": "4",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 3",
+      "matchup": "vs NY",
+      "result": "L 105-95",
+      "min": "34",
+      "pts": "17",
+      "reb": "8",
+      "ast": "3",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:58:20.810Z"
+}

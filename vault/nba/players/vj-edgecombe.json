@@ -1,0 +1,90 @@
+{
+  "id": "edgecvj01",
+  "espnId": "5124612",
+  "slug": "edgecvj01",
+  "name": "VJ Edgecombe",
+  "sport": "nba",
+  "position": "G",
+  "team": "PHI",
+  "headshot": "media/headshots/nba/edgecvj01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5124612.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "PHI",
+      "gp": "75",
+      "min": "35.0",
+      "pts": "16.0",
+      "reb": "5.6",
+      "ast": "4.2",
+      "stl": "1.4",
+      "blk": "0.5",
+      "fgPct": "43.8",
+      "fg3Pct": "35.4",
+      "ftPct": "81.8",
+      "to": "1.8"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 10",
+      "matchup": "vs NY",
+      "result": "L 144-114",
+      "min": "30",
+      "pts": "8",
+      "reb": "6",
+      "ast": "7",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "May 8",
+      "matchup": "vs NY",
+      "result": "L 108-94",
+      "min": "40",
+      "pts": "11",
+      "reb": "7",
+      "ast": "4",
+      "stl": "2",
+      "blk": "0"
+    },
+    {
+      "date": "May 6",
+      "matchup": "@ NY",
+      "result": "L 108-102",
+      "min": "40",
+      "pts": "17",
+      "reb": "5",
+      "ast": "3",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "May 4",
+      "matchup": "@ NY",
+      "result": "L 137-98",
+      "min": "28",
+      "pts": "12",
+      "reb": "1",
+      "ast": "2",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "May 2",
+      "matchup": "@ BOS",
+      "result": "W 109-100",
+      "min": "44",
+      "pts": "23",
+      "reb": "6",
+      "ast": "4",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:57:24.029Z"
+}

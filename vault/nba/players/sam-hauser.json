@@ -1,0 +1,150 @@
+{
+  "id": "hausesa01",
+  "espnId": "4065804",
+  "slug": "hausesa01",
+  "name": "Sam Hauser",
+  "sport": "nba",
+  "position": "F",
+  "team": "BOS",
+  "headshot": "media/headshots/nba/hausesa01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4065804.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "BOS",
+      "gp": "78",
+      "min": "24.8",
+      "pts": "9.2",
+      "reb": "3.8",
+      "ast": "1.5",
+      "stl": "0.5",
+      "blk": "0.3",
+      "fgPct": "41.9",
+      "fg3Pct": "39.3",
+      "ftPct": "85.0",
+      "to": "0.4"
+    },
+    {
+      "season": "2024-25",
+      "team": "BOS",
+      "gp": "71",
+      "min": "21.7",
+      "pts": "8.5",
+      "reb": "3.2",
+      "ast": "0.9",
+      "stl": "0.6",
+      "blk": "0.2",
+      "fgPct": "45.1",
+      "fg3Pct": "41.6",
+      "ftPct": "100.0",
+      "to": "0.3"
+    },
+    {
+      "season": "2023-24",
+      "team": "BOS",
+      "gp": "79",
+      "min": "22.0",
+      "pts": "9.0",
+      "reb": "3.5",
+      "ast": "1.0",
+      "stl": "0.5",
+      "blk": "0.3",
+      "fgPct": "44.6",
+      "fg3Pct": "42.4",
+      "ftPct": "89.5",
+      "to": "0.4"
+    },
+    {
+      "season": "2022-23",
+      "team": "BOS",
+      "gp": "80",
+      "min": "16.1",
+      "pts": "6.4",
+      "reb": "2.6",
+      "ast": "0.9",
+      "stl": "0.4",
+      "blk": "0.3",
+      "fgPct": "45.5",
+      "fg3Pct": "41.8",
+      "ftPct": "70.6",
+      "to": "0.4"
+    },
+    {
+      "season": "2021-22",
+      "team": "BOS",
+      "gp": "26",
+      "min": "6.1",
+      "pts": "2.5",
+      "reb": "1.1",
+      "ast": "0.4",
+      "stl": "0.0",
+      "blk": "0.1",
+      "fgPct": "46.0",
+      "fg3Pct": "43.2",
+      "ftPct": "0.0",
+      "to": "0.1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 2",
+      "matchup": "vs PHI",
+      "result": "L 109-100",
+      "min": "30",
+      "pts": "11",
+      "reb": "3",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 30",
+      "matchup": "@ PHI",
+      "result": "L 106-93",
+      "min": "21",
+      "pts": "5",
+      "reb": "4",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 28",
+      "matchup": "vs PHI",
+      "result": "L 113-97",
+      "min": "20",
+      "pts": "8",
+      "reb": "5",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 26",
+      "matchup": "@ PHI",
+      "result": "W 128-96",
+      "min": "22",
+      "pts": "6",
+      "reb": "4",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 24",
+      "matchup": "@ PHI",
+      "result": "W 108-100",
+      "min": "18",
+      "pts": "6",
+      "reb": "3",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:04.762Z"
+}

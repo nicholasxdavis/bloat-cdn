@@ -1,0 +1,29 @@
+{
+  "id": "3659",
+  "espnId": "3659",
+  "slug": "3659",
+  "name": "Holger Rune",
+  "sport": "tennis",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2020-2021",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "Active",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    }
+  ],
+  "recentGames": [],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:10:41.710Z"
+}

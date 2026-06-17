@@ -1,0 +1,135 @@
+{
+  "id": "willima01",
+  "espnId": "4701232",
+  "slug": "willima01",
+  "name": "Mark Williams",
+  "sport": "nba",
+  "position": "C",
+  "team": "PHX",
+  "headshot": "media/headshots/nba/willima01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4701232.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "PHX",
+      "gp": "60",
+      "min": "23.6",
+      "pts": "11.7",
+      "reb": "8.0",
+      "ast": "1.0",
+      "stl": "0.9",
+      "blk": "0.9",
+      "fgPct": "64.4",
+      "fg3Pct": "100.0",
+      "ftPct": "77.1",
+      "to": "1.1"
+    },
+    {
+      "season": "2024-25",
+      "team": "CHA",
+      "gp": "44",
+      "min": "26.6",
+      "pts": "15.3",
+      "reb": "10.2",
+      "ast": "2.5",
+      "stl": "0.7",
+      "blk": "1.2",
+      "fgPct": "60.4",
+      "fg3Pct": "0.0",
+      "ftPct": "80.4",
+      "to": "1.6"
+    },
+    {
+      "season": "2023-24",
+      "team": "CHA",
+      "gp": "19",
+      "min": "26.7",
+      "pts": "12.7",
+      "reb": "9.7",
+      "ast": "1.2",
+      "stl": "0.8",
+      "blk": "1.1",
+      "fgPct": "64.9",
+      "fg3Pct": "0.0",
+      "ftPct": "71.9",
+      "to": "0.9"
+    },
+    {
+      "season": "2022-23",
+      "team": "CHA",
+      "gp": "43",
+      "min": "19.3",
+      "pts": "9.0",
+      "reb": "7.1",
+      "ast": "0.4",
+      "stl": "0.7",
+      "blk": "1.0",
+      "fgPct": "63.7",
+      "fg3Pct": "0.0",
+      "ftPct": "69.1",
+      "to": "0.9"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 14",
+      "matchup": "vs POR",
+      "result": "L 114-110",
+      "min": "22",
+      "pts": "4",
+      "reb": "4",
+      "ast": "2",
+      "stl": "0",
+      "blk": "3"
+    },
+    {
+      "date": "Apr 10",
+      "matchup": "@ LAL",
+      "result": "L 101-73",
+      "min": "20",
+      "pts": "7",
+      "reb": "5",
+      "ast": "0",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 7",
+      "matchup": "vs HOU",
+      "result": "L 119-105",
+      "min": "28",
+      "pts": "19",
+      "reb": "8",
+      "ast": "0",
+      "stl": "3",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 5",
+      "matchup": "@ CHI",
+      "result": "W 120-110",
+      "min": "26",
+      "pts": "14",
+      "reb": "8",
+      "ast": "1",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 2",
+      "matchup": "@ CHA",
+      "result": "L 127-107",
+      "min": "20",
+      "pts": "12",
+      "reb": "4",
+      "ast": "1",
+      "stl": "1",
+      "blk": "3"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:57:43.425Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "buzelma01",
+  "espnId": "4711294",
+  "slug": "buzelma01",
+  "name": "Matas Buzelis",
+  "sport": "nba",
+  "position": "F",
+  "team": "CHI",
+  "headshot": "media/headshots/nba/buzelma01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4711294.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": "77",
+      "min": "29.2",
+      "pts": "16.3",
+      "reb": "5.8",
+      "ast": "2.1",
+      "stl": "0.7",
+      "blk": "1.5",
+      "fgPct": "46.3",
+      "fg3Pct": "34.9",
+      "ftPct": "78.6",
+      "to": "2.1"
+    },
+    {
+      "season": "2024-25",
+      "team": "CHI",
+      "gp": "80",
+      "min": "18.9",
+      "pts": "8.6",
+      "reb": "3.5",
+      "ast": "1.0",
+      "stl": "0.4",
+      "blk": "0.9",
+      "fgPct": "45.4",
+      "fg3Pct": "36.1",
+      "ftPct": "81.5",
+      "to": "0.9"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 10",
+      "matchup": "vs ORL",
+      "result": "L 127-103",
+      "min": "27",
+      "pts": "14",
+      "reb": "8",
+      "ast": "3",
+      "stl": "1",
+      "blk": "3"
+    },
+    {
+      "date": "Apr 3",
+      "matchup": "@ NY",
+      "result": "L 136-96",
+      "min": "23",
+      "pts": "11",
+      "reb": "6",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 1",
+      "matchup": "vs IND",
+      "result": "L 145-126",
+      "min": "29",
+      "pts": "17",
+      "reb": "9",
+      "ast": "6",
+      "stl": "2",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 30",
+      "matchup": "@ SA",
+      "result": "L 129-114",
+      "min": "28",
+      "pts": "12",
+      "reb": "6",
+      "ast": "2",
+      "stl": "1",
+      "blk": "3"
+    },
+    {
+      "date": "Mar 28",
+      "matchup": "@ MEM",
+      "result": "L 125-124",
+      "min": "39",
+      "pts": "29",
+      "reb": "10",
+      "ast": "3",
+      "stl": "1",
+      "blk": "3"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:46.187Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "clownno01",
+  "espnId": "4712896",
+  "slug": "clownno01",
+  "name": "Noah Clowney",
+  "sport": "nba",
+  "position": "F",
+  "team": "BKN",
+  "headshot": "media/headshots/nba/clownno01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4712896.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "BKN",
+      "gp": "66",
+      "min": "27.0",
+      "pts": "12.3",
+      "reb": "4.1",
+      "ast": "1.6",
+      "stl": "0.8",
+      "blk": "0.7",
+      "fgPct": "39.6",
+      "fg3Pct": "32.9",
+      "ftPct": "80.4",
+      "to": "1.5"
+    },
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": "46",
+      "min": "22.7",
+      "pts": "9.1",
+      "reb": "3.9",
+      "ast": "0.9",
+      "stl": "0.5",
+      "blk": "0.5",
+      "fgPct": "35.8",
+      "fg3Pct": "33.3",
+      "ftPct": "83.8",
+      "to": "1.0"
+    },
+    {
+      "season": "2023-24",
+      "team": "BKN",
+      "gp": "23",
+      "min": "16.1",
+      "pts": "5.8",
+      "reb": "3.5",
+      "ast": "0.8",
+      "stl": "0.3",
+      "blk": "0.7",
+      "fgPct": "53.8",
+      "fg3Pct": "36.4",
+      "ftPct": "70.0",
+      "to": "0.7"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 3",
+      "matchup": "vs ATL",
+      "result": "L 141-107",
+      "min": "21",
+      "pts": "12",
+      "reb": "4",
+      "ast": "1",
+      "stl": "1",
+      "blk": "1"
+    },
+    {
+      "date": "Mar 31",
+      "matchup": "vs CHA",
+      "result": "L 117-86",
+      "min": "20",
+      "pts": "4",
+      "reb": "3",
+      "ast": "0",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Mar 29",
+      "matchup": "vs SAC",
+      "result": "W 116-99",
+      "min": "20",
+      "pts": "15",
+      "reb": "7",
+      "ast": "1",
+      "stl": "2",
+      "blk": "2"
+    },
+    {
+      "date": "Mar 27",
+      "matchup": "@ LAL",
+      "result": "L 116-99",
+      "min": "24",
+      "pts": "5",
+      "reb": "3",
+      "ast": "2",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Mar 18",
+      "matchup": "vs OKC",
+      "result": "L 121-92",
+      "min": "8",
+      "pts": "3",
+      "reb": "2",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:20.693Z"
+}

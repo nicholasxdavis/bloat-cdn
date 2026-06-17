@@ -1,0 +1,135 @@
+{
+  "id": "diabamo01",
+  "espnId": "4433249",
+  "slug": "diabamo01",
+  "name": "Moussa Diabate",
+  "sport": "nba",
+  "position": "F",
+  "team": "CHA",
+  "headshot": "media/headshots/nba/diabamo01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433249.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": "73",
+      "min": "26.0",
+      "pts": "7.9",
+      "reb": "8.7",
+      "ast": "1.9",
+      "stl": "0.8",
+      "blk": "1.0",
+      "fgPct": "63.1",
+      "fg3Pct": "50.0",
+      "ftPct": "65.9",
+      "to": "1.0"
+    },
+    {
+      "season": "2024-25",
+      "team": "CHA",
+      "gp": "71",
+      "min": "17.5",
+      "pts": "5.7",
+      "reb": "6.2",
+      "ast": "0.8",
+      "stl": "0.6",
+      "blk": "0.6",
+      "fgPct": "59.6",
+      "fg3Pct": "0.0",
+      "ftPct": "59.5",
+      "to": "0.9"
+    },
+    {
+      "season": "2023-24",
+      "team": "LAC",
+      "gp": "11",
+      "min": "5.8",
+      "pts": "2.6",
+      "reb": "2.2",
+      "ast": "0.4",
+      "stl": "0.5",
+      "blk": "0.1",
+      "fgPct": "52.6",
+      "fg3Pct": "0.0",
+      "ftPct": "64.3",
+      "to": "0.2"
+    },
+    {
+      "season": "2022-23",
+      "team": "LAC",
+      "gp": "22",
+      "min": "8.9",
+      "pts": "2.7",
+      "reb": "2.3",
+      "ast": "0.2",
+      "stl": "0.3",
+      "blk": "0.4",
+      "fgPct": "51.1",
+      "fg3Pct": "50.0",
+      "ftPct": "62.5",
+      "to": "0.4"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 17",
+      "matchup": "@ ORL",
+      "result": "L 121-90",
+      "min": "18",
+      "pts": "2",
+      "reb": "8",
+      "ast": "2",
+      "stl": "0",
+      "blk": "3"
+    },
+    {
+      "date": "Apr 14",
+      "matchup": "vs MIA",
+      "result": "W 127-126 OT",
+      "min": "36",
+      "pts": "8",
+      "reb": "14",
+      "ast": "1",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 12",
+      "matchup": "@ NY",
+      "result": "W 110-96",
+      "min": "26",
+      "pts": "4",
+      "reb": "9",
+      "ast": "3",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "Apr 10",
+      "matchup": "vs DET",
+      "result": "L 118-100",
+      "min": "25",
+      "pts": "8",
+      "reb": "6",
+      "ast": "2",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "Apr 7",
+      "matchup": "@ BOS",
+      "result": "L 113-102",
+      "min": "33",
+      "pts": "2",
+      "reb": "5",
+      "ast": "5",
+      "stl": "1",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:53:34.352Z"
+}

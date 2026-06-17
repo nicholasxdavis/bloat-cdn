@@ -1,0 +1,90 @@
+{
+  "id": "baileac01",
+  "espnId": "4873138",
+  "slug": "baileac01",
+  "name": "Ace Bailey",
+  "sport": "nba",
+  "position": "G",
+  "team": "UTAH",
+  "headshot": "media/headshots/nba/baileac01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4873138.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "UTAH",
+      "gp": "72",
+      "min": "27.6",
+      "pts": "13.8",
+      "reb": "4.2",
+      "ast": "1.8",
+      "stl": "0.8",
+      "blk": "0.7",
+      "fgPct": "44.3",
+      "fg3Pct": "34.4",
+      "ftPct": "75.0",
+      "to": "1.5"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 12",
+      "matchup": "@ LAL",
+      "result": "L 131-107",
+      "min": "29",
+      "pts": "15",
+      "reb": "3",
+      "ast": "1",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 10",
+      "matchup": "vs MEM",
+      "result": "W 147-101",
+      "min": "29",
+      "pts": "23",
+      "reb": "10",
+      "ast": "2",
+      "stl": "3",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 5",
+      "matchup": "@ OKC",
+      "result": "L 146-111",
+      "min": "33",
+      "pts": "14",
+      "reb": "4",
+      "ast": "2",
+      "stl": "1",
+      "blk": "2"
+    },
+    {
+      "date": "Apr 3",
+      "matchup": "@ HOU",
+      "result": "L 140-106",
+      "min": "33",
+      "pts": "22",
+      "reb": "6",
+      "ast": "1",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 1",
+      "matchup": "vs DEN",
+      "result": "L 130-117",
+      "min": "33",
+      "pts": "12",
+      "reb": "1",
+      "ast": "2",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:58:46.178Z"
+}

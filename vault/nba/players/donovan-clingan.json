@@ -1,0 +1,105 @@
+{
+  "id": "clingdo01",
+  "espnId": "5105565",
+  "slug": "clingdo01",
+  "name": "Donovan Clingan",
+  "sport": "nba",
+  "position": "C",
+  "team": "POR",
+  "headshot": "media/headshots/nba/clingdo01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5105565.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "POR",
+      "gp": "77",
+      "min": "27.2",
+      "pts": "12.1",
+      "reb": "11.6",
+      "ast": "2.1",
+      "stl": "0.6",
+      "blk": "1.7",
+      "fgPct": "52.0",
+      "fg3Pct": "34.1",
+      "ftPct": "68.0",
+      "to": "1.2"
+    },
+    {
+      "season": "2024-25",
+      "team": "POR",
+      "gp": "67",
+      "min": "19.8",
+      "pts": "6.5",
+      "reb": "7.9",
+      "ast": "1.1",
+      "stl": "0.5",
+      "blk": "1.6",
+      "fgPct": "53.9",
+      "fg3Pct": "28.6",
+      "ftPct": "59.6",
+      "to": "1.1"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "Apr 28",
+      "matchup": "@ SA",
+      "result": "L 114-95",
+      "min": "27",
+      "pts": "10",
+      "reb": "5",
+      "ast": "6",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 26",
+      "matchup": "vs SA",
+      "result": "L 114-93",
+      "min": "14",
+      "pts": "5",
+      "reb": "6",
+      "ast": "0",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 24",
+      "matchup": "vs SA",
+      "result": "L 120-108",
+      "min": "20",
+      "pts": "7",
+      "reb": "11",
+      "ast": "2",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 21",
+      "matchup": "@ SA",
+      "result": "W 106-103",
+      "min": "24",
+      "pts": "9",
+      "reb": "10",
+      "ast": "2",
+      "stl": "1",
+      "blk": "2"
+    },
+    {
+      "date": "Apr 19",
+      "matchup": "@ SA",
+      "result": "L 111-98",
+      "min": "22",
+      "pts": "4",
+      "reb": "7",
+      "ast": "1",
+      "stl": "0",
+      "blk": "0"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:58:01.137Z"
+}

@@ -10,6 +10,7 @@
     "backfill-headshots": "tsx src/cli/backfill-headshots.ts",
     "scrape": "tsx src/cli/run-need.ts",
     "scrape-teams": "tsx src/cli/run-need-teams.ts",
+    "scrape-nba-starters": "tsx src/cli/ingest-nba-starters.ts",
     "manifest": "tsx src/cli/build-manifest.ts",
     "stats": "tsx src/cli/stats.ts",
     "sync": "tsx src/cli/sync.ts",

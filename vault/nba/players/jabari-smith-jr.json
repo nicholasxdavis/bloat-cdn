@@ -1,0 +1,135 @@
+{
+  "id": "jr.ja01",
+  "espnId": "4432639",
+  "slug": "jr.ja01",
+  "name": "Jabari Smith Jr.",
+  "sport": "nba",
+  "position": "F",
+  "team": "HOU",
+  "headshot": "media/headshots/nba/jr.ja01.png",
+  "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4432639.png",
+  "legend": false,
+  "seasonHistory": [
+    {
+      "season": "2025-26",
+      "team": "HOU",
+      "gp": "77",
+      "min": "35.1",
+      "pts": "15.8",
+      "reb": "6.9",
+      "ast": "1.9",
+      "stl": "0.7",
+      "blk": "0.9",
+      "fgPct": "44.9",
+      "fg3Pct": "36.3",
+      "ftPct": "77.5",
+      "to": "1.4"
+    },
+    {
+      "season": "2024-25",
+      "team": "HOU",
+      "gp": "57",
+      "min": "30.1",
+      "pts": "12.2",
+      "reb": "7.0",
+      "ast": "1.1",
+      "stl": "0.4",
+      "blk": "0.7",
+      "fgPct": "43.8",
+      "fg3Pct": "35.4",
+      "ftPct": "82.5",
+      "to": "1.1"
+    },
+    {
+      "season": "2023-24",
+      "team": "HOU",
+      "gp": "76",
+      "min": "31.9",
+      "pts": "13.7",
+      "reb": "8.1",
+      "ast": "1.6",
+      "stl": "0.7",
+      "blk": "0.8",
+      "fgPct": "45.4",
+      "fg3Pct": "36.3",
+      "ftPct": "81.1",
+      "to": "1.2"
+    },
+    {
+      "season": "2022-23",
+      "team": "HOU",
+      "gp": "79",
+      "min": "31.0",
+      "pts": "12.8",
+      "reb": "7.2",
+      "ast": "1.3",
+      "stl": "0.5",
+      "blk": "0.9",
+      "fgPct": "40.8",
+      "fg3Pct": "30.7",
+      "ftPct": "78.6",
+      "to": "1.3"
+    }
+  ],
+  "recentGames": [
+    {
+      "date": "May 1",
+      "matchup": "vs LAL",
+      "result": "L 98-78",
+      "min": "42",
+      "pts": "9",
+      "reb": "12",
+      "ast": "3",
+      "stl": "0",
+      "blk": "1"
+    },
+    {
+      "date": "Apr 29",
+      "matchup": "@ LAL",
+      "result": "W 99-93",
+      "min": "42",
+      "pts": "22",
+      "reb": "7",
+      "ast": "3",
+      "stl": "0",
+      "blk": "2"
+    },
+    {
+      "date": "Apr 26",
+      "matchup": "vs LAL",
+      "result": "W 115-96",
+      "min": "42",
+      "pts": "16",
+      "reb": "8",
+      "ast": "3",
+      "stl": "3",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 24",
+      "matchup": "vs LAL",
+      "result": "L 112-108 OT",
+      "min": "44",
+      "pts": "24",
+      "reb": "6",
+      "ast": "1",
+      "stl": "1",
+      "blk": "0"
+    },
+    {
+      "date": "Apr 21",
+      "matchup": "@ LAL",
+      "result": "L 101-94",
+      "min": "39",
+      "pts": "18",
+      "reb": "6",
+      "ast": "1",
+      "stl": "0",
+      "blk": "1"
+    }
+  ],
+  "sources": [
+    "espn"
+  ],
+  "ingestedAt": "2026-06-17T03:54:57.217Z"
+}
