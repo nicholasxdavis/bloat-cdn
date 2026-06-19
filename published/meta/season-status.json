@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-18T11:43:03.863Z",
+  "syncedAt": "2026-06-19T11:57:48.499Z",
   "sports": [
     {
       "sportId": "nba",
@@ -8,7 +8,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Jun)",
-      "checkedAt": "2026-06-18T11:43:02.623Z"
+      "checkedAt": "2026-06-19T11:57:47.285Z"
     },
     {
       "sportId": "wnba",
@@ -17,9 +17,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 2",
-      "checkedAt": "2026-06-18T11:43:02.623Z",
+      "checkedAt": "2026-06-19T11:57:47.285Z",
       "espnSeasonType": 2,
-      "recentEvents": 6
+      "recentEvents": 1
     },
     {
       "sportId": "nfl",
@@ -28,7 +28,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Jun)",
-      "checkedAt": "2026-06-18T11:43:02.623Z"
+      "checkedAt": "2026-06-19T11:57:47.285Z"
     },
     {
       "sportId": "mlb",
@@ -37,9 +37,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 2",
-      "checkedAt": "2026-06-18T11:43:02.623Z",
+      "checkedAt": "2026-06-19T11:57:47.285Z",
       "espnSeasonType": 2,
-      "recentEvents": 15
+      "recentEvents": 9
     },
     {
       "sportId": "nhl",
@@ -48,7 +48,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 3",
-      "checkedAt": "2026-06-18T11:43:02.623Z",
+      "checkedAt": "2026-06-19T11:57:47.285Z",
       "espnSeasonType": 3,
       "recentEvents": 1
     },
@@ -59,7 +59,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 13846",
-      "checkedAt": "2026-06-18T11:43:02.623Z",
+      "checkedAt": "2026-06-19T11:57:47.285Z",
       "espnSeasonType": 13846,
       "recentEvents": 3
     },
@@ -70,7 +70,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Jun)",
-      "checkedAt": "2026-06-18T11:43:02.623Z"
+      "checkedAt": "2026-06-19T11:57:47.285Z"
     },
     {
       "sportId": "fights",
@@ -79,7 +79,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-06-18T11:43:02.623Z"
+      "checkedAt": "2026-06-19T11:57:47.285Z"
     },
     {
       "sportId": "tennis",
@@ -88,7 +88,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-06-18T11:43:02.623Z"
+      "checkedAt": "2026-06-19T11:57:47.285Z"
     },
     {
       "sportId": "golf",
@@ -97,7 +97,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-06-18T11:43:02.623Z"
+      "checkedAt": "2026-06-19T11:57:47.285Z"
     }
   ]
 }
