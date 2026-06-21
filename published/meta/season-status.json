@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T10:58:19.257Z",
+  "syncedAt": "2026-06-21T12:13:06.436Z",
   "sports": [
     {
       "sportId": "nba",
@@ -8,7 +8,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Jun)",
-      "checkedAt": "2026-06-21T10:58:18.029Z"
+      "checkedAt": "2026-06-21T12:13:05.223Z"
     },
     {
       "sportId": "wnba",
@@ -17,7 +17,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 2",
-      "checkedAt": "2026-06-21T10:58:18.029Z",
+      "checkedAt": "2026-06-21T12:13:05.223Z",
       "espnSeasonType": 2,
       "recentEvents": 3
     },
@@ -28,7 +28,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Jun)",
-      "checkedAt": "2026-06-21T10:58:18.029Z"
+      "checkedAt": "2026-06-21T12:13:05.223Z"
     },
     {
       "sportId": "mlb",
@@ -37,7 +37,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 2",
-      "checkedAt": "2026-06-21T10:58:18.029Z",
+      "checkedAt": "2026-06-21T12:13:05.223Z",
       "espnSeasonType": 2,
       "recentEvents": 14
     },
@@ -48,7 +48,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 1",
-      "checkedAt": "2026-06-21T10:58:18.029Z",
+      "checkedAt": "2026-06-21T12:13:05.223Z",
       "espnSeasonType": 1,
       "recentEvents": 1
     },
@@ -59,7 +59,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 13846",
-      "checkedAt": "2026-06-21T10:58:18.029Z",
+      "checkedAt": "2026-06-21T12:13:05.223Z",
       "espnSeasonType": 13846,
       "recentEvents": 4
     },
@@ -70,7 +70,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Jun)",
-      "checkedAt": "2026-06-21T10:58:18.029Z"
+      "checkedAt": "2026-06-21T12:13:05.223Z"
     },
     {
       "sportId": "fights",
@@ -79,7 +79,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-06-21T10:58:18.029Z"
+      "checkedAt": "2026-06-21T12:13:05.223Z"
     },
     {
       "sportId": "tennis",
@@ -88,7 +88,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-06-21T10:58:18.029Z"
+      "checkedAt": "2026-06-21T12:13:05.223Z"
     },
     {
       "sportId": "golf",
@@ -97,7 +97,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-06-21T10:58:18.029Z"
+      "checkedAt": "2026-06-21T12:13:05.223Z"
     }
   ]
 }
