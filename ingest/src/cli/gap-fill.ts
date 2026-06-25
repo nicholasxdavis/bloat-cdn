@@ -19,7 +19,7 @@ import { sleep } from '../lib/rateLimit.js';
 import { ingestPlayer } from '../pipeline/ingestPlayer.js';
 import { ingestTeam } from '../pipeline/ingestTeams.js';
 import { getSport } from '../sources/espn/config.js';
-import { fetchEspnLeagueTeams } from '../sources/espn/teams.js';
+import { fetchEspnLeagueTeams, type EspnTeamRaw } from '../sources/espn/teams.js';
 
 const REGISTRY_SPORTS = [
   'nba', 'wnba', 'nfl', 'mlb', 'nhl',
@@ -110,11 +110,11 @@ async function scrapeTeamVaults(force: boolean): Promise<{ ok: number; failed: n
       /* registry may already exist */
     }
 
-    let leagueTeams;
+    let leagueTeams: EspnTeamRaw[] = [];
     try {
       leagueTeams = await fetchEspnLeagueTeams(getSport(sportId));
     } catch {
-      leagueTeams = [];
+      /* fall back to empty — ingestTeam may still resolve via index */
     }
 
     for (let i = 0; i < items.length; i++) {
