@@ -5,7 +5,7 @@
   "name": "Brady Tkachuk",
   "sport": "nhl",
   "position": "LW",
-  "team": "OTT",
+  "team": "FLA",
   "headshot": "media/headshots/nhl/tkachbr01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4319858.png",
   "legend": false,
@@ -191,5 +191,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:43:08.174Z"
+  "ingestedAt": "2026-06-25T15:50:48.921Z",
+  "active": true,
+  "profileSyncedAt": "2026-06-25T15:50:48.921Z"
 }

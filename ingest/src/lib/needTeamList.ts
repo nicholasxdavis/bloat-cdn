@@ -10,7 +10,11 @@ export interface NeedTeamItem {
 
 type NeedTeamJson = Record<string, unknown>;
 
-const SUPPORTED_SPORTS = new Set(['nba', 'nfl', 'mlb', 'nhl', 'mls', 'epl']);
+const SUPPORTED_SPORTS = new Set([
+  'nba', 'wnba', 'nfl', 'mlb', 'nhl',
+  'mls', 'epl', 'laliga', 'bundesliga', 'seriea', 'ligue1',
+  'ucl', 'europa', 'ligamx', 'brasileirao', 'eredivisie', 'championship', 'primeira',
+]);
 const SKIP_SPORTS = new Set(['boxing', 'golf']);
 
 function tierKeyLabel(key: string): string | undefined {

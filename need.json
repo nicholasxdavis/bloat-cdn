@@ -1,0 +1,155 @@
+{
+  "epl": [
+    "Erling Haaland",
+    "Mohamed Salah",
+    "Cole Palmer",
+    "Bukayo Saka",
+    "Bruno Fernandes",
+    "Virgil van Dijk",
+    "Declan Rice",
+    "Phil Foden",
+    "Ollie Watkins",
+    "Alexander Isak"
+  ],
+  "laliga": [
+    "Robert Lewandowski",
+    "Vinícius Júnior",
+    "Lamine Yamal",
+    "Jude Bellingham",
+    "Antoine Griezmann",
+    "Raphinha",
+    "Pedri",
+    "Frenkie de Jong",
+    "Kylian Mbappé"
+  ],
+  "bundesliga": [
+    "Harry Kane",
+    "Jamal Musiala",
+    "Florian Wirtz",
+    "Serhou Guirassy",
+    "Michael Olise",
+    "Joshua Kimmich",
+    "Alphonso Davies",
+    "Niclas Füllkrug"
+  ],
+  "seriea": [
+    "Lautaro Martínez",
+    "Rafael Leão",
+    "Victor Osimhen",
+    "Paulo Dybala",
+    "Federico Chiesa",
+    "Nicolo Barella",
+    "Theo Hernández"
+  ],
+  "ligue1": [
+    "Ousmane Dembélé",
+    "Achraf Hakimi",
+    "Marquinhos",
+    "Vitinha",
+    "Bradley Barcola",
+    "Warren Zaïre-Emery"
+  ],
+  "mls": [
+    "Lionel Messi",
+    "Luis Suarez",
+    "Sergio Busquets",
+    "Hirving Lozano",
+    "Evander",
+    "Hany Mukhtar",
+    "Christian Benteke",
+    "Diego Rossi"
+  ],
+  "tennis": [
+    "Ben Shelton",
+    "Holger Rune",
+    "Jack Draper",
+    "Emma Navarro",
+    "Mirra Andreeva",
+    "Carlos Alcaraz",
+    "Jannik Sinner",
+    "Aryna Sabalenka",
+    "Iga Swiatek"
+  ],
+  "legends": {
+    "nba": [
+      "Michael Jordan",
+      "Magic Johnson",
+      "Larry Bird",
+      "Tim Duncan",
+      "Wilt Chamberlain",
+      "Kareem Abdul-Jabbar",
+      "Hakeem Olajuwon",
+      "Charles Barkley",
+      "Allen Iverson",
+      "Oscar Robertson",
+      "Jerry West",
+      "Julius Erving",
+      "David Robinson",
+      "Moses Malone",
+      "John Stockton"
+    ],
+    "nfl": [
+      "Joe Montana",
+      "Jim Brown",
+      "Walter Payton",
+      "Brett Favre",
+      "Dan Marino",
+      "John Elway",
+      "Troy Aikman",
+      "Rob Gronkowski"
+    ],
+    "mlb": [
+      "Babe Ruth",
+      "Willie Mays",
+      "Mickey Mantle",
+      "Hank Aaron",
+      "Derek Jeter",
+      "Ken Griffey Jr.",
+      "Albert Pujols",
+      "Barry Bonds",
+      "Pedro Martinez"
+    ],
+    "nhl": [
+      "Wayne Gretzky",
+      "Gordie Howe",
+      "Jaromir Jagr",
+      "Bobby Orr",
+      "Mark Messier"
+    ],
+    "golf": [
+      "Jack Nicklaus",
+      "Tiger Woods"
+    ],
+    "tennis": [
+      "Steffi Graf",
+      "Pete Sampras",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Serena Williams"
+    ],
+    "epl": [
+      "Thierry Henry",
+      "Alan Shearer",
+      "Steven Gerrard",
+      "Frank Lampard",
+      "Ryan Giggs",
+      "Eric Cantona",
+      "Didier Drogba"
+    ],
+    "laliga": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Xavi",
+      "Andres Iniesta",
+      "Ronaldinho",
+      "Raul"
+    ],
+    "mls": [
+      "Pele",
+      "Diego Maradona",
+      "Johan Cruyff",
+      "Zinedine Zidane",
+      "David Beckham"
+    ]
+  }
+}

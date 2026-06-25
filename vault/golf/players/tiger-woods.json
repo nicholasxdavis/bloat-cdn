@@ -6,7 +6,7 @@
   "sport": "golf",
   "headshot": "media/headshots/golf/462.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/462.png",
-  "legend": false,
+  "legend": true,
   "seasonHistory": [
     {
       "season": "PGA TOUR",
@@ -41,6 +41,5 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-16T12:47:11.347Z",
-  "statsSyncedAt": "2026-06-16T12:47:11.347Z"
+  "ingestedAt": "2026-06-25T01:01:07.841Z"
 }

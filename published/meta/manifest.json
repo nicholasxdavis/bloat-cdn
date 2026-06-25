@@ -1,48 +1,176 @@
 {
   "version": 1,
-  "syncedAt": "2026-06-17T04:07:33.904Z",
+  "syncedAt": "2026-06-25T15:52:24.542Z",
   "playerIndexVersion": 1,
   "teamIndexVersion": 1,
   "sports": [
     {
-      "sport": "mlb",
+      "sport": "brasileirao",
       "players": 0,
       "legends": 0,
       "headshots": 0,
-      "teams": 21,
+      "teams": 20,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "bundesliga",
+      "players": 7,
+      "legends": 0,
+      "headshots": 1,
+      "teams": 18,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "championship",
+      "players": 0,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 24,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "epl",
+      "players": 10,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 20,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "eredivisie",
+      "players": 0,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 18,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "europa",
+      "players": 0,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 35,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "fights",
+      "players": 40,
+      "legends": 4,
+      "headshots": 40,
+      "teams": 0,
+      "statsPrefix": "espn-mma"
+    },
+    {
+      "sport": "golf",
+      "players": 19,
+      "legends": 5,
+      "headshots": 18,
+      "teams": 0,
+      "statsPrefix": "espn-golf"
+    },
+    {
+      "sport": "laliga",
+      "players": 7,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 20,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "ligamx",
+      "players": 0,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 18,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "ligue1",
+      "players": 4,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 18,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "mlb",
+      "players": 61,
+      "legends": 14,
+      "headshots": 54,
+      "teams": 30,
       "statsPrefix": "bref"
     },
     {
       "sport": "mls",
-      "players": 0,
-      "legends": 0,
-      "headshots": 0,
-      "teams": 3,
+      "players": 11,
+      "legends": 3,
+      "headshots": 7,
+      "teams": 30,
       "statsPrefix": "fbref"
     },
     {
       "sport": "nba",
-      "players": 0,
-      "legends": 0,
-      "headshots": 0,
+      "players": 175,
+      "legends": 21,
+      "headshots": 162,
       "teams": 30,
       "statsPrefix": "bbref"
     },
     {
       "sport": "nfl",
-      "players": 0,
-      "legends": 0,
-      "headshots": 0,
-      "teams": 31,
+      "players": 74,
+      "legends": 14,
+      "headshots": 70,
+      "teams": 32,
       "statsPrefix": "pfr"
     },
     {
       "sport": "nhl",
+      "players": 38,
+      "legends": 3,
+      "headshots": 38,
+      "teams": 32,
+      "statsPrefix": "href"
+    },
+    {
+      "sport": "primeira",
       "players": 0,
       "legends": 0,
       "headshots": 0,
-      "teams": 11,
-      "statsPrefix": "href"
+      "teams": 18,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "seriea",
+      "players": 7,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 20,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "tennis",
+      "players": 23,
+      "legends": 3,
+      "headshots": 18,
+      "teams": 0,
+      "statsPrefix": "espn-tennis"
+    },
+    {
+      "sport": "ucl",
+      "players": 0,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 36,
+      "statsPrefix": "fbref"
+    },
+    {
+      "sport": "wnba",
+      "players": 0,
+      "legends": 0,
+      "headshots": 0,
+      "teams": 15,
+      "statsPrefix": "bbref"
     }
   ]
 }

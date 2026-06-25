@@ -5,7 +5,7 @@
   "name": "Tyler Herro",
   "sport": "nba",
   "position": "G",
-  "team": "MIA",
+  "team": "MIL",
   "headshot": "media/headshots/nba/herroty01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4395725.png",
   "legend": false,
@@ -176,5 +176,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:56:00.633Z"
+  "ingestedAt": "2026-06-25T15:48:25.968Z",
+  "active": true,
+  "profileSyncedAt": "2026-06-25T15:48:25.968Z"
 }

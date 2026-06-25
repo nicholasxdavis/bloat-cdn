@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Nightly sync — refresh season history + recent games for in-season sports only.
- * Skips legends and off-season leagues (NBA/NFL in summer, etc.).
+ * Nightly sync — refresh season history + recent games + profile (team/position)
+ * for in-season sports only. Skips legends and off-season leagues.
  */
 
 import { mkdir, writeFile } from 'node:fs/promises';
@@ -14,7 +14,7 @@ import {
   sportsEligibleForNightly,
   writeSeasonStatus,
 } from '../lib/seasonAwareness.js';
-import { syncPlayerStats } from '../pipeline/syncPlayer.js';
+import { syncPlayerStats, syncPlayerProfile } from '../pipeline/syncPlayer.js';
 
 async function main(): Promise<void> {
   const argv = process.argv.slice(2);
@@ -78,13 +78,18 @@ Options:
   let unchanged = 0;
   let failed = 0;
   let skipped = 0;
+  let profileUpdated = 0;
 
   for (let i = 0; i < candidates.length; i++) {
     const entry = candidates[i];
     process.stdout.write(`[${i + 1}/${candidates.length}] ${entry.sport} ${entry.name}… `);
 
-    const result = await syncPlayerStats(entry);
-    log.push({ mode: 'nightly', ...result });
+    const statsResult = await syncPlayerStats(entry);
+    const profileResult = await syncPlayerProfile(entry);
+    const result = statsResult;
+    log.push({ mode: 'nightly', ...result, profile: profileResult });
+
+    if (profileResult.status === 'updated') profileUpdated++;
 
     switch (result.status) {
       case 'updated':
@@ -107,7 +112,7 @@ Options:
     await sleep(350);
   }
 
-  if (updated > 0) {
+  if (updated > 0 || profileUpdated > 0) {
     const finalIndex = await loadPlayerIndex();
     await writeManifest(finalIndex);
   }
@@ -117,7 +122,7 @@ Options:
     mode: 'nightly',
     eligibleSports: eligible,
     seasonStatus: statuses,
-    totals: { checked: candidates.length, updated, unchanged, failed, skipped },
+    totals: { checked: candidates.length, updated, unchanged, failed, skipped, profileUpdated },
     entries: log,
   };
 
@@ -127,7 +132,7 @@ Options:
   const reportPath = path.join(logsDir, `sync-nightly-${stamp}.json`);
   await writeFile(reportPath, `${JSON.stringify(report, null, 2)}\n`, 'utf8');
 
-  console.log(`\n---\nDone: ${updated} updated, ${unchanged} unchanged, ${failed} failed, ${skipped} skipped`);
+  console.log(`\n---\nDone: ${updated} stats updated, ${profileUpdated} profile updated, ${unchanged} unchanged, ${failed} failed, ${skipped} skipped`);
   console.log(`Report: ${reportPath}`);
 }
 

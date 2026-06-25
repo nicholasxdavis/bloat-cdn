@@ -12,6 +12,17 @@ const ESPN_HEADSHOT_FOLDER: Record<string, string> = {
   nhl: 'nhl',
   mls: 'soccer',
   epl: 'soccer',
+  laliga: 'soccer',
+  bundesliga: 'soccer',
+  seriea: 'soccer',
+  ligue1: 'soccer',
+  ucl: 'soccer',
+  europa: 'soccer',
+  ligamx: 'soccer',
+  brasileirao: 'soccer',
+  eredivisie: 'soccer',
+  championship: 'soccer',
+  primeira: 'soccer',
   fights: 'mma',
   tennis: 'tennis',
   golf: 'golf',
@@ -97,7 +108,7 @@ export async function downloadPlayerHeadshot(
     return { cdnPath, filePath, downloaded: false, sourceUrl };
   }
 
-  const { bytes, contentType } = await fetchBytes(sourceUrl);
+  const { bytes, contentType } = await fetchBytes(sourceUrl).catch(() => ({ bytes: Buffer.alloc(0), contentType: null }));
   if (bytes.length < 128) return null;
 
   const resolvedExt = extFromUrl(sourceUrl) ?? extFromContentType(contentType);

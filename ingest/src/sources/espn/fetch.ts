@@ -99,6 +99,17 @@ const SEARCH_FILTER_CHAINS: Record<string, EspnSearchFilter[]> = {
   nhl: [{ sport: 'hockey', league: 'nhl' }, { sport: 'hockey' }],
   mls: [{ sport: 'soccer' }, { sport: 'soccer', league: 'usa.1' }],
   epl: [{ sport: 'soccer', league: 'eng.1' }, { sport: 'soccer' }],
+  laliga: [{ sport: 'soccer', league: 'esp.1' }, { sport: 'soccer' }],
+  bundesliga: [{ sport: 'soccer', league: 'ger.1' }, { sport: 'soccer' }],
+  seriea: [{ sport: 'soccer', league: 'ita.1' }, { sport: 'soccer' }],
+  ligue1: [{ sport: 'soccer', league: 'fra.1' }, { sport: 'soccer' }],
+  ucl: [{ sport: 'soccer', league: 'uefa.champions' }, { sport: 'soccer' }],
+  europa: [{ sport: 'soccer', league: 'uefa.europa' }, { sport: 'soccer' }],
+  ligamx: [{ sport: 'soccer', league: 'mex.1' }, { sport: 'soccer' }],
+  brasileirao: [{ sport: 'soccer', league: 'bra.1' }, { sport: 'soccer' }],
+  eredivisie: [{ sport: 'soccer', league: 'ned.1' }, { sport: 'soccer' }],
+  championship: [{ sport: 'soccer', league: 'eng.2' }, { sport: 'soccer' }],
+  primeira: [{ sport: 'soccer', league: 'por.1' }, { sport: 'soccer' }],
   fights: [{ sport: 'mma' }],
   tennis: [{ sport: 'tennis' }, { sport: 'tennis', league: 'atp' }, { sport: 'tennis', league: 'wta' }],
   golf: [{ sport: 'golf' }, { sport: 'golf', league: 'pga' }],
@@ -112,6 +123,17 @@ const EXPECTED_ESPN_SPORT: Record<string, string[]> = {
   nhl: ['hockey'],
   mls: ['soccer'],
   epl: ['soccer'],
+  laliga: ['soccer'],
+  bundesliga: ['soccer'],
+  seriea: ['soccer'],
+  ligue1: ['soccer'],
+  ucl: ['soccer'],
+  europa: ['soccer'],
+  ligamx: ['soccer'],
+  brasileirao: ['soccer'],
+  eredivisie: ['soccer'],
+  championship: ['soccer'],
+  primeira: ['soccer'],
   fights: ['mma', 'boxing'],
   tennis: ['tennis'],
   golf: ['golf'],
@@ -213,6 +235,17 @@ export async function resolveEspnSearchHit(
     const match = pickBestNameMatch(trimmed, hits);
     if (match) return match;
   }
+
+  // Broad soccer fallback when league-filtered global search misses.
+  if (EXPECTED_ESPN_SPORT[sport.id]?.includes('soccer')) {
+    for (const query of queries) {
+      const hits = await espnGlobalSearchPlayers(query);
+      const soccerHits = hits.filter((h) => matchesExpectedSport(sport.id, h.sport));
+      const match = pickBestNameMatch(trimmed, soccerHits);
+      if (match) return match;
+    }
+  }
+
   return null;
 }
 

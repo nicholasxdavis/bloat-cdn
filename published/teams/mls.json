@@ -5,9 +5,10 @@
     "name": "Atlanta United FC",
     "abbr": "ATL",
     "city": "Atlanta United FC",
-    "logo": "media/logos/mls/atl.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
     "color": "#9d2235",
-    "alternateColor": "#aa9767"
+    "alternateColor": "#aa9767",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "ATX",
@@ -15,9 +16,10 @@
     "name": "Austin FC",
     "abbr": "ATX",
     "city": "Austin FC",
-    "logo": "media/logos/mls/atx.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png",
     "color": "#00b140",
-    "alternateColor": "#000000"
+    "alternateColor": "#000000",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "MTL",
@@ -25,9 +27,10 @@
     "name": "CF Montréal",
     "abbr": "MTL",
     "city": "CF Montréal",
-    "logo": "media/logos/mls/mtl.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png",
     "color": "#003da6",
-    "alternateColor": "#c1c5c8"
+    "alternateColor": "#c1c5c8",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "CLT",
@@ -35,9 +38,10 @@
     "name": "Charlotte FC",
     "abbr": "CLT",
     "city": "Charlotte FC",
-    "logo": "media/logos/mls/clt.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png",
     "color": "#0085ca",
-    "alternateColor": "#000000"
+    "alternateColor": "#000000",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "CHI",
@@ -45,9 +49,10 @@
     "name": "Chicago Fire FC",
     "abbr": "CHI",
     "city": "Chicago Fire FC",
-    "logo": "media/logos/mls/chi.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
     "color": "#7ccdef",
-    "alternateColor": "#ff0000"
+    "alternateColor": "#ff0000",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "COL",
@@ -55,9 +60,10 @@
     "name": "Colorado Rapids",
     "abbr": "COL",
     "city": "Colorado Rapids",
-    "logo": "media/logos/mls/col.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
     "color": "#8a2432",
-    "alternateColor": "#8ab7e9"
+    "alternateColor": "#8ab7e9",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "CLB",
@@ -65,9 +71,10 @@
     "name": "Columbus Crew",
     "abbr": "CLB",
     "city": "Columbus Crew",
-    "logo": "media/logos/mls/clb.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
     "color": "#000000",
-    "alternateColor": "#fedd00"
+    "alternateColor": "#fedd00",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "DC",
@@ -75,9 +82,10 @@
     "name": "D.C. United",
     "abbr": "DC",
     "city": "D.C. United",
-    "logo": "media/logos/mls/dc.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
     "color": "#000000",
-    "alternateColor": "#d61018"
+    "alternateColor": "#d61018",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "CIN",
@@ -85,9 +93,10 @@
     "name": "FC Cincinnati",
     "abbr": "CIN",
     "city": "FC Cincinnati",
-    "logo": "media/logos/mls/cin.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
     "color": "#003087",
-    "alternateColor": "#fe5000"
+    "alternateColor": "#fe5000",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "DAL",
@@ -95,9 +104,10 @@
     "name": "FC Dallas",
     "abbr": "DAL",
     "city": "FC Dallas",
-    "logo": "media/logos/mls/dal.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
     "color": "#c6093b",
-    "alternateColor": "#001f5b"
+    "alternateColor": "#001f5b",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "HOU",
@@ -105,9 +115,10 @@
     "name": "Houston Dynamo FC",
     "abbr": "HOU",
     "city": "Houston Dynamo FC",
-    "logo": "media/logos/mls/hou.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
     "color": "#ff6b00",
-    "alternateColor": "#101820"
+    "alternateColor": "#101820",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "MIA",
@@ -115,9 +126,10 @@
     "name": "Inter Miami CF",
     "abbr": "MIA",
     "city": "Inter Miami CF",
-    "logo": "media/logos/mls/mia.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
     "color": "#231f20",
-    "alternateColor": "#f7b5cd"
+    "alternateColor": "#f7b5cd",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "LA",
@@ -125,9 +137,10 @@
     "name": "LA Galaxy",
     "abbr": "LA",
     "city": "LA Galaxy",
-    "logo": "media/logos/mls/la.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
     "color": "#00235d",
-    "alternateColor": "#ffffff"
+    "alternateColor": "#ffffff",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "LAFC",
@@ -135,9 +148,10 @@
     "name": "LAFC",
     "abbr": "LAFC",
     "city": "LAFC",
-    "logo": "media/logos/mls/lafc.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
     "color": "#000000",
-    "alternateColor": "#c7a36f"
+    "alternateColor": "#c7a36f",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "MIN",
@@ -145,9 +159,10 @@
     "name": "Minnesota United FC",
     "abbr": "MIN",
     "city": "Minnesota United FC",
-    "logo": "media/logos/mls/min.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png",
     "color": "#000000",
-    "alternateColor": "#9bcde4"
+    "alternateColor": "#9bcde4",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "NSH",
@@ -155,9 +170,10 @@
     "name": "Nashville SC",
     "abbr": "NSH",
     "city": "Nashville SC",
-    "logo": "media/logos/mls/nsh.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
     "color": "#ece83a",
-    "alternateColor": "#1f1646"
+    "alternateColor": "#1f1646",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "NE",
@@ -165,9 +181,10 @@
     "name": "New England Revolution",
     "abbr": "NE",
     "city": "New England Revolution",
-    "logo": "media/logos/mls/ne.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
     "color": "#022166",
-    "alternateColor": "#ce0e2d"
+    "alternateColor": "#ce0e2d",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "NYC",
@@ -175,9 +192,10 @@
     "name": "New York City FC",
     "abbr": "NYC",
     "city": "New York City FC",
-    "logo": "media/logos/mls/nyc.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png",
     "color": "#9fd2ff",
-    "alternateColor": "#000229"
+    "alternateColor": "#000229",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "ORL",
@@ -185,9 +203,10 @@
     "name": "Orlando City SC",
     "abbr": "ORL",
     "city": "Orlando City SC",
-    "logo": "media/logos/mls/orl.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png",
     "color": "#60269e",
-    "alternateColor": "#f0d283"
+    "alternateColor": "#f0d283",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "PHI",
@@ -195,9 +214,10 @@
     "name": "Philadelphia Union",
     "abbr": "PHI",
     "city": "Philadelphia Union",
-    "logo": "media/logos/mls/phi.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png",
     "color": "#051f31",
-    "alternateColor": "#e0d0a6"
+    "alternateColor": "#e0d0a6",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "POR",
@@ -205,9 +225,10 @@
     "name": "Portland Timbers",
     "abbr": "POR",
     "city": "Portland Timbers",
-    "logo": "media/logos/mls/por.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
     "color": "#2c5234",
-    "alternateColor": "#c99700"
+    "alternateColor": "#c99700",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "RSL",
@@ -215,9 +236,10 @@
     "name": "Real Salt Lake",
     "abbr": "RSL",
     "city": "Real Salt Lake",
-    "logo": "media/logos/mls/rsl.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
     "color": "#a32035",
-    "alternateColor": "#daa900"
+    "alternateColor": "#daa900",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "RBNY",
@@ -225,9 +247,10 @@
     "name": "Red Bull New York",
     "abbr": "RBNY",
     "city": "Red Bull New York",
-    "logo": "media/logos/mls/rbny.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
     "color": "#ba0c2f",
-    "alternateColor": "#ffc72c"
+    "alternateColor": "#ffc72c",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "SD",
@@ -235,9 +258,10 @@
     "name": "San Diego FC",
     "abbr": "SD",
     "city": "San Diego FC",
-    "logo": "media/logos/mls/sd.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png",
     "color": "#697a7C",
-    "alternateColor": "#F89E1A"
+    "alternateColor": "#F89E1A",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "SJ",
@@ -245,9 +269,10 @@
     "name": "San Jose Earthquakes",
     "abbr": "SJ",
     "city": "San Jose Earthquakes",
-    "logo": "media/logos/mls/sj.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
     "color": "#003da6",
-    "alternateColor": "#ffffff"
+    "alternateColor": "#ffffff",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "SEA",
@@ -255,9 +280,10 @@
     "name": "Seattle Sounders FC",
     "abbr": "SEA",
     "city": "Seattle Sounders FC",
-    "logo": "media/logos/mls/sea.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
     "color": "#2dc84d",
-    "alternateColor": "#0033a0"
+    "alternateColor": "#0033a0",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "SKC",
@@ -265,9 +291,10 @@
     "name": "Sporting Kansas City",
     "abbr": "SKC",
     "city": "Sporting Kansas City",
-    "logo": "media/logos/mls/skc.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
     "color": "#a7c6ed",
-    "alternateColor": "#0a2240"
+    "alternateColor": "#0a2240",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "STL",
@@ -275,9 +302,10 @@
     "name": "St. Louis CITY SC",
     "abbr": "STL",
     "city": "St. Louis CITY SC",
-    "logo": "media/logos/mls/stl.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png",
     "color": "#ec1458",
-    "alternateColor": "#001544"
+    "alternateColor": "#001544",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "TOR",
@@ -285,9 +313,10 @@
     "name": "Toronto FC",
     "abbr": "TOR",
     "city": "Toronto FC",
-    "logo": "media/logos/mls/tor.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png",
     "color": "#aa182c",
-    "alternateColor": "#a2a9ad"
+    "alternateColor": "#a2a9ad",
+    "leagueSlug": "usa.1"
   },
   {
     "id": "VAN",
@@ -295,8 +324,9 @@
     "name": "Vancouver Whitecaps",
     "abbr": "VAN",
     "city": "Vancouver Whitecaps",
-    "logo": "media/logos/mls/van.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
     "color": "#ffffff",
-    "alternateColor": "#12284c"
+    "alternateColor": "#12284c",
+    "leagueSlug": "usa.1"
   }
 ]

@@ -11,6 +11,17 @@ const LOGO_SPORT_FOLDER: Record<string, string> = {
   nhl: 'nhl',
   mls: 'mls',
   epl: 'epl',
+  laliga: 'laliga',
+  bundesliga: 'bundesliga',
+  seriea: 'seriea',
+  ligue1: 'ligue1',
+  ucl: 'ucl',
+  europa: 'europa',
+  ligamx: 'ligamx',
+  brasileirao: 'brasileirao',
+  eredivisie: 'eredivisie',
+  championship: 'championship',
+  primeira: 'primeira',
 };
 
 export function cdnTeamLogoPath(sportId: string, abbr: string, ext = '.png'): string {

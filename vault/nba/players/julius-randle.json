@@ -5,7 +5,7 @@
   "name": "Julius Randle",
   "sport": "nba",
   "position": "F",
-  "team": "MIN",
+  "team": "BKN",
   "headshot": "media/headshots/nba/randlju01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3064514.png",
   "legend": false,
@@ -251,5 +251,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:56:30.881Z"
+  "ingestedAt": "2026-06-25T15:46:36.894Z",
+  "active": true,
+  "profileSyncedAt": "2026-06-25T15:46:36.894Z"
 }

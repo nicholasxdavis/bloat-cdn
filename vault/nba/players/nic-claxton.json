@@ -5,7 +5,7 @@
   "name": "Nic Claxton",
   "sport": "nba",
   "position": "C",
-  "team": "BKN",
+  "team": "CHI",
   "headshot": "media/headshots/nba/claxtni01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4278067.png",
   "legend": false,
@@ -176,5 +176,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:53:23.664Z"
+  "ingestedAt": "2026-06-25T15:47:36.261Z",
+  "active": true,
+  "profileSyncedAt": "2026-06-25T15:47:36.261Z"
 }

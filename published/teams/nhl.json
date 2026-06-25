@@ -7,7 +7,7 @@
     "city": "Anaheim",
     "logo": "media/logos/nhl/ana.png",
     "color": "#fc4c02",
-    "alternateColor": "#000000"
+    "division": "Pacific Division"
   },
   {
     "id": "BOS",
@@ -28,7 +28,7 @@
     "city": "Buffalo",
     "logo": "media/logos/nhl/buf.png",
     "color": "#00468b",
-    "alternateColor": "#fdb71a"
+    "division": "Atlantic Division"
   },
   {
     "id": "CGY",
@@ -38,7 +38,7 @@
     "city": "Calgary",
     "logo": "media/logos/nhl/cgy.png",
     "color": "#dd1a32",
-    "alternateColor": "#000000"
+    "division": "Pacific Division"
   },
   {
     "id": "CAR",
@@ -48,7 +48,7 @@
     "city": "Carolina",
     "logo": "media/logos/nhl/car.png",
     "color": "#e30426",
-    "alternateColor": "#000000"
+    "division": "Metropolitan Division"
   },
   {
     "id": "CHI",
@@ -69,7 +69,7 @@
     "city": "Colorado",
     "logo": "media/logos/nhl/col.png",
     "color": "#860038",
-    "alternateColor": "#005ea3"
+    "division": "Central Division"
   },
   {
     "id": "CBJ",
@@ -79,7 +79,7 @@
     "city": "Columbus",
     "logo": "media/logos/nhl/cbj.png",
     "color": "#002d62",
-    "alternateColor": "#e31937"
+    "division": "Metropolitan Division"
   },
   {
     "id": "DAL",
@@ -89,7 +89,7 @@
     "city": "Dallas",
     "logo": "media/logos/nhl/dal.png",
     "color": "#20864c",
-    "alternateColor": "#000000"
+    "division": "Central Division"
   },
   {
     "id": "DET",
@@ -110,7 +110,7 @@
     "city": "Edmonton",
     "logo": "media/logos/nhl/edm.png",
     "color": "#00205b",
-    "alternateColor": "#ff4c00"
+    "division": "Pacific Division"
   },
   {
     "id": "FLA",
@@ -120,7 +120,7 @@
     "city": "Florida",
     "logo": "media/logos/nhl/fla.png",
     "color": "#e51937",
-    "alternateColor": "#002d62"
+    "division": "Atlantic Division"
   },
   {
     "id": "LA",
@@ -141,7 +141,7 @@
     "city": "Minnesota",
     "logo": "media/logos/nhl/min.png",
     "color": "#124734",
-    "alternateColor": "#ae122a"
+    "division": "Central Division"
   },
   {
     "id": "MTL",
@@ -162,7 +162,7 @@
     "city": "Nashville",
     "logo": "media/logos/nhl/nsh.png",
     "color": "#fdba31",
-    "alternateColor": "#002d62"
+    "division": "Central Division"
   },
   {
     "id": "NJ",
@@ -172,7 +172,7 @@
     "city": "New Jersey",
     "logo": "media/logos/nhl/nj.png",
     "color": "#e30b2b",
-    "alternateColor": "#000000"
+    "division": "Metropolitan Division"
   },
   {
     "id": "NYI",
@@ -182,7 +182,7 @@
     "city": "New York",
     "logo": "media/logos/nhl/nyi.png",
     "color": "#00529b",
-    "alternateColor": "#f47d31"
+    "division": "Metropolitan Division"
   },
   {
     "id": "NYR",
@@ -203,7 +203,7 @@
     "city": "Ottawa",
     "logo": "media/logos/nhl/ott.png",
     "color": "#dd1a32",
-    "alternateColor": "#b79257"
+    "division": "Atlantic Division"
   },
   {
     "id": "PHI",
@@ -235,7 +235,7 @@
     "city": "San Jose",
     "logo": "media/logos/nhl/sj.png",
     "color": "#00788a",
-    "alternateColor": "#070707"
+    "division": "Pacific Division"
   },
   {
     "id": "SEA",
@@ -245,7 +245,7 @@
     "city": "Seattle",
     "logo": "media/logos/nhl/sea.png",
     "color": "#000d33",
-    "alternateColor": "#a3dce4"
+    "division": "Pacific Division"
   },
   {
     "id": "STL",
@@ -255,7 +255,7 @@
     "city": "St. Louis",
     "logo": "media/logos/nhl/stl.png",
     "color": "#0070b9",
-    "alternateColor": "#fdb71a"
+    "division": "Central Division"
   },
   {
     "id": "TB",
@@ -265,7 +265,7 @@
     "city": "Tampa Bay",
     "logo": "media/logos/nhl/tb.png",
     "color": "#003e7e",
-    "alternateColor": "#ffffff"
+    "division": "Atlantic Division"
   },
   {
     "id": "TOR",
@@ -286,7 +286,7 @@
     "city": "Utah",
     "logo": "media/logos/nhl/utah.png",
     "color": "#000000",
-    "alternateColor": "#7ab2e1"
+    "division": "Central Division"
   },
   {
     "id": "VAN",
@@ -307,7 +307,7 @@
     "city": "Vegas",
     "logo": "media/logos/nhl/vgk.png",
     "color": "#344043",
-    "alternateColor": "#b4975a"
+    "division": "Pacific Division"
   },
   {
     "id": "WSH",
@@ -328,6 +328,6 @@
     "city": "Winnipeg",
     "logo": "media/logos/nhl/wpg.png",
     "color": "#002d62",
-    "alternateColor": "#c41230"
+    "division": "Central Division"
   }
 ]

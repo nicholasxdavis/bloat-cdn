@@ -16,7 +16,11 @@ import {
 } from '../sources/espn/teams.js';
 import type { ResolvedTeam, TeamVault } from '../types/team.js';
 
-const REGISTRY_SPORTS = new Set(['nba', 'nfl', 'mlb', 'nhl', 'mls', 'epl']);
+const REGISTRY_SPORTS = new Set([
+  'nba', 'wnba', 'nfl', 'mlb', 'nhl',
+  'mls', 'epl', 'laliga', 'bundesliga', 'seriea', 'ligue1',
+  'ucl', 'europa', 'ligamx', 'brasileirao', 'eredivisie', 'championship', 'primeira',
+]);
 
 function publishedRegistryPath(sportId: string): string {
   return repoPath('published', 'teams', `${sportId}.json`);
