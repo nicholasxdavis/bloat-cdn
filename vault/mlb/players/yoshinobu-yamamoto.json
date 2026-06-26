@@ -13,17 +13,17 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "13",
+      "gp": "14",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "2.52",
-      "fg3Pct": "0.84",
+      "fgPct": "2.65",
+      "fg3Pct": "0.87",
       "ftPct": "7",
-      "to": "4"
+      "to": "5"
     },
     {
       "season": "2025",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Jun 21",
+      "matchup": "vs BAL",
+      "result": "L 3-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
     {
       "date": "Jun 13",
       "matchup": "@ CHW",
@@ -100,24 +111,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "May 19",
-      "matchup": "@ SD",
-      "result": "L 1-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:46.821Z",
-  "statsSyncedAt": "2026-06-16T12:48:59.583Z",
+  "ingestedAt": "2026-06-26T10:47:48.135Z",
+  "statsSyncedAt": "2026-06-26T10:47:48.135Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:46.821Z"
 }

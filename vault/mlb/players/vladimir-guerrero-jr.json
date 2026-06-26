@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "TOR",
-      "gp": "68",
-      "min": "246",
-      "pts": ".280",
-      "reb": "3",
-      "ast": "27",
-      "stl": "5",
-      "blk": "30",
+      "gp": "77",
+      "min": "282",
+      "pts": ".273",
+      "reb": "4",
+      "ast": "32",
+      "stl": "6",
+      "blk": "35",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,65 +133,66 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 12",
-      "matchup": "vs NYY",
-      "result": "W 8-5",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 10",
-      "matchup": "vs PHI",
-      "result": "L 7-4",
+      "date": "Jun 24",
+      "matchup": "vs HOU",
+      "result": "L 3-1",
       "min": "3",
       "pts": "—",
       "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 9",
-      "matchup": "vs PHI",
-      "result": "W 3-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
       "ast": "0",
       "stl": "—",
       "blk": "0"
     },
     {
-      "date": "Jun 8",
-      "matchup": "vs PHI",
-      "result": "L 5-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Jun 7",
-      "matchup": "vs BAL",
-      "result": "W 6-4",
-      "min": "4",
+      "date": "Jun 23",
+      "matchup": "vs HOU",
+      "result": "L 9-7 F/11",
+      "min": "6",
       "pts": "—",
       "reb": "0",
       "ast": "0",
       "stl": "—",
       "blk": "1"
+    },
+    {
+      "date": "Jun 22",
+      "matchup": "vs HOU",
+      "result": "W 4-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 20",
+      "matchup": "@ CHC",
+      "result": "W 8-6",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 19",
+      "matchup": "@ CHC",
+      "result": "L 16-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:40.668Z",
+  "ingestedAt": "2026-06-26T10:47:45.734Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:40.668Z"
+  "profileSyncedAt": "2026-06-25T15:43:40.668Z",
+  "statsSyncedAt": "2026-06-26T10:47:45.734Z"
 }

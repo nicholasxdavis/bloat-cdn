@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "WSH",
-      "gp": "23",
-      "min": "87",
-      "pts": ".195",
-      "reb": "4",
-      "ast": "13",
-      "stl": "2",
-      "blk": "17",
+      "gp": "32",
+      "min": "122",
+      "pts": ".230",
+      "reb": "5",
+      "ast": "17",
+      "stl": "3",
+      "blk": "26",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -58,66 +58,66 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 15",
-      "matchup": "vs KC",
-      "result": "W 7-3",
+      "date": "Jun 25",
+      "matchup": "vs PHI",
+      "result": "L 10-5",
       "min": "4",
       "pts": "—",
-      "reb": "1",
-      "ast": "3",
+      "reb": "0",
+      "ast": "0",
       "stl": "—",
-      "blk": "0"
+      "blk": "1"
     },
     {
-      "date": "Jun 14",
-      "matchup": "vs SEA",
-      "result": "W 10-1",
+      "date": "Jun 24",
+      "matchup": "vs PHI",
+      "result": "L 5-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 23",
+      "matchup": "vs PHI",
+      "result": "L 14-9",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 22",
+      "matchup": "vs PHI",
+      "result": "W 4-1",
       "min": "5",
       "pts": "—",
       "reb": "0",
       "ast": "1",
       "stl": "—",
-      "blk": "0"
+      "blk": "1"
     },
     {
-      "date": "Jun 13",
-      "matchup": "vs SEA",
-      "result": "W 8-3",
+      "date": "Jun 21",
+      "matchup": "@ TB",
+      "result": "L 4-3",
       "min": "4",
       "pts": "—",
       "reb": "0",
       "ast": "1",
       "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Jun 12",
-      "matchup": "vs SEA",
-      "result": "L 10-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 10",
-      "matchup": "@ SF",
-      "result": "L 11-10",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
+      "blk": "3"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:42:42.138Z",
-  "statsSyncedAt": "2026-06-16T12:48:27.488Z",
+  "ingestedAt": "2026-06-26T10:47:20.487Z",
+  "statsSyncedAt": "2026-06-26T10:47:20.487Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:42.138Z"
 }

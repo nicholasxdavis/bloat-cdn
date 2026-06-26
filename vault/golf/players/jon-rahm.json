@@ -24,15 +24,15 @@
     },
     {
       "season": "Majors",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "-",
       "reb": "1",
       "ast": "0",
       "stl": "$1,905,250",
       "blk": "2",
-      "fgPct": "70.4",
-      "fg3Pct": "70.4",
+      "fgPct": "64.5",
+      "fg3Pct": "64.5",
       "ftPct": "-",
       "to": "-"
     }
@@ -41,6 +41,6 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-16T12:46:23.629Z",
-  "statsSyncedAt": "2026-06-16T12:46:23.629Z"
+  "ingestedAt": "2026-06-26T10:43:36.596Z",
+  "statsSyncedAt": "2026-06-26T10:43:36.596Z"
 }

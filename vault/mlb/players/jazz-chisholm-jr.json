@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "67",
-      "min": "240",
-      "pts": ".229",
-      "reb": "9",
-      "ast": "29",
-      "stl": "20",
-      "blk": "77",
+      "gp": "77",
+      "min": "276",
+      "pts": ".228",
+      "reb": "12",
+      "ast": "33",
+      "stl": "24",
+      "blk": "87",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -147,21 +147,10 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 14",
-      "matchup": "@ TOR",
-      "result": "W 8-3",
-      "min": "0",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 13",
-      "matchup": "@ TOR",
-      "result": "W 3-1",
-      "min": "3",
+      "date": "Jun 24",
+      "matchup": "@ DET",
+      "result": "W 4-2",
+      "min": "4",
       "pts": "—",
       "reb": "0",
       "ast": "0",
@@ -169,9 +158,20 @@
       "blk": "1"
     },
     {
-      "date": "Jun 12",
-      "matchup": "@ TOR",
-      "result": "L 8-5",
+      "date": "Jun 23",
+      "matchup": "@ DET",
+      "result": "W 4-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 22",
+      "matchup": "@ DET",
+      "result": "L 5-3",
       "min": "4",
       "pts": "—",
       "reb": "0",
@@ -180,24 +180,24 @@
       "blk": "2"
     },
     {
-      "date": "Jun 10",
-      "matchup": "@ CLE",
-      "result": "W 8-4",
+      "date": "Jun 21",
+      "matchup": "vs CIN",
+      "result": "L 4-1",
       "min": "4",
       "pts": "—",
       "reb": "0",
-      "ast": "3",
+      "ast": "0",
       "stl": "—",
       "blk": "1"
     },
     {
-      "date": "Jun 9",
-      "matchup": "@ CLE",
-      "result": "W 3-2",
-      "min": "3",
+      "date": "Jun 20",
+      "matchup": "vs CIN",
+      "result": "L 10-2",
+      "min": "4",
       "pts": "—",
-      "reb": "1",
-      "ast": "1",
+      "reb": "0",
+      "ast": "0",
       "stl": "—",
       "blk": "1"
     }
@@ -205,7 +205,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:00.095Z",
+  "ingestedAt": "2026-06-26T10:47:28.912Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:00.095Z"
+  "profileSyncedAt": "2026-06-25T15:43:00.095Z",
+  "statsSyncedAt": "2026-06-26T10:47:28.912Z"
 }

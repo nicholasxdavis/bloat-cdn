@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "73",
-      "min": "265",
-      "pts": ".328",
-      "reb": "24",
-      "ast": "54",
+      "gp": "82",
+      "min": "296",
+      "pts": ".318",
+      "reb": "25",
+      "ast": "56",
       "stl": "1",
-      "blk": "54",
+      "blk": "60",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,21 +133,10 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 16",
-      "matchup": "vs DET",
-      "result": "L 9-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 14",
-      "matchup": "@ KC",
-      "result": "L 4-0",
-      "min": "4",
+      "date": "Jun 24",
+      "matchup": "@ TOR",
+      "result": "W 3-1",
+      "min": "3",
       "pts": "—",
       "reb": "0",
       "ast": "0",
@@ -155,44 +144,55 @@
       "blk": "1"
     },
     {
-      "date": "Jun 13",
-      "matchup": "@ KC",
-      "result": "W 8-7",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 13",
-      "matchup": "@ KC",
-      "result": "W 10-8",
-      "min": "5",
-      "pts": "—",
-      "reb": "2",
-      "ast": "6",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 11",
-      "matchup": "@ LAA",
-      "result": "L 3-2 F/10",
+      "date": "Jun 23",
+      "matchup": "@ TOR",
+      "result": "W 9-7 F/11",
       "min": "4",
       "pts": "—",
       "reb": "0",
       "ast": "0",
       "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 22",
+      "matchup": "@ TOR",
+      "result": "L 4-2",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
       "blk": "1"
+    },
+    {
+      "date": "Jun 21",
+      "matchup": "vs CLE",
+      "result": "W 2-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 20",
+      "matchup": "vs CLE",
+      "result": "L 8-1",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:45.286Z",
-  "statsSyncedAt": "2026-06-16T12:48:58.547Z",
+  "ingestedAt": "2026-06-26T10:47:47.337Z",
+  "statsSyncedAt": "2026-06-26T10:47:47.337Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z"
 }

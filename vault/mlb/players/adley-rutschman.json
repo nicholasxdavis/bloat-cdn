@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "51",
-      "min": "189",
-      "pts": ".265",
+      "gp": "54",
+      "min": "201",
+      "pts": ".254",
       "reb": "8",
       "ast": "40",
       "stl": "0",
-      "blk": "31",
+      "blk": "33",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -88,6 +88,39 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 18",
+      "matchup": "@ SEA",
+      "result": "L 3-0",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jun 18",
+      "matchup": "@ SEA",
+      "result": "W 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 17",
+      "matchup": "@ SEA",
+      "result": "L 3-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jun 14",
       "matchup": "vs SD",
       "result": "L 5-2",
@@ -108,43 +141,11 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jun 11",
-      "matchup": "vs SEA",
-      "result": "W 7-5",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "3",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 7",
-      "matchup": "@ TOR",
-      "result": "L 6-4",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 6",
-      "matchup": "@ TOR",
-      "result": "L 6-4",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:40:00.069Z"
+  "ingestedAt": "2026-06-26T10:47:12.471Z",
+  "statsSyncedAt": "2026-06-26T10:47:12.471Z"
 }

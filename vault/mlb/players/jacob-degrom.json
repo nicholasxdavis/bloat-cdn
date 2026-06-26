@@ -13,17 +13,17 @@
     {
       "season": "2026",
       "team": "TEX",
-      "gp": "14",
+      "gp": "16",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "3.17",
-      "fg3Pct": "0.99",
-      "ftPct": "5",
-      "to": "4"
+      "fgPct": "3.55",
+      "fg3Pct": "1.03",
+      "ftPct": "6",
+      "to": "5"
     },
     {
       "season": "2025",
@@ -208,6 +208,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 24",
+      "matchup": "@ MIA",
+      "result": "L 4-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jun 20",
+      "matchup": "vs SD",
+      "result": "W 9-7",
+      "min": "—",
+      "pts": "—",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Jun 13",
       "matchup": "@ BOS",
       "result": "L 6-3",
@@ -239,35 +261,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "May 28",
-      "matchup": "vs HOU",
-      "result": "L 4-3",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "May 23",
-      "matchup": "@ LAA",
-      "result": "L 9-6",
-      "min": "—",
-      "pts": "—",
-      "reb": "2",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:42:57.083Z",
-  "statsSyncedAt": "2026-06-16T12:48:34.961Z",
+  "ingestedAt": "2026-06-26T10:47:27.311Z",
+  "statsSyncedAt": "2026-06-26T10:47:27.311Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:57.083Z"
 }

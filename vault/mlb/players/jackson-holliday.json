@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "24",
-      "min": "71",
-      "pts": ".197",
-      "reb": "3",
-      "ast": "11",
+      "gp": "30",
+      "min": "86",
+      "pts": ".198",
+      "reb": "4",
+      "ast": "12",
       "stl": "3",
-      "blk": "24",
+      "blk": "30",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -58,10 +58,21 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 14",
-      "matchup": "vs SD",
-      "result": "L 5-2",
-      "min": "2",
+      "date": "Jun 24",
+      "matchup": "@ LAA",
+      "result": "L 7-6 F/10",
+      "min": "1",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 21",
+      "matchup": "@ LAD",
+      "result": "W 3-2",
+      "min": "3",
       "pts": "—",
       "reb": "0",
       "ast": "0",
@@ -69,31 +80,20 @@
       "blk": "2"
     },
     {
-      "date": "Jun 13",
-      "matchup": "vs SD",
-      "result": "L 9-3",
-      "min": "4",
+      "date": "Jun 20",
+      "matchup": "@ LAD",
+      "result": "L 6-5",
+      "min": "2",
       "pts": "—",
       "reb": "0",
       "ast": "0",
       "stl": "—",
-      "blk": "1"
+      "blk": "0"
     },
     {
-      "date": "Jun 12",
-      "matchup": "vs SD",
-      "result": "W 7-3",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 11",
-      "matchup": "vs SEA",
-      "result": "W 7-5",
+      "date": "Jun 18",
+      "matchup": "@ SEA",
+      "result": "L 3-0",
       "min": "3",
       "pts": "—",
       "reb": "0",
@@ -102,21 +102,22 @@
       "blk": "0"
     },
     {
-      "date": "Jun 10",
-      "matchup": "vs SEA",
-      "result": "W 7-2",
-      "min": "4",
+      "date": "Jun 18",
+      "matchup": "@ SEA",
+      "result": "W 5-3",
+      "min": "3",
       "pts": "—",
       "reb": "1",
-      "ast": "4",
+      "ast": "1",
       "stl": "—",
-      "blk": "2"
+      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:42:55.694Z",
+  "ingestedAt": "2026-06-26T10:47:26.499Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:42:55.694Z"
+  "profileSyncedAt": "2026-06-25T15:42:55.694Z",
+  "statsSyncedAt": "2026-06-26T10:47:26.499Z"
 }

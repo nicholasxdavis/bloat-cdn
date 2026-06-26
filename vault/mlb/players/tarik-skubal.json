@@ -13,17 +13,17 @@
     {
       "season": "2026",
       "team": "DET",
-      "gp": "8",
+      "gp": "10",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "2.81",
-      "fg3Pct": "0.98",
+      "fgPct": "3.32",
+      "fg3Pct": "0.99",
       "ftPct": "3",
-      "to": "3"
+      "to": "4"
     },
     {
       "season": "2025",
@@ -118,6 +118,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 24",
+      "matchup": "vs NYY",
+      "result": "L 4-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "3",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
+      "date": "Jun 19",
+      "matchup": "vs CHW",
+      "result": "W 4-3",
+      "min": "—",
+      "pts": "—",
+      "reb": "2",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Jun 13",
       "matchup": "@ CLE",
       "result": "L 3-1",
@@ -149,34 +171,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Apr 18",
-      "matchup": "@ BOS",
-      "result": "W 4-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 12",
-      "matchup": "vs MIA",
-      "result": "W 8-2",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:39.206Z",
+  "ingestedAt": "2026-06-26T10:47:44.936Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:39.206Z"
+  "profileSyncedAt": "2026-06-25T15:43:39.206Z",
+  "statsSyncedAt": "2026-06-26T10:47:44.936Z"
 }

@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "69",
-      "min": "255",
-      "pts": ".239",
+      "gp": "75",
+      "min": "273",
+      "pts": ".234",
       "reb": "6",
-      "ast": "39",
+      "ast": "40",
       "stl": "6",
-      "blk": "61",
+      "blk": "65",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -148,66 +148,66 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 16",
-      "matchup": "vs TB",
-      "result": "W 4-3",
-      "min": "4",
+      "date": "Jun 22",
+      "matchup": "@ MIN",
+      "result": "W 2-1",
+      "min": "0",
       "pts": "—",
-      "reb": "1",
-      "ast": "3",
+      "reb": "0",
+      "ast": "0",
       "stl": "—",
-      "blk": "1"
+      "blk": "0"
     },
     {
-      "date": "Jun 14",
-      "matchup": "@ CHW",
-      "result": "L 6-4",
+      "date": "Jun 21",
+      "matchup": "vs BAL",
+      "result": "L 12-1",
       "min": "4",
       "pts": "—",
       "reb": "0",
       "ast": "0",
       "stl": "—",
-      "blk": "1"
+      "blk": "0"
     },
     {
-      "date": "Jun 13",
-      "matchup": "@ CHW",
-      "result": "W 7-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "2",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 12",
-      "matchup": "@ CHW",
-      "result": "L 8-2",
-      "min": "3",
+      "date": "Jun 21",
+      "matchup": "vs BAL",
+      "result": "L 3-2",
+      "min": "4",
       "pts": "—",
       "reb": "0",
       "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 11",
-      "matchup": "@ PIT",
-      "result": "W 8-6",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "2",
       "stl": "—",
       "blk": "3"
+    },
+    {
+      "date": "Jun 20",
+      "matchup": "vs BAL",
+      "result": "W 6-5",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 17",
+      "matchup": "vs TB",
+      "result": "W 5-4",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:09.104Z",
-  "statsSyncedAt": "2026-06-16T12:48:41.537Z",
+  "ingestedAt": "2026-06-26T10:47:32.917Z",
+  "statsSyncedAt": "2026-06-26T10:47:32.917Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:09.104Z"
 }
