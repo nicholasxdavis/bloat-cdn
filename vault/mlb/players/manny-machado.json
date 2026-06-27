@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "SD",
-      "gp": "77",
-      "min": "283",
-      "pts": ".184",
+      "gp": "78",
+      "min": "285",
+      "pts": ".186",
       "reb": "14",
       "ast": "43",
       "stl": "1",
@@ -267,6 +267,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 27",
+      "matchup": "vs LAD",
+      "result": "W 7-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jun 25",
       "matchup": "vs ATL",
       "result": "W 5-2",
@@ -309,24 +320,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jun 20",
-      "matchup": "@ TEX",
-      "result": "W 6-4 F/10",
-      "min": "5",
-      "pts": "—",
-      "reb": "1",
-      "ast": "5",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:47:34.515Z",
-  "statsSyncedAt": "2026-06-26T10:47:34.515Z",
+  "ingestedAt": "2026-06-27T10:00:18.023Z",
+  "statsSyncedAt": "2026-06-27T10:00:18.023Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:12.050Z"
 }

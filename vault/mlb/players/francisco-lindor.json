@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "NYM",
-      "gp": "25",
-      "min": "98",
-      "pts": ".214",
+      "gp": "26",
+      "min": "102",
+      "pts": ".216",
       "reb": "2",
       "ast": "5",
       "stl": "2",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 26",
+      "matchup": "vs PHI",
+      "result": "L 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jun 24",
       "matchup": "vs CHC",
       "result": "L 10-5",
@@ -235,24 +246,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Apr 18",
-      "matchup": "@ CHC",
-      "result": "L 4-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:47:22.908Z",
+  "ingestedAt": "2026-06-27T10:00:03.400Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:46.510Z",
-  "statsSyncedAt": "2026-06-26T10:47:22.908Z"
+  "statsSyncedAt": "2026-06-27T10:00:03.400Z"
 }

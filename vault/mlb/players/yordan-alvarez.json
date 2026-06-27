@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "82",
-      "min": "296",
-      "pts": ".318",
+      "gp": "83",
+      "min": "299",
+      "pts": ".314",
       "reb": "25",
       "ast": "56",
       "stl": "1",
-      "blk": "60",
+      "blk": "62",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,6 +133,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 26",
+      "matchup": "@ DET",
+      "result": "L 8-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jun 25",
+      "matchup": "@ DET",
+      "result": "W 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jun 24",
       "matchup": "@ TOR",
       "result": "W 3-1",
@@ -164,35 +186,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 21",
-      "matchup": "vs CLE",
-      "result": "W 2-1",
-      "min": "2",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jun 20",
-      "matchup": "vs CLE",
-      "result": "L 8-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:47:47.337Z",
-  "statsSyncedAt": "2026-06-26T10:47:47.337Z",
+  "ingestedAt": "2026-06-27T10:00:34.595Z",
+  "statsSyncedAt": "2026-06-27T10:00:34.595Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z"
 }

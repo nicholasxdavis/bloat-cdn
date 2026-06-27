@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 25",
+      "matchup": "@ TOR",
+      "result": "W 6-5",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jun 11",
       "matchup": "@ KC",
       "result": "W 4-2",
@@ -235,24 +246,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 6",
-      "matchup": "vs CLE",
-      "result": "W 3-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "2",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:47:20.085Z",
-  "statsSyncedAt": "2026-06-26T10:47:19.723Z",
+  "ingestedAt": "2026-06-27T09:59:58.918Z",
+  "statsSyncedAt": "2026-06-27T09:59:58.918Z",
   "active": true,
   "profileSyncedAt": "2026-06-26T10:47:20.085Z"
 }
