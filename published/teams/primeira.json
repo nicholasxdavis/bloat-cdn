@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ALV",
+    "espnId": "21613",
+    "name": "Alverca",
+    "abbr": "ALV",
+    "city": "Alverca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
+    "color": "#0047AB",
+    "alternateColor": "#C60000",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "FCA",
+    "espnId": "15784",
+    "name": "Arouca",
+    "abbr": "FCA",
+    "city": "Arouca",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png",
+    "color": "#ffea01",
+    "alternateColor": "#293dc2",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "AVS",
+    "espnId": "22064",
+    "name": "AVS",
+    "abbr": "AVS",
+    "city": "AVS",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22064.png",
+    "color": "#C60000",
+    "alternateColor": "#FFFFFF",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "SLB",
+    "espnId": "1929",
+    "name": "Benfica",
+    "abbr": "SLB",
+    "city": "Benfica",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+    "color": "#ca281d",
+    "alternateColor": "#1a1a1a",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "SCB",
+    "espnId": "2994",
+    "name": "Braga",
+    "abbr": "SCB",
+    "city": "Braga",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
+    "color": "#de1f26",
+    "alternateColor": "#2b6a36",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "CDN",
+    "espnId": "3472",
+    "name": "C.D. Nacional",
+    "abbr": "CDN",
+    "city": "C.D. Nacional",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png",
+    "color": "#000000",
+    "alternateColor": "#000099",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "CPAC",
+    "espnId": "21581",
+    "name": "Casa Pia",
+    "abbr": "CPAC",
+    "city": "Casa Pia",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
+    "color": "#000000",
+    "alternateColor": "#C60000",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "EPF",
+    "espnId": "12216",
+    "name": "Estoril",
+    "abbr": "EPF",
+    "city": "Estoril",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
+    "color": "#ffea01",
+    "alternateColor": "#293dc2",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "EST",
+    "espnId": "21610",
+    "name": "Estrela",
+    "abbr": "EST",
+    "city": "Estrela",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png",
+    "color": "#3B8132",
+    "alternateColor": "#DE0A26",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "FCF",
+    "espnId": "12698",
+    "name": "FC Famalicao",
+    "abbr": "FCF",
+    "city": "FC Famalicao",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
+    "color": "#FFFFFF",
+    "alternateColor": "#183760",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "FCP",
+    "espnId": "437",
+    "name": "FC Porto",
+    "abbr": "FCP",
+    "city": "FC Porto",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+    "color": "#0000dd",
+    "alternateColor": "#ffa000",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "GVFC",
+    "espnId": "3699",
+    "name": "Gil Vicente",
+    "abbr": "GVFC",
+    "city": "Gil Vicente",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
+    "color": "#de1f26",
+    "alternateColor": "#FFFFFF",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "MFC",
+    "espnId": "3696",
+    "name": "Moreirense",
+    "abbr": "MFC",
+    "city": "Moreirense",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3696.png",
+    "color": "#288A00",
+    "alternateColor": "#000000",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "RAFC",
+    "espnId": "3822",
+    "name": "Rio Ave",
+    "abbr": "RAFC",
+    "city": "Rio Ave",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png",
+    "color": "#3b8649",
+    "alternateColor": "#FF621A",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "CDSC",
+    "espnId": "12215",
+    "name": "Santa Clara",
+    "abbr": "CDSC",
+    "city": "Santa Clara",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png",
+    "color": "#C60000",
+    "alternateColor": "#ddbf64",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "SCP",
+    "espnId": "2250",
+    "name": "Sporting CP",
+    "abbr": "SCP",
+    "city": "Sporting CP",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+    "color": "#008127",
+    "alternateColor": "#ffffff",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "CDT",
+    "espnId": "12706",
+    "name": "Tondela",
+    "abbr": "CDT",
+    "city": "Tondela",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12706.png",
+    "color": "#ffea01",
+    "alternateColor": "#293dc2",
+    "leagueSlug": "por.1"
+  },
+  {
+    "id": "VSC",
+    "espnId": "5309",
+    "name": "Vitória de Guimaraes",
+    "abbr": "VSC",
+    "city": "Vitória de Guimaraes",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
+    "color": "#ffffff",
+    "alternateColor": "#000000",
+    "leagueSlug": "por.1"
+  }
+]

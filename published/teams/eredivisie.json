@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ADO",
+    "espnId": "2726",
+    "name": "ADO Den Haag",
+    "abbr": "ADO",
+    "city": "ADO Den Haag",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png",
+    "color": "#307B64",
+    "alternateColor": "#a0ffe5",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "AJA",
+    "espnId": "139",
+    "name": "Ajax Amsterdam",
+    "abbr": "AJA",
+    "city": "Ajax Amsterdam",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+    "color": "#DF1B27",
+    "alternateColor": "#4d6286",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "AZ",
+    "espnId": "140",
+    "name": "AZ Alkmaar",
+    "abbr": "AZ",
+    "city": "AZ Alkmaar",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+    "color": "#ef2f24",
+    "alternateColor": "#ffffff",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "EXC",
+    "espnId": "2566",
+    "name": "Excelsior",
+    "abbr": "EXC",
+    "city": "Excelsior",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
+    "color": "#000000",
+    "alternateColor": "#b41226",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "GRO",
+    "espnId": "145",
+    "name": "FC Groningen",
+    "abbr": "GRO",
+    "city": "FC Groningen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
+    "color": "#ffffff",
+    "alternateColor": "#30565c",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "TWE",
+    "espnId": "152",
+    "name": "FC Twente",
+    "abbr": "TWE",
+    "city": "FC Twente",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+    "color": "#F31522",
+    "alternateColor": "#9df9f7",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "UTR",
+    "espnId": "153",
+    "name": "FC Utrecht",
+    "abbr": "UTR",
+    "city": "FC Utrecht",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png",
+    "color": "#F31522",
+    "alternateColor": "#1a316b",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "FEY",
+    "espnId": "142",
+    "name": "Feyenoord Rotterdam",
+    "abbr": "FEY",
+    "city": "Feyenoord Rotterdam",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+    "color": "#ef2f24",
+    "alternateColor": "#000000",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "FOR",
+    "espnId": "143",
+    "name": "Fortuna Sittard",
+    "abbr": "FOR",
+    "city": "Fortuna Sittard",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+    "color": "#FCEE33",
+    "alternateColor": "#ffffff",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "GAE",
+    "espnId": "3706",
+    "name": "Go Ahead Eagles",
+    "abbr": "GAE",
+    "city": "Go Ahead Eagles",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png",
+    "color": "#F80017",
+    "alternateColor": "#8f0058",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "HEE",
+    "espnId": "146",
+    "name": "Heerenveen",
+    "abbr": "HEE",
+    "city": "Heerenveen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
+    "color": "#003eff",
+    "alternateColor": "#1a316b",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "NEC",
+    "espnId": "147",
+    "name": "NEC Nijmegen",
+    "abbr": "NEC",
+    "city": "NEC Nijmegen",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
+    "color": "#ef2f24",
+    "alternateColor": "#84aee7",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "PEC",
+    "espnId": "2565",
+    "name": "PEC Zwolle",
+    "abbr": "PEC",
+    "city": "PEC Zwolle",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png",
+    "color": "#0000d4",
+    "alternateColor": "#000000",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "PSV",
+    "espnId": "148",
+    "name": "PSV Eindhoven",
+    "abbr": "PSV",
+    "city": "PSV Eindhoven",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+    "color": "#ef2f24",
+    "alternateColor": "#000000",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "CAM",
+    "espnId": "3736",
+    "name": "SC Cambuur",
+    "abbr": "CAM",
+    "city": "SC Cambuur",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
+    "color": "#FCEE33",
+    "alternateColor": "#98994e",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "SPA",
+    "espnId": "151",
+    "name": "Sparta Rotterdam",
+    "abbr": "SPA",
+    "city": "Sparta Rotterdam",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
+    "color": "#F31522",
+    "alternateColor": "#84aee7",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "TEL",
+    "espnId": "3735",
+    "name": "Telstar",
+    "abbr": "TEL",
+    "city": "Telstar",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png",
+    "color": "#C60000",
+    "alternateColor": "#FCEE33",
+    "leagueSlug": "ned.1"
+  },
+  {
+    "id": "WIL",
+    "espnId": "156",
+    "name": "Willem II",
+    "abbr": "WIL",
+    "city": "Willem II",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png",
+    "color": "#1a316b",
+    "alternateColor": "#96c0df",
+    "leagueSlug": "ned.1"
+  }
+]

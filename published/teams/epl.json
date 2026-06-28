@@ -1,0 +1,222 @@
+[
+  {
+    "id": "BOU",
+    "espnId": "349",
+    "name": "AFC Bournemouth",
+    "abbr": "BOU",
+    "city": "AFC Bournemouth",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+    "color": "#f42727",
+    "alternateColor": "#0000CC",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "ARS",
+    "espnId": "359",
+    "name": "Arsenal",
+    "abbr": "ARS",
+    "city": "Arsenal",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+    "color": "#e20520",
+    "alternateColor": "#003399",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "AVL",
+    "espnId": "362",
+    "name": "Aston Villa",
+    "abbr": "AVL",
+    "city": "Aston Villa",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+    "color": "#660e36",
+    "alternateColor": "#333333",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "BRE",
+    "espnId": "337",
+    "name": "Brentford",
+    "abbr": "BRE",
+    "city": "Brentford",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+    "color": "#f42727",
+    "alternateColor": "#f8ced9",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "BHA",
+    "espnId": "331",
+    "name": "Brighton & Hove Albion",
+    "abbr": "BHA",
+    "city": "Brighton & Hove Albion",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+    "color": "#0606fa",
+    "alternateColor": "#ffdd00",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "CHE",
+    "espnId": "363",
+    "name": "Chelsea",
+    "abbr": "CHE",
+    "city": "Chelsea",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+    "color": "#144992",
+    "alternateColor": "#FFFFFF",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "COV",
+    "espnId": "388",
+    "name": "Coventry City",
+    "abbr": "COV",
+    "city": "Coventry City",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+    "color": "#87cced",
+    "alternateColor": "#ffffff",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "CRY",
+    "espnId": "384",
+    "name": "Crystal Palace",
+    "abbr": "CRY",
+    "city": "Crystal Palace",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+    "color": "#0202fb",
+    "alternateColor": "#ffdd00",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "EVE",
+    "espnId": "368",
+    "name": "Everton",
+    "abbr": "EVE",
+    "city": "Everton",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+    "color": "#0606fa",
+    "alternateColor": "#132257",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "FUL",
+    "espnId": "370",
+    "name": "Fulham",
+    "abbr": "FUL",
+    "city": "Fulham",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+    "color": "#ffffff",
+    "alternateColor": "#00CC00",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "HUL",
+    "espnId": "306",
+    "name": "Hull City",
+    "abbr": "HUL",
+    "city": "Hull City",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+    "color": "#f28800",
+    "alternateColor": "#ffffff",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "IPS",
+    "espnId": "373",
+    "name": "Ipswich Town",
+    "abbr": "IPS",
+    "city": "Ipswich Town",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+    "color": "#0000fa",
+    "alternateColor": "#cd1937",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "LEE",
+    "espnId": "357",
+    "name": "Leeds United",
+    "abbr": "LEE",
+    "city": "Leeds United",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+    "color": "#ffffff",
+    "alternateColor": "#0000FF",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "LIV",
+    "espnId": "364",
+    "name": "Liverpool",
+    "abbr": "LIV",
+    "city": "Liverpool",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+    "color": "#d11317",
+    "alternateColor": "#FFFFFF",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "MNC",
+    "espnId": "382",
+    "name": "Manchester City",
+    "abbr": "MNC",
+    "city": "Manchester City",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+    "color": "#99c5ea",
+    "alternateColor": "#000000",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "MAN",
+    "espnId": "360",
+    "name": "Manchester United",
+    "abbr": "MAN",
+    "city": "Manchester United",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+    "color": "#da020e",
+    "alternateColor": "#FFFFFF",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "NEW",
+    "espnId": "361",
+    "name": "Newcastle United",
+    "abbr": "NEW",
+    "city": "Newcastle United",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+    "color": "#000000",
+    "alternateColor": "#ffffff",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "NFO",
+    "espnId": "393",
+    "name": "Nottingham Forest",
+    "abbr": "NFO",
+    "city": "Nottingham Forest",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+    "color": "#c8102e",
+    "alternateColor": "#132257",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "SUN",
+    "espnId": "366",
+    "name": "Sunderland",
+    "abbr": "SUN",
+    "city": "Sunderland",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+    "color": "#EB172B",
+    "alternateColor": "#87cced",
+    "leagueSlug": "eng.1"
+  },
+  {
+    "id": "TOT",
+    "espnId": "367",
+    "name": "Tottenham Hotspur",
+    "abbr": "TOT",
+    "city": "Tottenham Hotspur",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+    "color": "#ffffff",
+    "alternateColor": "#000000",
+    "leagueSlug": "eng.1"
+  }
+]
