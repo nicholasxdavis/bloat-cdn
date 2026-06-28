@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "CIN",
-      "gp": "61",
-      "min": "242",
-      "pts": ".273",
+      "gp": "62",
+      "min": "246",
+      "pts": ".268",
       "reb": "12",
       "ast": "38",
       "stl": "10",
-      "blk": "79",
+      "blk": "80",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -73,6 +73,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 27",
+      "matchup": "@ PIT",
+      "result": "W 9-7",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 26",
+      "matchup": "@ PIT",
+      "result": "W 6-4",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jun 24",
       "matchup": "vs MIL",
       "result": "L 6-5",
@@ -104,35 +126,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "May 30",
-      "matchup": "vs ATL",
-      "result": "L 5-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "May 29",
-      "matchup": "vs ATL",
-      "result": "L 8-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "3"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-27T10:00:01.294Z",
+  "ingestedAt": "2026-06-28T10:24:25.348Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:43.558Z",
-  "statsSyncedAt": "2026-06-27T10:00:01.294Z"
+  "statsSyncedAt": "2026-06-28T10:24:25.348Z"
 }
