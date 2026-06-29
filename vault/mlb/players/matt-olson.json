@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "81",
-      "min": "315",
-      "pts": ".270",
+      "gp": "82",
+      "min": "319",
+      "pts": ".276",
       "reb": "20",
       "ast": "52",
       "stl": "2",
-      "blk": "81",
+      "blk": "82",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -180,6 +180,17 @@
     {
       "date": "Jun 28",
       "matchup": "@ SF",
+      "result": "L 3-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jun 28",
+      "matchup": "@ SF",
       "result": "L 5-0",
       "min": "4",
       "pts": "—",
@@ -220,24 +231,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jun 23",
-      "matchup": "@ SD",
-      "result": "L 1-0",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-28T10:24:44.489Z",
+  "ingestedAt": "2026-06-29T12:26:52.606Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:13.532Z",
-  "statsSyncedAt": "2026-06-28T10:24:44.489Z"
+  "statsSyncedAt": "2026-06-29T12:26:52.606Z"
 }

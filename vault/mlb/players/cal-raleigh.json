@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "52",
-      "min": "197",
-      "pts": ".162",
+      "gp": "53",
+      "min": "200",
+      "pts": ".165",
       "reb": "8",
       "ast": "21",
       "stl": "2",
@@ -103,6 +103,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 28",
+      "matchup": "@ CLE",
+      "result": "L 6-5",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jun 27",
+      "matchup": "@ CLE",
+      "result": "L 4-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jun 26",
       "matchup": "@ CLE",
       "result": "W 3-1",
@@ -134,35 +156,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jun 23",
-      "matchup": "@ PIT",
-      "result": "W 3-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jun 21",
-      "matchup": "vs BOS",
-      "result": "W 3-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-28T10:24:18.613Z",
-  "statsSyncedAt": "2026-06-28T10:24:18.613Z",
+  "ingestedAt": "2026-06-29T12:26:32.526Z",
+  "statsSyncedAt": "2026-06-29T12:26:32.526Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:29.870Z"
 }
