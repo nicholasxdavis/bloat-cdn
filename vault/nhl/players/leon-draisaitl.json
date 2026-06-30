@@ -228,7 +228,7 @@
     {
       "date": "Apr 25",
       "matchup": "@ ANA",
-      "result": "L 6-4",
+      "result": "L 7-4",
       "min": "—",
       "pts": "2",
       "reb": "0",
@@ -251,8 +251,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:10.345Z",
-  "statsSyncedAt": "2026-06-16T12:49:49.564Z",
+  "ingestedAt": "2026-06-30T10:56:30.113Z",
+  "statsSyncedAt": "2026-06-30T10:56:30.113Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:10.345Z"
 }

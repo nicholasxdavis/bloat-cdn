@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "80",
-      "min": "283",
-      "pts": ".223",
+      "gp": "81",
+      "min": "284",
+      "pts": ".222",
       "reb": "12",
       "ast": "33",
       "stl": "24",
-      "blk": "91",
+      "blk": "92",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -147,6 +147,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 29",
+      "matchup": "vs DET",
+      "result": "L 7-3",
+      "min": "1",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jun 28",
       "matchup": "@ BOS",
       "result": "L 5-4 F/10",
@@ -189,24 +200,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jun 24",
-      "matchup": "@ DET",
-      "result": "W 4-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-29T12:26:45.761Z",
+  "ingestedAt": "2026-06-30T10:54:44.210Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:00.095Z",
-  "statsSyncedAt": "2026-06-29T12:26:45.761Z"
+  "statsSyncedAt": "2026-06-30T10:54:44.210Z"
 }
