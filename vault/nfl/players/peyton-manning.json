@@ -326,5 +326,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:49:29.811Z"
+  "ingestedAt": "2026-07-01T13:44:15.305Z",
+  "details": {
+    "jersey": "18",
+    "height": "6' 5\"",
+    "weight": "230 lbs",
+    "debutYear": 1998,
+    "college": "Tennessee",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/1428.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:15.305Z"
 }

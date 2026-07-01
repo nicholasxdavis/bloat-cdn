@@ -386,8 +386,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:36.136Z",
+  "ingestedAt": "2026-07-01T13:45:21.172Z",
   "statsSyncedAt": "2026-06-16T12:50:02.712Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:36.136Z"
+  "profileSyncedAt": "2026-06-25T15:51:36.136Z",
+  "details": {
+    "jersey": "87",
+    "height": "5' 11\"",
+    "weight": "200 lbs",
+    "debutYear": 2005,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/3114.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:45:21.172Z"
 }

@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:45.390Z",
+  "ingestedAt": "2026-07-01T13:42:37.172Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:45.390Z"
+  "profileSyncedAt": "2026-06-25T15:47:45.390Z",
+  "details": {
+    "jersey": "17",
+    "height": "6' 10\"",
+    "weight": "240 lbs",
+    "debutYear": 2020,
+    "college": "USC",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4431680.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:37.172Z"
 }

@@ -370,7 +370,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:45.754Z",
+  "ingestedAt": "2026-07-01T13:41:47.602Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:45.754Z"
+  "profileSyncedAt": "2026-06-25T15:46:45.754Z",
+  "details": {
+    "jersey": "7",
+    "height": "6' 11\"",
+    "weight": "240 lbs",
+    "debutYear": 2007,
+    "college": "Texas",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3202.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:47.602Z"
 }

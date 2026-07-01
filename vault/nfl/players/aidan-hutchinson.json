@@ -131,7 +131,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:48.007Z",
+  "ingestedAt": "2026-07-01T13:43:17.412Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:48.007Z"
+  "profileSyncedAt": "2026-06-25T15:48:48.007Z",
+  "details": {
+    "jersey": "97",
+    "height": "6' 7\"",
+    "weight": "268 lbs",
+    "college": "Michigan",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4372099.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:17.412Z"
 }

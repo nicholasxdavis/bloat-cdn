@@ -41,6 +41,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:51:10.963Z",
-  "statsSyncedAt": "2026-06-30T10:51:10.963Z"
+  "ingestedAt": "2026-07-01T13:36:13.489Z",
+  "statsSyncedAt": "2026-06-30T10:51:10.963Z",
+  "details": {
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "debutYear": 2011,
+    "college": "UCLA",
+    "birthplace": "Long Beach, California, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/6007.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:36:13.489Z"
 }

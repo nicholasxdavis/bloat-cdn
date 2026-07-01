@@ -87,7 +87,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:42:33.037Z",
+  "ingestedAt": "2026-07-01T13:38:40.350Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:42:33.037Z"
+  "profileSyncedAt": "2026-06-25T15:42:33.037Z",
+  "details": {
+    "jersey": "52",
+    "height": "6' 0\"",
+    "weight": "215 lbs",
+    "debutYear": 2022,
+    "college": "Southern Miss",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/40354.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:40.350Z"
 }

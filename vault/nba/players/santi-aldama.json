@@ -146,7 +146,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:04.899Z",
+  "ingestedAt": "2026-07-01T13:42:49.883Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:04.899Z"
+  "profileSyncedAt": "2026-06-25T15:48:04.899Z",
+  "details": {
+    "jersey": "7",
+    "height": "7' 0\"",
+    "weight": "215 lbs",
+    "college": "Loyola Maryland",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4593125.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:49.883Z"
 }

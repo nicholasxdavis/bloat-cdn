@@ -430,5 +430,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:25:35.702Z"
+  "ingestedAt": "2026-07-01T13:38:32.239Z",
+  "details": {
+    "jersey": "5",
+    "height": "6' 3\"",
+    "weight": "235 lbs",
+    "debutYear": 2001,
+    "college": "Maple Woods Community",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4574.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:32.239Z"
 }

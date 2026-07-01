@@ -116,7 +116,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:30.491Z",
+  "ingestedAt": "2026-07-01T13:39:59.877Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:30.491Z"
+  "profileSyncedAt": "2026-06-25T15:44:30.491Z",
+  "details": {
+    "jersey": "2",
+    "height": "6' 4\"",
+    "weight": "205 lbs",
+    "college": "Santa Clara",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4709138.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:59.877Z"
 }

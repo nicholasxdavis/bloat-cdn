@@ -131,7 +131,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:16.886Z",
+  "ingestedAt": "2026-07-01T13:39:50.498Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:16.886Z"
+  "profileSyncedAt": "2026-06-25T15:44:16.886Z",
+  "details": {
+    "jersey": "2",
+    "height": "6' 4\"",
+    "weight": "191 lbs",
+    "college": "Gonzaga",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4395712.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:50.498Z"
 }

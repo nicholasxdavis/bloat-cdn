@@ -111,7 +111,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:00.701Z",
+  "ingestedAt": "2026-07-01T13:39:38.888Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:00.701Z"
+  "profileSyncedAt": "2026-06-25T15:44:00.701Z",
+  "details": {
+    "jersey": "10",
+    "height": "5' 10\"",
+    "weight": "163 lbs",
+    "awards": []
+  },
+  "detailSyncedAt": "2026-07-01T13:39:38.888Z"
 }

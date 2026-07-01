@@ -175,7 +175,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:25.983Z",
+  "ingestedAt": "2026-07-01T13:39:56.769Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:25.983Z"
+  "profileSyncedAt": "2026-06-25T15:44:25.983Z",
+  "details": {
+    "jersey": "13",
+    "height": "6' 4\"",
+    "weight": "200 lbs",
+    "college": "Illinois",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4397002.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:56.769Z"
 }

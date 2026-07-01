@@ -146,7 +146,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:43:34.729Z",
+  "ingestedAt": "2026-07-01T13:39:22.215Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:34.729Z"
+  "profileSyncedAt": "2026-06-25T15:43:34.729Z",
+  "details": {
+    "jersey": "27",
+    "height": "5' 11\"",
+    "weight": "182 lbs",
+    "debutYear": 2022,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4142424.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:22.215Z"
 }

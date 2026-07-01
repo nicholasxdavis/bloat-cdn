@@ -221,7 +221,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:56.246Z",
+  "ingestedAt": "2026-07-01T13:41:54.928Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:56.246Z"
+  "profileSyncedAt": "2026-06-25T15:46:56.246Z",
+  "details": {
+    "jersey": "8",
+    "height": "6' 3\"",
+    "weight": "205 lbs",
+    "debutYear": 2016,
+    "college": "Providence",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/2991139.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:54.928Z"
 }

@@ -131,7 +131,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:50.745Z",
+  "ingestedAt": "2026-07-01T13:41:15.072Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:50.745Z"
+  "profileSyncedAt": "2026-06-25T15:45:50.745Z",
+  "details": {
+    "jersey": "10",
+    "height": "6' 11\"",
+    "weight": "220 lbs",
+    "college": "Auburn",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4432639.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:15.072Z"
 }

@@ -220,7 +220,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:53.188Z",
+  "ingestedAt": "2026-07-01T13:43:20.228Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:53.188Z"
+  "profileSyncedAt": "2026-06-25T15:48:53.188Z",
+  "details": {
+    "jersey": "6",
+    "height": "6' 1\"",
+    "weight": "215 lbs",
+    "debutYear": 2018,
+    "college": "Oklahoma",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3052587.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:20.228Z"
 }

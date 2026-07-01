@@ -41,6 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:53:16.741Z",
-  "statsSyncedAt": "2026-06-30T10:53:16.741Z"
+  "ingestedAt": "2026-07-01T13:38:03.434Z",
+  "statsSyncedAt": "2026-06-30T10:53:16.741Z",
+  "details": {
+    "height": "5' 10\"",
+    "weight": "165 lbs",
+    "college": "Oklahoma State",
+    "birthplace": "Oslo, Norway",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/4364873.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:03.434Z"
 }

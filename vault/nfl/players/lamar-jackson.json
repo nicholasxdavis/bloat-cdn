@@ -191,7 +191,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:52.000Z",
+  "ingestedAt": "2026-07-01T13:44:06.443Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:52.000Z"
+  "profileSyncedAt": "2026-06-25T15:49:52.000Z",
+  "details": {
+    "jersey": "8",
+    "height": "6' 2\"",
+    "weight": "205 lbs",
+    "debutYear": 2018,
+    "college": "Louisville",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3916387.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:06.443Z"
 }

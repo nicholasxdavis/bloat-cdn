@@ -191,7 +191,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:47.411Z",
+  "ingestedAt": "2026-07-01T13:44:03.712Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:47.411Z"
+  "profileSyncedAt": "2026-06-25T15:49:47.411Z",
+  "details": {
+    "jersey": "17",
+    "height": "6' 5\"",
+    "weight": "237 lbs",
+    "debutYear": 2018,
+    "college": "Wyoming",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:03.712Z"
 }

@@ -386,7 +386,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:42.645Z",
+  "ingestedAt": "2026-07-01T13:43:15.594Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:42.645Z"
+  "profileSyncedAt": "2026-06-25T15:48:42.645Z",
+  "details": {
+    "jersey": "8",
+    "height": "6' 2\"",
+    "weight": "223 lbs",
+    "debutYear": 2005,
+    "college": "California",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:15.594Z"
 }

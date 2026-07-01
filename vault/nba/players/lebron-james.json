@@ -416,7 +416,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:09.852Z",
+  "ingestedAt": "2026-07-01T13:42:01.626Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:09.852Z"
+  "profileSyncedAt": "2026-06-25T15:47:09.852Z",
+  "details": {
+    "jersey": "23",
+    "height": "6' 9\"",
+    "weight": "250 lbs",
+    "debutYear": 2003,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/1966.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:01.626Z"
 }

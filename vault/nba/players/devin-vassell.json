@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:11.164Z",
+  "ingestedAt": "2026-07-01T13:40:51.671Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:11.164Z"
+  "profileSyncedAt": "2026-06-25T15:45:11.164Z",
+  "details": {
+    "jersey": "24",
+    "height": "6' 5\"",
+    "weight": "200 lbs",
+    "debutYear": 2020,
+    "college": "Florida State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4395630.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:51.671Z"
 }

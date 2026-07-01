@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:36.779Z",
+  "ingestedAt": "2026-07-01T13:44:32.118Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:36.779Z"
+  "profileSyncedAt": "2026-06-25T15:50:36.779Z",
+  "details": {
+    "jersey": "1",
+    "height": "6' 1\"",
+    "weight": "225 lbs",
+    "debutYear": 2020,
+    "college": "Alabama",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4241479.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:32.118Z"
 }

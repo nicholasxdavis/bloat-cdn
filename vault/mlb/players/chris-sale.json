@@ -311,8 +311,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-29T12:26:33.337Z",
+  "ingestedAt": "2026-07-01T13:38:39.551Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:31.441Z",
-  "statsSyncedAt": "2026-06-29T12:26:33.337Z"
+  "statsSyncedAt": "2026-06-29T12:26:33.337Z",
+  "details": {
+    "jersey": "51",
+    "height": "6' 6\"",
+    "weight": "180 lbs",
+    "debutYear": 2010,
+    "college": "Florida Gulf Coast",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/30948.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:39.551Z"
 }

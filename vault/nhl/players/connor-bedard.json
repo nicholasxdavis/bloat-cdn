@@ -116,8 +116,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:56.443Z",
+  "ingestedAt": "2026-07-01T13:44:44.650Z",
   "statsSyncedAt": "2026-06-16T12:49:20.919Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:56.443Z"
+  "profileSyncedAt": "2026-06-25T15:50:56.443Z",
+  "details": {
+    "jersey": "98",
+    "height": "5' 10\"",
+    "weight": "185 lbs",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5149125.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:44.650Z"
 }

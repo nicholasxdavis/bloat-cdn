@@ -41,6 +41,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:50:24.017Z",
-  "statsSyncedAt": "2026-06-30T10:50:24.017Z"
+  "ingestedAt": "2026-07-01T13:35:51.270Z",
+  "statsSyncedAt": "2026-06-30T10:50:24.017Z",
+  "details": {
+    "height": "5' 10\"",
+    "weight": "160 lbs",
+    "debutYear": 2009,
+    "college": "Alabama",
+    "birthplace": "Goshen, Kentucky, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/4848.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:35:51.270Z"
 }

@@ -101,7 +101,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:12.720Z",
+  "ingestedAt": "2026-07-01T13:43:43.453Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:12.720Z"
+  "profileSyncedAt": "2026-06-25T15:49:12.720Z",
+  "details": {
+    "jersey": "33",
+    "height": "6' 0\"",
+    "weight": "198 lbs",
+    "college": "Iowa",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4682618.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:43.453Z"
 }

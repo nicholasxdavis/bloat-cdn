@@ -356,5 +356,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:13:19.672Z"
+  "ingestedAt": "2026-07-01T13:42:58.223Z",
+  "details": {
+    "jersey": "21",
+    "height": "6' 11\"",
+    "weight": "250 lbs",
+    "debutYear": 1997,
+    "college": "Wake Forest",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/215.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:58.223Z"
 }

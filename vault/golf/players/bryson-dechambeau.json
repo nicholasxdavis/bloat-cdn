@@ -41,6 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:42:54.193Z",
-  "statsSyncedAt": "2026-06-26T10:42:54.193Z"
+  "ingestedAt": "2026-07-01T13:34:53.850Z",
+  "statsSyncedAt": "2026-06-26T10:42:54.193Z",
+  "details": {
+    "height": "6' 1\"",
+    "weight": "235 lbs",
+    "college": "SMU",
+    "birthplace": "Modesto, California, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/10046.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:34:53.850Z"
 }

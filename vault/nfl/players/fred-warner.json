@@ -191,7 +191,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:25.024Z",
+  "ingestedAt": "2026-07-01T13:43:51.004Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:25.024Z"
+  "profileSyncedAt": "2026-06-25T15:49:25.024Z",
+  "details": {
+    "jersey": "54",
+    "height": "6' 3\"",
+    "weight": "230 lbs",
+    "debutYear": 2018,
+    "college": "BYU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3138826.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:51.004Z"
 }

@@ -99,8 +99,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:50.447Z",
+  "ingestedAt": "2026-07-01T13:39:33.153Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:52.995Z",
-  "statsSyncedAt": "2026-07-01T11:05:50.447Z"
+  "statsSyncedAt": "2026-07-01T11:05:50.447Z",
+  "details": {
+    "jersey": "19",
+    "height": "5' 9\"",
+    "weight": "172 lbs",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/336809.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:33.153Z"
 }

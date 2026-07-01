@@ -266,7 +266,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:51.874Z",
+  "ingestedAt": "2026-07-01T13:41:51.814Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:51.874Z"
+  "profileSyncedAt": "2026-06-25T15:46:51.874Z",
+  "details": {
+    "jersey": "31",
+    "height": "6' 5\"",
+    "weight": "220 lbs",
+    "debutYear": 2011,
+    "college": "Washington State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6475.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:51.814Z"
 }

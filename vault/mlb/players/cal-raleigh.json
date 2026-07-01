@@ -161,8 +161,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:14.605Z",
+  "ingestedAt": "2026-07-01T13:38:38.748Z",
   "statsSyncedAt": "2026-07-01T11:05:14.605Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:42:29.870Z"
+  "profileSyncedAt": "2026-06-25T15:42:29.870Z",
+  "details": {
+    "jersey": "29",
+    "height": "6' 2\"",
+    "weight": "235 lbs",
+    "debutYear": 2021,
+    "college": "Florida State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/41292.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:38.748Z"
 }

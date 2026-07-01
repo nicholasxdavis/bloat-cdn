@@ -206,8 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:42.257Z",
+  "ingestedAt": "2026-07-01T13:39:23.017Z",
   "statsSyncedAt": "2026-07-01T11:05:42.257Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:36.343Z"
+  "profileSyncedAt": "2026-06-25T15:43:36.343Z",
+  "details": {
+    "jersey": "17",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "debutYear": 2018,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/39832.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:23.017Z"
 }

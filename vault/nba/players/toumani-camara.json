@@ -116,7 +116,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:20.054Z",
+  "ingestedAt": "2026-07-01T13:43:00.246Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:20.054Z"
+  "profileSyncedAt": "2026-06-25T15:48:20.054Z",
+  "details": {
+    "jersey": "33",
+    "height": "6' 7\"",
+    "weight": "230 lbs",
+    "college": "Dayton",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4431736.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:00.246Z"
 }

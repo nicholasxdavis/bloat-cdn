@@ -191,6 +191,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-16T12:48:24.686Z",
-  "statsSyncedAt": "2026-06-16T12:48:24.686Z"
+  "ingestedAt": "2026-07-01T13:38:42.154Z",
+  "statsSyncedAt": "2026-06-16T12:48:24.686Z",
+  "details": {
+    "jersey": "39",
+    "height": "6' 3\"",
+    "weight": "245 lbs",
+    "debutYear": 2018,
+    "college": "Saint Mary's",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/39878.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:42.154Z"
 }

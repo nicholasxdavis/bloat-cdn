@@ -220,8 +220,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:26.504Z",
+  "ingestedAt": "2026-07-01T13:45:16.787Z",
   "statsSyncedAt": "2026-06-16T12:49:59.096Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:26.504Z"
+  "profileSyncedAt": "2026-06-25T15:51:26.504Z",
+  "details": {
+    "jersey": "43",
+    "height": "5' 10\"",
+    "weight": "180 lbs",
+    "debutYear": 2019,
+    "college": "Michigan",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4320548.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:45:16.787Z"
 }

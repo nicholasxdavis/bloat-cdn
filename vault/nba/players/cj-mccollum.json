@@ -324,7 +324,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:45.621Z",
+  "ingestedAt": "2026-07-01T13:40:34.484Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:45.621Z"
+  "profileSyncedAt": "2026-06-25T15:44:45.621Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 3\"",
+    "weight": "190 lbs",
+    "debutYear": 2013,
+    "college": "Lehigh",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/2490149.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:34.484Z"
 }

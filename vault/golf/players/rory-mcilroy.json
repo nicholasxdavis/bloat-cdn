@@ -41,6 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:51:11.915Z",
-  "statsSyncedAt": "2026-06-30T10:51:11.915Z"
+  "ingestedAt": "2026-07-01T13:36:35.726Z",
+  "statsSyncedAt": "2026-06-30T10:51:11.915Z",
+  "details": {
+    "height": "5' 10\"",
+    "weight": "160 lbs",
+    "debutYear": 2007,
+    "birthplace": "Holywood, Northern Ireland",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/3470.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:36:35.726Z"
 }

@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:08.125Z",
+  "ingestedAt": "2026-07-01T13:40:49.863Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:08.125Z"
+  "profileSyncedAt": "2026-06-25T15:45:08.125Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 6\"",
+    "weight": "215 lbs",
+    "debutYear": 2020,
+    "college": "TCU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4066320.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:49.863Z"
 }

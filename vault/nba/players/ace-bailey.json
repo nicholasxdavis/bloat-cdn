@@ -86,7 +86,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:09.441Z",
+  "ingestedAt": "2026-07-01T13:39:45.448Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:09.441Z"
+  "profileSyncedAt": "2026-06-25T15:44:09.441Z",
+  "details": {
+    "jersey": "19",
+    "height": "6' 9\"",
+    "weight": "200 lbs",
+    "college": "Rutgers",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4873138.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:45.448Z"
 }

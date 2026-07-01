@@ -101,5 +101,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:38:52.982Z"
+  "ingestedAt": "2026-07-01T13:39:20.382Z",
+  "details": {
+    "jersey": "19",
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "debutYear": 2025,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/5080767.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:20.382Z"
 }

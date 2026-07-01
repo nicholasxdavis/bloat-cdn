@@ -386,5 +386,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:47:49.018Z"
+  "ingestedAt": "2026-07-01T13:40:53.615Z",
+  "details": {
+    "jersey": "41",
+    "height": "7' 0\"",
+    "weight": "245 lbs",
+    "debutYear": 1998,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/609.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:53.615Z"
 }

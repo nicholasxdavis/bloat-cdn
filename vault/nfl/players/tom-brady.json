@@ -416,5 +416,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:49:20.642Z"
+  "ingestedAt": "2026-07-01T13:44:26.273Z",
+  "details": {
+    "jersey": "12",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "debutYear": 2000,
+    "college": "Michigan",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/2330.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:26.273Z"
 }

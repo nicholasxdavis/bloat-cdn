@@ -175,7 +175,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:27.572Z",
+  "ingestedAt": "2026-07-01T13:41:35.937Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:27.572Z"
+  "profileSyncedAt": "2026-06-25T15:46:27.572Z",
+  "details": {
+    "jersey": "23",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "college": "Saint Louis",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4278402.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:35.937Z"
 }

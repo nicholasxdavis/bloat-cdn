@@ -281,7 +281,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:24.843Z",
+  "ingestedAt": "2026-07-01T13:40:58.577Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:24.843Z"
+  "profileSyncedAt": "2026-06-25T15:45:24.843Z",
+  "details": {
+    "jersey": "23",
+    "height": "6' 6\"",
+    "weight": "230 lbs",
+    "debutYear": 2012,
+    "college": "Michigan State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6589.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:58.577Z"
 }

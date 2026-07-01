@@ -326,7 +326,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:13.765Z",
+  "ingestedAt": "2026-07-01T13:42:55.948Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:13.765Z"
+  "profileSyncedAt": "2026-06-25T15:48:13.765Z",
+  "details": {
+    "jersey": "30",
+    "height": "6' 2\"",
+    "weight": "185 lbs",
+    "debutYear": 2009,
+    "college": "Davidson",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3975.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:55.948Z"
 }

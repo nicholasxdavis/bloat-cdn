@@ -176,8 +176,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:55.069Z",
+  "ingestedAt": "2026-07-01T13:44:43.637Z",
   "statsSyncedAt": "2026-06-16T12:49:19.829Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:55.069Z"
+  "profileSyncedAt": "2026-06-25T15:50:55.069Z",
+  "details": {
+    "jersey": "8",
+    "height": "6' 0\"",
+    "weight": "187 lbs",
+    "debutYear": 2019,
+    "college": "Massachusetts",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4233563.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:43.637Z"
 }

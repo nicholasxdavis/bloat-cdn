@@ -264,7 +264,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:30.670Z",
+  "ingestedAt": "2026-07-01T13:41:38.043Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:30.670Z"
+  "profileSyncedAt": "2026-06-25T15:46:30.670Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 5\"",
+    "weight": "215 lbs",
+    "debutYear": 2017,
+    "college": "Villanova",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3062679.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:38.043Z"
 }

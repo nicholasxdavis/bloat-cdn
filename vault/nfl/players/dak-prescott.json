@@ -221,7 +221,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:15.775Z",
+  "ingestedAt": "2026-07-01T13:43:45.323Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:15.775Z"
+  "profileSyncedAt": "2026-06-25T15:49:15.775Z",
+  "details": {
+    "jersey": "4",
+    "height": "6' 2\"",
+    "weight": "238 lbs",
+    "debutYear": 2016,
+    "college": "Mississippi State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:45.323Z"
 }

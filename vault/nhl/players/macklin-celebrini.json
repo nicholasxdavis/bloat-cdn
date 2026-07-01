@@ -101,8 +101,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:14.589Z",
+  "ingestedAt": "2026-07-01T13:45:08.245Z",
   "statsSyncedAt": "2026-06-16T12:49:52.513Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:14.589Z"
+  "profileSyncedAt": "2026-06-25T15:51:14.589Z",
+  "details": {
+    "jersey": "71",
+    "height": "6' 0\"",
+    "weight": "190 lbs",
+    "college": "Boston University",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5206628.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:45:08.245Z"
 }

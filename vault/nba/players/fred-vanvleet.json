@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:35.417Z",
+  "ingestedAt": "2026-07-01T13:41:04.998Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:35.417Z"
+  "profileSyncedAt": "2026-06-25T15:45:35.417Z",
+  "details": {
+    "jersey": "5",
+    "height": "6' 0\"",
+    "weight": "197 lbs",
+    "debutYear": 2016,
+    "college": "Wichita State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/2991230.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:04.998Z"
 }

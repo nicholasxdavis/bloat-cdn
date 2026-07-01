@@ -309,5 +309,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:25:08.792Z"
+  "ingestedAt": "2026-07-01T13:44:00.802Z",
+  "details": {
+    "jersey": "7",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "debutYear": 1983,
+    "college": "Stanford",
+    "awards": []
+  },
+  "detailSyncedAt": "2026-07-01T13:44:00.802Z"
 }

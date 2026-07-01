@@ -311,5 +311,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:55:37.768Z"
+  "ingestedAt": "2026-07-01T13:39:10.953Z",
+  "details": {
+    "jersey": "27",
+    "height": "6' 1\"",
+    "weight": "235 lbs",
+    "debutYear": 2011,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/30836.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:10.953Z"
 }

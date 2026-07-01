@@ -251,7 +251,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:30.830Z",
+  "ingestedAt": "2026-07-01T13:44:28.232Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:30.830Z"
+  "profileSyncedAt": "2026-06-25T15:50:30.830Z",
+  "details": {
+    "jersey": "87",
+    "height": "6' 5\"",
+    "weight": "250 lbs",
+    "debutYear": 2013,
+    "college": "Cincinnati",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/15847.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:28.232Z"
 }

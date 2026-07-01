@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:48.974Z",
+  "ingestedAt": "2026-07-01T13:44:04.621Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:48.974Z"
+  "profileSyncedAt": "2026-06-25T15:49:48.974Z",
+  "details": {
+    "jersey": "18",
+    "height": "6' 1\"",
+    "weight": "195 lbs",
+    "debutYear": 2020,
+    "college": "LSU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4262921.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:04.621Z"
 }

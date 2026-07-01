@@ -41,5 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:57:40.619Z"
+  "ingestedAt": "2026-07-01T13:36:34.716Z",
+  "details": {
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "debutYear": 1988,
+    "college": "Arizona State",
+    "birthplace": "San Diego, California, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/308.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:36:34.716Z"
 }

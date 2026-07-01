@@ -176,7 +176,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:25.512Z",
+  "ingestedAt": "2026-07-01T13:42:11.619Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:25.512Z"
+  "profileSyncedAt": "2026-06-25T15:47:25.512Z",
+  "details": {
+    "jersey": "17",
+    "height": "6' 10\"",
+    "weight": "218 lbs",
+    "debutYear": 2019,
+    "college": "Missouri",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4278104.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:11.619Z"
 }

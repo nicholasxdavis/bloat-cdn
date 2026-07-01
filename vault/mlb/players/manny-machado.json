@@ -325,8 +325,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:33.439Z",
+  "ingestedAt": "2026-07-01T13:39:06.451Z",
   "statsSyncedAt": "2026-07-01T11:05:33.439Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:12.050Z"
+  "profileSyncedAt": "2026-06-25T15:43:12.050Z",
+  "details": {
+    "jersey": "13",
+    "height": "6' 2\"",
+    "weight": "218 lbs",
+    "debutYear": 2012,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/31097.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:06.451Z"
 }

@@ -146,7 +146,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:24.337Z",
+  "ingestedAt": "2026-07-01T13:43:03.277Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:24.337Z"
+  "profileSyncedAt": "2026-06-25T15:48:24.337Z",
+  "details": {
+    "jersey": "25",
+    "height": "6' 8\"",
+    "weight": "206 lbs",
+    "college": "Virginia",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4397688.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:03.277Z"
 }

@@ -146,7 +146,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:45.841Z",
+  "ingestedAt": "2026-07-01T13:44:02.911Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:45.841Z"
+  "profileSyncedAt": "2026-06-25T15:49:45.841Z",
+  "details": {
+    "jersey": "10",
+    "height": "6' 4\"",
+    "weight": "219 lbs",
+    "debutYear": 2020,
+    "college": "Utah State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:02.911Z"
 }

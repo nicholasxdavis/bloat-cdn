@@ -413,7 +413,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:12.514Z",
+  "ingestedAt": "2026-07-01T13:41:26.351Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:12.514Z"
+  "profileSyncedAt": "2026-06-25T15:46:12.514Z",
+  "details": {
+    "jersey": "1",
+    "height": "6' 5\"",
+    "weight": "220 lbs",
+    "debutYear": 2009,
+    "college": "Arizona State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:26.351Z"
 }

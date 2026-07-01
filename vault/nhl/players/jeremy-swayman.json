@@ -161,7 +161,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:07.143Z",
+  "ingestedAt": "2026-07-01T13:45:03.410Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:07.143Z"
+  "profileSyncedAt": "2026-06-25T15:51:07.143Z",
+  "details": {
+    "jersey": "1",
+    "height": "6' 3\"",
+    "weight": "195 lbs",
+    "college": "Maine",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4712036.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:45:03.410Z"
 }

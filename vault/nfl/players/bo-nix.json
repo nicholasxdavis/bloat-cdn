@@ -101,7 +101,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:56.197Z",
+  "ingestedAt": "2026-07-01T13:43:21.829Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:56.197Z"
+  "profileSyncedAt": "2026-06-25T15:48:56.197Z",
+  "details": {
+    "jersey": "10",
+    "height": "6' 2\"",
+    "weight": "217 lbs",
+    "college": "Oregon",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:21.829Z"
 }

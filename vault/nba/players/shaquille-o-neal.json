@@ -385,5 +385,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:46:57.697Z"
+  "ingestedAt": "2026-07-01T13:42:54.896Z",
+  "details": {
+    "jersey": "36",
+    "height": "7' 1\"",
+    "weight": "325 lbs",
+    "debutYear": 1992,
+    "college": "LSU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/614.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:54.896Z"
 }

@@ -41,6 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:53:58.529Z",
-  "statsSyncedAt": "2026-06-30T10:53:58.529Z"
+  "ingestedAt": "2026-07-01T13:38:24.689Z",
+  "statsSyncedAt": "2026-06-30T10:53:58.529Z",
+  "details": {
+    "height": "5' 10\"",
+    "weight": "175 lbs",
+    "college": "San Diego State",
+    "birthplace": "La Jolla, California, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/10140.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:24.689Z"
 }

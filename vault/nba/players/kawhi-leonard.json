@@ -281,7 +281,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:41.122Z",
+  "ingestedAt": "2026-07-01T13:41:45.024Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:41.122Z"
+  "profileSyncedAt": "2026-06-25T15:46:41.122Z",
+  "details": {
+    "jersey": "2",
+    "height": "6' 6\"",
+    "weight": "225 lbs",
+    "debutYear": 2011,
+    "college": "San Diego State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6450.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:45.024Z"
 }

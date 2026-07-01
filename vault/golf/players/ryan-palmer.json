@@ -55,5 +55,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:56:31.710Z"
+  "ingestedAt": "2026-07-01T13:36:36.727Z",
+  "details": {
+    "height": "5' 11\"",
+    "weight": "175 lbs",
+    "debutYear": 1998,
+    "college": "Texas A&M",
+    "birthplace": "Amarillo, Texas, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/962.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:36:36.727Z"
 }

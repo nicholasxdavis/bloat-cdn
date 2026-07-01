@@ -41,5 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:57:46.828Z"
+  "ingestedAt": "2026-07-01T13:35:50.265Z",
+  "details": {
+    "height": "6' 1\"",
+    "weight": "175 lbs",
+    "debutYear": 2010,
+    "college": "Texas",
+    "birthplace": "Dallas, Texas, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/5467.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:35:50.265Z"
 }

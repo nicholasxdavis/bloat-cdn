@@ -131,7 +131,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:12.966Z",
+  "ingestedAt": "2026-07-01T13:45:07.272Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:12.966Z"
+  "profileSyncedAt": "2026-06-25T15:51:12.966Z",
+  "details": {
+    "jersey": "43",
+    "height": "6' 2\"",
+    "weight": "198 lbs",
+    "college": "Michigan",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4874719.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:45:07.272Z"
 }

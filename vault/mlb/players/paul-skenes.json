@@ -116,8 +116,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-28T10:24:50.139Z",
+  "ingestedAt": "2026-07-01T13:39:15.046Z",
   "statsSyncedAt": "2026-06-28T10:24:50.139Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:24.101Z"
+  "profileSyncedAt": "2026-06-25T15:43:24.101Z",
+  "details": {
+    "jersey": "30",
+    "height": "6' 6\"",
+    "weight": "260 lbs",
+    "debutYear": 2024,
+    "college": "LSU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4719507.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:15.046Z"
 }

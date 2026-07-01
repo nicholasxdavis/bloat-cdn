@@ -324,5 +324,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:25:05.618Z"
+  "ingestedAt": "2026-07-01T13:43:46.400Z",
+  "details": {
+    "jersey": "13",
+    "height": "6' 4\"",
+    "weight": "228 lbs",
+    "debutYear": 1983,
+    "college": "Pittsburgh",
+    "awards": []
+  },
+  "detailSyncedAt": "2026-07-01T13:43:46.400Z"
 }

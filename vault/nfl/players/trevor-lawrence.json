@@ -146,7 +146,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:32.215Z",
+  "ingestedAt": "2026-07-01T13:44:29.033Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:32.215Z"
+  "profileSyncedAt": "2026-06-25T15:50:32.215Z",
+  "details": {
+    "jersey": "16",
+    "height": "6' 6\"",
+    "weight": "220 lbs",
+    "college": "Clemson",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:29.033Z"
 }

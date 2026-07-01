@@ -175,7 +175,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:27.389Z",
+  "ingestedAt": "2026-07-01T13:43:05.419Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:27.389Z"
+  "profileSyncedAt": "2026-06-25T15:48:27.389Z",
+  "details": {
+    "jersey": "0",
+    "height": "6' 5\"",
+    "weight": "185 lbs",
+    "debutYear": 2020,
+    "college": "Iowa State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4396993.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:05.419Z"
 }

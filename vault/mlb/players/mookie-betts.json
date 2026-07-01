@@ -266,8 +266,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:35.843Z",
+  "ingestedAt": "2026-07-01T13:39:12.082Z",
   "statsSyncedAt": "2026-07-01T11:05:35.843Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:19.706Z"
+  "profileSyncedAt": "2026-06-25T15:43:19.706Z",
+  "details": {
+    "jersey": "50",
+    "height": "5' 9\"",
+    "weight": "180 lbs",
+    "debutYear": 2014,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/33039.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:12.082Z"
 }

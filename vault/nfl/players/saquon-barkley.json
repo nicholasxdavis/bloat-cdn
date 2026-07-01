@@ -191,7 +191,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:18.731Z",
+  "ingestedAt": "2026-07-01T13:44:20.943Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:18.731Z"
+  "profileSyncedAt": "2026-06-25T15:50:18.731Z",
+  "details": {
+    "jersey": "26",
+    "height": "6' 0\"",
+    "weight": "233 lbs",
+    "debutYear": 2018,
+    "college": "Penn State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:20.943Z"
 }

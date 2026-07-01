@@ -326,7 +326,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:58.491Z",
+  "ingestedAt": "2026-07-01T13:44:09.154Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:58.491Z"
+  "profileSyncedAt": "2026-06-25T15:49:58.491Z",
+  "details": {
+    "jersey": "9",
+    "height": "6' 3\"",
+    "weight": "214 lbs",
+    "debutYear": 2009,
+    "college": "Georgia",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:09.154Z"
 }

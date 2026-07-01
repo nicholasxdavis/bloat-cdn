@@ -146,7 +146,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:36.445Z",
+  "ingestedAt": "2026-07-01T13:40:16.171Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:36.445Z"
+  "profileSyncedAt": "2026-06-25T15:44:36.445Z",
+  "details": {
+    "jersey": "2",
+    "height": "6' 6\"",
+    "weight": "220 lbs",
+    "college": "Oklahoma State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:16.171Z"
 }

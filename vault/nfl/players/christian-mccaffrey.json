@@ -235,7 +235,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:11.199Z",
+  "ingestedAt": "2026-07-01T13:43:42.440Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:11.199Z"
+  "profileSyncedAt": "2026-06-25T15:49:11.199Z",
+  "details": {
+    "jersey": "23",
+    "height": "5' 11\"",
+    "weight": "210 lbs",
+    "debutYear": 2017,
+    "college": "Stanford",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3117251.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:42.440Z"
 }

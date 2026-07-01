@@ -160,7 +160,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:00.186Z",
+  "ingestedAt": "2026-07-01T13:42:46.891Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:00.186Z"
+  "profileSyncedAt": "2026-06-25T15:48:00.186Z",
+  "details": {
+    "jersey": "13",
+    "height": "6' 3\"",
+    "weight": "180 lbs",
+    "college": "Toledo",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4591725.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:46.891Z"
 }

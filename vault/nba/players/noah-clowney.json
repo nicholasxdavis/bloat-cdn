@@ -116,7 +116,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:40.670Z",
+  "ingestedAt": "2026-07-01T13:42:21.900Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:40.670Z"
+  "profileSyncedAt": "2026-06-25T15:47:40.670Z",
+  "details": {
+    "jersey": "21",
+    "height": "6' 10\"",
+    "weight": "210 lbs",
+    "college": "Alabama",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4712896.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:21.900Z"
 }

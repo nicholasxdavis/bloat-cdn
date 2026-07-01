@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:50.291Z",
+  "ingestedAt": "2026-07-01T13:43:18.363Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:50.291Z"
+  "profileSyncedAt": "2026-06-25T15:48:50.291Z",
+  "details": {
+    "jersey": "99",
+    "height": "6' 4\"",
+    "weight": "258 lbs",
+    "debutYear": 2011,
+    "college": "Missouri",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/13988.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:18.363Z"
 }

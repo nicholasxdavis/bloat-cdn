@@ -25,7 +25,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:51:54.091Z",
+  "ingestedAt": "2026-07-01T13:45:28.266Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:54.091Z"
+  "profileSyncedAt": "2026-06-25T15:51:54.091Z",
+  "details": {
+    "height": "6' 4\"",
+    "weight": "194 lbs",
+    "debutYear": 2022,
+    "awards": []
+  },
+  "detailSyncedAt": "2026-07-01T13:45:28.266Z"
 }

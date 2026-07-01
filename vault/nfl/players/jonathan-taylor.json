@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:42.859Z",
+  "ingestedAt": "2026-07-01T13:44:01.703Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:42.859Z"
+  "profileSyncedAt": "2026-06-25T15:49:42.859Z",
+  "details": {
+    "jersey": "28",
+    "height": "5' 10\"",
+    "weight": "226 lbs",
+    "debutYear": 2020,
+    "college": "Wisconsin",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4242335.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:01.703Z"
 }

@@ -131,7 +131,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:31.660Z",
+  "ingestedAt": "2026-07-01T13:42:15.479Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:31.660Z"
+  "profileSyncedAt": "2026-06-25T15:47:31.660Z",
+  "details": {
+    "jersey": "14",
+    "height": "6' 10\"",
+    "weight": "210 lbs",
+    "college": "Michigan",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433249.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:15.479Z"
 }

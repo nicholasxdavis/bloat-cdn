@@ -41,6 +41,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:42:53.435Z",
-  "statsSyncedAt": "2026-06-26T10:42:53.435Z"
+  "ingestedAt": "2026-07-01T13:34:52.865Z",
+  "statsSyncedAt": "2026-06-26T10:42:53.435Z",
+  "details": {
+    "height": "6' 0\"",
+    "weight": "205 lbs",
+    "debutYear": 2012,
+    "college": "Florida State",
+    "birthplace": "West Palm Beach, Florida, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/6798.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:34:52.865Z"
 }

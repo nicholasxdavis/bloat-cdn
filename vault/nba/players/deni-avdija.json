@@ -161,7 +161,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:02.202Z",
+  "ingestedAt": "2026-07-01T13:40:45.786Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:02.202Z"
+  "profileSyncedAt": "2026-06-25T15:45:02.202Z",
+  "details": {
+    "jersey": "8",
+    "height": "6' 8\"",
+    "weight": "228 lbs",
+    "debutYear": 2020,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:45.786Z"
 }

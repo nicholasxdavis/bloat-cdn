@@ -160,7 +160,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:33.946Z",
+  "ingestedAt": "2026-07-01T13:41:40.161Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:33.946Z"
+  "profileSyncedAt": "2026-06-25T15:46:33.946Z",
+  "details": {
+    "jersey": "30",
+    "height": "6' 7\"",
+    "weight": "217 lbs",
+    "college": "St. John's",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4592479.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:40.161Z"
 }

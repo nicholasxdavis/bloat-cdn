@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:51.982Z",
+  "ingestedAt": "2026-07-01T13:41:16.090Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:51.982Z"
+  "profileSyncedAt": "2026-06-25T15:45:51.982Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 9\"",
+    "weight": "185 lbs",
+    "debutYear": 2020,
+    "college": "Washington",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4431671.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:16.090Z"
 }

@@ -371,5 +371,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:25:29.772Z"
+  "ingestedAt": "2026-07-01T13:38:45.419Z",
+  "details": {
+    "jersey": "2",
+    "height": "6' 3\"",
+    "weight": "195 lbs",
+    "debutYear": 1995,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/3246.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:45.419Z"
 }

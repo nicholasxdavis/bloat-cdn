@@ -341,7 +341,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:35.025Z",
+  "ingestedAt": "2026-07-01T13:40:03.067Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:35.025Z"
+  "profileSyncedAt": "2026-06-25T15:44:35.025Z",
+  "details": {
+    "jersey": "11",
+    "height": "7' 1\"",
+    "weight": "282 lbs",
+    "debutYear": 2008,
+    "college": "Stanford",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3448.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:03.067Z"
 }

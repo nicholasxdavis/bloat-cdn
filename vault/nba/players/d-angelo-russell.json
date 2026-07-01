@@ -323,7 +323,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:48.520Z",
+  "ingestedAt": "2026-07-01T13:40:36.458Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:48.520Z"
+  "profileSyncedAt": "2026-06-25T15:44:48.520Z",
+  "details": {
+    "jersey": "5",
+    "height": "6' 3\"",
+    "weight": "193 lbs",
+    "debutYear": 2015,
+    "college": "Ohio State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3136776.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:36.458Z"
 }

@@ -146,7 +146,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:51.666Z",
+  "ingestedAt": "2026-07-01T13:43:19.263Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:51.666Z"
+  "profileSyncedAt": "2026-06-25T15:48:51.666Z",
+  "details": {
+    "jersey": "14",
+    "height": "6' 0\"",
+    "weight": "202 lbs",
+    "college": "USC",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4374302.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:19.263Z"
 }

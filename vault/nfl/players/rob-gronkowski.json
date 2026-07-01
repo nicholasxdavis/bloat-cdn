@@ -236,5 +236,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:25:14.755Z"
+  "ingestedAt": "2026-07-01T13:44:20.139Z",
+  "details": {
+    "jersey": "87",
+    "height": "6' 6\"",
+    "weight": "265 lbs",
+    "debutYear": 2010,
+    "college": "Arizona",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/13229.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:20.139Z"
 }

@@ -101,7 +101,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:23.534Z",
+  "ingestedAt": "2026-07-01T13:43:49.990Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:23.534Z"
+  "profileSyncedAt": "2026-06-25T15:49:23.534Z",
+  "details": {
+    "jersey": "10",
+    "height": "6' 4\"",
+    "weight": "225 lbs",
+    "college": "North Carolina",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:49.990Z"
 }

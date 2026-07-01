@@ -101,7 +101,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:54.542Z",
+  "ingestedAt": "2026-07-01T13:42:43.121Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:54.542Z"
+  "profileSyncedAt": "2026-06-25T15:47:54.542Z",
+  "details": {
+    "jersey": "15",
+    "height": "6' 2\"",
+    "weight": "185 lbs",
+    "college": "Kentucky",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4711272.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:43.121Z"
 }

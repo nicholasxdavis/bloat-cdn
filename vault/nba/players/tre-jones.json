@@ -190,7 +190,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:22.983Z",
+  "ingestedAt": "2026-07-01T13:43:02.273Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:22.983Z"
+  "profileSyncedAt": "2026-06-25T15:48:22.983Z",
+  "details": {
+    "jersey": "30",
+    "height": "6' 1\"",
+    "weight": "185 lbs",
+    "debutYear": 2020,
+    "college": "Duke",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4395626.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:02.273Z"
 }

@@ -415,5 +415,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:48:13.034Z"
+  "ingestedAt": "2026-07-01T13:41:48.713Z",
+  "details": {
+    "jersey": "21",
+    "height": "6' 11\"",
+    "weight": "240 lbs",
+    "debutYear": 1995,
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/261.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:48.713Z"
 }

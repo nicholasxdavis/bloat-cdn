@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:08.165Z",
+  "ingestedAt": "2026-07-01T13:43:40.624Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:08.165Z"
+  "profileSyncedAt": "2026-06-25T15:49:08.165Z",
+  "details": {
+    "jersey": "88",
+    "height": "6' 2\"",
+    "weight": "200 lbs",
+    "debutYear": 2020,
+    "college": "Oklahoma",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4241389.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:40.624Z"
 }

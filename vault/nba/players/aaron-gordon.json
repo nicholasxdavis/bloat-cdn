@@ -280,7 +280,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:06.483Z",
+  "ingestedAt": "2026-07-01T13:39:43.468Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:06.483Z"
+  "profileSyncedAt": "2026-06-25T15:44:06.483Z",
+  "details": {
+    "jersey": "32",
+    "height": "6' 8\"",
+    "weight": "235 lbs",
+    "debutYear": 2014,
+    "college": "Arizona",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3064290.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:43.468Z"
 }

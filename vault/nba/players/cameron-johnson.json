@@ -205,7 +205,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:37.994Z",
+  "ingestedAt": "2026-07-01T13:40:17.194Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:37.994Z"
+  "profileSyncedAt": "2026-06-25T15:44:37.994Z",
+  "details": {
+    "jersey": "23",
+    "height": "6' 8\"",
+    "weight": "210 lbs",
+    "debutYear": 2019,
+    "college": "North Carolina",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3138196.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:17.194Z"
 }

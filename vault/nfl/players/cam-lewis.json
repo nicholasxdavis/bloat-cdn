@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:06.619Z",
+  "ingestedAt": "2026-07-01T13:43:39.823Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:06.619Z"
+  "profileSyncedAt": "2026-06-25T15:49:06.619Z",
+  "details": {
+    "jersey": "21",
+    "height": "5' 9\"",
+    "weight": "183 lbs",
+    "debutYear": 2019,
+    "college": "Buffalo",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3916577.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:39.823Z"
 }

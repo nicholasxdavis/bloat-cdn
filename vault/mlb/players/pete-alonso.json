@@ -191,8 +191,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:39.053Z",
+  "ingestedAt": "2026-07-01T13:39:17.198Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:27.148Z",
-  "statsSyncedAt": "2026-07-01T11:05:39.053Z"
+  "statsSyncedAt": "2026-07-01T11:05:39.053Z",
+  "details": {
+    "jersey": "25",
+    "height": "6' 3\"",
+    "weight": "245 lbs",
+    "debutYear": 2019,
+    "college": "Florida",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/37498.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:17.198Z"
 }

@@ -101,7 +101,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:17.179Z",
+  "ingestedAt": "2026-07-01T13:40:55.619Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:17.179Z"
+  "profileSyncedAt": "2026-06-25T15:45:17.179Z",
+  "details": {
+    "jersey": "23",
+    "height": "7' 2\"",
+    "weight": "280 lbs",
+    "college": "UConn",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5105565.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:55.619Z"
 }

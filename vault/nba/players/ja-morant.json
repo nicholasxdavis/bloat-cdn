@@ -176,7 +176,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:49.038Z",
+  "ingestedAt": "2026-07-01T13:41:14.267Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:49.038Z"
+  "profileSyncedAt": "2026-06-25T15:45:49.038Z",
+  "details": {
+    "jersey": "12",
+    "height": "6' 2\"",
+    "weight": "174 lbs",
+    "debutYear": 2019,
+    "college": "Murray State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4279888.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:14.267Z"
 }

@@ -86,7 +86,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:31.971Z",
+  "ingestedAt": "2026-07-01T13:43:08.534Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:31.971Z"
+  "profileSyncedAt": "2026-06-25T15:48:31.971Z",
+  "details": {
+    "jersey": "77",
+    "height": "6' 4\"",
+    "weight": "180 lbs",
+    "college": "Baylor",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5124612.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:08.534Z"
 }

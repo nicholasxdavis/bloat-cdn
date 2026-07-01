@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:33.792Z",
+  "ingestedAt": "2026-07-01T13:44:30.161Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:33.792Z"
+  "profileSyncedAt": "2026-06-25T15:50:33.792Z",
+  "details": {
+    "jersey": "91",
+    "height": "6' 4\"",
+    "weight": "270 lbs",
+    "debutYear": 2017,
+    "college": "Florida Atlantic",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3052743.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:30.161Z"
 }

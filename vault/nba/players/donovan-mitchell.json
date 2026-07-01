@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:21.199Z",
+  "ingestedAt": "2026-07-01T13:40:56.421Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:21.199Z"
+  "profileSyncedAt": "2026-06-25T15:45:21.199Z",
+  "details": {
+    "jersey": "45",
+    "height": "6' 2\"",
+    "weight": "215 lbs",
+    "debutYear": 2017,
+    "college": "Louisville",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:56.421Z"
 }

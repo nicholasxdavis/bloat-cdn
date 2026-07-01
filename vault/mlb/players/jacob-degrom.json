@@ -266,8 +266,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:25.821Z",
+  "ingestedAt": "2026-07-01T13:38:56.347Z",
   "statsSyncedAt": "2026-07-01T11:05:25.821Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:42:57.083Z"
+  "profileSyncedAt": "2026-06-25T15:42:57.083Z",
+  "details": {
+    "jersey": "48",
+    "height": "6' 4\"",
+    "weight": "180 lbs",
+    "debutYear": 2014,
+    "college": "Stetson",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/32796.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:56.347Z"
 }

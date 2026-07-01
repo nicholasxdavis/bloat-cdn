@@ -116,7 +116,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:35.352Z",
+  "ingestedAt": "2026-07-01T13:43:56.901Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:35.352Z"
+  "profileSyncedAt": "2026-06-25T15:49:35.352Z",
+  "details": {
+    "jersey": "11",
+    "height": "6' 0\"",
+    "weight": "197 lbs",
+    "college": "Ohio State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:56.901Z"
 }

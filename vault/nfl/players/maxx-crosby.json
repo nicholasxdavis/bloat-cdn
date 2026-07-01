@@ -176,7 +176,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:00.538Z",
+  "ingestedAt": "2026-07-01T13:44:10.046Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:00.538Z"
+  "profileSyncedAt": "2026-06-25T15:50:00.538Z",
+  "details": {
+    "jersey": "98",
+    "height": "6' 5\"",
+    "weight": "255 lbs",
+    "debutYear": 2019,
+    "college": "Eastern Michigan",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3916655.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:10.046Z"
 }

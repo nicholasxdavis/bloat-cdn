@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:03.762Z",
+  "ingestedAt": "2026-07-01T13:44:11.709Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:03.762Z"
+  "profileSyncedAt": "2026-06-25T15:50:03.762Z",
+  "details": {
+    "jersey": "95",
+    "height": "6' 4\"",
+    "weight": "272 lbs",
+    "debutYear": 2017,
+    "college": "Texas A&M",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3122132.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:11.709Z"
 }

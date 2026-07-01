@@ -354,7 +354,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:46:23.129Z",
+  "ingestedAt": "2026-07-01T13:41:33.223Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:23.129Z"
+  "profileSyncedAt": "2026-06-25T15:46:23.129Z",
+  "details": {
+    "jersey": "10",
+    "height": "6' 6\"",
+    "weight": "230 lbs",
+    "debutYear": 2011,
+    "college": "Marquette",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6430.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:33.223Z"
 }

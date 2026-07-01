@@ -131,7 +131,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:56.661Z",
+  "ingestedAt": "2026-07-01T13:41:19.279Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:56.661Z"
+  "profileSyncedAt": "2026-06-25T15:45:56.661Z",
+  "details": {
+    "jersey": "0",
+    "height": "6' 10\"",
+    "weight": "250 lbs",
+    "college": "Memphis",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4433621.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:19.279Z"
 }

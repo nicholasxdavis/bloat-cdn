@@ -41,5 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T01:01:07.841Z"
+  "ingestedAt": "2026-07-01T13:37:00.008Z",
+  "details": {
+    "height": "6' 1\"",
+    "weight": "185 lbs",
+    "debutYear": 1992,
+    "college": "Stanford",
+    "birthplace": "Cypress, California, USA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/462.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:37:00.008Z"
 }

@@ -176,8 +176,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:43.864Z",
+  "ingestedAt": "2026-07-01T13:39:24.489Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:39.206Z",
-  "statsSyncedAt": "2026-07-01T11:05:43.864Z"
+  "statsSyncedAt": "2026-07-01T11:05:43.864Z",
+  "details": {
+    "jersey": "29",
+    "height": "6' 3\"",
+    "weight": "240 lbs",
+    "debutYear": 2020,
+    "college": "Seattle U",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42409.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:24.489Z"
 }

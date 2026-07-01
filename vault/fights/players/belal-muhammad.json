@@ -375,10 +375,18 @@
   ],
   "recentGames": [],
   "sources": [
-    "espn_mma_core"
+    "espn_mma_core",
+    "espn"
   ],
-  "ingestedAt": "2026-06-25T15:38:26.402Z",
+  "ingestedAt": "2026-07-01T13:34:00.378Z",
   "statsSyncedAt": "2026-06-16T12:45:23.825Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:38:26.402Z"
+  "profileSyncedAt": "2026-06-25T15:38:26.402Z",
+  "details": {
+    "height": "5' 11\"",
+    "weight": "170 lbs",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mma/players/full/3172112.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:34:00.378Z"
 }

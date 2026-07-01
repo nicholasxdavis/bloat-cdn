@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:26.137Z",
+  "ingestedAt": "2026-07-01T13:44:24.906Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:26.137Z"
+  "profileSyncedAt": "2026-06-25T15:50:26.137Z",
+  "details": {
+    "jersey": "5",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "debutYear": 2020,
+    "college": "Clemson",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4239993.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:24.906Z"
 }

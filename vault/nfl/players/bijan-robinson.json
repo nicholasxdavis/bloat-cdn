@@ -116,7 +116,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:54.611Z",
+  "ingestedAt": "2026-07-01T13:43:21.030Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:54.611Z"
+  "profileSyncedAt": "2026-06-25T15:48:54.611Z",
+  "details": {
+    "jersey": "7",
+    "height": "5' 11\"",
+    "weight": "215 lbs",
+    "college": "Texas",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4430807.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:21.030Z"
 }

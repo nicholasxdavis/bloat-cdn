@@ -161,7 +161,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:07.887Z",
+  "ingestedAt": "2026-07-01T13:39:44.452Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:07.887Z"
+  "profileSyncedAt": "2026-06-25T15:44:07.887Z",
+  "details": {
+    "jersey": "23",
+    "height": "6' 5\"",
+    "weight": "215 lbs",
+    "debutYear": 2020,
+    "college": "Vanderbilt",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4396909.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:44.452Z"
 }

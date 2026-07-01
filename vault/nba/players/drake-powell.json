@@ -86,7 +86,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:23.354Z",
+  "ingestedAt": "2026-07-01T13:40:57.394Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:23.354Z"
+  "profileSyncedAt": "2026-06-25T15:45:23.354Z",
+  "details": {
+    "jersey": "4",
+    "height": "6' 5\"",
+    "weight": "195 lbs",
+    "college": "North Carolina",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5037873.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:57.394Z"
 }

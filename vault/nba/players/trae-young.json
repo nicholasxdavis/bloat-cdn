@@ -220,7 +220,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:21.362Z",
+  "ingestedAt": "2026-07-01T13:43:01.276Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:21.362Z"
+  "profileSyncedAt": "2026-06-25T15:48:21.362Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 2\"",
+    "weight": "164 lbs",
+    "debutYear": 2018,
+    "college": "Oklahoma",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4277905.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:01.276Z"
 }

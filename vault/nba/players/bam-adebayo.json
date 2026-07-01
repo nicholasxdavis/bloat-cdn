@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:27.464Z",
+  "ingestedAt": "2026-07-01T13:39:57.865Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:27.464Z"
+  "profileSyncedAt": "2026-06-25T15:44:27.464Z",
+  "details": {
+    "jersey": "13",
+    "height": "6' 9\"",
+    "weight": "260 lbs",
+    "debutYear": 2017,
+    "college": "Kentucky",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4066261.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:57.865Z"
 }

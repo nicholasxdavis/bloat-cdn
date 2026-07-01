@@ -309,7 +309,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:44:18.487Z",
+  "ingestedAt": "2026-07-01T13:39:51.617Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:18.487Z"
+  "profileSyncedAt": "2026-06-25T15:44:18.487Z",
+  "details": {
+    "jersey": "22",
+    "height": "6' 7\"",
+    "weight": "210 lbs",
+    "debutYear": 2014,
+    "college": "Kansas",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3059319.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:51.617Z"
 }

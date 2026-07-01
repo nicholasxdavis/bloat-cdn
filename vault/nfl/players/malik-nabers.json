@@ -90,7 +90,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:53.532Z",
+  "ingestedAt": "2026-07-01T13:44:07.292Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:53.532Z"
+  "profileSyncedAt": "2026-06-25T15:49:53.532Z",
+  "details": {
+    "jersey": "1",
+    "height": "6' 0\"",
+    "weight": "200 lbs",
+    "college": "LSU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4595348.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:07.292Z"
 }

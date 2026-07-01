@@ -86,7 +86,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:21.611Z",
+  "ingestedAt": "2026-07-01T13:44:22.779Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:21.611Z"
+  "profileSyncedAt": "2026-06-25T15:50:21.611Z",
+  "details": {
+    "jersey": "2",
+    "height": "6' 2\"",
+    "weight": "212 lbs",
+    "college": "Colorado",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432762.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:22.779Z"
 }

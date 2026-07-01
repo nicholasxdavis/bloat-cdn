@@ -221,8 +221,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:53.533Z",
+  "ingestedAt": "2026-07-01T13:44:42.518Z",
   "statsSyncedAt": "2026-06-16T12:49:18.780Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:53.533Z"
+  "profileSyncedAt": "2026-06-25T15:50:53.533Z",
+  "details": {
+    "jersey": "6",
+    "height": "6' 1\"",
+    "weight": "208 lbs",
+    "debutYear": 2017,
+    "college": "North Dakota",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/3899979.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:42.518Z"
 }

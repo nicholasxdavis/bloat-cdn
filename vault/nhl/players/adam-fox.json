@@ -176,7 +176,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:39.940Z",
+  "ingestedAt": "2026-07-01T13:44:34.177Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:39.940Z"
+  "profileSyncedAt": "2026-06-25T15:50:39.940Z",
+  "details": {
+    "jersey": "23",
+    "height": "5' 11\"",
+    "weight": "180 lbs",
+    "debutYear": 2019,
+    "college": "Harvard",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4197146.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:34.177Z"
 }

@@ -296,8 +296,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T11:05:13.793Z",
+  "ingestedAt": "2026-07-01T13:38:37.764Z",
   "statsSyncedAt": "2026-07-01T11:05:13.793Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:42:28.481Z"
+  "profileSyncedAt": "2026-06-25T15:42:28.481Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 1\"",
+    "weight": "210 lbs",
+    "debutYear": 2012,
+    "college": "Southern Nevada",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/30951.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:37.764Z"
 }

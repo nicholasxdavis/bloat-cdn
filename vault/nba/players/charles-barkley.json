@@ -309,5 +309,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-17T03:23:59.670Z"
+  "ingestedAt": "2026-07-01T13:40:31.210Z",
+  "details": {
+    "jersey": "4",
+    "height": "6' 6\"",
+    "weight": "252 lbs",
+    "debutYear": 1984,
+    "college": "Auburn",
+    "awards": []
+  },
+  "detailSyncedAt": "2026-07-01T13:40:31.210Z"
 }

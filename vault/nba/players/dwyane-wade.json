@@ -340,5 +340,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T17:48:47.696Z"
+  "ingestedAt": "2026-07-01T13:41:00.699Z",
+  "details": {
+    "jersey": "3",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "debutYear": 2003,
+    "college": "Marquette",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/1987.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:00.699Z"
 }

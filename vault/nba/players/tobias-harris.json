@@ -412,7 +412,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:48:18.298Z",
+  "ingestedAt": "2026-07-01T13:42:59.250Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:18.298Z"
+  "profileSyncedAt": "2026-06-25T15:48:18.298Z",
+  "details": {
+    "jersey": "12",
+    "height": "6' 8\"",
+    "weight": "226 lbs",
+    "debutYear": 2011,
+    "college": "Tennessee",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6440.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:59.250Z"
 }

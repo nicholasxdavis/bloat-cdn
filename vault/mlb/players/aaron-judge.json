@@ -236,6 +236,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-16T12:48:17.377Z",
-  "statsSyncedAt": "2026-06-16T12:48:17.377Z"
+  "ingestedAt": "2026-07-01T13:38:30.126Z",
+  "statsSyncedAt": "2026-06-16T12:48:17.377Z",
+  "details": {
+    "jersey": "99",
+    "height": "6' 7\"",
+    "weight": "282 lbs",
+    "debutYear": 2016,
+    "college": "Fresno State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/33192.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:30.126Z"
 }

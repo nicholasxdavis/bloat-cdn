@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:50:08.396Z",
+  "ingestedAt": "2026-07-01T13:44:14.171Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:50:08.396Z"
+  "profileSyncedAt": "2026-06-25T15:50:08.396Z",
+  "details": {
+    "jersey": "15",
+    "height": "6' 2\"",
+    "weight": "225 lbs",
+    "debutYear": 2017,
+    "college": "Texas Tech",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:44:14.171Z"
 }

@@ -206,7 +206,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:49:14.198Z",
+  "ingestedAt": "2026-07-01T13:43:44.521Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:14.198Z"
+  "profileSyncedAt": "2026-06-25T15:49:14.198Z",
+  "details": {
+    "jersey": "10",
+    "height": "6' 1\"",
+    "weight": "205 lbs",
+    "debutYear": 2017,
+    "college": "Eastern Washington",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/2977187.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:43:44.521Z"
 }

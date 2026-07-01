@@ -41,6 +41,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-16T12:46:49.625Z",
-  "statsSyncedAt": "2026-06-16T12:46:49.625Z"
+  "ingestedAt": "2026-07-01T13:36:38.721Z",
+  "statsSyncedAt": "2026-06-16T12:46:49.625Z",
+  "details": {
+    "height": "5' 10\"",
+    "weight": "180 lbs",
+    "debutYear": 1996,
+    "birthplace": "Castellon, Spain",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/158.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:36:38.721Z"
 }

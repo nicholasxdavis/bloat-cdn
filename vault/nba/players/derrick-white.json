@@ -235,7 +235,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:06.640Z",
+  "ingestedAt": "2026-07-01T13:40:48.869Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:06.640Z"
+  "profileSyncedAt": "2026-06-25T15:45:06.640Z",
+  "details": {
+    "jersey": "9",
+    "height": "6' 4\"",
+    "weight": "190 lbs",
+    "debutYear": 2017,
+    "college": "Colorado",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3078576.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:48.869Z"
 }

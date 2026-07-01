@@ -146,8 +146,18 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:54:25.318Z",
+  "ingestedAt": "2026-07-01T13:38:30.930Z",
   "statsSyncedAt": "2026-06-30T10:54:25.318Z",
   "active": true,
-  "profileSyncedAt": "2026-06-29T12:26:29.709Z"
+  "profileSyncedAt": "2026-06-29T12:26:29.709Z",
+  "details": {
+    "jersey": "35",
+    "height": "6' 1\"",
+    "weight": "230 lbs",
+    "debutYear": 2022,
+    "college": "Oregon State",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42178.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:30.930Z"
 }

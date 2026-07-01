@@ -294,7 +294,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:42.241Z",
+  "ingestedAt": "2026-07-01T13:42:22.980Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:42.241Z"
+  "profileSyncedAt": "2026-06-25T15:47:42.241Z",
+  "details": {
+    "jersey": "24",
+    "height": "6' 4\"",
+    "weight": "215 lbs",
+    "debutYear": 2015,
+    "college": "UCLA",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/2595516.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:22.980Z"
 }

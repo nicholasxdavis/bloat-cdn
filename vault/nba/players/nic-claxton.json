@@ -176,7 +176,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:36.261Z",
+  "ingestedAt": "2026-07-01T13:42:18.755Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:36.261Z"
+  "profileSyncedAt": "2026-06-25T15:47:36.261Z",
+  "details": {
+    "jersey": "33",
+    "height": "6' 11\"",
+    "weight": "215 lbs",
+    "debutYear": 2019,
+    "college": "Georgia",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4278067.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:18.755Z"
 }

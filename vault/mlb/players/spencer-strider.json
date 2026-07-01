@@ -161,5 +161,15 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-15T16:41:31.781Z"
+  "ingestedAt": "2026-07-01T13:39:23.689Z",
+  "details": {
+    "jersey": "99",
+    "height": "6' 0\"",
+    "weight": "195 lbs",
+    "debutYear": 2021,
+    "college": "Clemson",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4307825.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:39:23.689Z"
 }

@@ -234,7 +234,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:47:37.816Z",
+  "ingestedAt": "2026-07-01T13:42:19.797Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:37.816Z"
+  "profileSyncedAt": "2026-06-25T15:47:37.816Z",
+  "details": {
+    "jersey": "7",
+    "height": "6' 5\"",
+    "weight": "205 lbs",
+    "debutYear": 2019,
+    "college": "Virginia Tech",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4278039.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:42:19.797Z"
 }

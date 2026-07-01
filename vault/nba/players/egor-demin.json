@@ -86,7 +86,16 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:30.806Z",
+  "ingestedAt": "2026-07-01T13:41:02.674Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:30.806Z"
+  "profileSyncedAt": "2026-06-25T15:45:30.806Z",
+  "details": {
+    "jersey": "8",
+    "height": "6' 8\"",
+    "weight": "200 lbs",
+    "college": "BYU",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/5175643.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:41:02.674Z"
 }

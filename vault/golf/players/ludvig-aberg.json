@@ -41,6 +41,14 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:50:44.957Z",
-  "statsSyncedAt": "2026-06-30T10:50:44.957Z"
+  "ingestedAt": "2026-07-01T13:36:12.485Z",
+  "statsSyncedAt": "2026-06-30T10:50:44.957Z",
+  "details": {
+    "height": "6' 3\"",
+    "college": "Texas Tech",
+    "birthplace": "Eslov, Sweden",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/4375972.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:36:12.485Z"
 }

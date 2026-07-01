@@ -131,7 +131,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:42:49.486Z",
+  "ingestedAt": "2026-07-01T13:38:51.374Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:42:49.486Z"
+  "profileSyncedAt": "2026-06-25T15:42:49.486Z",
+  "details": {
+    "jersey": "32",
+    "height": "6' 6\"",
+    "weight": "250 lbs",
+    "debutYear": 2023,
+    "college": "East Carolina",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/4345076.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:38:51.374Z"
 }

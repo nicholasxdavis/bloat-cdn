@@ -250,7 +250,17 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-25T15:45:05.125Z",
+  "ingestedAt": "2026-07-01T13:40:47.715Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:45:05.125Z"
+  "profileSyncedAt": "2026-06-25T15:45:05.125Z",
+  "details": {
+    "jersey": "5",
+    "height": "6' 6\"",
+    "weight": "210 lbs",
+    "debutYear": 2016,
+    "college": "UNLV",
+    "awards": [],
+    "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3936099.png"
+  },
+  "detailSyncedAt": "2026-07-01T13:40:47.715Z"
 }
