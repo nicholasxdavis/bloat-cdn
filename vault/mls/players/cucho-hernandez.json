@@ -11,34 +11,6 @@
   "legend": false,
   "seasonHistory": [
     {
-      "season": "2025-26 Europa League",
-      "gp": "-",
-      "min": "-",
-      "pts": "3",
-      "reb": "0",
-      "ast": "-",
-      "stl": "-",
-      "blk": "1",
-      "fgPct": "-",
-      "fg3Pct": "-",
-      "ftPct": "-",
-      "to": "-"
-    },
-    {
-      "season": "2025-26 Spanish Copa del Rey",
-      "gp": "-",
-      "min": "-",
-      "pts": "1",
-      "reb": "0",
-      "ast": "-",
-      "stl": "-",
-      "blk": "1",
-      "fgPct": "-",
-      "fg3Pct": "-",
-      "ftPct": "-",
-      "to": "-"
-    },
-    {
       "season": "2026 FIFA World Cup",
       "gp": "-",
       "min": "-",
@@ -127,8 +99,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-26T10:47:51.237Z",
+  "ingestedAt": "2026-07-01T11:05:50.447Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:52.995Z",
-  "statsSyncedAt": "2026-06-26T10:47:51.237Z"
+  "statsSyncedAt": "2026-07-01T11:05:50.447Z"
 }

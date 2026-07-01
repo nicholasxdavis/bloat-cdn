@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "34",
-      "min": "96",
-      "pts": ".208",
+      "gp": "35",
+      "min": "100",
+      "pts": ".200",
       "reb": "5",
       "ast": "14",
       "stl": "3",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Jun 30",
+      "matchup": "vs CHW",
+      "result": "L 9-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
     {
       "date": "Jun 29",
       "matchup": "vs CHW",
@@ -100,24 +111,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jun 24",
-      "matchup": "@ LAA",
-      "result": "L 7-6 F/10",
-      "min": "1",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:54:40.976Z",
+  "ingestedAt": "2026-07-01T11:05:25.012Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:55.694Z",
-  "statsSyncedAt": "2026-06-30T10:54:40.976Z"
+  "statsSyncedAt": "2026-07-01T11:05:25.012Z"
 }

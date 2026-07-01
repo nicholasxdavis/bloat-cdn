@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "CIN",
-      "gp": "64",
-      "min": "255",
-      "pts": ".267",
+      "gp": "65",
+      "min": "259",
+      "pts": ".270",
       "reb": "13",
       "ast": "40",
       "stl": "10",
-      "blk": "82",
+      "blk": "83",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -73,6 +73,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jun 30",
+      "matchup": "@ MIL",
+      "result": "L 7-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jun 29",
       "matchup": "@ MIL",
       "result": "L 5-3",
@@ -115,24 +126,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 24",
-      "matchup": "vs MIL",
-      "result": "L 6-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-30T10:54:35.007Z",
+  "ingestedAt": "2026-07-01T11:05:20.205Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:43.558Z",
-  "statsSyncedAt": "2026-06-30T10:54:35.007Z"
+  "statsSyncedAt": "2026-07-01T11:05:20.205Z"
 }

@@ -13,7 +13,7 @@
     {
       "season": "2026",
       "team": "TEX",
-      "gp": "50",
+      "gp": "51",
       "min": "187",
       "pts": ".182",
       "reb": "10",
@@ -251,8 +251,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-06-29T12:26:36.559Z",
-  "statsSyncedAt": "2026-06-29T12:26:36.559Z",
+  "ingestedAt": "2026-07-01T11:05:18.712Z",
+  "statsSyncedAt": "2026-07-01T11:05:18.712Z",
   "active": true,
   "profileSyncedAt": "2026-06-26T10:47:20.085Z"
 }
