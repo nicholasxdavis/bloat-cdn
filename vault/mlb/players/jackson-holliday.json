@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "35",
-      "min": "100",
-      "pts": ".200",
+      "gp": "36",
+      "min": "102",
+      "pts": ".196",
       "reb": "5",
       "ast": "14",
       "stl": "3",
-      "blk": "33",
+      "blk": "34",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Jul 1",
+      "matchup": "vs CHW",
+      "result": "W 6-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
     {
       "date": "Jun 30",
       "matchup": "vs CHW",
@@ -100,26 +111,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jun 26",
-      "matchup": "vs WSH",
-      "result": "W 3-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:38:55.538Z",
+  "ingestedAt": "2026-07-02T10:32:06.083Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:55.694Z",
-  "statsSyncedAt": "2026-07-01T11:05:25.012Z",
+  "statsSyncedAt": "2026-07-02T10:32:06.083Z",
   "details": {
     "jersey": "7",
     "height": "5' 11\"",
