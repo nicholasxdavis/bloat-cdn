@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "87",
-      "min": "313",
+      "gp": "88",
+      "min": "317",
       "pts": ".319",
-      "reb": "26",
-      "ast": "60",
+      "reb": "27",
+      "ast": "61",
       "stl": "1",
-      "blk": "65",
+      "blk": "66",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 4",
+      "matchup": "vs TB",
+      "result": "L 3-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jul 2",
       "matchup": "vs MIN",
       "result": "L 8-3",
@@ -175,24 +186,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 26",
-      "matchup": "@ DET",
-      "result": "L 8-0",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-02T10:32:32.091Z",
-  "statsSyncedAt": "2026-07-02T10:32:32.091Z",
+  "ingestedAt": "2026-07-04T10:06:42.138Z",
+  "statsSyncedAt": "2026-07-04T10:06:42.138Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z",
   "details": {
