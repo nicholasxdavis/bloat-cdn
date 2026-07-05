@@ -5,7 +5,7 @@
   "name": "Miles Bridges",
   "sport": "nba",
   "position": "F",
-  "team": "CHA",
+  "team": "PHX",
   "headshot": "media/headshots/nba/bridgmi01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4066383.png",
   "legend": false,
@@ -176,9 +176,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:42:13.462Z",
+  "ingestedAt": "2026-07-05T11:45:24.300Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:28.614Z",
+  "profileSyncedAt": "2026-07-05T11:45:24.300Z",
   "details": {
     "height": "6' 7\"",
     "weight": "225 lbs",

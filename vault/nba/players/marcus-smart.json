@@ -5,7 +5,7 @@
   "name": "Marcus Smart",
   "sport": "nba",
   "position": "G",
-  "team": "LAL",
+  "team": "HOU",
   "headshot": "media/headshots/nba/smartma01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/2990992.png",
   "legend": false,
@@ -280,9 +280,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:42:05.795Z",
+  "ingestedAt": "2026-07-05T11:45:17.545Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:16.819Z",
+  "profileSyncedAt": "2026-07-05T11:45:17.545Z",
   "details": {
     "jersey": "36",
     "height": "6' 3\"",

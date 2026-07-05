@@ -5,7 +5,7 @@
   "name": "Kelly Oubre Jr.",
   "sport": "nba",
   "position": "G",
-  "team": "PHI",
+  "team": "IND",
   "headshot": "media/headshots/nba/jr.ke01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3133603.png",
   "legend": false,
@@ -265,9 +265,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:41:46.796Z",
+  "ingestedAt": "2026-07-05T11:45:02.417Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:44.154Z",
+  "profileSyncedAt": "2026-07-05T11:45:02.417Z",
   "details": {
     "jersey": "9",
     "height": "6' 8\"",

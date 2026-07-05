@@ -5,7 +5,7 @@
   "name": "Jaylen Brown",
   "sport": "nba",
   "position": "G",
-  "team": "BOS",
+  "team": "PHI",
   "headshot": "media/headshots/nba/brownja01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3917376.png",
   "legend": false,
@@ -221,9 +221,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:41:29.091Z",
+  "ingestedAt": "2026-07-05T11:44:48.061Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:46:17.047Z",
+  "profileSyncedAt": "2026-07-05T11:44:48.061Z",
   "details": {
     "jersey": "7",
     "height": "6' 6\"",

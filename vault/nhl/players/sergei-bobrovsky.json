@@ -5,7 +5,7 @@
   "name": "Sergei Bobrovsky",
   "sport": "nhl",
   "position": "G",
-  "team": "FLA",
+  "team": "TOR",
   "headshot": "media/headshots/nhl/bobrose01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5571.png",
   "legend": false,
@@ -311,9 +311,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:20.086Z",
+  "ingestedAt": "2026-07-05T11:47:37.568Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:51:34.847Z",
+  "profileSyncedAt": "2026-07-05T11:47:37.568Z",
   "details": {
     "jersey": "72",
     "height": "6' 2\"",

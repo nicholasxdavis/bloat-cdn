@@ -5,7 +5,7 @@
   "name": "Santi Aldama",
   "sport": "nba",
   "position": "F",
-  "team": "MEM",
+  "team": "DAL",
   "headshot": "media/headshots/nba/aldamsa01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4593125.png",
   "legend": false,
@@ -146,9 +146,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:42:49.883Z",
+  "ingestedAt": "2026-07-05T11:45:40.745Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:04.899Z",
+  "profileSyncedAt": "2026-07-05T11:45:40.745Z",
   "details": {
     "jersey": "7",
     "height": "7' 0\"",

@@ -5,7 +5,7 @@
   "name": "Tobias Harris",
   "sport": "nba",
   "position": "F",
-  "team": "DET",
+  "team": "SA",
   "headshot": "media/headshots/nba/harrito01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6440.png",
   "legend": false,
@@ -412,9 +412,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:42:59.250Z",
+  "ingestedAt": "2026-07-05T11:45:47.020Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:48:18.298Z",
+  "profileSyncedAt": "2026-07-05T11:45:47.020Z",
   "details": {
     "jersey": "12",
     "height": "6' 8\"",
