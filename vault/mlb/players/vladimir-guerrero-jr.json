@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "TOR",
-      "gp": "83",
-      "min": "306",
-      "pts": ".268",
+      "gp": "84",
+      "min": "309",
+      "pts": ".265",
       "reb": "4",
       "ast": "35",
       "stl": "6",
-      "blk": "40",
+      "blk": "42",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -135,6 +135,17 @@
     {
       "date": "Jul 4",
       "matchup": "@ SEA",
+      "result": "L 11-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jul 4",
+      "matchup": "@ SEA",
       "result": "W 2-0",
       "min": "3",
       "pts": "—",
@@ -175,26 +186,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jun 27",
-      "matchup": "vs TEX",
-      "result": "L 7-4",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-04T10:06:40.091Z",
+  "ingestedAt": "2026-07-05T10:07:37.946Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:40.668Z",
-  "statsSyncedAt": "2026-07-04T10:06:40.091Z",
+  "statsSyncedAt": "2026-07-05T10:07:37.946Z",
   "details": {
     "jersey": "27",
     "height": "6' 0\"",
