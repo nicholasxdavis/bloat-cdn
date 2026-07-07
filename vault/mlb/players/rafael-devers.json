@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "SF",
-      "gp": "89",
-      "min": "343",
-      "pts": ".248",
+      "gp": "90",
+      "min": "345",
+      "pts": ".246",
       "reb": "18",
       "ast": "47",
       "stl": "0",
@@ -192,6 +192,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 7",
+      "matchup": "vs TOR",
+      "result": "W 10-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jul 5",
       "matchup": "@ COL",
       "result": "L 7-6",
@@ -234,24 +245,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 1",
-      "matchup": "@ ARI",
-      "result": "L 8-2",
-      "min": "2",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-06T12:00:56.473Z",
-  "statsSyncedAt": "2026-07-06T12:00:56.473Z",
+  "ingestedAt": "2026-07-07T10:49:19.430Z",
+  "statsSyncedAt": "2026-07-07T10:49:19.430Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:28.736Z",
   "details": {
