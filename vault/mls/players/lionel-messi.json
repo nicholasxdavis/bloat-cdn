@@ -42,8 +42,8 @@
       "season": "2026 FIFA World Cup",
       "gp": "-",
       "min": "-",
-      "pts": "7",
-      "reb": "0",
+      "pts": "8",
+      "reb": "1",
       "ast": "-",
       "stl": "-",
       "blk": "0",
@@ -68,6 +68,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Jul 7",
+      "matchup": "vs EGY",
+      "result": "W 3-2",
+      "min": "—",
+      "pts": "1",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
     {
       "date": "Jul 3",
       "matchup": "vs CPV",
@@ -111,24 +122,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jun 10",
-      "matchup": "vs ISL",
-      "result": "W 3-0",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-04T10:06:51.873Z",
-  "statsSyncedAt": "2026-07-04T10:06:51.873Z",
+  "ingestedAt": "2026-07-08T10:10:04.510Z",
+  "statsSyncedAt": "2026-07-08T10:10:04.510Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:44:02.371Z",
   "details": {
