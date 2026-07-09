@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "WSH",
-      "gp": "43",
-      "min": "160",
-      "pts": ".225",
+      "gp": "44",
+      "min": "164",
+      "pts": ".226",
       "reb": "6",
       "ast": "18",
       "stl": "5",
@@ -116,8 +116,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-08T10:09:27.773Z",
-  "statsSyncedAt": "2026-07-08T10:09:27.773Z",
+  "ingestedAt": "2026-07-09T10:49:24.255Z",
+  "statsSyncedAt": "2026-07-09T10:49:24.255Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:42.138Z",
   "details": {
