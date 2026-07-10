@@ -13,7 +13,7 @@
     {
       "season": "2026",
       "team": "NYM",
-      "gp": "36",
+      "gp": "37",
       "min": "142",
       "pts": ".211",
       "reb": "4",
@@ -251,10 +251,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-09T10:49:26.547Z",
+  "ingestedAt": "2026-07-10T10:48:03.754Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:46.510Z",
-  "statsSyncedAt": "2026-07-09T10:49:26.547Z",
+  "statsSyncedAt": "2026-07-10T10:48:03.754Z",
   "details": {
     "jersey": "12",
     "height": "5' 10\"",
