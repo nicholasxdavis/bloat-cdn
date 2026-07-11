@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "85",
-      "min": "324",
+      "gp": "86",
+      "min": "328",
       "pts": ".290",
-      "reb": "20",
-      "ast": "56",
+      "reb": "21",
+      "ast": "57",
       "stl": "6",
-      "blk": "90",
+      "blk": "92",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -148,66 +148,66 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 11",
+      "matchup": "vs ARI",
+      "result": "L 9-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Jul 9",
       "matchup": "vs COL",
       "result": "W 4-3",
-      "min": "—",
+      "min": "4",
       "pts": "—",
-      "reb": "-",
-      "ast": "—",
+      "reb": "0",
+      "ast": "0",
       "stl": "—",
-      "blk": "—"
+      "blk": "2"
     },
     {
       "date": "Jul 8",
       "matchup": "vs COL",
       "result": "L 4-3",
-      "min": "—",
+      "min": "4",
       "pts": "—",
-      "reb": "-",
-      "ast": "—",
+      "reb": "1",
+      "ast": "1",
       "stl": "—",
-      "blk": "—"
+      "blk": "1"
     },
     {
       "date": "Jul 7",
       "matchup": "vs COL",
       "result": "W 8-7 F/11",
-      "min": "—",
+      "min": "4",
       "pts": "—",
-      "reb": "-",
-      "ast": "—",
+      "reb": "1",
+      "ast": "4",
       "stl": "—",
-      "blk": "—"
+      "blk": "0"
     },
     {
       "date": "Jul 5",
       "matchup": "vs SD",
       "result": "L 5-2",
-      "min": "—",
+      "min": "3",
       "pts": "—",
-      "reb": "-",
-      "ast": "—",
+      "reb": "0",
+      "ast": "1",
       "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Jul 4",
-      "matchup": "vs SD",
-      "result": "W 4-3",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
+      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-09T10:49:59.650Z",
-  "statsSyncedAt": "2026-07-09T10:49:59.650Z",
+  "ingestedAt": "2026-07-11T09:19:54.172Z",
+  "statsSyncedAt": "2026-07-11T09:19:54.172Z",
   "active": true,
   "profileSyncedAt": "2026-07-05T10:07:35.908Z",
   "details": {

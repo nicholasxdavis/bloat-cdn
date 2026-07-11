@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "KC",
-      "gp": "88",
-      "min": "347",
+      "gp": "89",
+      "min": "351",
       "pts": ".288",
       "reb": "13",
       "ast": "39",
       "stl": "30",
-      "blk": "65",
+      "blk": "67",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -146,8 +146,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-10T10:47:52.450Z",
-  "statsSyncedAt": "2026-07-10T10:47:52.450Z",
+  "ingestedAt": "2026-07-11T09:19:25.329Z",
+  "statsSyncedAt": "2026-07-11T09:19:25.329Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:26.864Z",
   "details": {
