@@ -5,7 +5,7 @@
   "name": "D'Angelo Russell",
   "sport": "nba",
   "position": "G",
-  "team": "WSH",
+  "team": "MEM",
   "headshot": "media/headshots/nba/russed'01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3136776.png",
   "legend": true,
@@ -323,9 +323,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:40:36.458Z",
+  "ingestedAt": "2026-07-12T11:23:24.247Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:44:48.520Z",
+  "profileSyncedAt": "2026-07-12T11:23:24.247Z",
   "details": {
     "jersey": "5",
     "height": "6' 3\"",

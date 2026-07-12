@@ -5,7 +5,7 @@
   "name": "Brandon Ingram",
   "sport": "nba",
   "position": "F",
-  "team": "LAC",
+  "team": "TOR",
   "headshot": "media/headshots/nba/ingrabr01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3913176.png",
   "legend": false,
@@ -221,9 +221,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-05T11:43:55.865Z",
+  "ingestedAt": "2026-07-12T11:23:16.274Z",
   "active": true,
-  "profileSyncedAt": "2026-07-05T11:43:55.865Z",
+  "profileSyncedAt": "2026-07-12T11:23:16.274Z",
   "details": {
     "jersey": "3",
     "height": "6' 8\"",

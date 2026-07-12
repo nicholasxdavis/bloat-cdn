@@ -5,7 +5,7 @@
   "name": "Kawhi Leonard",
   "sport": "nba",
   "position": "F",
-  "team": "TOR",
+  "team": "LAC",
   "headshot": "media/headshots/nba/leonaka01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/6450.png",
   "legend": false,
@@ -281,9 +281,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-05T11:45:00.630Z",
+  "ingestedAt": "2026-07-12T11:24:20.392Z",
   "active": true,
-  "profileSyncedAt": "2026-07-05T11:45:00.630Z",
+  "profileSyncedAt": "2026-07-12T11:24:20.392Z",
   "details": {
     "jersey": "2",
     "height": "6' 6\"",
