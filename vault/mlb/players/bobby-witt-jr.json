@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "KC",
-      "gp": "89",
-      "min": "351",
-      "pts": ".288",
+      "gp": "90",
+      "min": "355",
+      "pts": ".285",
       "reb": "13",
       "ast": "39",
       "stl": "30",
-      "blk": "67",
+      "blk": "69",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -88,6 +88,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 11",
+      "matchup": "@ BAL",
+      "result": "L 6-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jul 10",
+      "matchup": "@ BAL",
+      "result": "L 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Jul 9",
       "matchup": "@ NYM",
       "result": "L 7-3",
@@ -119,35 +141,13 @@
       "ast": "2",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jul 6",
-      "matchup": "vs PHI",
-      "result": "W 15-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jul 5",
-      "matchup": "vs PHI",
-      "result": "W 5-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-11T09:19:25.329Z",
-  "statsSyncedAt": "2026-07-11T09:19:25.329Z",
+  "ingestedAt": "2026-07-12T09:46:30.941Z",
+  "statsSyncedAt": "2026-07-12T09:46:30.941Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:26.864Z",
   "details": {

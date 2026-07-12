@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "MIL",
-      "gp": "59",
-      "min": "250",
-      "pts": ".284",
+      "gp": "61",
+      "min": "256",
+      "pts": ".281",
       "reb": "13",
       "ast": "36",
-      "stl": "6",
-      "blk": "65",
+      "stl": "8",
+      "blk": "67",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -58,6 +58,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 11",
+      "matchup": "@ PIT",
+      "result": "L 3-2",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jul 11",
+      "matchup": "@ PIT",
+      "result": "L 7-6",
+      "min": "1",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jul 9",
       "matchup": "@ STL",
       "result": "W 8-4",
@@ -89,35 +111,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 7",
-      "matchup": "@ STL",
-      "result": "W 4-3",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jul 6",
-      "matchup": "@ STL",
-      "result": "W 4-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-10T10:48:07.426Z",
-  "statsSyncedAt": "2026-07-10T10:48:07.426Z",
+  "ingestedAt": "2026-07-12T09:46:45.194Z",
+  "statsSyncedAt": "2026-07-12T09:46:45.194Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:54.260Z",
   "details": {
