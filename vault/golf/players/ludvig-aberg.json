@@ -10,7 +10,7 @@
   "seasonHistory": [
     {
       "season": "PGA TOUR",
-      "gp": "15",
+      "gp": "16",
       "min": "-",
       "pts": "-",
       "reb": "6",
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-12T09:43:09.620Z",
-  "statsSyncedAt": "2026-07-12T09:43:09.620Z",
+  "ingestedAt": "2026-07-13T10:49:19.439Z",
+  "statsSyncedAt": "2026-07-13T10:49:19.439Z",
   "details": {
     "height": "6' 3\"",
     "college": "Texas Tech",

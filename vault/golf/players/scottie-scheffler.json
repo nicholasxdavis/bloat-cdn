@@ -10,7 +10,7 @@
   "seasonHistory": [
     {
       "season": "PGA TOUR",
-      "gp": "14",
+      "gp": "15",
       "min": "-",
       "pts": "-",
       "reb": "9",
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-11T09:16:32.060Z",
-  "statsSyncedAt": "2026-07-11T09:16:32.060Z",
+  "ingestedAt": "2026-07-13T10:49:42.610Z",
+  "statsSyncedAt": "2026-07-13T10:49:42.610Z",
   "details": {
     "height": "6' 3\"",
     "weight": "200 lbs",
