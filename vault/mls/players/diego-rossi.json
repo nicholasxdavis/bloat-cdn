@@ -4,8 +4,8 @@
   "slug": "rossidi01",
   "name": "Diego Rossi",
   "sport": "mls",
-  "position": "M",
-  "team": "CLB",
+  "position": "F",
+  "team": "MLS",
   "headshot": "media/headshots/mls/rossidi01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/235817.png",
   "legend": false,
@@ -113,9 +113,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-16T10:00:14.958Z",
+  "ingestedAt": "2026-07-17T09:50:12.688Z",
   "active": true,
-  "profileSyncedAt": "2026-07-16T10:00:14.958Z",
+  "profileSyncedAt": "2026-07-17T09:50:12.688Z",
   "details": {
     "jersey": "10",
     "height": "5' 7\"",

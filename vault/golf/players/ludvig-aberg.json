@@ -16,7 +16,7 @@
       "reb": "6",
       "ast": "0",
       "stl": "$5,916,891",
-      "blk": "13",
+      "blk": "14",
       "fgPct": "69.5",
       "fg3Pct": "69.5",
       "ftPct": "-",
@@ -24,13 +24,13 @@
     },
     {
       "season": "Majors",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
       "pts": "-",
       "reb": "1",
       "ast": "0",
       "stl": "$1,376,833",
-      "blk": "3",
+      "blk": "4",
       "fgPct": "70.3",
       "fg3Pct": "70.3",
       "ftPct": "-",
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-13T10:49:19.439Z",
-  "statsSyncedAt": "2026-07-13T10:49:19.439Z",
+  "ingestedAt": "2026-07-17T09:45:58.588Z",
+  "statsSyncedAt": "2026-07-17T09:45:58.588Z",
   "details": {
     "height": "6' 3\"",
     "college": "Texas Tech",

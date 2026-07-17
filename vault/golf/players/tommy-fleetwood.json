@@ -16,7 +16,7 @@
       "reb": "6",
       "ast": "0",
       "stl": "$5,575,105",
-      "blk": "14",
+      "blk": "15",
       "fgPct": "69.4",
       "fg3Pct": "69.4",
       "ftPct": "-",
@@ -24,13 +24,13 @@
     },
     {
       "season": "Majors",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
       "pts": "-",
       "reb": "0",
       "ast": "0",
       "stl": "$527,362",
-      "blk": "2",
+      "blk": "3",
       "fgPct": "71.5",
       "fg3Pct": "71.5",
       "ftPct": "-",
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-13T10:50:46.284Z",
-  "statsSyncedAt": "2026-07-13T10:50:46.284Z",
+  "ingestedAt": "2026-07-17T09:47:26.741Z",
+  "statsSyncedAt": "2026-07-17T09:47:26.741Z",
   "details": {
     "height": "5' 11\"",
     "weight": "168 lbs",
