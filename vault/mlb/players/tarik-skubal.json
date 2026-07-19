@@ -13,16 +13,16 @@
     {
       "season": "2026",
       "team": "DET",
-      "gp": "13",
+      "gp": "14",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "3.09",
-      "fg3Pct": "0.95",
-      "ftPct": "5",
+      "fgPct": "2.83",
+      "fg3Pct": "0.93",
+      "ftPct": "6",
       "to": "5"
     },
     {
@@ -176,10 +176,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-13T10:53:09.852Z",
+  "ingestedAt": "2026-07-19T09:47:38.862Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:39.206Z",
-  "statsSyncedAt": "2026-07-13T10:53:09.852Z",
+  "statsSyncedAt": "2026-07-19T09:47:38.862Z",
   "details": {
     "jersey": "29",
     "height": "6' 3\"",

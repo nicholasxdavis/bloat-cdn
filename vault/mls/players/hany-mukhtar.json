@@ -41,6 +41,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 18",
+      "matchup": "vs ATL",
+      "result": "W 1-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "May 24",
       "matchup": "vs NYC",
       "result": "W 2-1",
@@ -83,24 +94,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "May 6",
-      "matchup": "@ UANL",
-      "result": "L 1-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:39:37.813Z",
-  "statsSyncedAt": "2026-06-16T12:49:07.634Z",
+  "ingestedAt": "2026-07-19T09:47:47.948Z",
+  "statsSyncedAt": "2026-07-19T09:47:47.948Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:59.124Z",
   "details": {

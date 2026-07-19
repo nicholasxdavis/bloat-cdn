@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SD",
-      "gp": "94",
-      "min": "344",
-      "pts": ".201",
+      "gp": "95",
+      "min": "347",
+      "pts": ".199",
       "reb": "19",
       "ast": "55",
       "stl": "2",
-      "blk": "87",
+      "blk": "88",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -269,6 +269,17 @@
     {
       "date": "Jul 18",
       "matchup": "@ KC",
+      "result": "L 6-1",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jul 18",
+      "matchup": "@ KC",
       "result": "L 7-6 F/10",
       "min": "4",
       "pts": "—",
@@ -309,24 +320,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jul 10",
-      "matchup": "vs ARI",
-      "result": "L 3-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-18T09:19:09.933Z",
-  "statsSyncedAt": "2026-07-18T09:19:09.933Z",
+  "ingestedAt": "2026-07-19T09:47:27.266Z",
+  "statsSyncedAt": "2026-07-19T09:47:27.266Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:12.050Z",
   "details": {
