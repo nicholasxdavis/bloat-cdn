@@ -4,8 +4,7 @@
   "slug": "gronkro00",
   "name": "Rob Gronkowski",
   "sport": "nfl",
-  "position": "TE",
-  "team": "TB",
+  "position": "-",
   "headshot": "media/headshots/nfl/gronkro00.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/13229.png",
   "legend": true,
@@ -236,7 +235,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:20.139Z",
+  "ingestedAt": "2026-07-19T11:21:05.698Z",
   "details": {
     "jersey": "87",
     "height": "6' 6\"",
@@ -246,5 +245,7 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/13229.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:20.139Z"
+  "detailSyncedAt": "2026-07-01T13:44:20.139Z",
+  "active": true,
+  "profileSyncedAt": "2026-07-19T11:21:05.698Z"
 }

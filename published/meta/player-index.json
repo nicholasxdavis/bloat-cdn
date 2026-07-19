@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-07-19T09:47:50.877Z",
+  "syncedAt": "2026-07-19T11:21:05.700Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -5839,8 +5839,8 @@
       "ingestedAt": "2026-06-17T03:58:04.327Z",
       "team": "SAC",
       "position": "G",
-      "active": true,
-      "profileSyncedAt": "2026-06-25T15:47:58.741Z",
+      "active": false,
+      "profileSyncedAt": "2026-07-19T11:20:05.300Z",
       "detailSyncedAt": "2026-07-01T13:42:45.899Z"
     },
     {
@@ -7557,7 +7557,10 @@
         "espn"
       ],
       "ingestedAt": "2026-06-17T03:25:14.761Z",
-      "detailSyncedAt": "2026-07-01T13:44:20.141Z"
+      "detailSyncedAt": "2026-07-01T13:44:20.141Z",
+      "position": "-",
+      "active": true,
+      "profileSyncedAt": "2026-07-19T11:21:05.698Z"
     },
     {
       "sport": "nfl",
