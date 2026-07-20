@@ -90,6 +90,17 @@
     {
       "date": "Jul 18",
       "matchup": "vs SD",
+      "result": "W 6-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jul 18",
+      "matchup": "vs SD",
       "result": "W 7-6 F/10",
       "min": "4",
       "pts": "—",
@@ -130,24 +141,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jul 10",
-      "matchup": "@ BAL",
-      "result": "L 5-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-19T09:47:05.611Z",
-  "statsSyncedAt": "2026-07-19T09:47:05.611Z",
+  "ingestedAt": "2026-07-20T10:43:13.890Z",
+  "statsSyncedAt": "2026-07-20T10:43:13.890Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:26.864Z",
   "details": {

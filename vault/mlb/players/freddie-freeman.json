@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "95",
-      "min": "359",
-      "pts": ".287",
+      "gp": "97",
+      "min": "365",
+      "pts": ".285",
       "reb": "15",
-      "ast": "49",
+      "ast": "51",
       "stl": "3",
-      "blk": "68",
+      "blk": "71",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -268,6 +268,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 19",
+      "matchup": "@ NYY",
+      "result": "L 2-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jul 19",
+      "matchup": "@ NYY",
+      "result": "W 8-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "2",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Jul 17",
       "matchup": "@ NYY",
       "result": "W 2-1",
@@ -299,35 +321,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 12",
-      "matchup": "vs ARI",
-      "result": "L 9-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jul 11",
-      "matchup": "vs ARI",
-      "result": "L 9-3",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-18T09:18:59.084Z",
-  "statsSyncedAt": "2026-07-18T09:18:59.084Z",
+  "ingestedAt": "2026-07-20T10:43:26.036Z",
+  "statsSyncedAt": "2026-07-20T10:43:26.036Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:48.109Z",
   "details": {

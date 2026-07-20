@@ -10,15 +10,15 @@
   "seasonHistory": [
     {
       "season": "PGA TOUR",
-      "gp": "15",
+      "gp": "16",
       "min": "-",
       "pts": "-",
       "reb": "3",
       "ast": "1",
       "stl": "$6,128,926",
       "blk": "12",
-      "fgPct": "69.6",
-      "fg3Pct": "69.6",
+      "fgPct": "69.7",
+      "fg3Pct": "69.7",
       "ftPct": "-",
       "to": "-"
     },
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-18T09:17:39.216Z",
-  "statsSyncedAt": "2026-07-18T09:17:39.216Z",
+  "ingestedAt": "2026-07-20T10:42:03.827Z",
+  "statsSyncedAt": "2026-07-20T10:42:03.827Z",
   "details": {
     "height": "5' 10\"",
     "weight": "165 lbs",
