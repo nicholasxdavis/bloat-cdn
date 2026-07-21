@@ -27,12 +27,12 @@
       "gp": "4",
       "min": "-",
       "pts": "-",
-      "reb": "2",
+      "reb": "3",
       "ast": "0",
-      "stl": "$3,715,645",
+      "stl": "$4,543,145",
       "blk": "4",
-      "fgPct": "69.6",
-      "fg3Pct": "69.6",
+      "fgPct": "69.3",
+      "fg3Pct": "69.3",
       "ftPct": "-",
       "to": "-"
     }
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-20T10:40:17.730Z",
-  "statsSyncedAt": "2026-07-20T10:40:17.730Z",
+  "ingestedAt": "2026-07-21T10:14:19.310Z",
+  "statsSyncedAt": "2026-07-21T10:14:19.310Z",
   "details": {
     "height": "6' 3\"",
     "weight": "200 lbs",

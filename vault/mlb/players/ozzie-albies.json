@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "98",
-      "min": "380",
-      "pts": ".263",
-      "reb": "14",
-      "ast": "53",
+      "gp": "99",
+      "min": "384",
+      "pts": ".266",
+      "reb": "15",
+      "ast": "54",
       "stl": "1",
-      "blk": "57",
+      "blk": "58",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -221,10 +221,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-20T10:43:40.871Z",
+  "ingestedAt": "2026-07-21T10:17:45.183Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:22.596Z",
-  "statsSyncedAt": "2026-07-20T10:43:40.871Z",
+  "statsSyncedAt": "2026-07-21T10:17:45.183Z",
   "details": {
     "jersey": "1",
     "height": "5' 7\"",

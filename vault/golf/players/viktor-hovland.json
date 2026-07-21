@@ -31,8 +31,8 @@
       "ast": "0",
       "stl": "$315,000",
       "blk": "1",
-      "fgPct": "63.9",
-      "fg3Pct": "63.9",
+      "fgPct": "59.9",
+      "fg3Pct": "59.9",
       "ftPct": "-",
       "to": "-"
     }
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-20T10:42:03.827Z",
-  "statsSyncedAt": "2026-07-20T10:42:03.827Z",
+  "ingestedAt": "2026-07-21T10:16:04.752Z",
+  "statsSyncedAt": "2026-07-21T10:16:04.752Z",
   "details": {
     "height": "5' 10\"",
     "weight": "165 lbs",

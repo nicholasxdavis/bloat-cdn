@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "94",
-      "min": "330",
-      "pts": ".224",
-      "reb": "14",
-      "ast": "38",
+      "gp": "95",
+      "min": "334",
+      "pts": ".228",
+      "reb": "16",
+      "ast": "43",
       "stl": "26",
-      "blk": "110",
+      "blk": "112",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -147,6 +147,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 19",
+      "matchup": "vs LAD",
+      "result": "W 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Jul 19",
+      "matchup": "vs LAD",
+      "result": "L 8-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jul 17",
       "matchup": "vs LAD",
       "result": "L 2-1",
@@ -178,37 +200,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "3"
-    },
-    {
-      "date": "Jul 10",
-      "matchup": "@ WSH",
-      "result": "W 5-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "2",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jul 9",
-      "matchup": "@ TB",
-      "result": "W 12-4",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-20T10:43:30.850Z",
+  "ingestedAt": "2026-07-21T10:17:33.109Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:00.095Z",
-  "statsSyncedAt": "2026-07-20T10:43:30.850Z",
+  "statsSyncedAt": "2026-07-21T10:17:33.109Z",
   "details": {
     "jersey": "13",
     "height": "5' 11\"",
