@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "69",
-      "min": "257",
-      "pts": ".163",
+      "gp": "70",
+      "min": "259",
+      "pts": ".162",
       "reb": "10",
       "ast": "34",
       "stl": "2",
-      "blk": "95",
+      "blk": "96",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -103,6 +103,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 21",
+      "matchup": "vs CIN",
+      "result": "W 8-0",
+      "min": "5",
+      "pts": "—",
+      "reb": "1",
+      "ast": "5",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Jul 19",
       "matchup": "vs SF",
       "result": "W 6-3",
@@ -145,24 +156,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jul 11",
-      "matchup": "@ TB",
-      "result": "L 6-1",
-      "min": "2",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-21T10:17:17.359Z",
-  "statsSyncedAt": "2026-07-21T10:17:17.359Z",
+  "ingestedAt": "2026-07-22T10:17:22.431Z",
+  "statsSyncedAt": "2026-07-22T10:17:22.431Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:29.870Z",
   "details": {
