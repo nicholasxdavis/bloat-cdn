@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SD",
-      "gp": "100",
-      "min": "392",
+      "gp": "101",
+      "min": "395",
       "pts": ".286",
       "reb": "8",
-      "ast": "44",
+      "ast": "46",
       "stl": "25",
-      "blk": "88",
+      "blk": "89",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -118,6 +118,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 22",
+      "matchup": "@ ATL",
+      "result": "L 7-6",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "2",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Jul 21",
+      "matchup": "@ ATL",
+      "result": "W 8-3",
+      "min": "5",
+      "pts": "—",
+      "reb": "1",
+      "ast": "3",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jul 20",
       "matchup": "@ ATL",
       "result": "L 3-2",
@@ -149,35 +171,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 18",
-      "matchup": "@ KC",
-      "result": "L 7-6 F/10",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jul 12",
-      "matchup": "vs TOR",
-      "result": "W 5-4",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-22T10:17:30.229Z",
-  "statsSyncedAt": "2026-07-22T10:17:30.229Z",
+  "ingestedAt": "2026-07-23T10:15:04.812Z",
+  "statsSyncedAt": "2026-07-23T10:15:04.812Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:45.131Z",
   "details": {

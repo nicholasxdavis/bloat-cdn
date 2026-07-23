@@ -26,7 +26,7 @@
       "season": "2026 MLS",
       "gp": "-",
       "min": "-",
-      "pts": "6",
+      "pts": "8",
       "reb": "4",
       "ast": "-",
       "stl": "-",
@@ -97,7 +97,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:39:41.330Z",
+  "ingestedAt": "2026-07-23T10:15:55.142Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:44:03.665Z",
   "details": {
@@ -106,5 +106,6 @@
     "weight": "159 lbs",
     "awards": []
   },
-  "detailSyncedAt": "2026-07-01T13:39:41.330Z"
+  "detailSyncedAt": "2026-07-01T13:39:41.330Z",
+  "statsSyncedAt": "2026-07-23T10:15:55.142Z"
 }

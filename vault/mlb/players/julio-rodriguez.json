@@ -13,8 +13,8 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "91",
-      "min": "357",
+      "gp": "92",
+      "min": "361",
       "pts": ".258",
       "reb": "15",
       "ast": "43",
@@ -90,6 +90,17 @@
     {
       "date": "Jul 22",
       "matchup": "vs CIN",
+      "result": "L 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jul 22",
+      "matchup": "vs CIN",
       "result": "L 4-2",
       "min": "2",
       "pts": "—",
@@ -130,26 +141,15 @@
       "ast": "1",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jul 3",
-      "matchup": "vs LAA",
-      "result": "W 1-0",
-      "min": "0",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-22T10:17:46.189Z",
+  "ingestedAt": "2026-07-23T10:15:14.031Z",
   "active": true,
   "profileSyncedAt": "2026-07-19T09:47:23.273Z",
-  "statsSyncedAt": "2026-07-22T10:17:46.189Z",
+  "statsSyncedAt": "2026-07-23T10:15:14.031Z",
   "details": {
     "jersey": "44",
     "height": "6' 4\"",

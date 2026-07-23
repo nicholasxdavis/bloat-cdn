@@ -13,15 +13,15 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "10",
+      "gp": "11",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "3.21",
-      "fg3Pct": "1.01",
+      "fgPct": "2.97",
+      "fg3Pct": "0.96",
       "ftPct": "4",
       "to": "3"
     },
@@ -163,6 +163,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 22",
+      "matchup": "vs PIT",
+      "result": "W 2-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "May 13",
       "matchup": "@ BAL",
       "result": "L 7-0",
@@ -205,24 +216,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Apr 22",
-      "matchup": "@ BOS",
-      "result": "W 4-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:39:08.669Z",
-  "statsSyncedAt": "2026-06-16T12:48:45.034Z",
+  "ingestedAt": "2026-07-23T10:15:19.230Z",
+  "statsSyncedAt": "2026-07-23T10:15:18.845Z",
   "details": {
     "jersey": "54",
     "height": "6' 4\"",
@@ -231,5 +231,7 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/32685.png"
   },
-  "detailSyncedAt": "2026-07-01T13:39:08.669Z"
+  "detailSyncedAt": "2026-07-01T13:39:08.669Z",
+  "active": true,
+  "profileSyncedAt": "2026-07-23T10:15:19.230Z"
 }
