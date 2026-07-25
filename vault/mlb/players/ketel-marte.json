@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ARI",
-      "gp": "98",
-      "min": "395",
+      "gp": "99",
+      "min": "400",
       "pts": ".258",
       "reb": "18",
-      "ast": "59",
+      "ast": "60",
       "stl": "4",
-      "blk": "63",
+      "blk": "65",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 24",
+      "matchup": "@ WSH",
+      "result": "W 3-2",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Jul 22",
       "matchup": "vs ATH",
       "result": "W 15-5",
@@ -235,24 +246,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jul 18",
-      "matchup": "vs STL",
-      "result": "W 5-3",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-23T10:15:14.823Z",
-  "statsSyncedAt": "2026-07-23T10:15:14.823Z",
+  "ingestedAt": "2026-07-25T09:30:39.738Z",
+  "statsSyncedAt": "2026-07-25T09:30:39.738Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:07.738Z",
   "details": {
