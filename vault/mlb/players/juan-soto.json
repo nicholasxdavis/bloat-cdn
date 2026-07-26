@@ -235,10 +235,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-25T09:30:38.100Z",
+  "ingestedAt": "2026-07-26T09:55:04.295Z",
   "statsSyncedAt": "2026-07-25T09:30:38.100Z",
-  "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:03.025Z",
+  "active": false,
+  "profileSyncedAt": "2026-07-26T09:55:04.295Z",
   "details": {
     "jersey": "22",
     "height": "6' 1\"",

@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "103",
-      "min": "402",
-      "pts": ".269",
+      "gp": "104",
+      "min": "405",
+      "pts": ".267",
       "reb": "27",
       "ast": "63",
       "stl": "2",
-      "blk": "109",
+      "blk": "110",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 25",
+      "matchup": "@ BAL",
+      "result": "L 3-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jul 24",
       "matchup": "@ BAL",
       "result": "W 7-6 F/10",
@@ -220,26 +231,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jul 20",
-      "matchup": "vs SD",
-      "result": "W 3-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-25T09:30:44.117Z",
+  "ingestedAt": "2026-07-26T09:55:12.056Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:13.532Z",
-  "statsSyncedAt": "2026-07-25T09:30:44.117Z",
+  "statsSyncedAt": "2026-07-26T09:55:12.056Z",
   "details": {
     "jersey": "28",
     "height": "6' 4\"",
