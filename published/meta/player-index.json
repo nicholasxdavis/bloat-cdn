@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-07-26T09:55:38.851Z",
+  "syncedAt": "2026-07-26T11:29:51.844Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -5227,10 +5227,10 @@
         "espn"
       ],
       "ingestedAt": "2026-06-17T03:55:38.151Z",
-      "team": "LAL",
+      "team": "PHI",
       "position": "F",
-      "active": false,
-      "profileSyncedAt": "2026-07-05T11:45:14.453Z",
+      "active": true,
+      "profileSyncedAt": "2026-07-26T11:29:50.863Z",
       "detailSyncedAt": "2026-07-01T13:42:01.626Z"
     },
     {
@@ -5247,10 +5247,10 @@
         "espn"
       ],
       "ingestedAt": "2026-06-17T03:56:58.454Z",
-      "team": "OKC",
+      "team": "ATL",
       "position": "G",
       "active": true,
-      "profileSyncedAt": "2026-06-25T15:47:12.080Z",
+      "profileSyncedAt": "2026-07-26T11:29:51.841Z",
       "detailSyncedAt": "2026-07-01T13:42:02.641Z"
     },
     {

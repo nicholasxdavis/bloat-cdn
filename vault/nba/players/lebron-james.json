@@ -5,7 +5,7 @@
   "name": "LeBron James",
   "sport": "nba",
   "position": "F",
-  "team": "LAL",
+  "team": "PHI",
   "headshot": "media/headshots/nba/jamesle01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/1966.png",
   "legend": false,
@@ -416,9 +416,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-05T11:45:14.453Z",
-  "active": false,
-  "profileSyncedAt": "2026-07-05T11:45:14.453Z",
+  "ingestedAt": "2026-07-26T11:29:50.862Z",
+  "active": true,
+  "profileSyncedAt": "2026-07-26T11:29:50.862Z",
   "details": {
     "jersey": "23",
     "height": "6' 9\"",
