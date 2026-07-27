@@ -147,6 +147,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 25",
+      "matchup": "@ PHI",
+      "result": "W 3-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "4"
+    },
+    {
       "date": "Jul 22",
       "matchup": "vs PIT",
       "result": "W 2-0",
@@ -189,26 +200,15 @@
       "ast": "1",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jul 19",
-      "matchup": "vs LAD",
-      "result": "L 8-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-26T09:55:01.890Z",
+  "ingestedAt": "2026-07-27T11:05:24.921Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:00.095Z",
-  "statsSyncedAt": "2026-07-26T09:55:01.890Z",
+  "statsSyncedAt": "2026-07-27T11:05:24.921Z",
   "details": {
     "jersey": "13",
     "height": "5' 11\"",
