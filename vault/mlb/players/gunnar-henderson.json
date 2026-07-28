@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "105",
-      "min": "435",
+      "gp": "106",
+      "min": "439",
       "pts": ".221",
       "reb": "18",
       "ast": "45",
       "stl": "8",
-      "blk": "112",
+      "blk": "114",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -146,10 +146,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-27T11:05:20.813Z",
+  "ingestedAt": "2026-07-28T10:25:50.290Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:51.084Z",
-  "statsSyncedAt": "2026-07-27T11:05:20.813Z",
+  "statsSyncedAt": "2026-07-28T10:25:50.290Z",
   "details": {
     "jersey": "2",
     "height": "6' 3\"",

@@ -5,7 +5,7 @@
   "name": "Hany Mukhtar",
   "sport": "mls",
   "position": "M",
-  "team": "NSH",
+  "team": "MLS",
   "headshot": "media/headshots/mls/mukhtha01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/174548.png",
   "legend": false,
@@ -99,10 +99,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-26T09:55:35.317Z",
+  "ingestedAt": "2026-07-28T10:26:27.202Z",
   "statsSyncedAt": "2026-07-26T09:55:35.317Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:59.124Z",
+  "profileSyncedAt": "2026-07-28T10:26:27.202Z",
   "details": {
     "jersey": "10",
     "height": "5' 8\"",
