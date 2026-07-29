@@ -13,12 +13,12 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "96",
-      "min": "377",
-      "pts": ".255",
-      "reb": "15",
-      "ast": "45",
-      "stl": "12",
+      "gp": "97",
+      "min": "381",
+      "pts": ".257",
+      "reb": "16",
+      "ast": "46",
+      "stl": "13",
       "blk": "85",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -88,6 +88,28 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 29",
+      "matchup": "@ LAD",
+      "result": "W 7-6",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Jul 27",
+      "matchup": "@ TEX",
+      "result": "L 7-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jul 26",
       "matchup": "@ TEX",
       "result": "W 6-4",
@@ -119,37 +141,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 22",
-      "matchup": "vs CIN",
-      "result": "L 5-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jul 22",
-      "matchup": "vs CIN",
-      "result": "L 4-2",
-      "min": "2",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-28T10:25:58.024Z",
+  "ingestedAt": "2026-07-29T10:31:49.176Z",
   "active": true,
   "profileSyncedAt": "2026-07-19T09:47:23.273Z",
-  "statsSyncedAt": "2026-07-28T10:25:58.024Z",
+  "statsSyncedAt": "2026-07-29T10:31:49.176Z",
   "details": {
     "jersey": "44",
     "height": "6' 4\"",
