@@ -15,9 +15,9 @@
       "team": "ARI",
       "gp": "105",
       "min": "394",
-      "pts": ".251",
+      "pts": ".249",
       "reb": "15",
-      "ast": "50",
+      "ast": "49",
       "stl": "15",
       "blk": "103",
       "fgPct": "-",
@@ -105,7 +105,7 @@
       "min": "5",
       "pts": "—",
       "reb": "0",
-      "ast": "1",
+      "ast": "0",
       "stl": "—",
       "blk": "1"
     },
@@ -146,8 +146,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-30T10:15:02.759Z",
-  "statsSyncedAt": "2026-07-30T10:15:02.759Z",
+  "ingestedAt": "2026-07-31T10:31:25.985Z",
+  "statsSyncedAt": "2026-07-31T10:31:25.985Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:37.419Z",
   "details": {
