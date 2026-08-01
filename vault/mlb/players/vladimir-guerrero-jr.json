@@ -13,8 +13,8 @@
     {
       "season": "2026",
       "team": "TOR",
-      "gp": "103",
-      "min": "381",
+      "gp": "104",
+      "min": "385",
       "pts": ".265",
       "reb": "6",
       "ast": "44",
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Jul 31",
+      "matchup": "vs STL",
+      "result": "W 3-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Jul 28",
       "matchup": "@ WSH",
       "result": "L 8-6",
@@ -175,26 +186,15 @@
       "ast": "2",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 24",
-      "matchup": "@ BOS",
-      "result": "L 6-4",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-29T10:32:05.043Z",
+  "ingestedAt": "2026-08-01T09:53:38.243Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:40.668Z",
-  "statsSyncedAt": "2026-07-29T10:32:05.043Z",
+  "statsSyncedAt": "2026-08-01T09:53:38.243Z",
   "details": {
     "jersey": "27",
     "height": "6' 0\"",
