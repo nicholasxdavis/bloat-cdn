@@ -5,7 +5,7 @@
   "name": "Tarik Skubal",
   "sport": "mlb",
   "position": "SP",
-  "team": "DET",
+  "team": "LAD",
   "headshot": "media/headshots/mlb/skubata01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42409.png",
   "legend": false,
@@ -176,9 +176,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-30T10:15:29.553Z",
+  "ingestedAt": "2026-08-02T09:53:06.215Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:43:39.206Z",
+  "profileSyncedAt": "2026-08-02T09:53:06.215Z",
   "statsSyncedAt": "2026-07-30T10:15:29.553Z",
   "details": {
     "jersey": "29",
