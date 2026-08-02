@@ -4,7 +4,7 @@
   "slug": "brancbr00",
   "name": "Brian Branch",
   "sport": "nfl",
-  "position": "DB",
+  "position": "S",
   "team": "DET",
   "headshot": "media/headshots/nfl/brancbr00.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4692025.png",
@@ -116,9 +116,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-05T11:46:06.024Z",
+  "ingestedAt": "2026-08-02T11:28:17.485Z",
   "active": true,
-  "profileSyncedAt": "2026-07-05T11:46:06.024Z",
+  "profileSyncedAt": "2026-08-02T11:28:17.485Z",
   "details": {
     "jersey": "32",
     "height": "6' 0\"",

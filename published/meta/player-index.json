@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-08-02T09:53:21.706Z",
+  "syncedAt": "2026-08-02T11:28:17.491Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -6616,9 +6616,9 @@
       ],
       "ingestedAt": "2026-06-15T15:28:25.900Z",
       "team": "DET",
-      "position": "DB",
+      "position": "S",
       "active": true,
-      "profileSyncedAt": "2026-07-05T11:46:06.028Z",
+      "profileSyncedAt": "2026-08-02T11:28:17.488Z",
       "detailSyncedAt": "2026-07-01T13:43:36.230Z"
     },
     {
