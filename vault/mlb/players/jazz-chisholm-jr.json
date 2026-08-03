@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "103",
-      "min": "365",
-      "pts": ".222",
+      "gp": "104",
+      "min": "369",
+      "pts": ".220",
       "reb": "16",
       "ast": "45",
       "stl": "30",
-      "blk": "127",
+      "blk": "128",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -147,6 +147,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 2",
+      "matchup": "@ CHC",
+      "result": "W 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 1",
       "matchup": "@ CHC",
       "result": "L 5-2",
@@ -189,26 +200,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Jul 27",
-      "matchup": "@ CHW",
-      "result": "W 9-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "2",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-02T09:52:44.392Z",
+  "ingestedAt": "2026-08-03T11:16:09.253Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:00.095Z",
-  "statsSyncedAt": "2026-08-02T09:52:44.392Z",
+  "statsSyncedAt": "2026-08-03T11:16:09.253Z",
   "details": {
     "jersey": "13",
     "height": "5' 11\"",

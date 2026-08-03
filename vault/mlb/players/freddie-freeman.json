@@ -13,8 +13,8 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "108",
-      "min": "410",
+      "gp": "109",
+      "min": "413",
       "pts": ".310",
       "reb": "15",
       "ast": "54",
@@ -270,6 +270,17 @@
     {
       "date": "Aug 2",
       "matchup": "vs BOS",
+      "result": "L 8-4",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Aug 2",
+      "matchup": "vs BOS",
       "result": "L 3-2",
       "min": "4",
       "pts": "—",
@@ -310,24 +321,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 29",
-      "matchup": "vs SEA",
-      "result": "L 7-6",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-02T09:52:38.278Z",
-  "statsSyncedAt": "2026-08-02T09:52:38.278Z",
+  "ingestedAt": "2026-08-03T11:16:04.046Z",
+  "statsSyncedAt": "2026-08-03T11:16:04.046Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:48.109Z",
   "details": {
