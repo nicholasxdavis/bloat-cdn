@@ -5,7 +5,7 @@
   "name": "Hany Mukhtar",
   "sport": "mls",
   "position": "M",
-  "team": "MLS",
+  "team": "NSH",
   "headshot": "media/headshots/mls/mukhtha01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/174548.png",
   "legend": false,
@@ -53,7 +53,7 @@
     },
     {
       "date": "Jul 30",
-      "matchup": "vs Liga MX All-Stars",
+      "matchup": "vs LMX",
       "result": "W 4-3",
       "min": "—",
       "pts": "0",
@@ -99,10 +99,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-02T09:53:17.907Z",
-  "statsSyncedAt": "2026-08-02T09:53:17.907Z",
+  "ingestedAt": "2026-08-04T10:36:26.423Z",
+  "statsSyncedAt": "2026-08-04T10:36:26.362Z",
   "active": true,
-  "profileSyncedAt": "2026-07-28T10:26:27.202Z",
+  "profileSyncedAt": "2026-08-04T10:36:26.423Z",
   "details": {
     "jersey": "10",
     "height": "5' 8\"",

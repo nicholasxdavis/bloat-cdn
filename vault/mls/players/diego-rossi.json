@@ -4,7 +4,7 @@
   "slug": "rossidi01",
   "name": "Diego Rossi",
   "sport": "mls",
-  "position": "F",
+  "position": "M",
   "team": "MTY",
   "headshot": "media/headshots/mls/rossidi01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/235817.png",
@@ -127,9 +127,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-02T09:53:16.649Z",
+  "ingestedAt": "2026-08-04T10:36:25.618Z",
   "active": true,
-  "profileSyncedAt": "2026-07-28T10:26:25.953Z",
+  "profileSyncedAt": "2026-08-04T10:36:25.618Z",
   "details": {
     "jersey": "10",
     "height": "5' 7\"",

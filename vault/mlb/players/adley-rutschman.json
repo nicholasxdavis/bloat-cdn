@@ -5,7 +5,7 @@
   "name": "Adley Rutschman",
   "sport": "mlb",
   "position": "C",
-  "team": "BAL",
+  "team": "BOS",
   "headshot": "media/headshots/mlb/rutscad01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/42178.png",
   "legend": false,
@@ -146,10 +146,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-21T10:17:13.494Z",
+  "ingestedAt": "2026-08-04T10:35:31.617Z",
   "statsSyncedAt": "2026-07-19T09:47:04.007Z",
-  "active": false,
-  "profileSyncedAt": "2026-07-21T10:17:13.494Z",
+  "active": true,
+  "profileSyncedAt": "2026-08-04T10:35:31.617Z",
   "details": {
     "jersey": "35",
     "height": "6' 1\"",
