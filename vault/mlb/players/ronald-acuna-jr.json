@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "61",
-      "min": "225",
+      "gp": "62",
+      "min": "229",
       "pts": ".240",
       "reb": "9",
       "ast": "24",
       "stl": "15",
-      "blk": "61",
+      "blk": "64",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 5",
+      "matchup": "vs MIA",
+      "result": "W 4-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "3"
+    },
+    {
       "date": "Aug 4",
       "matchup": "vs MIA",
       "result": "W 4-2",
@@ -190,23 +201,12 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jul 30",
-      "matchup": "vs WSH",
-      "result": "W 5-4",
-      "min": "3",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-05T10:27:17.409Z",
+  "ingestedAt": "2026-08-06T10:29:37.300Z",
   "details": {
     "jersey": "13",
     "height": "6' 0\"",
@@ -216,7 +216,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/36185.png"
   },
   "detailSyncedAt": "2026-07-01T13:39:21.413Z",
-  "statsSyncedAt": "2026-08-05T10:27:17.409Z",
+  "statsSyncedAt": "2026-08-06T10:29:37.300Z",
   "active": true,
   "profileSyncedAt": "2026-07-28T10:26:12.800Z"
 }
