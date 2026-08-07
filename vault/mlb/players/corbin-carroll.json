@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ARI",
-      "gp": "111",
-      "min": "417",
+      "gp": "112",
+      "min": "421",
       "pts": ".245",
       "reb": "16",
       "ast": "53",
       "stl": "16",
-      "blk": "109",
+      "blk": "110",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -146,8 +146,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-06T10:29:08.167Z",
-  "statsSyncedAt": "2026-08-06T10:29:08.167Z",
+  "ingestedAt": "2026-08-07T08:48:56.484Z",
+  "statsSyncedAt": "2026-08-07T08:48:56.484Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:37.419Z",
   "details": {
