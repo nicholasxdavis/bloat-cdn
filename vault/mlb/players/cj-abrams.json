@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "WSH",
-      "gp": "113",
-      "min": "425",
+      "gp": "114",
+      "min": "429",
       "pts": ".287",
       "reb": "28",
       "ast": "88",
       "stl": "21",
-      "blk": "110",
+      "blk": "111",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -117,6 +117,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 7",
+      "matchup": "vs CIN",
+      "result": "W 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 6",
+      "matchup": "@ PHI",
+      "result": "L 7-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Aug 5",
       "matchup": "@ PHI",
       "result": "W 10-4 F/11",
@@ -148,35 +170,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "3"
-    },
-    {
-      "date": "Aug 2",
-      "matchup": "@ ATL",
-      "result": "L 4-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "3"
-    },
-    {
-      "date": "Aug 1",
-      "matchup": "@ ATL",
-      "result": "L 8-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "2",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-07T08:48:54.881Z",
-  "statsSyncedAt": "2026-08-07T08:48:54.881Z",
+  "ingestedAt": "2026-08-08T08:30:52.292Z",
+  "statsSyncedAt": "2026-08-08T08:30:52.292Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:34.474Z",
   "details": {
