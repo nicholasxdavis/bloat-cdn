@@ -13,16 +13,16 @@
     {
       "season": "2026",
       "team": "TEX",
-      "gp": "21",
+      "gp": "22",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "3.96",
-      "fg3Pct": "1.14",
-      "ftPct": "7",
+      "fgPct": "3.87",
+      "fg3Pct": "1.13",
+      "ftPct": "8",
       "to": "7"
     },
     {
@@ -266,8 +266,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-02T09:52:42.391Z",
-  "statsSyncedAt": "2026-08-02T09:52:42.391Z",
+  "ingestedAt": "2026-08-09T08:33:07.831Z",
+  "statsSyncedAt": "2026-08-09T08:33:07.831Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:57.083Z",
   "details": {

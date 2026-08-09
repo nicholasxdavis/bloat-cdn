@@ -163,6 +163,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 7",
+      "matchup": "vs ATL",
+      "result": "W 3-2 F/10",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Aug 1",
       "matchup": "@ CHC",
       "result": "L 5-2",
@@ -205,24 +216,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "May 8",
-      "matchup": "@ MIL",
-      "result": "L 6-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-08T08:31:12.823Z",
-  "statsSyncedAt": "2026-08-08T08:31:12.823Z",
+  "ingestedAt": "2026-08-09T08:33:16.653Z",
+  "statsSyncedAt": "2026-08-09T08:33:16.653Z",
   "details": {
     "jersey": "54",
     "height": "6' 4\"",
