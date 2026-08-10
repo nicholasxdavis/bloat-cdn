@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "116",
-      "min": "422",
-      "pts": ".325",
+      "gp": "117",
+      "min": "426",
+      "pts": ".322",
       "reb": "35",
       "ast": "86",
       "stl": "1",
-      "blk": "89",
+      "blk": "90",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,6 +133,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 10",
+      "matchup": "@ SD",
+      "result": "L 7-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 8",
+      "matchup": "@ SD",
+      "result": "L 3-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Aug 8",
       "matchup": "@ SD",
       "result": "W 6-3",
@@ -164,35 +186,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 4",
-      "matchup": "vs TOR",
-      "result": "L 3-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Aug 2",
-      "matchup": "vs TEX",
-      "result": "W 7-3",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "2",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-09T08:33:29.380Z",
-  "statsSyncedAt": "2026-08-09T08:33:29.380Z",
+  "ingestedAt": "2026-08-10T09:10:09.879Z",
+  "statsSyncedAt": "2026-08-10T09:10:09.879Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z",
   "details": {
