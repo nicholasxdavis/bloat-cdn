@@ -13,15 +13,15 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "12.00",
-      "fg3Pct": "2.67",
+      "fgPct": "5.00",
+      "fg3Pct": "1.33",
       "ftPct": "0",
       "to": "1"
     },
@@ -192,8 +192,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:38:35.727Z",
-  "statsSyncedAt": "2026-06-16T12:48:19.371Z",
+  "ingestedAt": "2026-08-12T09:03:10.697Z",
+  "statsSyncedAt": "2026-08-12T09:03:10.314Z",
   "details": {
     "jersey": "7",
     "height": "6' 4\"",
@@ -202,5 +202,7 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/33748.png"
   },
-  "detailSyncedAt": "2026-07-01T13:38:35.727Z"
+  "detailSyncedAt": "2026-07-01T13:38:35.727Z",
+  "active": true,
+  "profileSyncedAt": "2026-08-12T09:03:10.697Z"
 }

@@ -12,6 +12,35 @@
   "seasonHistory": [
     {
       "season": "2026",
+      "gp": "68",
+      "min": "250",
+      "pts": ".252",
+      "reb": "8",
+      "ast": "47",
+      "stl": "0",
+      "blk": "41",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026",
+      "team": "BOS",
+      "gp": "1",
+      "min": "3",
+      "pts": ".333",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "1",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
+      "season": "2026",
       "team": "BAL",
       "gp": "67",
       "min": "247",
@@ -146,10 +175,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-09T08:32:53.783Z",
-  "statsSyncedAt": "2026-07-19T09:47:04.007Z",
-  "active": false,
-  "profileSyncedAt": "2026-08-09T08:32:53.783Z",
+  "ingestedAt": "2026-08-12T09:03:09.895Z",
+  "statsSyncedAt": "2026-08-12T09:03:09.507Z",
+  "active": true,
+  "profileSyncedAt": "2026-08-12T09:03:09.895Z",
   "details": {
     "jersey": "35",
     "height": "6' 1\"",
