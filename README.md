@@ -1,4 +1,5 @@
-# Bloat CDN
+# Bloat CDN by Siyf! 
+www.siyfsports.com
 
 Historical sports data warehouse for [Sports In Your Face](https://github.com/Sports-in-your-face).
 
