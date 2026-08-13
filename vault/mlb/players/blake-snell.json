@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 12",
+      "matchup": "vs KC",
+      "result": "W 5-4 F/10",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "May 10",
       "matchup": "vs ATL",
       "result": "L 7-2",
@@ -192,8 +203,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-12T09:03:10.697Z",
-  "statsSyncedAt": "2026-08-12T09:03:10.314Z",
+  "ingestedAt": "2026-08-13T09:05:00.892Z",
+  "statsSyncedAt": "2026-08-13T09:05:00.892Z",
   "details": {
     "jersey": "7",
     "height": "6' 4\"",

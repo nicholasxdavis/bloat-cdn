@@ -12,13 +12,13 @@
   "seasonHistory": [
     {
       "season": "2026",
-      "gp": "68",
-      "min": "250",
-      "pts": ".252",
+      "gp": "69",
+      "min": "253",
+      "pts": ".249",
       "reb": "8",
       "ast": "47",
       "stl": "0",
-      "blk": "41",
+      "blk": "42",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -27,13 +27,13 @@
     {
       "season": "2026",
       "team": "BOS",
-      "gp": "1",
-      "min": "3",
-      "pts": ".333",
+      "gp": "2",
+      "min": "6",
+      "pts": ".167",
       "reb": "0",
       "ast": "0",
       "stl": "0",
-      "blk": "1",
+      "blk": "2",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -117,6 +117,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 12",
+      "matchup": "@ TOR",
+      "result": "L 6-4",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 11",
+      "matchup": "@ TOR",
+      "result": "L 5-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Jul 18",
       "matchup": "@ HOU",
       "result": "W 4-2 F/11",
@@ -148,35 +170,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 11",
-      "matchup": "vs KC",
-      "result": "W 6-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Jul 10",
-      "matchup": "vs KC",
-      "result": "W 5-3",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-12T09:03:09.895Z",
-  "statsSyncedAt": "2026-08-12T09:03:09.507Z",
+  "ingestedAt": "2026-08-13T09:05:00.101Z",
+  "statsSyncedAt": "2026-08-13T09:05:00.101Z",
   "active": true,
   "profileSyncedAt": "2026-08-12T09:03:09.895Z",
   "details": {

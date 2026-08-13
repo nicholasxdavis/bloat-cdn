@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "119",
-      "min": "432",
+      "gp": "120",
+      "min": "435",
       "pts": ".322",
       "reb": "35",
       "ast": "87",
       "stl": "1",
-      "blk": "90",
+      "blk": "91",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -191,8 +191,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-12T09:03:45.648Z",
-  "statsSyncedAt": "2026-08-12T09:03:45.648Z",
+  "ingestedAt": "2026-08-13T09:05:38.265Z",
+  "statsSyncedAt": "2026-08-13T09:05:38.265Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z",
   "details": {

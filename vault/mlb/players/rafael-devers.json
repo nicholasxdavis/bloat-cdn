@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SF",
-      "gp": "120",
-      "min": "451",
-      "pts": ".246",
+      "gp": "121",
+      "min": "454",
+      "pts": ".244",
       "reb": "24",
       "ast": "64",
       "stl": "0",
-      "blk": "135",
+      "blk": "136",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -250,8 +250,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-12T09:03:39.486Z",
-  "statsSyncedAt": "2026-08-12T09:03:39.486Z",
+  "ingestedAt": "2026-08-13T09:05:31.455Z",
+  "statsSyncedAt": "2026-08-13T09:05:31.455Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:28.736Z",
   "details": {

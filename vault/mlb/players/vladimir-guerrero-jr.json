@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "TOR",
-      "gp": "112",
-      "min": "418",
-      "pts": ".261",
+      "gp": "113",
+      "min": "423",
+      "pts": ".262",
       "reb": "7",
       "ast": "46",
       "stl": "7",
@@ -133,6 +133,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 12",
+      "matchup": "vs BOS",
+      "result": "W 6-4",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Aug 11",
+      "matchup": "vs BOS",
+      "result": "W 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 10",
       "matchup": "vs BOS",
       "result": "W 2-1",
@@ -164,37 +186,15 @@
       "ast": "2",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 5",
-      "matchup": "@ HOU",
-      "result": "L 7-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Aug 4",
-      "matchup": "@ HOU",
-      "result": "W 3-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-12T09:03:44.052Z",
+  "ingestedAt": "2026-08-13T09:05:36.675Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:40.668Z",
-  "statsSyncedAt": "2026-08-12T09:03:44.052Z",
+  "statsSyncedAt": "2026-08-13T09:05:36.675Z",
   "details": {
     "jersey": "27",
     "height": "6' 0\"",
