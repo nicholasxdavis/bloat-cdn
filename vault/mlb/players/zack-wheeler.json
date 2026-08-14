@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 12",
+      "matchup": "@ STL",
+      "result": "L 7-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Aug 7",
       "matchup": "vs TOR",
       "result": "L 5-4",
@@ -235,24 +246,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Jul 12",
-      "matchup": "@ DET",
-      "result": "W 5-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-13T09:05:39.866Z",
-  "statsSyncedAt": "2026-08-13T09:05:39.866Z",
+  "ingestedAt": "2026-08-14T09:01:11.713Z",
+  "statsSyncedAt": "2026-08-14T09:01:11.713Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:48.274Z",
   "details": {

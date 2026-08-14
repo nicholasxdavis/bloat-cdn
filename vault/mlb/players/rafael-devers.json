@@ -194,6 +194,17 @@
     {
       "date": "Aug 12",
       "matchup": "vs HOU",
+      "result": "L 2-1",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 12",
+      "matchup": "vs HOU",
       "result": "W 4-1",
       "min": "2",
       "pts": "—",
@@ -234,24 +245,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Aug 8",
-      "matchup": "vs DET",
-      "result": "W 5-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "2",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-13T09:05:31.455Z",
-  "statsSyncedAt": "2026-08-13T09:05:31.455Z",
+  "ingestedAt": "2026-08-14T09:01:03.402Z",
+  "statsSyncedAt": "2026-08-14T09:01:03.402Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:28.736Z",
   "details": {

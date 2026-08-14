@@ -15,7 +15,7 @@
       "gp": "-",
       "min": "-",
       "pts": "1",
-      "reb": "0",
+      "reb": "1",
       "ast": "-",
       "stl": "-",
       "blk": "0",
@@ -141,7 +141,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-13T09:05:44.422Z",
+  "ingestedAt": "2026-08-14T09:01:16.262Z",
   "active": true,
   "profileSyncedAt": "2026-08-04T10:36:25.618Z",
   "details": {
@@ -152,5 +152,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/235817.png"
   },
   "detailSyncedAt": "2026-07-01T13:39:35.626Z",
-  "statsSyncedAt": "2026-08-13T09:05:44.422Z"
+  "statsSyncedAt": "2026-08-14T09:01:16.262Z"
 }
