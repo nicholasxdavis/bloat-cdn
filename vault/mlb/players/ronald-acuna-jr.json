@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "69",
-      "min": "258",
-      "pts": ".244",
+      "gp": "70",
+      "min": "262",
+      "pts": ".240",
       "reb": "12",
       "ast": "30",
       "stl": "15",
-      "blk": "66",
+      "blk": "69",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -206,7 +206,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-14T09:01:04.869Z",
+  "ingestedAt": "2026-08-15T08:19:54.979Z",
   "details": {
     "jersey": "13",
     "height": "6' 0\"",
@@ -216,7 +216,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/36185.png"
   },
   "detailSyncedAt": "2026-07-01T13:39:21.413Z",
-  "statsSyncedAt": "2026-08-14T09:01:04.869Z",
+  "statsSyncedAt": "2026-08-15T08:19:54.979Z",
   "active": true,
   "profileSyncedAt": "2026-07-28T10:26:12.800Z"
 }

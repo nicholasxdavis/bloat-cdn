@@ -88,7 +88,7 @@
       "result": "W 2-0",
       "min": "—",
       "pts": "0",
-      "reb": "0",
+      "reb": "1",
       "ast": "—",
       "stl": "—",
       "blk": "0"
@@ -97,7 +97,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-03T11:16:36.840Z",
+  "ingestedAt": "2026-08-15T08:20:15.577Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:44:03.665Z",
   "details": {
@@ -107,5 +107,5 @@
     "awards": []
   },
   "detailSyncedAt": "2026-07-01T13:39:41.330Z",
-  "statsSyncedAt": "2026-08-03T11:16:36.840Z"
+  "statsSyncedAt": "2026-08-15T08:20:15.577Z"
 }
