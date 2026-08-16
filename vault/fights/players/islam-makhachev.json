@@ -287,6 +287,20 @@
       "fg3Pct": "-",
       "ftPct": "-",
       "to": "-"
+    },
+    {
+      "season": "",
+      "gp": "-",
+      "min": "-",
+      "pts": "-",
+      "reb": "1/1",
+      "ast": "1/1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
     }
   ],
   "recentGames": [],
@@ -294,8 +308,8 @@
     "espn_mma_core",
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:34:10.608Z",
-  "statsSyncedAt": "2026-06-16T12:45:33.485Z",
+  "ingestedAt": "2026-08-16T08:14:46.825Z",
+  "statsSyncedAt": "2026-08-16T08:14:46.825Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:38:46.203Z",
   "details": {

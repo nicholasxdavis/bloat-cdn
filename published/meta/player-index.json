@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-08-15T08:20:15.581Z",
+  "syncedAt": "2026-08-16T08:20:46.438Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -563,12 +563,12 @@
       "headshot": "media/headshots/fights/3332412.png",
       "statsPath": "stats/espn-mma/3332412.json",
       "vaultPath": "vault/fights/players/islam-makhachev.json",
-      "rowCount": 20,
+      "rowCount": 21,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T17:36:10.175Z",
-      "statsSyncedAt": "2026-06-16T12:45:33.486Z",
+      "statsSyncedAt": "2026-08-16T08:14:46.826Z",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:38:46.204Z",
       "detailSyncedAt": "2026-07-01T13:34:10.609Z"
@@ -620,12 +620,12 @@
       "headshot": "media/headshots/fights/4411888.png",
       "statsPath": "stats/espn-mma/4411888.json",
       "vaultPath": "vault/fights/players/joel-alvarez.json",
-      "rowCount": 11,
+      "rowCount": 12,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T17:40:34.585Z",
-      "statsSyncedAt": "2026-06-16T12:45:36.796Z",
+      "statsSyncedAt": "2026-08-16T08:14:50.427Z",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:38:50.558Z",
       "detailSyncedAt": "2026-07-01T13:34:13.645Z"
@@ -1609,7 +1609,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:00.071Z",
-      "statsSyncedAt": "2026-08-15T08:19:08.530Z",
+      "statsSyncedAt": "2026-08-16T08:19:51.396Z",
       "team": "BOS",
       "position": "C",
       "active": true,
@@ -1697,7 +1697,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:38:38.287Z",
-      "statsSyncedAt": "2026-08-15T08:19:10.838Z",
+      "statsSyncedAt": "2026-08-16T08:19:53.576Z",
       "team": "KC",
       "position": "SS",
       "active": true,
@@ -1718,7 +1718,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:28.243Z",
-      "statsSyncedAt": "2026-08-14T09:00:35.129Z",
+      "statsSyncedAt": "2026-08-16T08:19:54.345Z",
       "team": "PHI",
       "position": "1B",
       "active": true,
@@ -1739,7 +1739,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:38:30.175Z",
-      "statsSyncedAt": "2026-08-15T08:19:13.369Z",
+      "statsSyncedAt": "2026-08-16T08:19:55.691Z",
       "team": "SEA",
       "position": "C",
       "active": true,
@@ -1764,7 +1764,7 @@
       "position": "SP",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:31.444Z",
-      "statsSyncedAt": "2026-08-15T08:19:14.643Z",
+      "statsSyncedAt": "2026-08-16T08:19:56.305Z",
       "detailSyncedAt": "2026-07-01T13:38:39.551Z"
     },
     {
@@ -1801,7 +1801,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:27.029Z",
-      "statsSyncedAt": "2026-08-15T08:19:15.938Z",
+      "statsSyncedAt": "2026-08-16T08:19:57.077Z",
       "team": "WSH",
       "position": "SS",
       "active": true,
@@ -1839,7 +1839,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:05.546Z",
-      "statsSyncedAt": "2026-08-15T08:19:18.159Z",
+      "statsSyncedAt": "2026-08-16T08:19:59.115Z",
       "team": "ARI",
       "position": "RF",
       "active": true,
@@ -1860,7 +1860,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:42.282Z",
-      "statsSyncedAt": "2026-08-15T08:19:18.989Z",
+      "statsSyncedAt": "2026-08-16T08:19:59.975Z",
       "team": "TEX",
       "position": "SS",
       "active": true,
@@ -1897,7 +1897,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:50.001Z",
-      "statsSyncedAt": "2026-08-15T08:19:20.184Z",
+      "statsSyncedAt": "2026-08-16T08:20:01.081Z",
       "team": "WSH",
       "position": "RF",
       "active": true,
@@ -1922,7 +1922,7 @@
       "position": "SS",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:43.559Z",
-      "statsSyncedAt": "2026-08-15T08:19:21.475Z",
+      "statsSyncedAt": "2026-08-16T08:20:02.395Z",
       "detailSyncedAt": "2026-07-01T13:38:47.171Z"
     },
     {
@@ -1939,7 +1939,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:23.986Z",
-      "statsSyncedAt": "2026-08-15T08:19:22.858Z",
+      "statsSyncedAt": "2026-08-16T08:20:03.628Z",
       "team": "SD",
       "position": "RF",
       "active": true,
@@ -1964,7 +1964,7 @@
       "position": "SS",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:46.511Z",
-      "statsSyncedAt": "2026-08-15T08:19:25.424Z",
+      "statsSyncedAt": "2026-08-16T08:20:04.365Z",
       "detailSyncedAt": "2026-07-01T13:38:49.372Z"
     },
     {
@@ -1981,7 +1981,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T15:29:07.825Z",
-      "statsSyncedAt": "2026-08-14T09:00:46.012Z",
+      "statsSyncedAt": "2026-08-16T08:20:05.278Z",
       "team": "LAD",
       "position": "1B",
       "active": true,
@@ -2026,7 +2026,7 @@
       "position": "SS",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:51.086Z",
-      "statsSyncedAt": "2026-08-15T08:19:28.169Z",
+      "statsSyncedAt": "2026-08-16T08:20:06.028Z",
       "detailSyncedAt": "2026-07-01T13:38:52.410Z"
     },
     {
@@ -2058,7 +2058,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:14.706Z",
-      "statsSyncedAt": "2026-08-15T08:19:30.005Z",
+      "statsSyncedAt": "2026-08-16T08:20:07.244Z",
       "team": "MIL",
       "position": "LF",
       "active": true,
@@ -2083,7 +2083,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:55.695Z",
-      "statsSyncedAt": "2026-08-15T08:19:31.479Z",
+      "statsSyncedAt": "2026-08-16T08:20:08.595Z",
       "detailSyncedAt": "2026-07-01T13:38:55.545Z"
     },
     {
@@ -2146,7 +2146,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:00.096Z",
-      "statsSyncedAt": "2026-08-15T08:19:34.109Z",
+      "statsSyncedAt": "2026-08-16T08:20:11.001Z",
       "detailSyncedAt": "2026-07-01T13:38:58.245Z"
     },
     {
@@ -2168,7 +2168,7 @@
       "position": "3B",
       "active": true,
       "profileSyncedAt": "2026-07-23T10:15:12.437Z",
-      "statsSyncedAt": "2026-08-14T09:00:52.054Z"
+      "statsSyncedAt": "2026-08-16T08:20:12.212Z"
     },
     {
       "sport": "mlb",
@@ -2209,7 +2209,7 @@
       "position": "CF",
       "active": true,
       "profileSyncedAt": "2026-07-19T09:47:23.273Z",
-      "statsSyncedAt": "2026-08-15T08:19:37.203Z",
+      "statsSyncedAt": "2026-08-16T08:20:14.664Z",
       "detailSyncedAt": "2026-07-01T13:39:01.317Z"
     },
     {
@@ -2241,7 +2241,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:09.498Z",
-      "statsSyncedAt": "2026-08-15T08:19:38.063Z",
+      "statsSyncedAt": "2026-08-16T08:20:15.495Z",
       "team": "ARI",
       "position": "2B",
       "active": true,
@@ -2262,7 +2262,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:40.931Z",
-      "statsSyncedAt": "2026-08-15T08:19:38.815Z",
+      "statsSyncedAt": "2026-08-16T08:20:16.232Z",
       "team": "LAD",
       "position": "RF",
       "active": true,
@@ -2283,7 +2283,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:18.326Z",
-      "statsSyncedAt": "2026-08-10T09:09:55.687Z",
+      "statsSyncedAt": "2026-08-16T08:20:17.152Z",
       "team": "SF",
       "position": "SP",
       "active": true,
@@ -2304,7 +2304,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:38.134Z",
-      "statsSyncedAt": "2026-08-15T08:19:40.979Z",
+      "statsSyncedAt": "2026-08-16T08:20:17.857Z",
       "team": "SD",
       "position": "3B",
       "active": true,
@@ -2329,7 +2329,7 @@
       "position": "1B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:13.533Z",
-      "statsSyncedAt": "2026-08-15T08:19:42.505Z",
+      "statsSyncedAt": "2026-08-16T08:20:19.185Z",
       "detailSyncedAt": "2026-07-01T13:39:07.610Z"
     },
     {
@@ -2402,7 +2402,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T15:29:03.342Z",
-      "statsSyncedAt": "2026-08-15T08:19:45.673Z",
+      "statsSyncedAt": "2026-08-16T08:20:21.076Z",
       "team": "LAD",
       "position": "SS",
       "active": true,
@@ -2444,7 +2444,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:22.598Z",
-      "statsSyncedAt": "2026-08-15T08:19:48.722Z",
+      "statsSyncedAt": "2026-08-16T08:20:23.471Z",
       "detailSyncedAt": "2026-07-01T13:39:14.240Z"
     },
     {
@@ -2501,7 +2501,7 @@
       "position": "1B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:27.150Z",
-      "statsSyncedAt": "2026-08-15T08:19:51.221Z",
+      "statsSyncedAt": "2026-08-16T08:20:25.188Z",
       "detailSyncedAt": "2026-07-01T13:39:17.199Z"
     },
     {
@@ -2518,7 +2518,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:13.073Z",
-      "statsSyncedAt": "2026-08-15T08:19:52.447Z",
+      "statsSyncedAt": "2026-08-16T08:20:25.935Z",
       "team": "SF",
       "position": "1B",
       "active": true,
@@ -2576,7 +2576,7 @@
       "position": "RF",
       "active": true,
       "profileSyncedAt": "2026-07-28T10:26:12.801Z",
-      "statsSyncedAt": "2026-08-15T08:19:54.980Z"
+      "statsSyncedAt": "2026-08-16T08:20:28.603Z"
     },
     {
       "sport": "mlb",
@@ -2612,7 +2612,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T15:28:54.282Z",
-      "statsSyncedAt": "2026-08-15T08:19:57.018Z",
+      "statsSyncedAt": "2026-08-16T08:20:30.081Z",
       "team": "LAD",
       "position": "DH",
       "active": true,
@@ -2672,8 +2672,8 @@
       "ingestedAt": "2026-06-15T16:39:19.229Z",
       "team": "TOR",
       "position": "1B",
-      "active": true,
-      "profileSyncedAt": "2026-06-25T15:43:40.669Z",
+      "active": false,
+      "profileSyncedAt": "2026-08-16T08:20:33.525Z",
       "statsSyncedAt": "2026-08-15T08:20:00.757Z",
       "detailSyncedAt": "2026-07-01T13:39:24.892Z"
     },
@@ -2706,7 +2706,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:45.453Z",
-      "statsSyncedAt": "2026-08-15T08:20:01.965Z",
+      "statsSyncedAt": "2026-08-16T08:20:34.092Z",
       "team": "TEX",
       "position": "LF",
       "active": true,
@@ -2727,7 +2727,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:51.157Z",
-      "statsSyncedAt": "2026-08-15T08:20:03.349Z",
+      "statsSyncedAt": "2026-08-16T08:20:35.303Z",
       "team": "HOU",
       "position": "DH",
       "active": true,
@@ -2748,7 +2748,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:38:25.199Z",
-      "statsSyncedAt": "2026-08-15T08:20:04.632Z",
+      "statsSyncedAt": "2026-08-16T08:20:36.533Z",
       "team": "LAD",
       "position": "SP",
       "active": true,
@@ -2975,7 +2975,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:44:03.666Z",
       "detailSyncedAt": "2026-07-01T13:39:41.331Z",
-      "statsSyncedAt": "2026-08-15T08:20:15.578Z"
+      "statsSyncedAt": "2026-08-16T08:20:46.435Z"
     },
     {
       "sport": "mls",
