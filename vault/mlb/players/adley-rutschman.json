@@ -12,13 +12,13 @@
   "seasonHistory": [
     {
       "season": "2026",
-      "gp": "71",
-      "min": "261",
-      "pts": ".241",
+      "gp": "72",
+      "min": "264",
+      "pts": ".239",
       "reb": "8",
       "ast": "47",
       "stl": "0",
-      "blk": "47",
+      "blk": "49",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -27,13 +27,13 @@
     {
       "season": "2026",
       "team": "BOS",
-      "gp": "4",
-      "min": "14",
-      "pts": ".071",
+      "gp": "5",
+      "min": "17",
+      "pts": ".059",
       "reb": "0",
       "ast": "0",
       "stl": "0",
-      "blk": "7",
+      "blk": "9",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -117,6 +117,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 16",
+      "matchup": "@ PIT",
+      "result": "L 8-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Aug 15",
+      "matchup": "@ PIT",
+      "result": "W 4-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Aug 14",
       "matchup": "@ PIT",
       "result": "L 8-4",
@@ -148,35 +170,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Jul 18",
-      "matchup": "@ HOU",
-      "result": "W 4-2 F/11",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Jul 18",
-      "matchup": "@ HOU",
-      "result": "W 3-2",
-      "min": "2",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-16T08:19:51.396Z",
-  "statsSyncedAt": "2026-08-16T08:19:51.396Z",
+  "ingestedAt": "2026-08-17T08:33:46.404Z",
+  "statsSyncedAt": "2026-08-17T08:33:46.404Z",
   "active": true,
   "profileSyncedAt": "2026-08-12T09:03:09.895Z",
   "details": {

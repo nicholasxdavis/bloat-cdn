@@ -12,32 +12,32 @@
   "seasonHistory": [
     {
       "season": "2026",
-      "gp": "18",
+      "gp": "19",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "2.93",
-      "fg3Pct": "0.93",
+      "fgPct": "2.85",
+      "fg3Pct": "0.96",
       "ftPct": "7",
-      "to": "6"
+      "to": "7"
     },
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "4.09",
-      "fg3Pct": "1.09",
+      "fgPct": "3.18",
+      "fg3Pct": "1.24",
       "ftPct": "0",
-      "to": "1"
+      "to": "2"
     },
     {
       "season": "2026",
@@ -205,10 +205,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-11T08:47:05.321Z",
+  "ingestedAt": "2026-08-17T08:34:33.871Z",
   "active": true,
   "profileSyncedAt": "2026-08-02T09:53:06.215Z",
-  "statsSyncedAt": "2026-08-11T08:47:05.321Z",
+  "statsSyncedAt": "2026-08-17T08:34:33.871Z",
   "details": {
     "jersey": "29",
     "height": "6' 3\"",
