@@ -12,11 +12,11 @@
   "seasonHistory": [
     {
       "season": "2026",
-      "gp": "72",
-      "min": "264",
-      "pts": ".239",
+      "gp": "73",
+      "min": "269",
+      "pts": ".242",
       "reb": "8",
-      "ast": "47",
+      "ast": "48",
       "stl": "0",
       "blk": "49",
       "fgPct": "-",
@@ -27,11 +27,11 @@
     {
       "season": "2026",
       "team": "BOS",
-      "gp": "5",
-      "min": "17",
-      "pts": ".059",
+      "gp": "6",
+      "min": "22",
+      "pts": ".136",
       "reb": "0",
-      "ast": "0",
+      "ast": "1",
       "stl": "0",
       "blk": "9",
       "fgPct": "-",
@@ -175,8 +175,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-17T08:33:46.404Z",
-  "statsSyncedAt": "2026-08-17T08:33:46.404Z",
+  "ingestedAt": "2026-08-18T08:26:05.079Z",
+  "statsSyncedAt": "2026-08-18T08:26:05.079Z",
   "active": true,
   "profileSyncedAt": "2026-08-12T09:03:09.895Z",
   "details": {

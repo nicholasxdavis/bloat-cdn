@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "PHI",
-      "gp": "125",
-      "min": "438",
-      "pts": ".256",
+      "gp": "126",
+      "min": "442",
+      "pts": ".260",
       "reb": "25",
       "ast": "72",
       "stl": "7",
@@ -238,6 +238,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 16",
+      "matchup": "@ MIN",
+      "result": "W 7-5",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 15",
       "matchup": "@ MIN",
       "result": "W 9-1",
@@ -280,24 +291,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 10",
-      "matchup": "@ STL",
-      "result": "W 6-5",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-17T08:33:51.510Z",
-  "statsSyncedAt": "2026-08-17T08:33:51.510Z",
+  "ingestedAt": "2026-08-18T08:26:08.238Z",
+  "statsSyncedAt": "2026-08-18T08:26:08.238Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:28.481Z",
   "details": {

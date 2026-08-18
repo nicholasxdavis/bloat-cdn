@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "124",
-      "min": "475",
+      "gp": "125",
+      "min": "479",
       "pts": ".251",
       "reb": "20",
       "ast": "64",
       "stl": "2",
-      "blk": "74",
+      "blk": "75",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -163,6 +163,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 16",
+      "matchup": "vs ARI",
+      "result": "W 5-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 15",
       "matchup": "vs ARI",
       "result": "L 10-3",
@@ -205,26 +216,15 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 10",
-      "matchup": "vs NYM",
-      "result": "L 8-5",
-      "min": "2",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-17T08:34:24.341Z",
+  "ingestedAt": "2026-08-18T08:26:37.404Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:22.596Z",
-  "statsSyncedAt": "2026-08-17T08:34:24.341Z",
+  "statsSyncedAt": "2026-08-18T08:26:37.404Z",
   "details": {
     "jersey": "1",
     "height": "5' 7\"",
