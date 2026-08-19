@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "TEX",
-      "gp": "65",
-      "min": "236",
-      "pts": ".203",
+      "gp": "66",
+      "min": "240",
+      "pts": ".208",
       "reb": "12",
       "ast": "30",
       "stl": "1",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 19",
+      "matchup": "vs WSH",
+      "result": "W 5-0",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 16",
       "matchup": "@ ATH",
       "result": "W 5-3",
@@ -235,24 +246,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 12",
-      "matchup": "@ LAA",
-      "result": "L 3-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-17T08:33:58.419Z",
-  "statsSyncedAt": "2026-08-17T08:33:58.419Z",
+  "ingestedAt": "2026-08-19T08:27:03.888Z",
+  "statsSyncedAt": "2026-08-19T08:27:03.888Z",
   "active": true,
   "profileSyncedAt": "2026-08-01T09:53:05.398Z",
   "details": {

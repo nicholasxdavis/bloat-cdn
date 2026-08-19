@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "125",
-      "min": "484",
-      "pts": ".264",
+      "gp": "126",
+      "min": "488",
+      "pts": ".262",
       "reb": "36",
       "ast": "77",
       "stl": "3",
-      "blk": "137",
+      "blk": "138",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -178,6 +178,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 18",
+      "matchup": "@ MIN",
+      "result": "L 4-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 17",
+      "matchup": "@ MIN",
+      "result": "L 4-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 16",
       "matchup": "vs ARI",
       "result": "W 5-3",
@@ -209,37 +231,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 12",
-      "matchup": "vs NYM",
-      "result": "W 6-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Aug 11",
-      "matchup": "vs NYM",
-      "result": "W 4-0",
-      "min": "3",
-      "pts": "—",
-      "reb": "1",
-      "ast": "2",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-18T08:26:33.198Z",
+  "ingestedAt": "2026-08-19T08:27:19.135Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:13.532Z",
-  "statsSyncedAt": "2026-08-18T08:26:33.198Z",
+  "statsSyncedAt": "2026-08-19T08:27:19.135Z",
   "details": {
     "jersey": "28",
     "height": "6' 4\"",

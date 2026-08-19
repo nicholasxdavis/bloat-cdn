@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "CIN",
-      "gp": "106",
-      "min": "417",
-      "pts": ".261",
+      "gp": "107",
+      "min": "421",
+      "pts": ".259",
       "reb": "20",
       "ast": "57",
       "stl": "21",
-      "blk": "129",
+      "blk": "131",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -73,6 +73,39 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 18",
+      "matchup": "vs STL",
+      "result": "L 3-0",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Aug 17",
+      "matchup": "vs STL",
+      "result": "W 6-5 F/10",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 17",
+      "matchup": "vs STL",
+      "result": "L 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "4"
+    },
+    {
       "date": "Aug 16",
       "matchup": "vs MIA",
       "result": "L 7-1",
@@ -93,48 +126,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Aug 14",
-      "matchup": "vs MIA",
-      "result": "W 1-0",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Aug 13",
-      "matchup": "@ CHW",
-      "result": "W 9-8",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Aug 12",
-      "matchup": "@ CHW",
-      "result": "L 5-0",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-18T08:26:16.251Z",
+  "ingestedAt": "2026-08-19T08:27:05.586Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:43.558Z",
-  "statsSyncedAt": "2026-08-18T08:26:16.251Z",
+  "statsSyncedAt": "2026-08-19T08:27:05.586Z",
   "details": {
     "jersey": "44",
     "height": "6' 6\"",
