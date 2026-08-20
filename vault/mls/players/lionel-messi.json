@@ -42,8 +42,8 @@
       "season": "2026 MLS",
       "gp": "-",
       "min": "-",
-      "pts": "12",
-      "reb": "9",
+      "pts": "13",
+      "reb": "10",
       "ast": "-",
       "stl": "-",
       "blk": "3",
@@ -141,8 +141,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-17T08:34:46.317Z",
-  "statsSyncedAt": "2026-08-17T08:34:46.317Z",
+  "ingestedAt": "2026-08-20T08:28:57.269Z",
+  "statsSyncedAt": "2026-08-20T08:28:57.269Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:44:02.371Z",
   "details": {
