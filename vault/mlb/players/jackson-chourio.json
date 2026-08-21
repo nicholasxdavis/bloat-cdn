@@ -13,12 +13,12 @@
     {
       "season": "2026",
       "team": "MIL",
-      "gp": "93",
-      "min": "383",
-      "pts": ".279",
+      "gp": "94",
+      "min": "386",
+      "pts": ".280",
       "reb": "17",
       "ast": "50",
-      "stl": "12",
+      "stl": "13",
       "blk": "103",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -116,8 +116,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-20T08:28:18.917Z",
-  "statsSyncedAt": "2026-08-20T08:28:18.917Z",
+  "ingestedAt": "2026-08-21T08:29:53.830Z",
+  "statsSyncedAt": "2026-08-21T08:29:53.830Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:54.260Z",
   "details": {

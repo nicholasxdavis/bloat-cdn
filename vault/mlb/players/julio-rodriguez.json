@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "116",
-      "min": "454",
+      "gp": "117",
+      "min": "459",
       "pts": ".253",
       "reb": "19",
       "ast": "53",
       "stl": "16",
-      "blk": "106",
+      "blk": "107",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -88,6 +88,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 19",
+      "matchup": "@ MIL",
+      "result": "W 7-5",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 18",
       "matchup": "@ MIL",
       "result": "L 22-0",
@@ -130,26 +141,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Aug 13",
-      "matchup": "@ NYY",
-      "result": "W 1-0",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-20T08:28:26.186Z",
+  "ingestedAt": "2026-08-21T08:30:00.247Z",
   "active": true,
   "profileSyncedAt": "2026-07-19T09:47:23.273Z",
-  "statsSyncedAt": "2026-08-20T08:28:26.186Z",
+  "statsSyncedAt": "2026-08-21T08:30:00.247Z",
   "details": {
     "jersey": "44",
     "height": "6' 4\"",
