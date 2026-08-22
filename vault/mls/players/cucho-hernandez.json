@@ -37,6 +37,20 @@
       "fg3Pct": "-",
       "ftPct": "-",
       "to": "-"
+    },
+    {
+      "season": "2026-27 LALIGA",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "1",
+      "ast": "-",
+      "stl": "-",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
     }
   ],
   "recentGames": [
@@ -99,10 +113,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-17T08:34:41.686Z",
+  "ingestedAt": "2026-08-22T08:21:05.862Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:52.995Z",
-  "statsSyncedAt": "2026-08-17T08:34:41.686Z",
+  "statsSyncedAt": "2026-08-22T08:21:05.862Z",
   "details": {
     "jersey": "19",
     "height": "5' 9\"",
