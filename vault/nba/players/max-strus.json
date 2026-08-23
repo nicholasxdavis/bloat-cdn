@@ -5,7 +5,7 @@
   "name": "Max Strus",
   "sport": "nba",
   "position": "G",
-  "team": "CLE",
+  "team": "LAC",
   "headshot": "media/headshots/nba/strusma01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/4065778.png",
   "legend": false,
@@ -176,9 +176,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:42:09.505Z",
+  "ingestedAt": "2026-08-23T10:35:27.320Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:47:22.653Z",
+  "profileSyncedAt": "2026-08-23T10:35:27.320Z",
   "details": {
     "jersey": "2",
     "height": "6' 5\"",

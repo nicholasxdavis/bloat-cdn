@@ -5,7 +5,7 @@
   "name": "DeMar DeRozan",
   "sport": "nba",
   "position": "G",
-  "team": "SAC",
+  "team": "DEN",
   "headshot": "media/headshots/nba/derozde01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3978.png",
   "legend": false,
@@ -326,9 +326,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-12T11:23:31.200Z",
-  "active": false,
-  "profileSyncedAt": "2026-07-12T11:23:31.200Z",
+  "ingestedAt": "2026-08-23T10:34:22.918Z",
+  "active": true,
+  "profileSyncedAt": "2026-08-23T10:34:22.918Z",
   "details": {
     "jersey": "10",
     "height": "6' 6\"",
