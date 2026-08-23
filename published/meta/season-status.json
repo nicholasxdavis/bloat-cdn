@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T08:15:16.694Z",
+  "syncedAt": "2026-08-23T08:15:40.354Z",
   "sports": [
     {
       "sportId": "nba",
@@ -8,7 +8,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Aug)",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     },
     {
       "sportId": "wnba",
@@ -17,7 +17,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 2",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 2,
       "recentEvents": 3
     },
@@ -28,7 +28,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Aug)",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     },
     {
       "sportId": "mlb",
@@ -37,7 +37,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 2",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 2,
       "recentEvents": 15
     },
@@ -48,7 +48,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Aug)",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     },
     {
       "sportId": "mls",
@@ -57,9 +57,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 13846",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 13846,
-      "recentEvents": 13
+      "recentEvents": 2
     },
     {
       "sportId": "epl",
@@ -68,7 +68,7 @@
       "nightlyEligible": false,
       "weeklyEligible": true,
       "reason": "hard off-season (Aug)",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     },
     {
       "sportId": "laliga",
@@ -77,7 +77,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14357",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14357,
       "recentEvents": 3
     },
@@ -88,7 +88,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14358",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14358,
       "recentEvents": 1
     },
@@ -99,7 +99,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14240",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14240,
       "recentEvents": 4
     },
@@ -110,9 +110,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14252",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14252,
-      "recentEvents": 5
+      "recentEvents": 3
     },
     {
       "sportId": "ucl",
@@ -121,7 +121,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 13677",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 13677,
       "recentEvents": 1
     },
@@ -132,7 +132,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 13683",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 13683,
       "recentEvents": 1
     },
@@ -143,9 +143,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14277",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14277,
-      "recentEvents": 3
+      "recentEvents": 2
     },
     {
       "sportId": "brasileirao",
@@ -154,9 +154,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 13907",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 13907,
-      "recentEvents": 3
+      "recentEvents": 6
     },
     {
       "sportId": "eredivisie",
@@ -165,9 +165,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14250",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14250,
-      "recentEvents": 4
+      "recentEvents": 3
     },
     {
       "sportId": "championship",
@@ -176,9 +176,9 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14327",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14327,
-      "recentEvents": 11
+      "recentEvents": 1
     },
     {
       "sportId": "primeira",
@@ -187,7 +187,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "in-season — ESPN season type 14361",
-      "checkedAt": "2026-08-22T08:15:11.476Z",
+      "checkedAt": "2026-08-23T08:15:35.075Z",
       "espnSeasonType": 14361,
       "recentEvents": 3
     },
@@ -198,7 +198,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     },
     {
       "sportId": "tennis",
@@ -207,7 +207,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     },
     {
       "sportId": "golf",
@@ -216,7 +216,7 @@
       "nightlyEligible": true,
       "weeklyEligible": true,
       "reason": "year-round sport",
-      "checkedAt": "2026-08-22T08:15:11.476Z"
+      "checkedAt": "2026-08-23T08:15:35.075Z"
     }
   ]
 }

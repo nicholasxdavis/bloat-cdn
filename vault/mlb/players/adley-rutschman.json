@@ -12,13 +12,13 @@
   "seasonHistory": [
     {
       "season": "2026",
-      "gp": "76",
-      "min": "278",
-      "pts": ".245",
+      "gp": "77",
+      "min": "282",
+      "pts": ".241",
       "reb": "9",
       "ast": "51",
       "stl": "0",
-      "blk": "50",
+      "blk": "51",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -27,13 +27,13 @@
     {
       "season": "2026",
       "team": "BOS",
-      "gp": "9",
-      "min": "31",
-      "pts": ".194",
+      "gp": "10",
+      "min": "35",
+      "pts": ".171",
       "reb": "1",
       "ast": "4",
       "stl": "0",
-      "blk": "10",
+      "blk": "11",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -117,6 +117,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 21",
+      "matchup": "vs SF",
+      "result": "W 6-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 19",
       "matchup": "vs ARI",
       "result": "L 7-6 F/10",
@@ -159,24 +170,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Aug 15",
-      "matchup": "@ PIT",
-      "result": "W 4-0",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-22T08:20:25.831Z",
-  "statsSyncedAt": "2026-08-22T08:20:25.831Z",
+  "ingestedAt": "2026-08-23T08:20:44.979Z",
+  "statsSyncedAt": "2026-08-23T08:20:44.979Z",
   "active": true,
   "profileSyncedAt": "2026-08-12T09:03:09.895Z",
   "details": {
