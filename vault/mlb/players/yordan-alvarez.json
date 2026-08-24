@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "128",
-      "min": "461",
-      "pts": ".319",
+      "gp": "129",
+      "min": "463",
+      "pts": ".320",
       "reb": "36",
       "ast": "90",
       "stl": "1",
@@ -135,6 +135,17 @@
     {
       "date": "Aug 22",
       "matchup": "vs ATH",
+      "result": "L 4-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 22",
+      "matchup": "vs ATH",
       "result": "W 4-0",
       "min": "3",
       "pts": "—",
@@ -175,24 +186,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Aug 16",
-      "matchup": "vs SEA",
-      "result": "L 3-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-23T08:21:26.343Z",
-  "statsSyncedAt": "2026-08-23T08:21:26.343Z",
+  "ingestedAt": "2026-08-24T08:40:15.303Z",
+  "statsSyncedAt": "2026-08-24T08:40:15.303Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z",
   "details": {

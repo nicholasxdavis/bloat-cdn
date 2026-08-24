@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "96",
-      "min": "341",
-      "pts": ".158",
+      "gp": "97",
+      "min": "345",
+      "pts": ".159",
       "reb": "14",
       "ast": "47",
       "stl": "2",
-      "blk": "125",
+      "blk": "126",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -103,6 +103,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 23",
+      "matchup": "vs CHC",
+      "result": "L 19-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 22",
+      "matchup": "vs CHC",
+      "result": "W 5-4",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 22",
       "matchup": "vs CHC",
       "result": "W 6-5 F/10",
@@ -134,35 +156,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 18",
-      "matchup": "@ MIL",
-      "result": "L 22-0",
-      "min": "1",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Aug 16",
-      "matchup": "@ HOU",
-      "result": "W 3-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-23T08:20:48.077Z",
-  "statsSyncedAt": "2026-08-23T08:20:48.077Z",
+  "ingestedAt": "2026-08-24T08:39:34.603Z",
+  "statsSyncedAt": "2026-08-24T08:39:34.603Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:29.870Z",
   "details": {

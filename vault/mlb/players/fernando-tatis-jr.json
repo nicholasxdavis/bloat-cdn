@@ -13,12 +13,12 @@
     {
       "season": "2026",
       "team": "SD",
-      "gp": "128",
-      "min": "498",
-      "pts": ".285",
-      "reb": "15",
-      "ast": "63",
-      "stl": "28",
+      "gp": "129",
+      "min": "503",
+      "pts": ".290",
+      "reb": "17",
+      "ast": "67",
+      "stl": "29",
       "blk": "104",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -118,6 +118,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 23",
+      "matchup": "vs MIN",
+      "result": "W 8-1",
+      "min": "5",
+      "pts": "—",
+      "reb": "2",
+      "ast": "4",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Aug 23",
+      "matchup": "vs MIN",
+      "result": "W 7-5",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 22",
       "matchup": "vs MIN",
       "result": "W 6-2",
@@ -149,35 +171,13 @@
       "ast": "3",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 17",
-      "matchup": "@ NYM",
-      "result": "L 2-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Aug 16",
-      "matchup": "@ CLE",
-      "result": "W 5-0",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-23T08:20:56.461Z",
-  "statsSyncedAt": "2026-08-23T08:20:56.461Z",
+  "ingestedAt": "2026-08-24T08:39:42.281Z",
+  "statsSyncedAt": "2026-08-24T08:39:42.281Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:45.131Z",
   "details": {

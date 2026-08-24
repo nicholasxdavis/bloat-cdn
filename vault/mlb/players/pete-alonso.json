@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "130",
-      "min": "488",
-      "pts": ".273",
+      "gp": "131",
+      "min": "492",
+      "pts": ".270",
       "reb": "30",
       "ast": "85",
       "stl": "5",
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 22",
+      "matchup": "vs TB",
+      "result": "W 3-2 F/10",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 21",
       "matchup": "vs TB",
       "result": "W 5-3",
@@ -175,26 +186,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 17",
-      "matchup": "@ TB",
-      "result": "L 7-6",
-      "min": "5",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-23T08:21:18.437Z",
+  "ingestedAt": "2026-08-24T08:40:06.064Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:27.148Z",
-  "statsSyncedAt": "2026-08-23T08:21:18.437Z",
+  "statsSyncedAt": "2026-08-24T08:40:06.064Z",
   "details": {
     "jersey": "25",
     "height": "6' 3\"",
