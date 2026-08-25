@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 23",
+      "matchup": "vs PIT",
+      "result": "W 4-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Aug 18",
       "matchup": "@ COL",
       "result": "W 11-5",
@@ -214,8 +225,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-24T08:39:30.707Z",
-  "statsSyncedAt": "2026-08-24T08:39:30.707Z",
+  "ingestedAt": "2026-08-25T08:33:10.073Z",
+  "statsSyncedAt": "2026-08-25T08:33:10.073Z",
   "details": {
     "jersey": "7",
     "height": "6' 4\"",
