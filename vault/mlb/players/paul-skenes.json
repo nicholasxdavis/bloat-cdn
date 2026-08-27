@@ -58,6 +58,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 26",
+      "matchup": "@ SD",
+      "result": "W 1-0",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Aug 19",
       "matchup": "vs DET",
       "result": "W 4-3",
@@ -100,24 +111,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Jul 25",
-      "matchup": "vs CHC",
-      "result": "L 11-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-26T08:33:55.837Z",
-  "statsSyncedAt": "2026-08-26T08:33:55.837Z",
+  "ingestedAt": "2026-08-27T18:33:55.416Z",
+  "statsSyncedAt": "2026-08-27T18:33:55.416Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:24.101Z",
   "details": {

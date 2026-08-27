@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "132",
-      "min": "496",
+      "gp": "133",
+      "min": "500",
       "pts": ".276",
-      "reb": "31",
-      "ast": "89",
+      "reb": "32",
+      "ast": "91",
       "stl": "5",
-      "blk": "135",
+      "blk": "136",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,6 +133,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 26",
+      "matchup": "@ STL",
+      "result": "W 8-7",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 25",
+      "matchup": "@ STL",
+      "result": "W 13-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "4",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 23",
       "matchup": "vs TB",
       "result": "L 3-1",
@@ -164,37 +186,15 @@
       "ast": "3",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 20",
-      "matchup": "vs NYY",
-      "result": "L 6-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Aug 19",
-      "matchup": "vs NYY",
-      "result": "L 5-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-26T08:33:56.662Z",
+  "ingestedAt": "2026-08-27T18:33:56.744Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:27.148Z",
-  "statsSyncedAt": "2026-08-26T08:33:56.662Z",
+  "statsSyncedAt": "2026-08-27T18:33:56.744Z",
   "details": {
     "jersey": "25",
     "height": "6' 3\"",

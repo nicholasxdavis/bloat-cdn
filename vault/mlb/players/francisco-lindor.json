@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYM",
-      "gp": "75",
-      "min": "289",
-      "pts": ".239",
+      "gp": "76",
+      "min": "292",
+      "pts": ".236",
       "reb": "13",
       "ast": "33",
       "stl": "3",
-      "blk": "59",
+      "blk": "60",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -193,6 +193,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 26",
+      "matchup": "vs MIL",
+      "result": "L 8-1",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Aug 25",
+      "matchup": "vs MIL",
+      "result": "W 3-2 F/10",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 23",
       "matchup": "@ CHW",
       "result": "L 2-1",
@@ -224,37 +246,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 19",
-      "matchup": "vs SD",
-      "result": "W 4-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Aug 18",
-      "matchup": "vs SD",
-      "result": "L 5-2",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-26T08:33:39.821Z",
+  "ingestedAt": "2026-08-27T18:33:32.723Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:46.510Z",
-  "statsSyncedAt": "2026-08-26T08:33:39.821Z",
+  "statsSyncedAt": "2026-08-27T18:33:32.723Z",
   "details": {
     "jersey": "12",
     "height": "5' 10\"",

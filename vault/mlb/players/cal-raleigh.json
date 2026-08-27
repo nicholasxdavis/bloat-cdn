@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "99",
-      "min": "350",
-      "pts": ".169",
+      "gp": "100",
+      "min": "354",
+      "pts": ".167",
       "reb": "18",
       "ast": "52",
       "stl": "2",
-      "blk": "127",
+      "blk": "131",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -103,6 +103,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 26",
+      "matchup": "vs PHI",
+      "result": "L 6-0",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "4"
+    },
+    {
+      "date": "Aug 26",
+      "matchup": "vs PHI",
+      "result": "W 4-1",
+      "min": "2",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Aug 25",
       "matchup": "vs PHI",
       "result": "W 9-2",
@@ -134,35 +156,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 22",
-      "matchup": "vs CHC",
-      "result": "W 6-5 F/10",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "3",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Aug 20",
-      "matchup": "@ MIL",
-      "result": "L 7-4",
-      "min": "0",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-26T08:33:32.190Z",
-  "statsSyncedAt": "2026-08-26T08:33:32.190Z",
+  "ingestedAt": "2026-08-27T18:33:22.311Z",
+  "statsSyncedAt": "2026-08-27T18:33:22.311Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:29.870Z",
   "details": {
