@@ -5,7 +5,6 @@
   "name": "Dirk Nowitzki",
   "sport": "nba",
   "position": "F",
-  "team": "DAL",
   "headshot": "media/headshots/nba/nowitdi01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/609.png",
   "legend": true,
@@ -386,7 +385,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:40:53.615Z",
+  "ingestedAt": "2026-08-30T14:50:45.216Z",
   "details": {
     "jersey": "41",
     "height": "7' 0\"",
@@ -395,5 +394,7 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/609.png"
   },
-  "detailSyncedAt": "2026-07-01T13:40:53.615Z"
+  "detailSyncedAt": "2026-07-01T13:40:53.615Z",
+  "active": false,
+  "profileSyncedAt": "2026-08-30T14:50:45.216Z"
 }

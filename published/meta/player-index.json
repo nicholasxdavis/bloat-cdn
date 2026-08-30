@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-08-30T13:28:52.547Z",
+  "syncedAt": "2026-08-30T14:51:37.356Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -3901,7 +3901,10 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T17:47:49.021Z",
-      "detailSyncedAt": "2026-07-01T13:40:53.616Z"
+      "detailSyncedAt": "2026-07-01T13:40:53.616Z",
+      "position": "F",
+      "active": false,
+      "profileSyncedAt": "2026-08-30T14:50:45.218Z"
     },
     {
       "sport": "nba",
@@ -5044,10 +5047,10 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T15:23:13.867Z",
-      "team": "DAL",
+      "team": "MIA",
       "position": "G",
-      "active": false,
-      "profileSyncedAt": "2026-08-23T10:35:13.913Z",
+      "active": true,
+      "profileSyncedAt": "2026-08-30T14:51:37.353Z",
       "detailSyncedAt": "2026-07-01T13:41:51.814Z"
     },
     {
