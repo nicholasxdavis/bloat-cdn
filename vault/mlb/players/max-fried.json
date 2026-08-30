@@ -13,14 +13,14 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "15",
+      "gp": "16",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "2.81",
+      "fgPct": "2.80",
       "fg3Pct": "1.00",
       "ftPct": "4",
       "to": "4"
@@ -163,6 +163,17 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 29",
+      "matchup": "vs BOS",
+      "result": "W 9-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Aug 13",
       "matchup": "vs SEA",
       "result": "L 1-0",
@@ -205,24 +216,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Jul 22",
-      "matchup": "vs PIT",
-      "result": "W 2-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-18T08:26:34.420Z",
-  "statsSyncedAt": "2026-08-14T09:00:58.455Z",
+  "ingestedAt": "2026-08-30T13:28:24.741Z",
+  "statsSyncedAt": "2026-08-30T13:28:24.349Z",
   "details": {
     "jersey": "54",
     "height": "6' 4\"",
@@ -232,6 +232,6 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/32685.png"
   },
   "detailSyncedAt": "2026-07-01T13:39:08.669Z",
-  "active": false,
-  "profileSyncedAt": "2026-08-18T08:26:34.420Z"
+  "active": true,
+  "profileSyncedAt": "2026-08-30T13:28:24.741Z"
 }

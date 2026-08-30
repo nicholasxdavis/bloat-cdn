@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "ARI",
-      "gp": "132",
-      "min": "492",
-      "pts": ".248",
+      "gp": "134",
+      "min": "499",
+      "pts": ".244",
       "reb": "19",
       "ast": "61",
       "stl": "20",
-      "blk": "125",
+      "blk": "127",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -88,6 +88,28 @@
   ],
   "recentGames": [
     {
+      "date": "Aug 30",
+      "matchup": "@ SF",
+      "result": "L 7-2",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Aug 29",
+      "matchup": "@ SF",
+      "result": "W 7-1",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Aug 29",
       "matchup": "@ SF",
       "result": "W 10-6",
@@ -119,35 +141,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Aug 26",
-      "matchup": "vs CHC",
-      "result": "W 5-4",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Aug 25",
-      "matchup": "vs CHC",
-      "result": "L 7-0",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-29T13:31:48.995Z",
-  "statsSyncedAt": "2026-08-29T13:31:48.995Z",
+  "ingestedAt": "2026-08-30T13:28:00.072Z",
+  "statsSyncedAt": "2026-08-30T13:28:00.072Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:37.419Z",
   "details": {
