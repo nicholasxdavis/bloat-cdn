@@ -10,15 +10,15 @@
   "seasonHistory": [
     {
       "season": "PGA TOUR",
-      "gp": "19",
+      "gp": "20",
       "min": "-",
       "pts": "-",
-      "reb": "8",
+      "reb": "9",
       "ast": "0",
-      "stl": "$7,147,271",
+      "stl": "$8,854,414",
       "blk": "17",
-      "fgPct": "69.4",
-      "fg3Pct": "69.4",
+      "fgPct": "69.3",
+      "fg3Pct": "69.3",
       "ftPct": "-",
       "to": "-"
     },
@@ -41,8 +41,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-28T19:44:04.041Z",
-  "statsSyncedAt": "2026-08-28T19:44:04.041Z",
+  "ingestedAt": "2026-08-31T15:36:49.983Z",
+  "statsSyncedAt": "2026-08-31T15:36:49.983Z",
   "details": {
     "height": "6' 3\"",
     "college": "Texas Tech",
