@@ -326,11 +326,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-23T10:34:22.918Z",
+  "ingestedAt": "2026-09-01T15:29:20.779Z",
   "active": true,
   "profileSyncedAt": "2026-08-23T10:34:22.918Z",
   "details": {
-    "jersey": "10",
     "height": "6' 6\"",
     "weight": "220 lbs",
     "debutYear": 2009,
@@ -338,5 +337,5 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3978.png"
   },
-  "detailSyncedAt": "2026-07-01T13:40:44.908Z"
+  "detailSyncedAt": "2026-09-01T15:29:20.779Z"
 }

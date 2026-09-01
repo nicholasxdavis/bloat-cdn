@@ -323,11 +323,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-12T11:23:24.247Z",
+  "ingestedAt": "2026-09-01T15:29:13.575Z",
   "active": true,
   "profileSyncedAt": "2026-07-12T11:23:24.247Z",
   "details": {
-    "jersey": "5",
     "height": "6' 3\"",
     "weight": "193 lbs",
     "debutYear": 2015,
@@ -335,5 +334,5 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nba/players/full/3136776.png"
   },
-  "detailSyncedAt": "2026-07-01T13:40:36.458Z"
+  "detailSyncedAt": "2026-09-01T15:29:13.575Z"
 }
