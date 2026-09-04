@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "HOU",
-      "gp": "138",
-      "min": "495",
-      "pts": ".317",
+      "gp": "139",
+      "min": "497",
+      "pts": ".316",
       "reb": "37",
       "ast": "94",
       "stl": "1",
-      "blk": "105",
+      "blk": "106",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -135,6 +135,17 @@
     {
       "date": "Sep 3",
       "matchup": "vs CHW",
+      "result": "W 6-2",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Sep 3",
+      "matchup": "vs CHW",
       "result": "W 2-0",
       "min": "4",
       "pts": "—",
@@ -175,24 +186,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 29",
-      "matchup": "@ NYM",
-      "result": "L 6-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "1",
-      "ast": "2",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-03T12:24:01.430Z",
-  "statsSyncedAt": "2026-09-03T12:24:01.430Z",
+  "ingestedAt": "2026-09-04T12:25:36.769Z",
+  "statsSyncedAt": "2026-09-04T12:25:36.769Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:45.286Z",
   "details": {
