@@ -55,6 +55,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 4",
+      "matchup": "vs RMA",
+      "result": "W 1-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Aug 29",
       "matchup": "@ LEV",
       "result": "L 5-2",
@@ -97,26 +108,15 @@
       "ast": "—",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Jul 7",
-      "matchup": "@ SUI",
-      "result": "D 0-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-01T15:28:40.782Z",
+  "ingestedAt": "2026-09-05T11:32:08.137Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:52.995Z",
-  "statsSyncedAt": "2026-08-30T13:28:45.483Z",
+  "statsSyncedAt": "2026-09-05T11:32:08.137Z",
   "details": {
     "jersey": "9",
     "height": "5' 9\"",

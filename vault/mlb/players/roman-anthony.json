@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BOS",
-      "gp": "35",
-      "min": "131",
-      "pts": ".267",
+      "gp": "36",
+      "min": "135",
+      "pts": ".259",
       "reb": "3",
       "ast": "7",
       "stl": "2",
-      "blk": "38",
+      "blk": "39",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -101,7 +101,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-04T12:25:27.908Z",
+  "ingestedAt": "2026-09-05T11:31:57.879Z",
   "details": {
     "jersey": "19",
     "height": "6' 3\"",
@@ -111,7 +111,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/5080767.png"
   },
   "detailSyncedAt": "2026-07-01T13:39:20.382Z",
-  "statsSyncedAt": "2026-09-04T12:25:27.908Z",
+  "statsSyncedAt": "2026-09-05T11:31:57.879Z",
   "active": true,
   "profileSyncedAt": "2026-08-31T15:40:36.723Z"
 }

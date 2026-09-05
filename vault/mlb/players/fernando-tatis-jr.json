@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "SD",
-      "gp": "138",
-      "min": "543",
-      "pts": ".284",
+      "gp": "139",
+      "min": "547",
+      "pts": ".282",
       "reb": "19",
       "ast": "70",
       "stl": "31",
@@ -176,8 +176,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-04T12:24:58.238Z",
-  "statsSyncedAt": "2026-09-04T12:24:58.238Z",
+  "ingestedAt": "2026-09-05T11:31:37.216Z",
+  "statsSyncedAt": "2026-09-05T11:31:37.216Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:45.131Z",
   "details": {

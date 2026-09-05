@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "CLE",
-      "gp": "106",
-      "min": "394",
-      "pts": ".241",
+      "gp": "108",
+      "min": "401",
+      "pts": ".239",
       "reb": "11",
       "ast": "48",
       "stl": "31",
@@ -281,7 +281,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-04T12:25:09.245Z",
+  "ingestedAt": "2026-09-05T11:31:44.351Z",
   "details": {
     "jersey": "11",
     "height": "5' 8\"",
@@ -291,7 +291,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/32801.png"
   },
   "detailSyncedAt": "2026-07-01T13:38:59.289Z",
-  "statsSyncedAt": "2026-09-04T12:25:09.245Z",
+  "statsSyncedAt": "2026-09-05T11:31:44.351Z",
   "active": true,
   "profileSyncedAt": "2026-07-23T10:15:12.437Z"
 }
