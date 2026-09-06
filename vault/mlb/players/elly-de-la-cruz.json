@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "CIN",
-      "gp": "122",
-      "min": "482",
-      "pts": ".276",
-      "reb": "21",
-      "ast": "61",
+      "gp": "123",
+      "min": "486",
+      "pts": ".278",
+      "reb": "22",
+      "ast": "62",
       "stl": "24",
-      "blk": "148",
+      "blk": "150",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -73,6 +73,28 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 5",
+      "matchup": "vs MIL",
+      "result": "W 5-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Sep 4",
+      "matchup": "vs MIL",
+      "result": "L 10-7",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Sep 2",
       "matchup": "vs SD",
       "result": "W 7-3",
@@ -104,37 +126,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 30",
-      "matchup": "@ CHC",
-      "result": "W 7-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Aug 29",
-      "matchup": "@ CHC",
-      "result": "L 17-5",
-      "min": "2",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-05T11:31:36.177Z",
+  "ingestedAt": "2026-09-06T11:52:40.954Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:43.558Z",
-  "statsSyncedAt": "2026-09-05T11:31:36.177Z",
+  "statsSyncedAt": "2026-09-06T11:52:40.954Z",
   "details": {
     "jersey": "44",
     "height": "6' 6\"",

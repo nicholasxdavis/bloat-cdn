@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "WSH",
-      "gp": "90",
-      "min": "333",
-      "pts": ".216",
+      "gp": "91",
+      "min": "337",
+      "pts": ".220",
       "reb": "10",
-      "ast": "34",
-      "stl": "8",
-      "blk": "90",
+      "ast": "35",
+      "stl": "9",
+      "blk": "92",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Sep 6",
+      "matchup": "@ LAD",
+      "result": "L 6-5",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "2"
+    },
     {
       "date": "Sep 5",
       "matchup": "@ LAD",
@@ -100,24 +111,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 29",
-      "matchup": "vs MIA",
-      "result": "W 5-4 F/10",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-05T11:31:35.496Z",
-  "statsSyncedAt": "2026-09-05T11:31:35.496Z",
+  "ingestedAt": "2026-09-06T11:52:40.158Z",
+  "statsSyncedAt": "2026-09-06T11:52:40.158Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:42.138Z",
   "details": {
