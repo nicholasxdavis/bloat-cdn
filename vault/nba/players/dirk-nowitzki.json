@@ -385,7 +385,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-30T14:50:45.216Z",
+  "ingestedAt": "2026-09-06T13:35:53.078Z",
   "details": {
     "jersey": "41",
     "height": "7' 0\"",
@@ -396,5 +396,6 @@
   },
   "detailSyncedAt": "2026-07-01T13:40:53.615Z",
   "active": false,
-  "profileSyncedAt": "2026-08-30T14:50:45.216Z"
+  "profileSyncedAt": "2026-09-06T13:35:53.078Z",
+  "team": "DAL"
 }

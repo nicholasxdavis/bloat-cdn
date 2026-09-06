@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-09-06T11:53:17.334Z",
+  "syncedAt": "2026-09-06T13:35:53.082Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -3909,7 +3909,8 @@
       "detailSyncedAt": "2026-09-01T15:29:28.801Z",
       "position": "F",
       "active": false,
-      "profileSyncedAt": "2026-08-30T14:50:45.218Z"
+      "profileSyncedAt": "2026-09-06T13:35:53.079Z",
+      "team": "DAL"
     },
     {
       "sport": "nba",
