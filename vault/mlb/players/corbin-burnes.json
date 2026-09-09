@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "2026",
+      "team": "ARI",
+      "gp": "1",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "0.00",
+      "fg3Pct": "1.33",
+      "ftPct": "0",
+      "to": "0"
+    },
+    {
       "season": "2025",
       "team": "ARI",
       "gp": "11",
@@ -133,53 +148,9 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 1",
-      "matchup": "vs WSH",
-      "result": "W 3-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "May 28",
-      "matchup": "vs PIT",
-      "result": "L 9-6",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "May 22",
-      "matchup": "@ LAD",
-      "result": "L 3-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "May 17",
-      "matchup": "vs COL",
-      "result": "W 8-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "May 11",
-      "matchup": "vs LAD",
-      "result": "W 3-0",
+      "date": "Sep 8",
+      "matchup": "@ KC",
+      "result": "W 5-3 F/11",
       "min": "—",
       "pts": "—",
       "reb": "0",
@@ -191,8 +162,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:38:42.154Z",
-  "statsSyncedAt": "2026-06-16T12:48:24.686Z",
+  "ingestedAt": "2026-09-09T12:37:32.963Z",
+  "statsSyncedAt": "2026-09-09T12:37:32.605Z",
   "details": {
     "jersey": "39",
     "height": "6' 3\"",
@@ -202,5 +173,7 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/39878.png"
   },
-  "detailSyncedAt": "2026-07-01T13:38:42.154Z"
+  "detailSyncedAt": "2026-07-01T13:38:42.154Z",
+  "active": true,
+  "profileSyncedAt": "2026-09-09T12:37:32.963Z"
 }

@@ -51,6 +51,20 @@
       "fg3Pct": "-",
       "ftPct": "-",
       "to": "-"
+    },
+    {
+      "season": "2026-27 Champions League",
+      "gp": "-",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "0",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
     }
   ],
   "recentGames": [
@@ -113,10 +127,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-05T11:32:08.137Z",
+  "ingestedAt": "2026-09-09T12:38:21.962Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:52.995Z",
-  "statsSyncedAt": "2026-09-05T11:32:08.137Z",
+  "statsSyncedAt": "2026-09-09T12:38:21.962Z",
   "details": {
     "jersey": "9",
     "height": "5' 9\"",

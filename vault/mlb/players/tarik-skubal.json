@@ -12,31 +12,31 @@
   "seasonHistory": [
     {
       "season": "2026",
-      "gp": "22",
+      "gp": "23",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "2.86",
-      "fg3Pct": "0.98",
-      "ftPct": "8",
+      "fgPct": "2.84",
+      "fg3Pct": "0.97",
+      "ftPct": "9",
       "to": "7"
     },
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "3.03",
-      "fg3Pct": "1.18",
-      "ftPct": "1",
+      "fgPct": "2.93",
+      "fg3Pct": "1.12",
+      "ftPct": "2",
       "to": "2"
     },
     {
@@ -147,6 +147,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 9",
+      "matchup": "vs CIN",
+      "result": "W 3-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 4",
       "matchup": "vs STL",
       "result": "W 3-2",
@@ -189,26 +200,15 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Aug 11",
-      "matchup": "vs KC",
-      "result": "W 6-5",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-04T12:25:32.875Z",
+  "ingestedAt": "2026-09-09T12:38:12.320Z",
   "active": true,
   "profileSyncedAt": "2026-08-02T09:53:06.215Z",
-  "statsSyncedAt": "2026-09-04T12:25:32.875Z",
+  "statsSyncedAt": "2026-09-09T12:38:12.320Z",
   "details": {
     "jersey": "29",
     "height": "6' 3\"",
