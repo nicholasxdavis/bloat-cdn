@@ -13,11 +13,11 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "93",
-      "min": "294",
+      "gp": "94",
+      "min": "298",
       "pts": ".235",
       "reb": "7",
-      "ast": "29",
+      "ast": "30",
       "stl": "8",
       "blk": "80",
       "fgPct": "-",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Sep 9",
+      "matchup": "vs CLE",
+      "result": "W 9-5",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "0"
+    },
     {
       "date": "Sep 8",
       "matchup": "vs CLE",
@@ -100,26 +111,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Sep 3",
-      "matchup": "vs BOS",
-      "result": "L 6-5",
-      "min": "1",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-09T12:37:44.538Z",
+  "ingestedAt": "2026-09-10T12:31:32.093Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:55.694Z",
-  "statsSyncedAt": "2026-09-09T12:37:44.538Z",
+  "statsSyncedAt": "2026-09-10T12:31:32.093Z",
   "details": {
     "jersey": "7",
     "height": "5' 11\"",
