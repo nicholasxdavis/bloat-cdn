@@ -74,7 +74,7 @@
       "reb": "3",
       "ast": "-",
       "stl": "-",
-      "blk": "0",
+      "blk": "1",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -82,6 +82,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Sep 13",
+      "matchup": "vs UANL",
+      "result": "D 0-0",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "1"
+    },
     {
       "date": "Sep 7",
       "matchup": "@ TOL",
@@ -125,23 +136,12 @@
       "ast": "—",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Aug 22",
-      "matchup": "@ LEO",
-      "result": "L 2-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-07T13:53:04.080Z",
+  "ingestedAt": "2026-09-13T13:00:27.945Z",
   "active": true,
   "profileSyncedAt": "2026-08-04T10:36:25.618Z",
   "details": {
@@ -152,5 +152,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/235817.png"
   },
   "detailSyncedAt": "2026-09-01T15:28:42.451Z",
-  "statsSyncedAt": "2026-09-07T13:53:04.080Z"
+  "statsSyncedAt": "2026-09-13T13:00:27.945Z"
 }

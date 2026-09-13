@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "PHI",
-      "gp": "148",
-      "min": "521",
+      "gp": "149",
+      "min": "524",
       "pts": ".271",
-      "reb": "27",
-      "ast": "82",
+      "reb": "28",
+      "ast": "83",
       "stl": "7",
-      "blk": "135",
+      "blk": "136",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -238,6 +238,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 12",
+      "matchup": "@ ATL",
+      "result": "L 12-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "1",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Sep 11",
       "matchup": "@ ATL",
       "result": "L 6-5 F/11",
@@ -280,24 +291,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 7",
-      "matchup": "vs ATL",
-      "result": "W 1-0",
-      "min": "2",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-12T11:50:44.126Z",
-  "statsSyncedAt": "2026-09-12T11:50:44.126Z",
+  "ingestedAt": "2026-09-13T12:59:41.131Z",
+  "statsSyncedAt": "2026-09-13T12:59:41.131Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:28.481Z",
   "details": {
