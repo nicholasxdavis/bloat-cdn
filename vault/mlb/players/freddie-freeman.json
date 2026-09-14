@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "141",
-      "min": "529",
-      "pts": ".295",
+      "gp": "142",
+      "min": "533",
+      "pts": ".293",
       "reb": "16",
       "ast": "66",
       "stl": "7",
-      "blk": "102",
+      "blk": "103",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -326,8 +326,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-13T12:59:50.435Z",
-  "statsSyncedAt": "2026-09-13T12:59:50.435Z",
+  "ingestedAt": "2026-09-14T14:36:55.717Z",
+  "statsSyncedAt": "2026-09-14T14:36:55.717Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:48.109Z",
   "details": {

@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "63",
-      "min": "228",
-      "pts": ".246",
+      "gp": "64",
+      "min": "231",
+      "pts": ".242",
       "reb": "17",
       "ast": "38",
       "stl": "5",
-      "blk": "78",
+      "blk": "81",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -236,8 +236,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-13T12:59:32.957Z",
-  "statsSyncedAt": "2026-09-13T12:59:32.957Z",
+  "ingestedAt": "2026-09-14T14:36:35.748Z",
+  "statsSyncedAt": "2026-09-14T14:36:35.748Z",
   "details": {
     "jersey": "99",
     "height": "6' 7\"",

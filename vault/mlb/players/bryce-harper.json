@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "PHI",
-      "gp": "149",
-      "min": "524",
-      "pts": ".271",
+      "gp": "150",
+      "min": "529",
+      "pts": ".272",
       "reb": "28",
       "ast": "83",
       "stl": "7",
-      "blk": "136",
+      "blk": "137",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -296,8 +296,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-13T12:59:41.131Z",
-  "statsSyncedAt": "2026-09-13T12:59:41.131Z",
+  "ingestedAt": "2026-09-14T14:36:40.769Z",
+  "statsSyncedAt": "2026-09-14T14:36:40.769Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:28.481Z",
   "details": {
