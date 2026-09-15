@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "115",
-      "min": "411",
-      "pts": ".180",
-      "reb": "21",
-      "ast": "60",
+      "gp": "116",
+      "min": "415",
+      "pts": ".181",
+      "reb": "22",
+      "ast": "63",
       "stl": "2",
-      "blk": "149",
+      "blk": "151",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -161,8 +161,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-14T14:36:42.585Z",
-  "statsSyncedAt": "2026-09-14T14:36:42.585Z",
+  "ingestedAt": "2026-09-15T13:01:47.098Z",
+  "statsSyncedAt": "2026-09-15T13:01:47.098Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:29.870Z",
   "details": {

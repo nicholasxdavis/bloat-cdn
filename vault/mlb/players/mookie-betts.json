@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "111",
-      "min": "432",
-      "pts": ".250",
+      "gp": "112",
+      "min": "436",
+      "pts": ".248",
       "reb": "20",
       "ast": "62",
       "stl": "2",
@@ -266,8 +266,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-14T14:37:17.909Z",
-  "statsSyncedAt": "2026-09-14T14:37:17.909Z",
+  "ingestedAt": "2026-09-15T13:02:10.042Z",
+  "statsSyncedAt": "2026-09-15T13:02:10.042Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:19.706Z",
   "details": {
