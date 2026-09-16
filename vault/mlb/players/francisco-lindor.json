@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "NYM",
-      "gp": "93",
-      "min": "366",
-      "pts": ".230",
+      "gp": "94",
+      "min": "371",
+      "pts": ".229",
       "reb": "20",
       "ast": "47",
       "stl": "3",
@@ -193,6 +193,39 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 15",
+      "matchup": "vs BAL",
+      "result": "L 7-5 F/11",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Sep 14",
+      "matchup": "vs BAL",
+      "result": "L 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "@ NYY",
+      "result": "L 2-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Sep 12",
       "matchup": "@ NYY",
       "result": "W 12-2",
@@ -213,48 +246,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "@ MIA",
-      "result": "W 15-14",
-      "min": "5",
-      "pts": "—",
-      "reb": "1",
-      "ast": "3",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Sep 8",
-      "matchup": "@ MIA",
-      "result": "W 7-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Sep 7",
-      "matchup": "@ MIA",
-      "result": "W 9-4",
-      "min": "6",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "3"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-15T13:01:55.150Z",
+  "ingestedAt": "2026-09-16T12:59:27.049Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:46.510Z",
-  "statsSyncedAt": "2026-09-15T13:01:55.150Z",
+  "statsSyncedAt": "2026-09-16T12:59:27.049Z",
   "details": {
     "jersey": "12",
     "height": "5' 10\"",

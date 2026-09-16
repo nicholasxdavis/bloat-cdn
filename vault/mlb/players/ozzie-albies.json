@@ -13,12 +13,12 @@
     {
       "season": "2026",
       "team": "ATL",
-      "gp": "151",
-      "min": "576",
-      "pts": ".243",
-      "reb": "21",
-      "ast": "69",
-      "stl": "3",
+      "gp": "152",
+      "min": "580",
+      "pts": ".245",
+      "reb": "22",
+      "ast": "71",
+      "stl": "4",
       "blk": "93",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -163,6 +163,39 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 15",
+      "matchup": "@ CHC",
+      "result": "W 6-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Sep 14",
+      "matchup": "@ CHC",
+      "result": "L 7-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "vs PHI",
+      "result": "L 9-4",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Sep 12",
       "matchup": "vs PHI",
       "result": "W 12-2",
@@ -183,48 +216,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 10",
-      "matchup": "vs TB",
-      "result": "W 3-1",
-      "min": "1",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "vs TB",
-      "result": "L 7-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Sep 8",
-      "matchup": "vs TB",
-      "result": "L 7-1",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-15T13:02:11.628Z",
+  "ingestedAt": "2026-09-16T12:59:44.929Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:22.596Z",
-  "statsSyncedAt": "2026-09-15T13:02:11.628Z",
+  "statsSyncedAt": "2026-09-16T12:59:44.929Z",
   "details": {
     "jersey": "1",
     "height": "5' 7\"",

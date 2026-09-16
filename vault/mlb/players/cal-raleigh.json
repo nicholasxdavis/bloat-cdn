@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "116",
-      "min": "415",
-      "pts": ".181",
+      "gp": "117",
+      "min": "419",
+      "pts": ".179",
       "reb": "22",
       "ast": "63",
       "stl": "2",
-      "blk": "151",
+      "blk": "153",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -103,6 +103,39 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 16",
+      "matchup": "@ LAA",
+      "result": "L 2-1",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Sep 15",
+      "matchup": "@ LAA",
+      "result": "L 6-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "3",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "@ ATH",
+      "result": "L 8-7",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Sep 13",
       "matchup": "@ ATH",
       "result": "W 19-1",
@@ -123,46 +156,13 @@
       "ast": "1",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Sep 10",
-      "matchup": "vs TEX",
-      "result": "W 4-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "3"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "vs TEX",
-      "result": "W 3-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "vs TEX",
-      "result": "L 10-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-15T13:01:47.098Z",
-  "statsSyncedAt": "2026-09-15T13:01:47.098Z",
+  "ingestedAt": "2026-09-16T12:59:17.881Z",
+  "statsSyncedAt": "2026-09-16T12:59:17.881Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:29.870Z",
   "details": {

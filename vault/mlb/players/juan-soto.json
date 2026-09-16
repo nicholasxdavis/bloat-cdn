@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYM",
-      "gp": "99",
-      "min": "352",
-      "pts": ".273",
+      "gp": "100",
+      "min": "357",
+      "pts": ".275",
       "reb": "25",
-      "ast": "60",
+      "ast": "61",
       "stl": "9",
-      "blk": "59",
+      "blk": "60",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -177,6 +177,39 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 15",
+      "matchup": "vs BAL",
+      "result": "L 7-5 F/11",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "1",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Sep 14",
+      "matchup": "vs BAL",
+      "result": "L 2-1",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "@ NYY",
+      "result": "L 2-0",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Sep 12",
       "matchup": "@ NYY",
       "result": "W 12-2",
@@ -197,46 +230,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "@ MIA",
-      "result": "W 15-14",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Sep 8",
-      "matchup": "@ MIA",
-      "result": "W 7-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "3",
-      "stl": "—",
-      "blk": "0"
-    },
-    {
-      "date": "Sep 7",
-      "matchup": "@ MIA",
-      "result": "W 9-4",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-15T13:02:02.805Z",
-  "statsSyncedAt": "2026-09-15T13:02:02.805Z",
+  "ingestedAt": "2026-09-16T12:59:35.033Z",
+  "statsSyncedAt": "2026-09-16T12:59:35.033Z",
   "active": true,
   "profileSyncedAt": "2026-08-30T13:28:16.580Z",
   "details": {

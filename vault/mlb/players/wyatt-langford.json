@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "TEX",
-      "gp": "98",
-      "min": "373",
-      "pts": ".241",
+      "gp": "99",
+      "min": "377",
+      "pts": ".239",
       "reb": "17",
       "ast": "39",
       "stl": "13",
-      "blk": "94",
+      "blk": "95",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -58,6 +58,28 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 16",
+      "matchup": "vs BOS",
+      "result": "W 4-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "@ ARI",
+      "result": "W 7-6",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Sep 13",
       "matchup": "@ ARI",
       "result": "W 6-2",
@@ -89,35 +111,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "@ SEA",
-      "result": "L 3-2",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "3"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "@ SEA",
-      "result": "W 10-5",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "2",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-14T14:37:36.877Z",
-  "statsSyncedAt": "2026-09-14T14:37:36.877Z",
+  "ingestedAt": "2026-09-16T12:59:54.406Z",
+  "statsSyncedAt": "2026-09-16T12:59:54.406Z",
   "active": true,
   "profileSyncedAt": "2026-07-10T10:48:33.730Z",
   "details": {

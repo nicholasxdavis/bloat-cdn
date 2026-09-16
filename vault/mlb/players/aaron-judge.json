@@ -178,6 +178,28 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 14",
+      "matchup": "@ MIN",
+      "result": "W 8-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "1",
+      "ast": "3",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "vs NYM",
+      "result": "W 2-0",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "3"
+    },
+    {
       "date": "Sep 12",
       "matchup": "vs NYM",
       "result": "L 12-2",
@@ -209,35 +231,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 8",
-      "matchup": "vs COL",
-      "result": "W 5-3",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "May 31",
-      "matchup": "@ ATH",
-      "result": "W 13-8",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-15T13:01:41.537Z",
-  "statsSyncedAt": "2026-09-15T13:01:41.537Z",
+  "ingestedAt": "2026-09-16T12:59:13.440Z",
+  "statsSyncedAt": "2026-09-16T12:59:13.440Z",
   "details": {
     "jersey": "99",
     "height": "6' 7\"",
