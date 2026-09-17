@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "NYY",
-      "gp": "65",
-      "min": "235",
-      "pts": ".243",
+      "gp": "66",
+      "min": "237",
+      "pts": ".241",
       "reb": "18",
       "ast": "41",
       "stl": "5",
-      "blk": "83",
+      "blk": "85",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 16",
+      "matchup": "@ MIN",
+      "result": "L 5-4 F/13",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Sep 14",
       "matchup": "@ MIN",
       "result": "W 8-3",
@@ -220,24 +231,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "vs COL",
-      "result": "W 6-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-16T12:59:13.440Z",
-  "statsSyncedAt": "2026-09-16T12:59:13.440Z",
+  "ingestedAt": "2026-09-17T12:55:44.577Z",
+  "statsSyncedAt": "2026-09-17T12:55:44.577Z",
   "details": {
     "jersey": "99",
     "height": "6' 7\"",

@@ -13,14 +13,14 @@
     {
       "season": "2026",
       "team": "LAD",
-      "gp": "7",
+      "gp": "8",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "1.91",
+      "fgPct": "1.86",
       "fg3Pct": "1.09",
       "ftPct": "4",
       "to": "1"
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 16",
+      "matchup": "@ CIN",
+      "result": "L 6-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 11",
       "matchup": "@ MIA",
       "result": "W 6-2",
@@ -220,24 +231,13 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Aug 18",
-      "matchup": "@ COL",
-      "result": "W 11-5",
-      "min": "—",
-      "pts": "—",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-12T11:50:41.471Z",
-  "statsSyncedAt": "2026-09-12T11:50:41.471Z",
+  "ingestedAt": "2026-09-17T12:55:46.453Z",
+  "statsSyncedAt": "2026-09-17T12:55:46.453Z",
   "details": {
     "jersey": "7",
     "height": "6' 4\"",
