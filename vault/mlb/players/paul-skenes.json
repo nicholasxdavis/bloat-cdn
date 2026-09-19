@@ -13,14 +13,14 @@
     {
       "season": "2026",
       "team": "PIT",
-      "gp": "30",
+      "gp": "31",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "3.78",
+      "fgPct": "3.91",
       "fg3Pct": "1.13",
       "ftPct": "10",
       "to": "11"
@@ -116,8 +116,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-13T13:00:07.378Z",
-  "statsSyncedAt": "2026-09-13T13:00:07.378Z",
+  "ingestedAt": "2026-09-19T12:12:57.130Z",
+  "statsSyncedAt": "2026-09-19T12:12:57.130Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:24.101Z",
   "details": {

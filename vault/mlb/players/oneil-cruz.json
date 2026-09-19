@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "PIT",
-      "gp": "90",
-      "min": "345",
-      "pts": ".272",
+      "gp": "91",
+      "min": "350",
+      "pts": ".277",
       "reb": "19",
       "ast": "66",
       "stl": "27",
-      "blk": "134",
+      "blk": "135",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -161,8 +161,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-18T12:31:17.182Z",
-  "statsSyncedAt": "2026-09-18T12:31:17.182Z",
+  "ingestedAt": "2026-09-19T12:12:55.112Z",
+  "statsSyncedAt": "2026-09-19T12:12:55.112Z",
   "details": {
     "jersey": "15",
     "height": "6' 7\"",

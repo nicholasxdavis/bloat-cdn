@@ -13,12 +13,12 @@
     {
       "season": "2026",
       "team": "CIN",
-      "gp": "134",
-      "min": "528",
-      "pts": ".284",
+      "gp": "135",
+      "min": "530",
+      "pts": ".287",
       "reb": "28",
       "ast": "74",
-      "stl": "26",
+      "stl": "27",
       "blk": "165",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -131,10 +131,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-18T12:30:57.408Z",
+  "ingestedAt": "2026-09-19T12:12:34.905Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:43.558Z",
-  "statsSyncedAt": "2026-09-18T12:30:57.408Z",
+  "statsSyncedAt": "2026-09-19T12:12:34.905Z",
   "details": {
     "jersey": "44",
     "height": "6' 6\"",

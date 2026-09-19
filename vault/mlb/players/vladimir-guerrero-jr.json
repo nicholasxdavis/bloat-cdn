@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "TOR",
-      "gp": "138",
-      "min": "520",
-      "pts": ".262",
+      "gp": "139",
+      "min": "524",
+      "pts": ".261",
       "reb": "9",
       "ast": "56",
       "stl": "7",
-      "blk": "77",
+      "blk": "78",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -191,10 +191,10 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-18T12:31:26.835Z",
+  "ingestedAt": "2026-09-19T12:13:05.186Z",
   "active": true,
   "profileSyncedAt": "2026-08-23T08:21:24.234Z",
-  "statsSyncedAt": "2026-09-18T12:31:26.835Z",
+  "statsSyncedAt": "2026-09-19T12:13:05.186Z",
   "details": {
     "jersey": "27",
     "height": "6' 0\"",
