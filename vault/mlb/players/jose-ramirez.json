@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "CLE",
-      "gp": "118",
-      "min": "444",
-      "pts": ".232",
+      "gp": "119",
+      "min": "448",
+      "pts": ".234",
       "reb": "12",
       "ast": "51",
       "stl": "34",
@@ -223,6 +223,28 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 19",
+      "matchup": "vs ATH",
+      "result": "W 12-6",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
+      "date": "Sep 18",
+      "matchup": "vs ATH",
+      "result": "W 5-3",
+      "min": "5",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Sep 16",
       "matchup": "vs CHW",
       "result": "W 6-3",
@@ -254,34 +276,12 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 12",
-      "matchup": "@ MIN",
-      "result": "L 4-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
-    },
-    {
-      "date": "Sep 12",
-      "matchup": "@ MIN",
-      "result": "W 5-2",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-19T12:12:45.445Z",
+  "ingestedAt": "2026-09-20T12:47:53.313Z",
   "details": {
     "jersey": "11",
     "height": "5' 8\"",
@@ -291,7 +291,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/32801.png"
   },
   "detailSyncedAt": "2026-07-01T13:38:59.289Z",
-  "statsSyncedAt": "2026-09-19T12:12:45.445Z",
+  "statsSyncedAt": "2026-09-20T12:47:53.313Z",
   "active": true,
   "profileSyncedAt": "2026-07-23T10:15:12.437Z"
 }
