@@ -42,7 +42,7 @@
       "season": "2026-27 LALIGA",
       "gp": "-",
       "min": "-",
-      "pts": "1",
+      "pts": "2",
       "reb": "1",
       "ast": "-",
       "stl": "-",
@@ -68,6 +68,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Sep 20",
+      "matchup": "@ DEP",
+      "result": "D 1-1",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
     {
       "date": "Sep 17",
       "matchup": "vs GET",
@@ -111,26 +122,15 @@
       "ast": "—",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Aug 25",
-      "matchup": "@ VAL",
-      "result": "W 1-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-18T12:31:33.402Z",
+  "ingestedAt": "2026-09-21T14:44:34.697Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:52.995Z",
-  "statsSyncedAt": "2026-09-18T12:31:33.402Z",
+  "statsSyncedAt": "2026-09-21T14:44:34.697Z",
   "details": {
     "jersey": "9",
     "height": "5' 9\"",

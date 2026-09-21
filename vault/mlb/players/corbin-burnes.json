@@ -13,15 +13,15 @@
     {
       "season": "2026",
       "team": "ARI",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "5.87",
-      "fg3Pct": "1.17",
+      "fgPct": "7.84",
+      "fg3Pct": "1.55",
       "ftPct": "0",
       "to": "0"
     },
@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 20",
+      "matchup": "vs NYY",
+      "result": "W 8-4",
+      "min": "—",
+      "pts": "—",
+      "reb": "3",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 15",
       "matchup": "vs MIA",
       "result": "W 8-7",
@@ -173,8 +184,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-16T12:59:20.923Z",
-  "statsSyncedAt": "2026-09-16T12:59:20.923Z",
+  "ingestedAt": "2026-09-21T14:43:44.807Z",
+  "statsSyncedAt": "2026-09-21T14:43:44.807Z",
   "details": {
     "jersey": "39",
     "height": "6' 3\"",
