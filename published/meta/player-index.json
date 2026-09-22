@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-09-21T14:44:40.995Z",
+  "syncedAt": "2026-09-22T12:59:54.964Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -1805,7 +1805,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:27.029Z",
-      "statsSyncedAt": "2026-09-21T14:43:44.074Z",
+      "statsSyncedAt": "2026-09-22T12:59:27.327Z",
       "team": "WSH",
       "position": "SS",
       "active": true,
@@ -1905,7 +1905,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:50.001Z",
-      "statsSyncedAt": "2026-09-21T14:43:48.636Z",
+      "statsSyncedAt": "2026-09-22T12:59:31.407Z",
       "team": "WSH",
       "position": "RF",
       "active": true,
@@ -2034,7 +2034,7 @@
       "position": "SS",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:51.086Z",
-      "statsSyncedAt": "2026-09-21T14:43:55.272Z",
+      "statsSyncedAt": "2026-09-22T12:59:35.944Z",
       "detailSyncedAt": "2026-09-01T15:28:02.056Z"
     },
     {
@@ -2129,7 +2129,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:54.511Z",
-      "statsSyncedAt": "2026-09-21T14:44:00.360Z",
+      "statsSyncedAt": "2026-09-22T12:59:40.057Z",
       "team": "WSH",
       "position": "RF",
       "active": true,
@@ -2513,7 +2513,7 @@
       "position": "1B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:27.150Z",
-      "statsSyncedAt": "2026-09-21T14:44:19.312Z",
+      "statsSyncedAt": "2026-09-22T12:59:54.962Z",
       "detailSyncedAt": "2026-09-01T15:28:24.413Z"
     },
     {
