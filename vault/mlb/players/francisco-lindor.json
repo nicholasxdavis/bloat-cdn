@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "NYM",
-      "gp": "99",
-      "min": "392",
-      "pts": ".224",
+      "gp": "100",
+      "min": "396",
+      "pts": ".225",
       "reb": "20",
       "ast": "48",
       "stl": "3",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 23",
+      "matchup": "@ TEX",
+      "result": "W 6-3",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Sep 20",
       "matchup": "vs PHI",
       "result": "L 7-2",
@@ -235,26 +246,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "0"
-    },
-    {
-      "date": "Sep 16",
-      "matchup": "vs BAL",
-      "result": "L 7-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "2"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-21T14:43:52.643Z",
+  "ingestedAt": "2026-09-23T13:10:46.832Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:46.510Z",
-  "statsSyncedAt": "2026-09-21T14:43:52.643Z",
+  "statsSyncedAt": "2026-09-23T13:10:46.832Z",
   "details": {
     "jersey": "12",
     "height": "5' 10\"",

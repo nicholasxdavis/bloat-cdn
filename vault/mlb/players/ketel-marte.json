@@ -13,8 +13,8 @@
     {
       "season": "2026",
       "team": "ARI",
-      "gp": "135",
-      "min": "538",
+      "gp": "136",
+      "min": "543",
       "pts": ".249",
       "reb": "22",
       "ast": "74",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 23",
+      "matchup": "@ COL",
+      "result": "W 7-2",
+      "min": "5",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "0"
+    },
+    {
       "date": "Sep 20",
       "matchup": "vs NYY",
       "result": "W 8-4",
@@ -235,24 +246,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Sep 16",
-      "matchup": "vs MIA",
-      "result": "L 4-2 F/11",
-      "min": "6",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-21T14:44:06.882Z",
-  "statsSyncedAt": "2026-09-21T14:44:06.882Z",
+  "ingestedAt": "2026-09-23T13:10:59.793Z",
+  "statsSyncedAt": "2026-09-23T13:10:59.793Z",
   "active": true,
   "profileSyncedAt": "2026-09-01T12:56:01.179Z",
   "details": {
