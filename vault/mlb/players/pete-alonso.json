@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "157",
-      "min": "588",
-      "pts": ".265",
-      "reb": "40",
-      "ast": "108",
+      "gp": "159",
+      "min": "594",
+      "pts": ".264",
+      "reb": "41",
+      "ast": "110",
       "stl": "5",
-      "blk": "164",
+      "blk": "167",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -133,6 +133,28 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 23",
+      "matchup": "vs TOR",
+      "result": "W 4-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
+      "date": "Sep 23",
+      "matchup": "vs TOR",
+      "result": "W 4-2",
+      "min": "3",
+      "pts": "—",
+      "reb": "1",
+      "ast": "2",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Sep 21",
       "matchup": "vs TOR",
       "result": "W 4-3",
@@ -164,37 +186,15 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 18",
-      "matchup": "vs MIL",
-      "result": "L 6-5 F/10",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "3",
-      "stl": "—",
-      "blk": "2"
-    },
-    {
-      "date": "Sep 16",
-      "matchup": "@ NYM",
-      "result": "W 7-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "1",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-22T12:59:54.961Z",
+  "ingestedAt": "2026-09-24T13:03:21.588Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:43:27.148Z",
-  "statsSyncedAt": "2026-09-22T12:59:54.961Z",
+  "statsSyncedAt": "2026-09-24T13:03:21.588Z",
   "details": {
     "jersey": "25",
     "height": "6' 3\"",
