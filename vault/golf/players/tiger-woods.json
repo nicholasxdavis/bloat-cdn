@@ -9,7 +9,7 @@
   "legend": true,
   "seasonHistory": [
     {
-      "season": "PGA TOUR",
+      "season": "PGA Tour",
       "gp": "5",
       "min": "-",
       "pts": "-",
@@ -41,7 +41,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:37:00.008Z",
+  "ingestedAt": "2026-09-25T13:06:53.851Z",
   "details": {
     "height": "6' 1\"",
     "weight": "185 lbs",
@@ -51,5 +51,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/golf/players/full/462.png"
   },
-  "detailSyncedAt": "2026-07-01T13:37:00.008Z"
+  "detailSyncedAt": "2026-07-01T13:37:00.008Z",
+  "statsSyncedAt": "2026-09-25T13:06:53.851Z"
 }
