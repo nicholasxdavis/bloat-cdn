@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "KC",
-      "gp": "142",
-      "min": "554",
-      "pts": ".283",
+      "gp": "143",
+      "min": "558",
+      "pts": ".281",
       "reb": "18",
       "ast": "54",
       "stl": "45",
-      "blk": "108",
+      "blk": "109",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -88,6 +88,17 @@
   ],
   "recentGames": [
     {
+      "date": "Sep 27",
+      "matchup": "vs CLE",
+      "result": "W 3-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Sep 26",
       "matchup": "vs CLE",
       "result": "L 11-5",
@@ -130,24 +141,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 22",
-      "matchup": "vs CHW",
-      "result": "L 14-11",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-27T13:27:57.744Z",
-  "statsSyncedAt": "2026-09-27T13:27:57.744Z",
+  "ingestedAt": "2026-09-28T16:14:38.260Z",
+  "statsSyncedAt": "2026-09-28T16:14:38.260Z",
   "active": true,
   "profileSyncedAt": "2026-08-05T10:26:49.382Z",
   "details": {

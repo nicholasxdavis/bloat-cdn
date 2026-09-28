@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "BOS",
-      "gp": "54",
-      "min": "210",
-      "pts": ".248",
+      "gp": "55",
+      "min": "212",
+      "pts": ".245",
       "reb": "5",
       "ast": "15",
       "stl": "2",
-      "blk": "64",
+      "blk": "66",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -42,6 +42,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Sep 27",
+      "matchup": "vs CHC",
+      "result": "L 6-2",
+      "min": "2",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
     {
       "date": "Sep 25",
       "matchup": "vs CHC",
@@ -85,23 +96,12 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Sep 20",
-      "matchup": "@ TB",
-      "result": "L 5-1",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-26T12:37:34.292Z",
+  "ingestedAt": "2026-09-28T16:15:13.068Z",
   "details": {
     "jersey": "19",
     "height": "6' 3\"",
@@ -111,7 +111,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/5080767.png"
   },
   "detailSyncedAt": "2026-07-01T13:39:20.382Z",
-  "statsSyncedAt": "2026-09-26T12:37:34.292Z",
+  "statsSyncedAt": "2026-09-28T16:15:13.068Z",
   "active": true,
   "profileSyncedAt": "2026-08-31T15:40:36.723Z"
 }

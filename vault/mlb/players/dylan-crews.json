@@ -13,13 +13,13 @@
     {
       "season": "2026",
       "team": "WSH",
-      "gp": "108",
-      "min": "400",
+      "gp": "109",
+      "min": "404",
       "pts": ".223",
       "reb": "13",
       "ast": "44",
       "stl": "12",
-      "blk": "106",
+      "blk": "107",
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Sep 27",
+      "matchup": "vs NYM",
+      "result": "W 6-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
     {
       "date": "Sep 26",
       "matchup": "vs NYM",
@@ -100,24 +111,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 21",
-      "matchup": "@ DET",
-      "result": "L 9-2",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-27T13:28:08.006Z",
-  "statsSyncedAt": "2026-09-27T13:28:08.006Z",
+  "ingestedAt": "2026-09-28T16:14:45.418Z",
+  "statsSyncedAt": "2026-09-28T16:14:45.418Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:42:42.138Z",
   "details": {
