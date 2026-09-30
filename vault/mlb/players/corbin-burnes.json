@@ -184,7 +184,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-26T12:37:06.355Z",
+  "ingestedAt": "2026-09-30T14:26:23.127Z",
   "statsSyncedAt": "2026-09-21T14:43:44.807Z",
   "details": {
     "jersey": "39",
@@ -196,6 +196,6 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/39878.png"
   },
   "detailSyncedAt": "2026-07-01T13:38:42.154Z",
-  "active": false,
-  "profileSyncedAt": "2026-09-26T12:37:06.355Z"
+  "active": true,
+  "profileSyncedAt": "2026-09-30T14:26:23.127Z"
 }
