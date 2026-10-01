@@ -58,7 +58,7 @@
   ],
   "recentGames": [
     {
-      "date": "Dec 4",
+      "date": "Dec 5",
       "matchup": "vs DAL",
       "result": "W 44-30",
       "min": "—",
@@ -91,7 +91,7 @@
       "blk": "—"
     },
     {
-      "date": "Nov 16",
+      "date": "Nov 17",
       "matchup": "@ PHI",
       "result": "L 16-9",
       "min": "—",
@@ -116,7 +116,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-08-02T11:28:17.485Z",
+  "ingestedAt": "2026-10-01T14:59:21.910Z",
   "active": true,
   "profileSyncedAt": "2026-08-02T11:28:17.485Z",
   "details": {
@@ -127,5 +127,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4692025.png"
   },
-  "detailSyncedAt": "2026-07-01T13:43:36.229Z"
+  "detailSyncedAt": "2026-07-01T13:43:36.229Z",
+  "statsSyncedAt": "2026-10-01T14:59:21.910Z"
 }

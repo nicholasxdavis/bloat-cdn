@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "2026",
+      "team": "GB",
+      "gp": "3",
+      "min": "-",
+      "pts": "844",
+      "reb": "6",
+      "ast": "2",
+      "stl": "65",
+      "blk": "124",
+      "fgPct": "49.8",
+      "fg3Pct": "83.5",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "2025",
       "team": "GB",
       "gp": "15",
@@ -88,65 +103,43 @@
   ],
   "recentGames": [
     {
-      "date": "Jan 10",
-      "matchup": "@ CHI",
-      "result": "L 31-27",
+      "date": "Sep 25",
+      "matchup": "vs ATL",
+      "result": "L 35-14",
       "min": "—",
-      "pts": "323",
-      "reb": "4",
-      "ast": "0",
-      "stl": "24",
-      "blk": "46"
-    },
-    {
-      "date": "Dec 20",
-      "matchup": "@ CHI",
-      "result": "L 22-16 OT",
-      "min": "—",
-      "pts": "77",
-      "reb": "0",
-      "ast": "0",
-      "stl": "8",
-      "blk": "13"
-    },
-    {
-      "date": "Dec 14",
-      "matchup": "@ DEN",
-      "result": "L 34-26",
-      "min": "—",
-      "pts": "276",
-      "reb": "1",
-      "ast": "2",
-      "stl": "24",
-      "blk": "40"
-    },
-    {
-      "date": "Dec 7",
-      "matchup": "vs CHI",
-      "result": "W 28-21",
-      "min": "—",
-      "pts": "234",
-      "reb": "3",
+      "pts": "312",
+      "reb": "2",
       "ast": "1",
-      "stl": "17",
-      "blk": "25"
+      "stl": "28",
+      "blk": "53"
     },
     {
-      "date": "Nov 27",
-      "matchup": "@ DET",
-      "result": "W 31-24",
+      "date": "Sep 20",
+      "matchup": "@ NYJ",
+      "result": "W 20-17 OT",
       "min": "—",
-      "pts": "234",
-      "reb": "4",
+      "pts": "145",
+      "reb": "2",
       "ast": "0",
-      "stl": "18",
-      "blk": "30"
+      "stl": "16",
+      "blk": "29"
+    },
+    {
+      "date": "Sep 13",
+      "matchup": "@ MIN",
+      "result": "L 39-22",
+      "min": "—",
+      "pts": "387",
+      "reb": "2",
+      "ast": "1",
+      "stl": "21",
+      "blk": "42"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:02.911Z",
+  "ingestedAt": "2026-10-01T14:59:49.343Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:45.841Z",
   "details": {
@@ -158,5 +151,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:02.911Z"
+  "detailSyncedAt": "2026-07-01T13:44:02.911Z",
+  "statsSyncedAt": "2026-10-01T14:59:49.343Z"
 }

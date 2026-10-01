@@ -117,6 +117,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 1",
+      "matchup": "@ NYY",
+      "result": "L 9-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "1"
+    },
+    {
       "date": "Sep 30",
       "matchup": "@ NYY",
       "result": "L 9-0",
@@ -159,24 +170,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "3"
-    },
-    {
-      "date": "Sep 23",
-      "matchup": "vs CLE",
-      "result": "W 1-0",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-30T14:26:15.656Z",
-  "statsSyncedAt": "2026-09-30T14:26:15.656Z",
+  "ingestedAt": "2026-10-01T14:58:20.921Z",
+  "statsSyncedAt": "2026-10-01T14:58:20.921Z",
   "active": true,
   "profileSyncedAt": "2026-08-12T09:03:09.895Z",
   "details": {

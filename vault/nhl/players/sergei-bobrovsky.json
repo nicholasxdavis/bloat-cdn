@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "TOR",
+      "gp": "1",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": ".875",
+      "fg3Pct": "3.06",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
       "season": "25-26",
       "team": "FLA",
       "gp": "52",
@@ -253,53 +268,9 @@
   ],
   "recentGames": [
     {
-      "date": "Apr 9",
-      "matchup": "@ OTT",
-      "result": "L 5-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 4",
-      "matchup": "@ PIT",
-      "result": "L 9-4",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 2",
-      "matchup": "vs BOS",
-      "result": "W 2-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 29",
-      "matchup": "@ NYR",
-      "result": "L 3-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 24",
-      "matchup": "vs SEA",
-      "result": "W 5-4 SO",
+      "date": "Sep 29",
+      "matchup": "vs MTL",
+      "result": "L 3-2",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -311,7 +282,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-01T15:33:05.057Z",
+  "ingestedAt": "2026-10-01T15:00:46.955Z",
   "active": true,
   "profileSyncedAt": "2026-07-05T11:47:37.568Z",
   "details": {
@@ -321,5 +292,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/5571.png"
   },
-  "detailSyncedAt": "2026-09-01T15:33:05.057Z"
+  "detailSyncedAt": "2026-09-01T15:33:05.057Z",
+  "statsSyncedAt": "2026-10-01T15:00:46.955Z"
 }

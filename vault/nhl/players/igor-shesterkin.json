@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "NYR",
+      "gp": "1",
+      "min": "-",
+      "pts": "-",
+      "reb": "-",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": ".909",
+      "fg3Pct": "2.02",
+      "ftPct": "-",
+      "to": "1"
+    },
+    {
       "season": "25-26",
       "team": "NYR",
       "gp": "51",
@@ -118,53 +133,9 @@
   ],
   "recentGames": [
     {
-      "date": "Apr 11",
-      "matchup": "@ DAL",
-      "result": "L 2-0",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 8",
-      "matchup": "vs BUF",
-      "result": "L 5-3",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 5",
-      "matchup": "vs WSH",
-      "result": "W 8-1",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 2",
-      "matchup": "vs MTL",
-      "result": "L 3-2",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 31",
-      "matchup": "vs NJ",
-      "result": "W 4-1",
+      "date": "Sep 30",
+      "matchup": "@ BOS",
+      "result": "L 3-0",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -176,8 +147,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:00.405Z",
-  "statsSyncedAt": "2026-06-16T12:49:45.573Z",
+  "ingestedAt": "2026-10-01T15:00:31.337Z",
+  "statsSyncedAt": "2026-10-01T15:00:31.337Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:02.517Z",
   "details": {

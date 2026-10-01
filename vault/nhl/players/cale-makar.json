@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "COL",
+      "gp": "1",
+      "min": "-",
+      "pts": "2",
+      "reb": "0",
+      "ast": "2",
+      "stl": "-1",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "COL",
       "gp": "75",
@@ -118,66 +133,22 @@
   ],
   "recentGames": [
     {
-      "date": "May 27",
-      "matchup": "@ VGK",
-      "result": "L 2-1",
+      "date": "Oct 1",
+      "matchup": "vs LA",
+      "result": "W 8-4",
       "min": "—",
-      "pts": "0",
+      "pts": "2",
       "reb": "0",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "May 25",
-      "matchup": "@ VGK",
-      "result": "L 5-3",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "May 14",
-      "matchup": "vs MIN",
-      "result": "W 4-3 OT",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "May 12",
-      "matchup": "@ MIN",
-      "result": "W 5-2",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "1",
-      "blk": "—"
-    },
-    {
-      "date": "May 10",
-      "matchup": "@ MIN",
-      "result": "L 5-1",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-2",
+      "ast": "2",
+      "stl": "-1",
       "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:43.637Z",
-  "statsSyncedAt": "2026-06-16T12:49:19.829Z",
+  "ingestedAt": "2026-10-01T15:00:25.247Z",
+  "statsSyncedAt": "2026-10-01T15:00:25.247Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:55.069Z",
   "details": {

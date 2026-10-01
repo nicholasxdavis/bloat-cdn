@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "2026",
+      "team": "LAR",
+      "gp": "1",
+      "min": "-",
+      "pts": "74",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
       "season": "2025",
       "team": "LAR",
       "gp": "16",
@@ -58,56 +73,12 @@
   ],
   "recentGames": [
     {
-      "date": "Jan 25",
-      "matchup": "@ SEA",
-      "result": "L 31-27",
+      "date": "Sep 11",
+      "matchup": "vs SF",
+      "result": "L 27-7",
       "min": "—",
-      "pts": "165",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Jan 18",
-      "matchup": "@ CHI",
-      "result": "W 20-17 OT",
-      "min": "—",
-      "pts": "56",
+      "pts": "74",
       "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Jan 10",
-      "matchup": "@ CAR",
-      "result": "W 34-31",
-      "min": "—",
-      "pts": "111",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Jan 4",
-      "matchup": "vs ARI",
-      "result": "W 37-20",
-      "min": "—",
-      "pts": "76",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 29",
-      "matchup": "@ ATL",
-      "result": "L 27-24",
-      "min": "—",
-      "pts": "47",
-      "reb": "1",
       "ast": "—",
       "stl": "—",
       "blk": "—"
@@ -116,7 +87,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:16.202Z",
+  "ingestedAt": "2026-10-01T15:00:02.618Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:11.217Z",
   "details": {
@@ -127,5 +98,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4426515.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:16.202Z"
+  "detailSyncedAt": "2026-07-01T13:44:16.202Z",
+  "statsSyncedAt": "2026-10-01T15:00:02.618Z"
 }

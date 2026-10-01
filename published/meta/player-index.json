@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-09-30T14:27:07.812Z",
+  "syncedAt": "2026-10-01T15:00:50.229Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -1613,7 +1613,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:00.071Z",
-      "statsSyncedAt": "2026-09-30T14:26:15.658Z",
+      "statsSyncedAt": "2026-10-01T14:58:20.922Z",
       "team": "BOS",
       "position": "C",
       "active": true,
@@ -1722,7 +1722,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:28.243Z",
-      "statsSyncedAt": "2026-09-30T14:26:18.530Z",
+      "statsSyncedAt": "2026-10-01T14:58:24.141Z",
       "team": "PHI",
       "position": "1B",
       "active": true,
@@ -1947,7 +1947,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:23.986Z",
-      "statsSyncedAt": "2026-09-30T14:26:28.014Z",
+      "statsSyncedAt": "2026-10-01T14:58:33.218Z",
       "team": "SD",
       "position": "RF",
       "active": true,
@@ -2034,7 +2034,7 @@
       "position": "SS",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:51.086Z",
-      "statsSyncedAt": "2026-09-26T12:37:12.760Z",
+      "statsSyncedAt": "2026-10-01T14:58:36.211Z",
       "detailSyncedAt": "2026-09-01T15:28:02.056Z"
     },
     {
@@ -2154,7 +2154,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-09-23T13:10:55.960Z",
-      "statsSyncedAt": "2026-09-26T12:37:17.206Z",
+      "statsSyncedAt": "2026-10-01T14:58:41.210Z",
       "detailSyncedAt": "2026-09-01T15:28:07.780Z"
     },
     {
@@ -2312,7 +2312,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:38.134Z",
-      "statsSyncedAt": "2026-09-30T14:26:46.368Z",
+      "statsSyncedAt": "2026-10-01T14:58:48.074Z",
       "team": "SD",
       "position": "3B",
       "active": true,
@@ -2337,7 +2337,7 @@
       "position": "1B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:13.533Z",
-      "statsSyncedAt": "2026-09-30T14:26:47.171Z",
+      "statsSyncedAt": "2026-10-01T14:58:48.870Z",
       "detailSyncedAt": "2026-09-01T15:28:15.963Z"
     },
     {
@@ -2354,7 +2354,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:36.448Z",
-      "statsSyncedAt": "2026-09-23T13:11:05.147Z",
+      "statsSyncedAt": "2026-10-01T14:58:50.079Z",
       "detailSyncedAt": "2026-09-01T15:28:16.790Z",
       "team": "NYY",
       "position": "SP",
@@ -2456,7 +2456,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:22.598Z",
-      "statsSyncedAt": "2026-09-30T14:26:50.822Z",
+      "statsSyncedAt": "2026-10-01T14:58:53.297Z",
       "detailSyncedAt": "2026-09-01T15:28:21.467Z"
     },
     {
@@ -2593,7 +2593,7 @@
       "position": "RF",
       "active": true,
       "profileSyncedAt": "2026-07-28T10:26:12.801Z",
-      "statsSyncedAt": "2026-09-30T14:26:56.185Z"
+      "statsSyncedAt": "2026-10-01T14:58:57.708Z"
     },
     {
       "sport": "mlb",
@@ -2744,7 +2744,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:51.157Z",
-      "statsSyncedAt": "2026-09-30T14:27:03.063Z",
+      "statsSyncedAt": "2026-10-01T14:59:04.151Z",
       "team": "HOU",
       "position": "DH",
       "active": true,
@@ -6440,7 +6440,7 @@
       "headshot": "media/headshots/nfl/rodgeaa00.png",
       "statsPath": "stats/pfr/rodgeaa00.json",
       "vaultPath": "vault/nfl/players/aaron-rodgers.json",
-      "rowCount": 21,
+      "rowCount": 22,
       "sources": [
         "espn"
       ],
@@ -6449,7 +6449,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:42.647Z",
-      "detailSyncedAt": "2026-09-01T15:31:23.576Z"
+      "detailSyncedAt": "2026-09-01T15:31:23.576Z",
+      "statsSyncedAt": "2026-10-01T14:59:15.078Z"
     },
     {
       "sport": "nfl",
@@ -6460,7 +6461,7 @@
       "headshot": "media/headshots/nfl/carteab00.png",
       "statsPath": "stats/pfr/carteab00.json",
       "vaultPath": "vault/nfl/players/abdul-carter.json",
-      "rowCount": 1,
+      "rowCount": 2,
       "sources": [
         "espn"
       ],
@@ -6469,7 +6470,8 @@
       "position": "LB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:43.969Z",
-      "detailSyncedAt": "2026-09-01T15:31:24.400Z"
+      "detailSyncedAt": "2026-09-01T15:31:24.400Z",
+      "statsSyncedAt": "2026-10-01T14:59:15.893Z"
     },
     {
       "sport": "nfl",
@@ -6480,7 +6482,7 @@
       "headshot": "media/headshots/nfl/hutchai00.png",
       "statsPath": "stats/pfr/hutchai00.json",
       "vaultPath": "vault/nfl/players/aidan-hutchinson.json",
-      "rowCount": 4,
+      "rowCount": 5,
       "sources": [
         "espn"
       ],
@@ -6489,7 +6491,8 @@
       "position": "DE",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:48.008Z",
-      "detailSyncedAt": "2026-09-01T15:31:25.279Z"
+      "detailSyncedAt": "2026-09-01T15:31:25.279Z",
+      "statsSyncedAt": "2026-10-01T14:59:16.685Z"
     },
     {
       "sport": "nfl",
@@ -6520,7 +6523,7 @@
       "headshot": "media/headshots/nfl/brownam00.png",
       "statsPath": "stats/pfr/brownam00.json",
       "vaultPath": "vault/nfl/players/amon-ra-st-brown.json",
-      "rowCount": 5,
+      "rowCount": 6,
       "sources": [
         "espn"
       ],
@@ -6529,7 +6532,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:51.667Z",
-      "detailSyncedAt": "2026-09-01T15:31:27.065Z"
+      "detailSyncedAt": "2026-09-01T15:31:27.065Z",
+      "statsSyncedAt": "2026-10-01T14:59:17.496Z"
     },
     {
       "sport": "nfl",
@@ -6540,7 +6544,7 @@
       "headshot": "media/headshots/nfl/mayfiba00.png",
       "statsPath": "stats/pfr/mayfiba00.json",
       "vaultPath": "vault/nfl/players/baker-mayfield.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
@@ -6549,7 +6553,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:53.189Z",
-      "detailSyncedAt": "2026-09-01T15:31:27.900Z"
+      "detailSyncedAt": "2026-09-01T15:31:27.900Z",
+      "statsSyncedAt": "2026-10-01T14:59:18.286Z"
     },
     {
       "sport": "nfl",
@@ -6560,7 +6565,7 @@
       "headshot": "media/headshots/nfl/robinbi00.png",
       "statsPath": "stats/pfr/robinbi00.json",
       "vaultPath": "vault/nfl/players/bijan-robinson.json",
-      "rowCount": 3,
+      "rowCount": 4,
       "sources": [
         "espn"
       ],
@@ -6569,7 +6574,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:54.612Z",
-      "detailSyncedAt": "2026-09-01T15:31:28.743Z"
+      "detailSyncedAt": "2026-09-01T15:31:28.743Z",
+      "statsSyncedAt": "2026-10-01T14:59:19.100Z"
     },
     {
       "sport": "nfl",
@@ -6580,7 +6586,7 @@
       "headshot": "media/headshots/nfl/nixbo00.png",
       "statsPath": "stats/pfr/nixbo00.json",
       "vaultPath": "vault/nfl/players/bo-nix.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -6589,7 +6595,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:56.198Z",
-      "detailSyncedAt": "2026-09-01T15:31:29.593Z"
+      "detailSyncedAt": "2026-09-01T15:31:29.593Z",
+      "statsSyncedAt": "2026-10-01T14:59:19.887Z"
     },
     {
       "sport": "nfl",
@@ -6600,7 +6607,7 @@
       "headshot": "media/headshots/nfl/hallbr00.png",
       "statsPath": "stats/pfr/hallbr00.json",
       "vaultPath": "vault/nfl/players/breece-hall.json",
-      "rowCount": 4,
+      "rowCount": 5,
       "sources": [
         "espn"
       ],
@@ -6609,7 +6616,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:57.572Z",
-      "detailSyncedAt": "2026-09-01T15:31:30.476Z"
+      "detailSyncedAt": "2026-09-01T15:31:30.476Z",
+      "statsSyncedAt": "2026-10-01T14:59:20.688Z"
     },
     {
       "sport": "nfl",
@@ -6645,7 +6653,8 @@
       "position": "S",
       "active": true,
       "profileSyncedAt": "2026-08-02T11:28:17.488Z",
-      "detailSyncedAt": "2026-09-01T15:31:32.426Z"
+      "detailSyncedAt": "2026-09-01T15:31:32.426Z",
+      "statsSyncedAt": "2026-10-01T14:59:21.910Z"
     },
     {
       "sport": "nfl",
@@ -6656,7 +6665,7 @@
       "headshot": "media/headshots/nfl/purdybr00.png",
       "statsPath": "stats/pfr/purdybr00.json",
       "vaultPath": "vault/nfl/players/brock-purdy.json",
-      "rowCount": 4,
+      "rowCount": 5,
       "sources": [
         "espn"
       ],
@@ -6665,7 +6674,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:02.221Z",
-      "detailSyncedAt": "2026-09-01T15:31:33.394Z"
+      "detailSyncedAt": "2026-09-01T15:31:33.394Z",
+      "statsSyncedAt": "2026-10-01T14:59:23.180Z"
     },
     {
       "sport": "nfl",
@@ -6676,7 +6686,7 @@
       "headshot": "media/headshots/nfl/strouc.00.png",
       "statsPath": "stats/pfr/strouc.00.json",
       "vaultPath": "vault/nfl/players/c-j-stroud.json",
-      "rowCount": 3,
+      "rowCount": 4,
       "sources": [
         "espn"
       ],
@@ -6685,7 +6695,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:03.631Z",
-      "detailSyncedAt": "2026-09-01T15:31:34.224Z"
+      "detailSyncedAt": "2026-09-01T15:31:34.224Z",
+      "statsSyncedAt": "2026-10-01T14:59:23.901Z"
     },
     {
       "sport": "nfl",
@@ -6696,7 +6707,7 @@
       "headshot": "media/headshots/nfl/willica00.png",
       "statsPath": "stats/pfr/willica00.json",
       "vaultPath": "vault/nfl/players/caleb-williams.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -6705,7 +6716,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:05.136Z",
-      "detailSyncedAt": "2026-09-01T15:31:35.052Z"
+      "detailSyncedAt": "2026-09-01T15:31:35.052Z",
+      "statsSyncedAt": "2026-10-01T14:59:24.710Z"
     },
     {
       "sport": "nfl",
@@ -6736,7 +6748,7 @@
       "headshot": "media/headshots/nfl/lambce00.png",
       "statsPath": "stats/pfr/lambce00.json",
       "vaultPath": "vault/nfl/players/ceedee-lamb.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -6745,7 +6757,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:08.165Z",
-      "detailSyncedAt": "2026-09-01T15:31:36.928Z"
+      "detailSyncedAt": "2026-09-01T15:31:36.928Z",
+      "statsSyncedAt": "2026-10-01T14:59:25.497Z"
     },
     {
       "sport": "nfl",
@@ -6756,7 +6769,7 @@
       "headshot": "media/headshots/nfl/jonesch00.png",
       "statsPath": "stats/pfr/jonesch00.json",
       "vaultPath": "vault/nfl/players/chris-jones.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
@@ -6765,7 +6778,8 @@
       "position": "DT",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:09.769Z",
-      "detailSyncedAt": "2026-09-01T15:31:37.749Z"
+      "detailSyncedAt": "2026-09-01T15:31:37.749Z",
+      "statsSyncedAt": "2026-10-01T14:59:26.344Z"
     },
     {
       "sport": "nfl",
@@ -6776,7 +6790,7 @@
       "headshot": "media/headshots/nfl/mccafch00.png",
       "statsPath": "stats/pfr/mccafch00.json",
       "vaultPath": "vault/nfl/players/christian-mccaffrey.json",
-      "rowCount": 11,
+      "rowCount": 12,
       "sources": [
         "espn"
       ],
@@ -6785,7 +6799,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:11.201Z",
-      "detailSyncedAt": "2026-09-01T15:31:38.575Z"
+      "detailSyncedAt": "2026-09-01T15:31:38.575Z",
+      "statsSyncedAt": "2026-10-01T14:59:27.145Z"
     },
     {
       "sport": "nfl",
@@ -6796,7 +6811,7 @@
       "headshot": "media/headshots/nfl/dejeaco00.png",
       "statsPath": "stats/pfr/dejeaco00.json",
       "vaultPath": "vault/nfl/players/cooper-dejean.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -6805,7 +6820,8 @@
       "position": "CB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:12.721Z",
-      "detailSyncedAt": "2026-09-01T15:31:39.396Z"
+      "detailSyncedAt": "2026-09-01T15:31:39.396Z",
+      "statsSyncedAt": "2026-10-01T14:59:28.304Z"
     },
     {
       "sport": "nfl",
@@ -6816,7 +6832,7 @@
       "headshot": "media/headshots/nfl/kuppco00.png",
       "statsPath": "stats/pfr/kuppco00.json",
       "vaultPath": "vault/nfl/players/cooper-kupp.json",
-      "rowCount": 9,
+      "rowCount": 10,
       "sources": [
         "espn"
       ],
@@ -6825,7 +6841,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:14.199Z",
-      "detailSyncedAt": "2026-09-01T15:31:40.242Z"
+      "detailSyncedAt": "2026-09-01T15:31:40.242Z",
+      "statsSyncedAt": "2026-10-01T14:59:34.091Z"
     },
     {
       "sport": "nfl",
@@ -6836,7 +6853,7 @@
       "headshot": "media/headshots/nfl/prescda00.png",
       "statsPath": "stats/pfr/prescda00.json",
       "vaultPath": "vault/nfl/players/dak-prescott.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
@@ -6845,7 +6862,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:15.776Z",
-      "detailSyncedAt": "2026-09-01T15:31:41.061Z"
+      "detailSyncedAt": "2026-09-01T15:31:41.061Z",
+      "statsSyncedAt": "2026-10-01T14:59:35.693Z"
     },
     {
       "sport": "nfl",
@@ -6871,7 +6889,7 @@
       "headshot": "media/headshots/nfl/henryde00.png",
       "statsPath": "stats/pfr/henryde00.json",
       "vaultPath": "vault/nfl/players/derrick-henry.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
@@ -6880,7 +6898,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:18.797Z",
-      "detailSyncedAt": "2026-09-01T15:31:42.987Z"
+      "detailSyncedAt": "2026-09-01T15:31:42.987Z",
+      "statsSyncedAt": "2026-10-01T14:59:36.927Z"
     },
     {
       "sport": "nfl",
@@ -6891,7 +6910,7 @@
       "headshot": "media/headshots/nfl/smithde00.png",
       "statsPath": "stats/pfr/smithde00.json",
       "vaultPath": "vault/nfl/players/devonta-smith.json",
-      "rowCount": 5,
+      "rowCount": 6,
       "sources": [
         "espn"
       ],
@@ -6900,7 +6919,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:20.309Z",
-      "detailSyncedAt": "2026-09-01T15:31:43.976Z"
+      "detailSyncedAt": "2026-09-01T15:31:43.976Z",
+      "statsSyncedAt": "2026-10-01T14:59:38.158Z"
     },
     {
       "sport": "nfl",
@@ -6911,7 +6931,7 @@
       "headshot": "media/headshots/nfl/metcadk00.png",
       "statsPath": "stats/pfr/metcadk00.json",
       "vaultPath": "vault/nfl/players/dk-metcalf.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
@@ -6920,7 +6940,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:21.880Z",
-      "detailSyncedAt": "2026-09-01T15:31:44.823Z"
+      "detailSyncedAt": "2026-09-01T15:31:44.823Z",
+      "statsSyncedAt": "2026-10-01T14:59:38.916Z"
     },
     {
       "sport": "nfl",
@@ -6931,7 +6952,7 @@
       "headshot": "media/headshots/nfl/mayedr00.png",
       "statsPath": "stats/pfr/mayedr00.json",
       "vaultPath": "vault/nfl/players/drake-maye.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -6940,7 +6961,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:23.536Z",
-      "detailSyncedAt": "2026-09-01T15:31:45.644Z"
+      "detailSyncedAt": "2026-09-01T15:31:45.644Z",
+      "statsSyncedAt": "2026-10-01T14:59:39.801Z"
     },
     {
       "sport": "nfl",
@@ -6951,7 +6973,7 @@
       "headshot": "media/headshots/nfl/warnefr00.png",
       "statsPath": "stats/pfr/warnefr00.json",
       "vaultPath": "vault/nfl/players/fred-warner.json",
-      "rowCount": 8,
+      "rowCount": 9,
       "sources": [
         "espn"
       ],
@@ -6960,7 +6982,8 @@
       "position": "LB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:25.027Z",
-      "detailSyncedAt": "2026-09-01T15:31:46.534Z"
+      "detailSyncedAt": "2026-09-01T15:31:46.534Z",
+      "statsSyncedAt": "2026-10-01T14:59:40.554Z"
     },
     {
       "sport": "nfl",
@@ -6971,7 +6994,7 @@
       "headshot": "media/headshots/nfl/wilsoga00.png",
       "statsPath": "stats/pfr/wilsoga00.json",
       "vaultPath": "vault/nfl/players/garrett-wilson.json",
-      "rowCount": 4,
+      "rowCount": 5,
       "sources": [
         "espn"
       ],
@@ -6980,7 +7003,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:26.360Z",
-      "detailSyncedAt": "2026-09-01T15:31:47.360Z"
+      "detailSyncedAt": "2026-09-01T15:31:47.360Z",
+      "statsSyncedAt": "2026-10-01T14:59:41.323Z"
     },
     {
       "sport": "nfl",
@@ -6991,7 +7015,7 @@
       "headshot": "media/headshots/nfl/smithge00.png",
       "statsPath": "stats/pfr/smithge00.json",
       "vaultPath": "vault/nfl/players/geno-smith.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
@@ -7000,7 +7024,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:27.930Z",
-      "detailSyncedAt": "2026-09-01T15:31:48.182Z"
+      "detailSyncedAt": "2026-09-01T15:31:48.182Z",
+      "statsSyncedAt": "2026-10-01T14:59:42.133Z"
     },
     {
       "sport": "nfl",
@@ -7011,7 +7036,7 @@
       "headshot": "media/headshots/nfl/kittlge00.png",
       "statsPath": "stats/pfr/kittlge00.json",
       "vaultPath": "vault/nfl/players/george-kittle.json",
-      "rowCount": 9,
+      "rowCount": 10,
       "sources": [
         "espn"
       ],
@@ -7020,7 +7045,8 @@
       "position": "TE",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:29.416Z",
-      "detailSyncedAt": "2026-09-01T15:31:49.010Z"
+      "detailSyncedAt": "2026-09-01T15:31:49.010Z",
+      "statsSyncedAt": "2026-10-01T14:59:42.921Z"
     },
     {
       "sport": "nfl",
@@ -7031,7 +7057,7 @@
       "headshot": "media/headshots/nfl/chaseja00.png",
       "statsPath": "stats/pfr/chaseja00.json",
       "vaultPath": "vault/nfl/players/ja-marr-chase.json",
-      "rowCount": 5,
+      "rowCount": 6,
       "sources": [
         "espn"
       ],
@@ -7040,7 +7066,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:30.782Z",
-      "detailSyncedAt": "2026-09-01T15:31:49.953Z"
+      "detailSyncedAt": "2026-09-01T15:31:49.953Z",
+      "statsSyncedAt": "2026-10-01T14:59:43.737Z"
     },
     {
       "sport": "nfl",
@@ -7051,7 +7078,7 @@
       "headshot": "media/headshots/nfl/gibbsja00.png",
       "statsPath": "stats/pfr/gibbsja00.json",
       "vaultPath": "vault/nfl/players/jahmyr-gibbs.json",
-      "rowCount": 3,
+      "rowCount": 4,
       "sources": [
         "espn"
       ],
@@ -7060,7 +7087,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:32.312Z",
-      "detailSyncedAt": "2026-09-01T15:31:50.778Z"
+      "detailSyncedAt": "2026-09-01T15:31:50.778Z",
+      "statsSyncedAt": "2026-10-01T14:59:44.527Z"
     },
     {
       "sport": "nfl",
@@ -7071,7 +7099,7 @@
       "headshot": "media/headshots/nfl/hurtsja00.png",
       "statsPath": "stats/pfr/hurtsja00.json",
       "vaultPath": "vault/nfl/players/jalen-hurts.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -7080,7 +7108,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:33.735Z",
-      "detailSyncedAt": "2026-09-01T15:31:51.603Z"
+      "detailSyncedAt": "2026-09-01T15:31:51.603Z",
+      "statsSyncedAt": "2026-10-01T14:59:45.324Z"
     },
     {
       "sport": "nfl",
@@ -7091,7 +7120,7 @@
       "headshot": "media/headshots/nfl/smithja00.png",
       "statsPath": "stats/pfr/smithja00.json",
       "vaultPath": "vault/nfl/players/jaxon-smith-njigba.json",
-      "rowCount": 3,
+      "rowCount": 4,
       "sources": [
         "espn"
       ],
@@ -7100,7 +7129,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:35.353Z",
-      "detailSyncedAt": "2026-09-01T15:31:52.445Z"
+      "detailSyncedAt": "2026-09-01T15:31:52.445Z",
+      "statsSyncedAt": "2026-10-01T14:59:46.129Z"
     },
     {
       "sport": "nfl",
@@ -7111,7 +7141,7 @@
       "headshot": "media/headshots/nfl/danieja00.png",
       "statsPath": "stats/pfr/danieja00.json",
       "vaultPath": "vault/nfl/players/jayden-daniels.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -7120,7 +7150,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:36.831Z",
-      "detailSyncedAt": "2026-09-01T15:31:53.307Z"
+      "detailSyncedAt": "2026-09-01T15:31:53.307Z",
+      "statsSyncedAt": "2026-10-01T14:59:46.967Z"
     },
     {
       "sport": "nfl",
@@ -7131,7 +7162,7 @@
       "headshot": "media/headshots/nfl/burrojo00.png",
       "statsPath": "stats/pfr/burrojo00.json",
       "vaultPath": "vault/nfl/players/joe-burrow.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -7140,7 +7171,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:38.383Z",
-      "detailSyncedAt": "2026-09-01T15:31:54.157Z"
+      "detailSyncedAt": "2026-09-01T15:31:54.157Z",
+      "statsSyncedAt": "2026-10-01T14:59:47.745Z"
     },
     {
       "sport": "nfl",
@@ -7197,7 +7229,7 @@
       "headshot": "media/headshots/nfl/taylojo00.png",
       "statsPath": "stats/pfr/taylojo00.json",
       "vaultPath": "vault/nfl/players/jonathan-taylor.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -7206,7 +7238,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:42.860Z",
-      "detailSyncedAt": "2026-09-01T15:31:58.231Z"
+      "detailSyncedAt": "2026-09-01T15:31:58.231Z",
+      "statsSyncedAt": "2026-10-01T14:59:48.567Z"
     },
     {
       "sport": "nfl",
@@ -7217,7 +7250,7 @@
       "headshot": "media/headshots/nfl/lovejo00.png",
       "statsPath": "stats/pfr/lovejo00.json",
       "vaultPath": "vault/nfl/players/jordan-love.json",
-      "rowCount": 5,
+      "rowCount": 6,
       "sources": [
         "espn"
       ],
@@ -7226,7 +7259,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:45.843Z",
-      "detailSyncedAt": "2026-09-01T15:31:59.069Z"
+      "detailSyncedAt": "2026-09-01T15:31:59.069Z",
+      "statsSyncedAt": "2026-10-01T14:59:49.344Z"
     },
     {
       "sport": "nfl",
@@ -7237,7 +7271,7 @@
       "headshot": "media/headshots/nfl/allenjo00.png",
       "statsPath": "stats/pfr/allenjo00.json",
       "vaultPath": "vault/nfl/players/josh-allen.json",
-      "rowCount": 8,
+      "rowCount": 9,
       "sources": [
         "espn"
       ],
@@ -7246,7 +7280,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:47.412Z",
-      "detailSyncedAt": "2026-09-01T15:31:59.892Z"
+      "detailSyncedAt": "2026-09-01T15:31:59.892Z",
+      "statsSyncedAt": "2026-10-01T14:59:50.249Z"
     },
     {
       "sport": "nfl",
@@ -7257,7 +7292,7 @@
       "headshot": "media/headshots/nfl/jeffeju00.png",
       "statsPath": "stats/pfr/jeffeju00.json",
       "vaultPath": "vault/nfl/players/justin-jefferson.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -7266,7 +7301,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:48.975Z",
-      "detailSyncedAt": "2026-09-01T15:32:00.727Z"
+      "detailSyncedAt": "2026-09-01T15:32:00.727Z",
+      "statsSyncedAt": "2026-10-01T14:59:51.010Z"
     },
     {
       "sport": "nfl",
@@ -7277,7 +7313,7 @@
       "headshot": "media/headshots/nfl/hamilky00.png",
       "statsPath": "stats/pfr/hamilky00.json",
       "vaultPath": "vault/nfl/players/kyle-hamilton.json",
-      "rowCount": 4,
+      "rowCount": 5,
       "sources": [
         "espn"
       ],
@@ -7286,7 +7322,8 @@
       "position": "S",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:50.468Z",
-      "detailSyncedAt": "2026-09-01T15:32:01.546Z"
+      "detailSyncedAt": "2026-09-01T15:32:01.546Z",
+      "statsSyncedAt": "2026-10-01T14:59:51.747Z"
     },
     {
       "sport": "nfl",
@@ -7297,7 +7334,7 @@
       "headshot": "media/headshots/nfl/jacksla00.png",
       "statsPath": "stats/pfr/jacksla00.json",
       "vaultPath": "vault/nfl/players/lamar-jackson.json",
-      "rowCount": 8,
+      "rowCount": 9,
       "sources": [
         "espn"
       ],
@@ -7306,7 +7343,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:52.001Z",
-      "detailSyncedAt": "2026-09-01T15:32:02.498Z"
+      "detailSyncedAt": "2026-09-01T15:32:02.498Z",
+      "statsSyncedAt": "2026-10-01T14:59:52.538Z"
     },
     {
       "sport": "nfl",
@@ -7317,7 +7355,7 @@
       "headshot": "media/headshots/nfl/naberma00.png",
       "statsPath": "stats/pfr/naberma00.json",
       "vaultPath": "vault/nfl/players/malik-nabers.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -7326,7 +7364,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:53.533Z",
-      "detailSyncedAt": "2026-09-01T15:32:03.321Z"
+      "detailSyncedAt": "2026-09-01T15:32:03.321Z",
+      "statsSyncedAt": "2026-10-01T14:59:53.362Z"
     },
     {
       "sport": "nfl",
@@ -7337,7 +7376,7 @@
       "headshot": "media/headshots/nfl/jr.ma00.png",
       "statsPath": "stats/pfr/jr.ma00.json",
       "vaultPath": "vault/nfl/players/marvin-harrison-jr.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -7346,7 +7385,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:54.911Z",
-      "detailSyncedAt": "2026-09-01T15:32:04.165Z"
+      "detailSyncedAt": "2026-09-01T15:32:04.165Z",
+      "statsSyncedAt": "2026-10-01T14:59:54.153Z"
     },
     {
       "sport": "nfl",
@@ -7357,7 +7397,7 @@
       "headshot": "media/headshots/nfl/staffma00.png",
       "statsPath": "stats/pfr/staffma00.json",
       "vaultPath": "vault/nfl/players/matthew-stafford.json",
-      "rowCount": 17,
+      "rowCount": 18,
       "sources": [
         "espn"
       ],
@@ -7366,7 +7406,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:58.493Z",
-      "detailSyncedAt": "2026-09-01T15:32:05.115Z"
+      "detailSyncedAt": "2026-09-01T15:32:05.115Z",
+      "statsSyncedAt": "2026-10-01T14:59:54.950Z"
     },
     {
       "sport": "nfl",
@@ -7377,7 +7418,7 @@
       "headshot": "media/headshots/nfl/crosbma00.png",
       "statsPath": "stats/pfr/crosbma00.json",
       "vaultPath": "vault/nfl/players/maxx-crosby.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
@@ -7386,7 +7427,8 @@
       "position": "DE",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:00.539Z",
-      "detailSyncedAt": "2026-09-01T15:32:05.968Z"
+      "detailSyncedAt": "2026-09-01T15:32:05.968Z",
+      "statsSyncedAt": "2026-10-01T14:59:56.150Z"
     },
     {
       "sport": "nfl",
@@ -7426,7 +7468,8 @@
       "position": "DE",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:03.764Z",
-      "detailSyncedAt": "2026-09-01T15:32:07.638Z"
+      "detailSyncedAt": "2026-09-01T15:32:07.638Z",
+      "statsSyncedAt": "2026-10-01T14:59:58.612Z"
     },
     {
       "sport": "nfl",
@@ -7437,7 +7480,7 @@
       "headshot": "media/headshots/nfl/bosani00.png",
       "statsPath": "stats/pfr/bosani00.json",
       "vaultPath": "vault/nfl/players/nick-bosa.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
@@ -7446,7 +7489,8 @@
       "position": "DE",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:05.122Z",
-      "detailSyncedAt": "2026-09-01T15:32:08.482Z"
+      "detailSyncedAt": "2026-09-01T15:32:08.482Z",
+      "statsSyncedAt": "2026-10-01T14:59:59.387Z"
     },
     {
       "sport": "nfl",
@@ -7457,7 +7501,7 @@
       "headshot": "media/headshots/nfl/iipa00.png",
       "statsPath": "stats/pfr/iipa00.json",
       "vaultPath": "vault/nfl/players/pat-surtain-ii.json",
-      "rowCount": 5,
+      "rowCount": 6,
       "sources": [
         "espn"
       ],
@@ -7466,7 +7510,8 @@
       "position": "CB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:06.672Z",
-      "detailSyncedAt": "2026-09-01T15:32:09.305Z"
+      "detailSyncedAt": "2026-09-01T15:32:09.305Z",
+      "statsSyncedAt": "2026-10-01T15:00:00.272Z"
     },
     {
       "sport": "nfl",
@@ -7477,7 +7522,7 @@
       "headshot": "media/headshots/nfl/mahompa00.png",
       "statsPath": "stats/pfr/mahompa00.json",
       "vaultPath": "vault/nfl/players/patrick-mahomes.json",
-      "rowCount": 9,
+      "rowCount": 10,
       "sources": [
         "espn"
       ],
@@ -7486,7 +7531,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:08.397Z",
-      "detailSyncedAt": "2026-09-01T15:32:10.141Z"
+      "detailSyncedAt": "2026-09-01T15:32:10.141Z",
+      "statsSyncedAt": "2026-10-01T15:00:01.762Z"
     },
     {
       "sport": "nfl",
@@ -7513,7 +7559,7 @@
       "headshot": "media/headshots/nfl/nacuapu00.png",
       "statsPath": "stats/pfr/nacuapu00.json",
       "vaultPath": "vault/nfl/players/puka-nacua.json",
-      "rowCount": 3,
+      "rowCount": 4,
       "sources": [
         "espn"
       ],
@@ -7522,7 +7568,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:11.219Z",
-      "detailSyncedAt": "2026-09-01T15:32:12.258Z"
+      "detailSyncedAt": "2026-09-01T15:32:12.258Z",
+      "statsSyncedAt": "2026-10-01T15:00:02.619Z"
     },
     {
       "sport": "nfl",
@@ -7533,7 +7580,7 @@
       "headshot": "media/headshots/nfl/mitchqu00.png",
       "statsPath": "stats/pfr/mitchqu00.json",
       "vaultPath": "vault/nfl/players/quinyon-mitchell.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
@@ -7542,7 +7589,8 @@
       "position": "CB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:12.671Z",
-      "detailSyncedAt": "2026-09-01T15:32:13.103Z"
+      "detailSyncedAt": "2026-09-01T15:32:13.103Z",
+      "statsSyncedAt": "2026-10-01T15:00:03.833Z"
     },
     {
       "sport": "nfl",
@@ -7613,7 +7661,7 @@
       "headshot": "media/headshots/nfl/barklsa00.png",
       "statsPath": "stats/pfr/barklsa00.json",
       "vaultPath": "vault/nfl/players/saquon-barkley.json",
-      "rowCount": 8,
+      "rowCount": 9,
       "sources": [
         "espn"
       ],
@@ -7622,7 +7670,8 @@
       "position": "RB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:18.733Z",
-      "detailSyncedAt": "2026-09-01T15:32:17.614Z"
+      "detailSyncedAt": "2026-09-01T15:32:17.614Z",
+      "statsSyncedAt": "2026-10-01T15:00:05.092Z"
     },
     {
       "sport": "nfl",
@@ -7633,7 +7682,7 @@
       "headshot": "media/headshots/nfl/gardnsa00.png",
       "statsPath": "stats/pfr/gardnsa00.json",
       "vaultPath": "vault/nfl/players/sauce-gardner.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -7642,7 +7691,8 @@
       "position": "CB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:20.241Z",
-      "detailSyncedAt": "2026-09-01T15:32:18.485Z"
+      "detailSyncedAt": "2026-09-01T15:32:18.485Z",
+      "statsSyncedAt": "2026-10-01T15:00:06.255Z"
     },
     {
       "sport": "nfl",
@@ -7669,7 +7719,7 @@
       "headshot": "media/headshots/nfl/sandesh00.png",
       "statsPath": "stats/pfr/sandesh00.json",
       "vaultPath": "vault/nfl/players/shedeur-sanders.json",
-      "rowCount": 1,
+      "rowCount": 2,
       "sources": [
         "espn"
       ],
@@ -7678,7 +7728,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:21.612Z",
-      "detailSyncedAt": "2026-09-01T15:32:20.134Z"
+      "detailSyncedAt": "2026-09-01T15:32:20.134Z",
+      "statsSyncedAt": "2026-10-01T15:00:07.476Z"
     },
     {
       "sport": "nfl",
@@ -7689,7 +7740,7 @@
       "headshot": "media/headshots/nfl/wattt.00.png",
       "statsPath": "stats/pfr/wattt.00.json",
       "vaultPath": "vault/nfl/players/t-j-watt.json",
-      "rowCount": 9,
+      "rowCount": 10,
       "sources": [
         "espn"
       ],
@@ -7698,7 +7749,8 @@
       "position": "LB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:24.743Z",
-      "detailSyncedAt": "2026-09-01T15:32:21.055Z"
+      "detailSyncedAt": "2026-09-01T15:32:21.055Z",
+      "statsSyncedAt": "2026-10-01T15:00:08.686Z"
     },
     {
       "sport": "nfl",
@@ -7709,7 +7761,7 @@
       "headshot": "media/headshots/nfl/higgite00.png",
       "statsPath": "stats/pfr/higgite00.json",
       "vaultPath": "vault/nfl/players/tee-higgins.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -7718,7 +7770,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:26.138Z",
-      "detailSyncedAt": "2026-09-01T15:32:21.894Z"
+      "detailSyncedAt": "2026-09-01T15:32:21.894Z",
+      "statsSyncedAt": "2026-10-01T15:00:09.494Z"
     },
     {
       "sport": "nfl",
@@ -7745,7 +7798,7 @@
       "headshot": "media/headshots/nfl/huntetr00.png",
       "statsPath": "stats/pfr/huntetr00.json",
       "vaultPath": "vault/nfl/players/travis-hunter.json",
-      "rowCount": 1,
+      "rowCount": 2,
       "sources": [
         "espn"
       ],
@@ -7754,7 +7807,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:29.365Z",
-      "detailSyncedAt": "2026-09-01T15:32:24.165Z"
+      "detailSyncedAt": "2026-09-01T15:32:24.165Z",
+      "statsSyncedAt": "2026-10-01T15:00:10.306Z"
     },
     {
       "sport": "nfl",
@@ -7765,7 +7819,7 @@
       "headshot": "media/headshots/nfl/kelcetr00.png",
       "statsPath": "stats/pfr/kelcetr00.json",
       "vaultPath": "vault/nfl/players/travis-kelce.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
@@ -7774,7 +7828,8 @@
       "position": "TE",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:30.831Z",
-      "detailSyncedAt": "2026-09-01T15:32:24.987Z"
+      "detailSyncedAt": "2026-09-01T15:32:24.987Z",
+      "statsSyncedAt": "2026-10-01T15:00:11.491Z"
     },
     {
       "sport": "nfl",
@@ -7785,7 +7840,7 @@
       "headshot": "media/headshots/nfl/lawretr00.png",
       "statsPath": "stats/pfr/lawretr00.json",
       "vaultPath": "vault/nfl/players/trevor-lawrence.json",
-      "rowCount": 5,
+      "rowCount": 6,
       "sources": [
         "espn"
       ],
@@ -7794,7 +7849,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:32.216Z",
-      "detailSyncedAt": "2026-09-01T15:32:25.818Z"
+      "detailSyncedAt": "2026-09-01T15:32:25.818Z",
+      "statsSyncedAt": "2026-10-01T15:00:12.317Z"
     },
     {
       "sport": "nfl",
@@ -7805,7 +7861,7 @@
       "headshot": "media/headshots/nfl/hendrtr00.png",
       "statsPath": "stats/pfr/hendrtr00.json",
       "vaultPath": "vault/nfl/players/trey-hendrickson.json",
-      "rowCount": 9,
+      "rowCount": 10,
       "sources": [
         "espn"
       ],
@@ -7814,7 +7870,8 @@
       "position": "LB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:33.794Z",
-      "detailSyncedAt": "2026-09-01T15:32:26.652Z"
+      "detailSyncedAt": "2026-09-01T15:32:26.652Z",
+      "statsSyncedAt": "2026-10-01T15:00:13.101Z"
     },
     {
       "sport": "nfl",
@@ -7849,7 +7906,8 @@
       "position": "QB",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:36.781Z",
-      "detailSyncedAt": "2026-09-01T15:32:28.605Z"
+      "detailSyncedAt": "2026-09-01T15:32:28.605Z",
+      "statsSyncedAt": "2026-10-01T15:00:13.925Z"
     },
     {
       "sport": "nfl",
@@ -7869,7 +7927,8 @@
       "position": "WR",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:38.372Z",
-      "detailSyncedAt": "2026-09-01T15:32:29.632Z"
+      "detailSyncedAt": "2026-09-01T15:32:29.632Z",
+      "statsSyncedAt": "2026-10-01T15:00:15.090Z"
     },
     {
       "sport": "nhl",
@@ -7880,7 +7939,7 @@
       "headshot": "media/headshots/nhl/foxad01.png",
       "statsPath": "stats/href/foxad01.json",
       "vaultPath": "vault/nhl/players/adam-fox.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
@@ -7889,7 +7948,8 @@
       "position": "D",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:39.941Z",
-      "detailSyncedAt": "2026-09-01T15:32:30.603Z"
+      "detailSyncedAt": "2026-09-01T15:32:30.603Z",
+      "statsSyncedAt": "2026-10-01T15:00:15.933Z"
     },
     {
       "sport": "nhl",
@@ -7900,12 +7960,12 @@
       "headshot": "media/headshots/nhl/barkoal01.png",
       "statsPath": "stats/href/barkoal01.json",
       "vaultPath": "vault/nhl/players/aleksander-barkov.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:17.195Z",
-      "statsSyncedAt": "2026-06-16T12:49:12.243Z",
+      "statsSyncedAt": "2026-10-01T15:00:17.157Z",
       "team": "FLA",
       "position": "C",
       "active": true,
@@ -7961,12 +8021,12 @@
       "headshot": "media/headshots/nhl/panarar01.png",
       "statsPath": "stats/href/panarar01.json",
       "vaultPath": "vault/nhl/players/artemi-panarin.json",
-      "rowCount": 13,
+      "rowCount": 14,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:39.735Z",
-      "statsSyncedAt": "2026-06-16T12:49:14.932Z",
+      "statsSyncedAt": "2026-10-01T15:00:19.962Z",
       "team": "LA",
       "position": "LW",
       "active": true,
@@ -7982,12 +8042,12 @@
       "headshot": "media/headshots/nhl/matthau01.png",
       "statsPath": "stats/href/matthau01.json",
       "vaultPath": "vault/nhl/players/auston-matthews.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:40.683Z",
-      "statsSyncedAt": "2026-06-16T12:49:15.881Z",
+      "statsSyncedAt": "2026-10-01T15:00:20.773Z",
       "team": "TOR",
       "position": "C",
       "active": true,
@@ -8003,7 +8063,7 @@
       "headshot": "media/headshots/nhl/tkachbr01.png",
       "statsPath": "stats/href/tkachbr01.json",
       "vaultPath": "vault/nhl/players/brady-tkachuk.json",
-      "rowCount": 8,
+      "rowCount": 9,
       "sources": [
         "espn"
       ],
@@ -8012,7 +8072,8 @@
       "position": "LW",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:48.923Z",
-      "detailSyncedAt": "2026-09-01T15:32:36.983Z"
+      "detailSyncedAt": "2026-09-01T15:32:36.983Z",
+      "statsSyncedAt": "2026-10-01T15:00:21.975Z"
     },
     {
       "sport": "nhl",
@@ -8059,12 +8120,12 @@
       "headshot": "media/headshots/nhl/boesebr01.png",
       "statsPath": "stats/href/boesebr01.json",
       "vaultPath": "vault/nhl/players/brock-boeser.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:36.021Z",
-      "statsSyncedAt": "2026-06-16T12:49:18.781Z",
+      "statsSyncedAt": "2026-10-01T15:00:24.492Z",
       "team": "VAN",
       "position": "RW",
       "active": true,
@@ -8080,12 +8141,12 @@
       "headshot": "media/headshots/nhl/makarca01.png",
       "statsPath": "stats/href/makarca01.json",
       "vaultPath": "vault/nhl/players/cale-makar.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:49.704Z",
-      "statsSyncedAt": "2026-06-16T12:49:19.830Z",
+      "statsSyncedAt": "2026-10-01T15:00:25.248Z",
       "team": "COL",
       "position": "D",
       "active": true,
@@ -8122,12 +8183,12 @@
       "headshot": "media/headshots/nhl/mcdavco01.png",
       "statsPath": "stats/href/mcdavco01.json",
       "vaultPath": "vault/nhl/players/connor-mcdavid.json",
-      "rowCount": 11,
+      "rowCount": 12,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:36.098Z",
-      "statsSyncedAt": "2026-06-30T10:55:46.068Z",
+      "statsSyncedAt": "2026-10-01T15:00:26.872Z",
       "team": "EDM",
       "position": "C",
       "active": true,
@@ -8143,7 +8204,7 @@
       "headshot": "media/headshots/nhl/pastrda01.png",
       "statsPath": "stats/href/pastrda01.json",
       "vaultPath": "vault/nhl/players/david-pastrnak.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
@@ -8152,7 +8213,8 @@
       "position": "RW",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:59.518Z",
-      "detailSyncedAt": "2026-09-01T15:32:43.783Z"
+      "detailSyncedAt": "2026-09-01T15:32:43.783Z",
+      "statsSyncedAt": "2026-10-01T15:00:27.777Z"
     },
     {
       "sport": "nhl",
@@ -8163,12 +8225,12 @@
       "headshot": "media/headshots/nhl/petteel01.png",
       "statsPath": "stats/href/petteel01.json",
       "vaultPath": "vault/nhl/players/elias-pettersson.json",
-      "rowCount": 8,
+      "rowCount": 9,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:30.904Z",
-      "statsSyncedAt": "2026-06-16T12:49:23.960Z",
+      "statsSyncedAt": "2026-10-01T15:00:29.742Z",
       "team": "VAN",
       "position": "C",
       "active": true,
@@ -8184,12 +8246,12 @@
       "headshot": "media/headshots/nhl/shestig01.png",
       "statsPath": "stats/href/shestig01.json",
       "vaultPath": "vault/nhl/players/igor-shesterkin.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:17.172Z",
-      "statsSyncedAt": "2026-06-16T12:49:45.574Z",
+      "statsSyncedAt": "2026-10-01T15:00:31.338Z",
       "team": "NYR",
       "position": "G",
       "active": true,
@@ -8241,7 +8303,7 @@
       "headshot": "media/headshots/nhl/swaymje01.png",
       "statsPath": "stats/href/swaymje01.json",
       "vaultPath": "vault/nhl/players/jeremy-swayman.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
@@ -8250,7 +8312,8 @@
       "position": "G",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:07.144Z",
-      "detailSyncedAt": "2026-09-01T15:32:48.978Z"
+      "detailSyncedAt": "2026-09-01T15:32:48.978Z",
+      "statsSyncedAt": "2026-10-01T15:00:32.823Z"
     },
     {
       "sport": "nhl",
@@ -8282,12 +8345,12 @@
       "headshot": "media/headshots/nhl/draisle01.png",
       "statsPath": "stats/href/draisle01.json",
       "vaultPath": "vault/nhl/players/leon-draisaitl.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:03.265Z",
-      "statsSyncedAt": "2026-06-30T10:56:30.114Z",
+      "statsSyncedAt": "2026-10-01T15:00:34.830Z",
       "team": "EDM",
       "position": "C",
       "active": true,
@@ -8365,7 +8428,7 @@
       "headshot": "media/headshots/nhl/tkachma01.png",
       "statsPath": "stats/href/tkachma01.json",
       "vaultPath": "vault/nhl/players/matthew-tkachuk.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
@@ -8374,7 +8437,8 @@
       "position": "LW",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:16.093Z",
-      "detailSyncedAt": "2026-09-01T15:32:54.566Z"
+      "detailSyncedAt": "2026-09-01T15:32:54.566Z",
+      "statsSyncedAt": "2026-10-01T15:00:38.032Z"
     },
     {
       "sport": "nhl",
@@ -8385,12 +8449,12 @@
       "headshot": "media/headshots/nhl/michkma01.png",
       "statsPath": "stats/href/michkma01.json",
       "vaultPath": "vault/nhl/players/matvei-michkov.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:44:09.501Z",
-      "statsSyncedAt": "2026-06-16T12:49:54.566Z",
+      "statsSyncedAt": "2026-10-01T15:00:38.829Z",
       "team": "PHI",
       "position": "RW",
       "active": true,
@@ -8427,12 +8491,12 @@
       "headshot": "media/headshots/nhl/marnemi01.png",
       "statsPath": "stats/href/marnemi01.json",
       "vaultPath": "vault/nhl/players/mitch-marner.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:08.763Z",
-      "statsSyncedAt": "2026-06-16T12:49:56.358Z",
+      "statsSyncedAt": "2026-10-01T15:00:41.004Z",
       "team": "VGK",
       "position": "RW",
       "active": true,
@@ -8448,12 +8512,12 @@
       "headshot": "media/headshots/nhl/mackina01.png",
       "statsPath": "stats/href/mackina01.json",
       "vaultPath": "vault/nhl/players/nathan-mackinnon.json",
-      "rowCount": 13,
+      "rowCount": 14,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:45.299Z",
-      "statsSyncedAt": "2026-06-16T12:49:57.220Z",
+      "statsSyncedAt": "2026-10-01T15:00:42.085Z",
       "team": "COL",
       "position": "C",
       "active": true,
@@ -8551,12 +8615,12 @@
       "headshot": "media/headshots/nhl/reinhsa01.png",
       "statsPath": "stats/href/reinhsa01.json",
       "vaultPath": "vault/nhl/players/sam-reinhart.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:12.743Z",
-      "statsSyncedAt": "2026-06-16T12:50:00.805Z",
+      "statsSyncedAt": "2026-10-01T15:00:45.808Z",
       "team": "FLA",
       "position": "C",
       "active": true,
@@ -8572,7 +8636,7 @@
       "headshot": "media/headshots/nhl/bobrose01.png",
       "statsPath": "stats/href/bobrose01.json",
       "vaultPath": "vault/nhl/players/sergei-bobrovsky.json",
-      "rowCount": 16,
+      "rowCount": 17,
       "sources": [
         "espn"
       ],
@@ -8581,7 +8645,8 @@
       "position": "G",
       "active": true,
       "profileSyncedAt": "2026-07-05T11:47:37.569Z",
-      "detailSyncedAt": "2026-09-01T15:33:05.058Z"
+      "detailSyncedAt": "2026-09-01T15:33:05.058Z",
+      "statsSyncedAt": "2026-10-01T15:00:46.957Z"
     },
     {
       "sport": "nhl",
@@ -8592,12 +8657,12 @@
       "headshot": "media/headshots/nhl/crosbsi01.png",
       "statsPath": "stats/href/crosbsi01.json",
       "vaultPath": "vault/nhl/players/sidney-crosby.json",
-      "rowCount": 21,
+      "rowCount": 22,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:58.604Z",
-      "statsSyncedAt": "2026-06-16T12:50:02.713Z",
+      "statsSyncedAt": "2026-10-01T15:00:48.167Z",
       "team": "PIT",
       "position": "C",
       "active": true,
@@ -8634,7 +8699,7 @@
       "headshot": "media/headshots/nhl/nylanwi01.png",
       "statsPath": "stats/href/nylanwi01.json",
       "vaultPath": "vault/nhl/players/william-nylander.json",
-      "rowCount": 11,
+      "rowCount": 12,
       "sources": [
         "espn"
       ],
@@ -8643,7 +8708,8 @@
       "position": "RW",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:39.030Z",
-      "detailSyncedAt": "2026-09-01T15:33:08.044Z"
+      "detailSyncedAt": "2026-09-01T15:33:08.044Z",
+      "statsSyncedAt": "2026-10-01T15:00:50.227Z"
     },
     {
       "sport": "seriea",

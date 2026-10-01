@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "2026",
+      "team": "DET",
+      "gp": "3",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "2025",
       "team": "DET",
       "gp": "17",
@@ -73,9 +88,9 @@
   ],
   "recentGames": [
     {
-      "date": "Jan 4",
-      "matchup": "@ CHI",
-      "result": "W 19-16",
+      "date": "Sep 27",
+      "matchup": "vs NYJ",
+      "result": "W 31-24",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -84,9 +99,9 @@
       "blk": "—"
     },
     {
-      "date": "Dec 25",
-      "matchup": "@ MIN",
-      "result": "L 23-10",
+      "date": "Sep 18",
+      "matchup": "@ BUF",
+      "result": "L 41-31",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -95,31 +110,9 @@
       "blk": "—"
     },
     {
-      "date": "Dec 21",
-      "matchup": "vs PIT",
-      "result": "L 29-24",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 14",
-      "matchup": "@ LAR",
-      "result": "L 41-34",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 4",
-      "matchup": "vs DAL",
-      "result": "W 44-30",
+      "date": "Sep 13",
+      "matchup": "vs NO",
+      "result": "W 31-30 OT",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -131,7 +124,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:43:17.412Z",
+  "ingestedAt": "2026-10-01T14:59:16.684Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:48:48.007Z",
   "details": {
@@ -142,5 +135,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4372099.png"
   },
-  "detailSyncedAt": "2026-07-01T13:43:17.412Z"
+  "detailSyncedAt": "2026-07-01T13:43:17.412Z",
+  "statsSyncedAt": "2026-10-01T14:59:16.684Z"
 }

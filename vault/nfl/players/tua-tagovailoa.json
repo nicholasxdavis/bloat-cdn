@@ -161,7 +161,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:32.118Z",
+  "ingestedAt": "2026-10-01T15:00:13.924Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:36.779Z",
   "details": {
@@ -173,5 +173,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4241479.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:32.118Z"
+  "detailSyncedAt": "2026-07-01T13:44:32.118Z",
+  "statsSyncedAt": "2026-10-01T15:00:13.924Z"
 }

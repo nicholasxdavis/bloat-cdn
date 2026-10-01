@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "VGK",
+      "gp": "1",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "VGK",
       "gp": "81",
@@ -163,66 +178,22 @@
   ],
   "recentGames": [
     {
-      "date": "Jun 15",
-      "matchup": "vs CAR",
-      "result": "L 3-0",
+      "date": "Sep 30",
+      "matchup": "vs CHI",
+      "result": "W 5-2",
       "min": "—",
       "pts": "0",
       "reb": "0",
       "ast": "0",
-      "stl": "-3",
-      "blk": "—"
-    },
-    {
-      "date": "Jun 12",
-      "matchup": "@ CAR",
-      "result": "L 4-2",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-1",
-      "blk": "—"
-    },
-    {
-      "date": "Jun 10",
-      "matchup": "vs CAR",
-      "result": "L 5-3",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "-1",
-      "blk": "—"
-    },
-    {
-      "date": "Jun 7",
-      "matchup": "vs CAR",
-      "result": "W 5-4 2OT",
-      "min": "—",
-      "pts": "4",
-      "reb": "3",
-      "ast": "1",
-      "stl": "3",
-      "blk": "—"
-    },
-    {
-      "date": "Jun 5",
-      "matchup": "@ CAR",
-      "result": "L 4-3 OT",
-      "min": "—",
-      "pts": "2",
-      "reb": "0",
-      "ast": "2",
-      "stl": "1",
+      "stl": "0",
       "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:12.280Z",
-  "statsSyncedAt": "2026-06-16T12:49:56.357Z",
+  "ingestedAt": "2026-10-01T15:00:41.003Z",
+  "statsSyncedAt": "2026-10-01T15:00:41.003Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:20.741Z",
   "details": {

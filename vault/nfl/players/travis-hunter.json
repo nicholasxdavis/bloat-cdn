@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "2026",
+      "team": "JAX",
+      "gp": "3",
+      "min": "-",
+      "pts": "8",
+      "reb": "0",
+      "ast": "-",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "0"
+    },
+    {
       "season": "2025",
       "team": "JAX",
       "gp": "7",
@@ -28,55 +43,33 @@
   ],
   "recentGames": [
     {
-      "date": "Oct 19",
-      "matchup": "vs LAR",
-      "result": "L 35-7",
+      "date": "Sep 27",
+      "matchup": "vs NE",
+      "result": "W 35-6",
       "min": "—",
-      "pts": "101",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Oct 12",
-      "matchup": "vs SEA",
-      "result": "L 20-12",
-      "min": "—",
-      "pts": "15",
+      "pts": "0",
       "reb": "0",
       "ast": "—",
       "stl": "—",
       "blk": "—"
     },
     {
-      "date": "Oct 6",
-      "matchup": "vs KC",
-      "result": "W 31-28",
+      "date": "Sep 20",
+      "matchup": "@ DEN",
+      "result": "L 20-13",
       "min": "—",
-      "pts": "64",
+      "pts": "0",
       "reb": "0",
       "ast": "—",
       "stl": "—",
       "blk": "—"
     },
     {
-      "date": "Sep 28",
-      "matchup": "@ SF",
-      "result": "W 26-21",
+      "date": "Sep 13",
+      "matchup": "vs CLE",
+      "result": "W 34-10",
       "min": "—",
-      "pts": "42",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Sep 21",
-      "matchup": "vs HOU",
-      "result": "W 17-10",
-      "min": "—",
-      "pts": "21",
+      "pts": "8",
       "reb": "0",
       "ast": "—",
       "stl": "—",
@@ -86,7 +79,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:27.122Z",
+  "ingestedAt": "2026-10-01T15:00:10.305Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:29.364Z",
   "details": {
@@ -97,5 +90,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4685415.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:27.122Z"
+  "detailSyncedAt": "2026-07-01T13:44:27.122Z",
+  "statsSyncedAt": "2026-10-01T15:00:10.305Z"
 }

@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "PHI",
+      "gp": "1",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "PHI",
       "gp": "81",
@@ -43,66 +58,22 @@
   ],
   "recentGames": [
     {
-      "date": "May 8",
-      "matchup": "vs CAR",
-      "result": "L 4-1",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "May 4",
-      "matchup": "@ CAR",
-      "result": "L 3-2 OT",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "May 3",
-      "matchup": "@ CAR",
-      "result": "L 3-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-3",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 29",
+      "date": "Sep 30",
       "matchup": "vs PIT",
-      "result": "W 1-0 OT",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "1",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 26",
-      "matchup": "vs PIT",
-      "result": "L 4-2",
+      "result": "L 7-0",
       "min": "—",
       "pts": "0",
       "reb": "0",
       "ast": "0",
-      "stl": "0",
+      "stl": "-1",
       "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:10.213Z",
-  "statsSyncedAt": "2026-06-16T12:49:54.566Z",
+  "ingestedAt": "2026-10-01T15:00:38.829Z",
+  "statsSyncedAt": "2026-10-01T15:00:38.829Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:17.622Z",
   "details": {

@@ -174,7 +174,7 @@
       "blk": "—"
     },
     {
-      "date": "Sep 18",
+      "date": "Sep 19",
       "matchup": "@ BUF",
       "result": "L 31-21",
       "min": "—",
@@ -210,7 +210,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:33.227Z",
+  "ingestedAt": "2026-10-01T15:00:15.089Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:38.371Z",
   "details": {
@@ -222,5 +222,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3116406.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:33.227Z"
+  "detailSyncedAt": "2026-07-01T13:44:33.227Z",
+  "statsSyncedAt": "2026-10-01T15:00:15.089Z"
 }

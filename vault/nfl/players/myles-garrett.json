@@ -148,53 +148,9 @@
   ],
   "recentGames": [
     {
-      "date": "Jan 4",
-      "matchup": "@ CIN",
-      "result": "W 20-18",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 28",
-      "matchup": "vs PIT",
-      "result": "W 13-6",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 21",
-      "matchup": "vs BUF",
-      "result": "L 23-20",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 14",
-      "matchup": "@ CHI",
-      "result": "L 31-3",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Dec 7",
-      "matchup": "vs TEN",
-      "result": "L 31-29",
+      "date": "Sep 11",
+      "matchup": "vs SF",
+      "result": "L 27-7",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -206,7 +162,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:11.709Z",
+  "ingestedAt": "2026-10-01T14:59:58.611Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:03.762Z",
   "details": {
@@ -218,5 +174,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3122132.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:11.709Z"
+  "detailSyncedAt": "2026-07-01T13:44:11.709Z",
+  "statsSyncedAt": "2026-10-01T14:59:58.611Z"
 }

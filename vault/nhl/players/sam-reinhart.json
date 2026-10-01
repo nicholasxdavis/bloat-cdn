@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "FLA",
+      "gp": "1",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "FLA",
       "gp": "64",
@@ -193,66 +208,22 @@
   ],
   "recentGames": [
     {
-      "date": "Mar 12",
-      "matchup": "vs CBJ",
-      "result": "W 2-1 OT",
-      "min": "—",
-      "pts": "2",
-      "reb": "1",
-      "ast": "1",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 7",
-      "matchup": "@ DET",
-      "result": "W 3-1",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 6",
-      "matchup": "@ CBJ",
-      "result": "L 4-2",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 4",
-      "matchup": "@ NJ",
-      "result": "L 5-1",
+      "date": "Sep 29",
+      "matchup": "@ CAR",
+      "result": "W 1-0 OT",
       "min": "—",
       "pts": "0",
       "reb": "0",
       "ast": "0",
-      "stl": "-2",
-      "blk": "—"
-    },
-    {
-      "date": "Mar 1",
-      "matchup": "@ NYI",
-      "result": "L 5-4",
-      "min": "—",
-      "pts": "1",
-      "reb": "1",
-      "ast": "0",
-      "stl": "-1",
+      "stl": "0",
       "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:19.019Z",
-  "statsSyncedAt": "2026-06-16T12:50:00.804Z",
+  "ingestedAt": "2026-10-01T15:00:45.807Z",
+  "statsSyncedAt": "2026-10-01T15:00:45.807Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:32.175Z",
   "details": {
