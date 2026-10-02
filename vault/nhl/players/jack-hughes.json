@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "NJ",
+      "gp": "1",
+      "min": "-",
+      "pts": "1",
+      "reb": "1",
+      "ast": "0",
+      "stl": "2",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "NJ",
       "gp": "61",
@@ -118,65 +133,21 @@
   ],
   "recentGames": [
     {
-      "date": "Apr 14",
-      "matchup": "@ BOS",
-      "result": "L 4-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-2",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 12",
-      "matchup": "vs OTT",
-      "result": "W 4-3 OT",
-      "min": "—",
-      "pts": "2",
-      "reb": "0",
-      "ast": "2",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 11",
-      "matchup": "@ DET",
-      "result": "W 5-3",
-      "min": "—",
-      "pts": "2",
-      "reb": "1",
-      "ast": "1",
-      "stl": "1",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 9",
-      "matchup": "vs PIT",
-      "result": "L 5-2",
+      "date": "Oct 1",
+      "matchup": "vs PHI",
+      "result": "W 3-2 OT",
       "min": "—",
       "pts": "1",
       "reb": "1",
       "ast": "0",
-      "stl": "-1",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 7",
-      "matchup": "vs PHI",
-      "result": "L 5-1",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-2",
+      "stl": "2",
       "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:01.444Z",
+  "ingestedAt": "2026-10-02T14:26:46.344Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:04.017Z",
   "details": {
@@ -187,5 +158,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4565222.png"
   },
-  "detailSyncedAt": "2026-07-01T13:45:01.444Z"
+  "detailSyncedAt": "2026-07-01T13:45:01.444Z",
+  "statsSyncedAt": "2026-10-02T14:26:46.344Z"
 }

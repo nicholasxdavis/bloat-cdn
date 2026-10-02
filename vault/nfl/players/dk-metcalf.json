@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "PIT",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
-      "pts": "98",
+      "pts": "213",
       "reb": "1",
       "ast": "-",
       "stl": "-",
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 2",
+      "matchup": "@ CLE",
+      "result": "L 27-24",
+      "min": "—",
+      "pts": "115",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "vs CIN",
       "result": "W 30-27",
@@ -169,7 +180,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:38.915Z",
+  "ingestedAt": "2026-10-02T14:25:39.395Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:21.879Z",
   "details": {
@@ -182,5 +193,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4047650.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:49.188Z",
-  "statsSyncedAt": "2026-10-01T14:59:38.915Z"
+  "statsSyncedAt": "2026-10-02T14:25:39.395Z"
 }

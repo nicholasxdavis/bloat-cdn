@@ -13,7 +13,7 @@
     {
       "season": "26-27",
       "team": "FLA",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
       "pts": "0",
       "reb": "0",
@@ -208,6 +208,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 2",
+      "matchup": "@ SJ",
+      "result": "L 4-3 OT",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Sep 29",
       "matchup": "@ CAR",
       "result": "W 1-0 OT",
@@ -222,8 +233,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T15:00:45.807Z",
-  "statsSyncedAt": "2026-10-01T15:00:45.807Z",
+  "ingestedAt": "2026-10-02T14:27:07.076Z",
+  "statsSyncedAt": "2026-10-02T14:27:07.076Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:32.175Z",
   "details": {

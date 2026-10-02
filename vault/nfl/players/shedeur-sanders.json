@@ -20,7 +20,7 @@
       "ast": "0",
       "stl": "1",
       "blk": "1",
-      "fgPct": "5.2",
+      "fgPct": "5.1",
       "fg3Pct": "79.2",
       "ftPct": "-",
       "to": "-"
@@ -43,6 +43,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 2",
+      "matchup": "vs PIT",
+      "result": "W 27-24",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
       "date": "Sep 27",
       "matchup": "vs CAR",
       "result": "W 21-18",
@@ -57,7 +68,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T15:00:07.475Z",
+  "ingestedAt": "2026-10-02T14:26:18.550Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:21.611Z",
   "details": {
@@ -69,5 +80,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432762.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:22.779Z",
-  "statsSyncedAt": "2026-10-01T15:00:07.475Z"
+  "statsSyncedAt": "2026-10-02T14:26:18.550Z"
 }

@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "SJ",
+      "gp": "1",
+      "min": "-",
+      "pts": "3",
+      "reb": "0",
+      "ast": "3",
+      "stl": "1",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "SJ",
       "gp": "82",
@@ -43,66 +58,22 @@
   ],
   "recentGames": [
     {
-      "date": "Apr 17",
-      "matchup": "@ WPG",
-      "result": "W 6-1",
+      "date": "Oct 2",
+      "matchup": "vs FLA",
+      "result": "W 4-3 OT",
       "min": "—",
       "pts": "3",
-      "reb": "1",
-      "ast": "2",
-      "stl": "2",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 16",
-      "matchup": "@ CHI",
-      "result": "L 5-2",
-      "min": "—",
-      "pts": "0",
       "reb": "0",
-      "ast": "0",
-      "stl": "-3",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 14",
-      "matchup": "@ NSH",
-      "result": "W 3-2",
-      "min": "—",
-      "pts": "2",
-      "reb": "2",
-      "ast": "0",
-      "stl": "2",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 12",
-      "matchup": "vs VAN",
-      "result": "L 4-3 SO",
-      "min": "—",
-      "pts": "2",
-      "reb": "0",
-      "ast": "2",
-      "stl": "2",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 10",
-      "matchup": "@ ANA",
-      "result": "L 6-1",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "0",
+      "ast": "3",
+      "stl": "1",
       "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:45:08.245Z",
-  "statsSyncedAt": "2026-06-16T12:49:52.513Z",
+  "ingestedAt": "2026-10-02T14:26:53.872Z",
+  "statsSyncedAt": "2026-10-02T14:26:53.872Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:14.589Z",
   "details": {

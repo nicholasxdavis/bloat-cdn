@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-10-01T15:00:50.229Z",
+  "syncedAt": "2026-10-02T14:27:11.148Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -1722,7 +1722,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:39:28.243Z",
-      "statsSyncedAt": "2026-10-01T14:58:24.141Z",
+      "statsSyncedAt": "2026-10-02T14:24:01.726Z",
       "team": "PHI",
       "position": "1B",
       "active": true,
@@ -1768,7 +1768,7 @@
       "position": "SP",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:42:31.444Z",
-      "statsSyncedAt": "2026-09-30T14:26:20.045Z",
+      "statsSyncedAt": "2026-10-02T14:24:04.924Z",
       "detailSyncedAt": "2026-09-01T15:27:50.364Z"
     },
     {
@@ -2337,7 +2337,7 @@
       "position": "1B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:13.533Z",
-      "statsSyncedAt": "2026-10-01T14:58:48.870Z",
+      "statsSyncedAt": "2026-10-02T14:24:40.100Z",
       "detailSyncedAt": "2026-09-01T15:28:15.963Z"
     },
     {
@@ -2456,7 +2456,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:43:22.598Z",
-      "statsSyncedAt": "2026-10-01T14:58:53.297Z",
+      "statsSyncedAt": "2026-10-02T14:24:44.939Z",
       "detailSyncedAt": "2026-09-01T15:28:21.467Z"
     },
     {
@@ -2593,7 +2593,7 @@
       "position": "RF",
       "active": true,
       "profileSyncedAt": "2026-07-28T10:26:12.801Z",
-      "statsSyncedAt": "2026-10-01T14:58:57.708Z"
+      "statsSyncedAt": "2026-10-02T14:24:51.182Z"
     },
     {
       "sport": "mlb",
@@ -2786,7 +2786,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:40:13.657Z",
-      "statsSyncedAt": "2026-09-28T16:15:20.982Z",
+      "statsSyncedAt": "2026-10-02T14:25:01.253Z",
       "team": "PHI",
       "position": "SP",
       "active": true,
@@ -6450,7 +6450,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:42.647Z",
       "detailSyncedAt": "2026-09-01T15:31:23.576Z",
-      "statsSyncedAt": "2026-10-01T14:59:15.078Z"
+      "statsSyncedAt": "2026-10-02T14:25:12.510Z"
     },
     {
       "sport": "nfl",
@@ -6554,7 +6554,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:53.189Z",
       "detailSyncedAt": "2026-09-01T15:31:27.900Z",
-      "statsSyncedAt": "2026-10-01T14:59:18.286Z"
+      "statsSyncedAt": "2026-10-02T14:25:17.420Z"
     },
     {
       "sport": "nfl",
@@ -6596,7 +6596,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:56.198Z",
       "detailSyncedAt": "2026-09-01T15:31:29.593Z",
-      "statsSyncedAt": "2026-10-01T14:59:19.887Z"
+      "statsSyncedAt": "2026-10-02T14:25:20.136Z"
     },
     {
       "sport": "nfl",
@@ -6675,7 +6675,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:02.221Z",
       "detailSyncedAt": "2026-09-01T15:31:33.394Z",
-      "statsSyncedAt": "2026-10-01T14:59:23.180Z"
+      "statsSyncedAt": "2026-10-02T14:25:23.423Z"
     },
     {
       "sport": "nfl",
@@ -6696,7 +6696,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:03.631Z",
       "detailSyncedAt": "2026-09-01T15:31:34.224Z",
-      "statsSyncedAt": "2026-10-01T14:59:23.901Z"
+      "statsSyncedAt": "2026-10-02T14:25:24.919Z"
     },
     {
       "sport": "nfl",
@@ -6717,7 +6717,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:05.136Z",
       "detailSyncedAt": "2026-09-01T15:31:35.052Z",
-      "statsSyncedAt": "2026-10-01T14:59:24.710Z"
+      "statsSyncedAt": "2026-10-02T14:25:25.880Z"
     },
     {
       "sport": "nfl",
@@ -6863,7 +6863,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:15.776Z",
       "detailSyncedAt": "2026-09-01T15:31:41.061Z",
-      "statsSyncedAt": "2026-10-01T14:59:35.693Z"
+      "statsSyncedAt": "2026-10-02T14:25:35.377Z"
     },
     {
       "sport": "nfl",
@@ -6941,7 +6941,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:21.880Z",
       "detailSyncedAt": "2026-09-01T15:31:44.823Z",
-      "statsSyncedAt": "2026-10-01T14:59:38.916Z"
+      "statsSyncedAt": "2026-10-02T14:25:39.396Z"
     },
     {
       "sport": "nfl",
@@ -6962,7 +6962,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:23.536Z",
       "detailSyncedAt": "2026-09-01T15:31:45.644Z",
-      "statsSyncedAt": "2026-10-01T14:59:39.801Z"
+      "statsSyncedAt": "2026-10-02T14:25:40.741Z"
     },
     {
       "sport": "nfl",
@@ -7025,7 +7025,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:27.930Z",
       "detailSyncedAt": "2026-09-01T15:31:48.182Z",
-      "statsSyncedAt": "2026-10-01T14:59:42.133Z"
+      "statsSyncedAt": "2026-10-02T14:25:45.552Z"
     },
     {
       "sport": "nfl",
@@ -7109,7 +7109,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:33.735Z",
       "detailSyncedAt": "2026-09-01T15:31:51.603Z",
-      "statsSyncedAt": "2026-10-01T14:59:45.324Z"
+      "statsSyncedAt": "2026-10-02T14:25:50.918Z"
     },
     {
       "sport": "nfl",
@@ -7151,7 +7151,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:36.831Z",
       "detailSyncedAt": "2026-09-01T15:31:53.307Z",
-      "statsSyncedAt": "2026-10-01T14:59:46.967Z"
+      "statsSyncedAt": "2026-10-02T14:25:53.356Z"
     },
     {
       "sport": "nfl",
@@ -7172,7 +7172,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:38.383Z",
       "detailSyncedAt": "2026-09-01T15:31:54.157Z",
-      "statsSyncedAt": "2026-10-01T14:59:47.745Z"
+      "statsSyncedAt": "2026-10-02T14:25:54.600Z"
     },
     {
       "sport": "nfl",
@@ -7260,7 +7260,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:45.843Z",
       "detailSyncedAt": "2026-09-01T15:31:59.069Z",
-      "statsSyncedAt": "2026-10-01T14:59:49.344Z"
+      "statsSyncedAt": "2026-10-02T14:25:56.657Z"
     },
     {
       "sport": "nfl",
@@ -7281,7 +7281,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:47.412Z",
       "detailSyncedAt": "2026-09-01T15:31:59.892Z",
-      "statsSyncedAt": "2026-10-01T14:59:50.249Z"
+      "statsSyncedAt": "2026-10-02T14:25:57.447Z"
     },
     {
       "sport": "nfl",
@@ -7344,7 +7344,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:52.001Z",
       "detailSyncedAt": "2026-09-01T15:32:02.498Z",
-      "statsSyncedAt": "2026-10-01T14:59:52.538Z"
+      "statsSyncedAt": "2026-10-02T14:26:00.220Z"
     },
     {
       "sport": "nfl",
@@ -7407,7 +7407,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:58.493Z",
       "detailSyncedAt": "2026-09-01T15:32:05.115Z",
-      "statsSyncedAt": "2026-10-01T14:59:54.950Z"
+      "statsSyncedAt": "2026-10-02T14:26:03.934Z"
     },
     {
       "sport": "nfl",
@@ -7532,7 +7532,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:08.397Z",
       "detailSyncedAt": "2026-09-01T15:32:10.141Z",
-      "statsSyncedAt": "2026-10-01T15:00:01.762Z"
+      "statsSyncedAt": "2026-10-02T14:26:11.925Z"
     },
     {
       "sport": "nfl",
@@ -7729,7 +7729,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:21.612Z",
       "detailSyncedAt": "2026-09-01T15:32:20.134Z",
-      "statsSyncedAt": "2026-10-01T15:00:07.476Z"
+      "statsSyncedAt": "2026-10-02T14:26:18.551Z"
     },
     {
       "sport": "nfl",
@@ -7750,7 +7750,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:24.743Z",
       "detailSyncedAt": "2026-09-01T15:32:21.055Z",
-      "statsSyncedAt": "2026-10-01T15:00:08.686Z"
+      "statsSyncedAt": "2026-10-02T14:26:20.003Z"
     },
     {
       "sport": "nfl",
@@ -7850,7 +7850,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:32.216Z",
       "detailSyncedAt": "2026-09-01T15:32:25.818Z",
-      "statsSyncedAt": "2026-10-01T15:00:12.317Z"
+      "statsSyncedAt": "2026-10-02T14:26:25.441Z"
     },
     {
       "sport": "nfl",
@@ -7907,7 +7907,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:36.781Z",
       "detailSyncedAt": "2026-09-01T15:32:28.605Z",
-      "statsSyncedAt": "2026-10-01T15:00:13.925Z"
+      "statsSyncedAt": "2026-10-02T14:26:26.961Z"
     },
     {
       "sport": "nfl",
@@ -7949,7 +7949,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:39.941Z",
       "detailSyncedAt": "2026-09-01T15:32:30.603Z",
-      "statsSyncedAt": "2026-10-01T15:00:15.933Z"
+      "statsSyncedAt": "2026-10-02T14:26:29.407Z"
     },
     {
       "sport": "nhl",
@@ -7965,7 +7965,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:17.195Z",
-      "statsSyncedAt": "2026-10-01T15:00:17.157Z",
+      "statsSyncedAt": "2026-10-02T14:26:30.226Z",
       "team": "FLA",
       "position": "C",
       "active": true,
@@ -8001,7 +8001,7 @@
       "headshot": "media/headshots/nhl/vasilan01.png",
       "statsPath": "stats/href/vasilan01.json",
       "vaultPath": "vault/nhl/players/andrei-vasilevskiy.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
@@ -8010,7 +8010,8 @@
       "position": "G",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:44.360Z",
-      "detailSyncedAt": "2026-09-01T15:32:33.732Z"
+      "detailSyncedAt": "2026-09-01T15:32:33.732Z",
+      "statsSyncedAt": "2026-10-02T14:26:32.791Z"
     },
     {
       "sport": "nhl",
@@ -8073,7 +8074,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:48.923Z",
       "detailSyncedAt": "2026-09-01T15:32:36.983Z",
-      "statsSyncedAt": "2026-10-01T15:00:21.975Z"
+      "statsSyncedAt": "2026-10-02T14:26:36.038Z"
     },
     {
       "sport": "nhl",
@@ -8084,7 +8085,7 @@
       "headshot": "media/headshots/nhl/pointbr01.png",
       "statsPath": "stats/href/pointbr01.json",
       "vaultPath": "vault/nhl/players/brayden-point.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
@@ -8093,7 +8094,8 @@
       "position": "C",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:50.330Z",
-      "detailSyncedAt": "2026-09-01T15:32:37.962Z"
+      "detailSyncedAt": "2026-09-01T15:32:37.962Z",
+      "statsSyncedAt": "2026-10-02T14:26:37.235Z"
     },
     {
       "sport": "nhl",
@@ -8125,7 +8127,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:36.021Z",
-      "statsSyncedAt": "2026-10-01T15:00:24.492Z",
+      "statsSyncedAt": "2026-10-02T14:26:38.400Z",
       "team": "VAN",
       "position": "RW",
       "active": true,
@@ -8188,7 +8190,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:36.098Z",
-      "statsSyncedAt": "2026-10-01T15:00:26.872Z",
+      "statsSyncedAt": "2026-10-02T14:26:42.186Z",
       "team": "EDM",
       "position": "C",
       "active": true,
@@ -8230,7 +8232,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:30.904Z",
-      "statsSyncedAt": "2026-10-01T15:00:29.742Z",
+      "statsSyncedAt": "2026-10-02T14:26:44.175Z",
       "team": "VAN",
       "position": "C",
       "active": true,
@@ -8251,7 +8253,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:17.172Z",
-      "statsSyncedAt": "2026-10-01T15:00:31.338Z",
+      "statsSyncedAt": "2026-10-02T14:26:45.032Z",
       "team": "NYR",
       "position": "G",
       "active": true,
@@ -8267,7 +8269,7 @@
       "headshot": "media/headshots/nhl/hugheja01.png",
       "statsPath": "stats/href/hugheja01.json",
       "vaultPath": "vault/nhl/players/jack-hughes.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "sources": [
         "espn"
       ],
@@ -8276,7 +8278,8 @@
       "position": "C",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:04.019Z",
-      "detailSyncedAt": "2026-09-01T15:32:46.788Z"
+      "detailSyncedAt": "2026-09-01T15:32:46.788Z",
+      "statsSyncedAt": "2026-10-02T14:26:46.345Z"
     },
     {
       "sport": "nhl",
@@ -8324,12 +8327,12 @@
       "headshot": "media/headshots/nhl/kapriki01.png",
       "statsPath": "stats/href/kapriki01.json",
       "vaultPath": "vault/nhl/players/kirill-kaprizov.json",
-      "rowCount": 6,
+      "rowCount": 7,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:35.317Z",
-      "statsSyncedAt": "2026-06-16T12:49:48.542Z",
+      "statsSyncedAt": "2026-10-02T14:26:49.417Z",
       "team": "MIN",
       "position": "LW",
       "active": true,
@@ -8350,7 +8353,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:03.265Z",
-      "statsSyncedAt": "2026-10-01T15:00:34.830Z",
+      "statsSyncedAt": "2026-10-02T14:26:50.192Z",
       "team": "EDM",
       "position": "C",
       "active": true,
@@ -8366,12 +8369,12 @@
       "headshot": "media/headshots/nhl/coolelo01.png",
       "statsPath": "stats/href/coolelo01.json",
       "vaultPath": "vault/nhl/players/logan-cooley.json",
-      "rowCount": 3,
+      "rowCount": 4,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:44:14.010Z",
-      "statsSyncedAt": "2026-06-16T12:49:50.414Z",
+      "statsSyncedAt": "2026-10-02T14:26:51.336Z",
       "team": "UTAH",
       "position": "C",
       "active": true,
@@ -8387,7 +8390,7 @@
       "headshot": "media/headshots/nhl/hughelu01.png",
       "statsPath": "stats/href/hughelu01.json",
       "vaultPath": "vault/nhl/players/luke-hughes.json",
-      "rowCount": 4,
+      "rowCount": 5,
       "sources": [
         "espn"
       ],
@@ -8396,7 +8399,8 @@
       "position": "D",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:12.967Z",
-      "detailSyncedAt": "2026-09-01T15:32:52.623Z"
+      "detailSyncedAt": "2026-09-01T15:32:52.623Z",
+      "statsSyncedAt": "2026-10-02T14:26:52.640Z"
     },
     {
       "sport": "nhl",
@@ -8407,12 +8411,12 @@
       "headshot": "media/headshots/nhl/celebma01.png",
       "statsPath": "stats/href/celebma01.json",
       "vaultPath": "vault/nhl/players/macklin-celebrini.json",
-      "rowCount": 2,
+      "rowCount": 3,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:44:03.070Z",
-      "statsSyncedAt": "2026-06-16T12:49:52.513Z",
+      "statsSyncedAt": "2026-10-02T14:26:53.873Z",
       "team": "SJ",
       "position": "C",
       "active": true,
@@ -8438,7 +8442,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:16.093Z",
       "detailSyncedAt": "2026-09-01T15:32:54.566Z",
-      "statsSyncedAt": "2026-10-01T15:00:38.032Z"
+      "statsSyncedAt": "2026-10-02T14:26:54.977Z"
     },
     {
       "sport": "nhl",
@@ -8454,7 +8458,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:44:09.501Z",
-      "statsSyncedAt": "2026-10-01T15:00:38.829Z",
+      "statsSyncedAt": "2026-10-02T14:26:56.285Z",
       "team": "PHI",
       "position": "RW",
       "active": true,
@@ -8553,7 +8557,7 @@
       "headshot": "media/headshots/nhl/kucheni01.png",
       "statsPath": "stats/href/kucheni01.json",
       "vaultPath": "vault/nhl/players/nikita-kucherov.json",
-      "rowCount": 12,
+      "rowCount": 13,
       "sources": [
         "espn"
       ],
@@ -8562,7 +8566,8 @@
       "position": "RW",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:25.111Z",
-      "detailSyncedAt": "2026-09-01T15:33:00.779Z"
+      "detailSyncedAt": "2026-09-01T15:33:00.779Z",
+      "statsSyncedAt": "2026-10-02T14:27:01.580Z"
     },
     {
       "sport": "nhl",
@@ -8573,12 +8578,12 @@
       "headshot": "media/headshots/nhl/hughequ01.png",
       "statsPath": "stats/href/hughequ01.json",
       "vaultPath": "vault/nhl/players/quinn-hughes.json",
-      "rowCount": 10,
+      "rowCount": 11,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:26.896Z",
-      "statsSyncedAt": "2026-06-16T12:49:59.097Z",
+      "statsSyncedAt": "2026-10-02T14:27:04.448Z",
       "team": "MIN",
       "position": "D",
       "active": true,
@@ -8594,12 +8599,12 @@
       "headshot": "media/headshots/nhl/josiro01.png",
       "statsPath": "stats/href/josiro01.json",
       "vaultPath": "vault/nhl/players/roman-josi.json",
-      "rowCount": 15,
+      "rowCount": 16,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:27.164Z",
-      "statsSyncedAt": "2026-06-16T12:49:59.930Z",
+      "statsSyncedAt": "2026-10-02T14:27:05.793Z",
       "team": "NSH",
       "position": "D",
       "active": true,
@@ -8620,7 +8625,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:12.743Z",
-      "statsSyncedAt": "2026-10-01T15:00:45.808Z",
+      "statsSyncedAt": "2026-10-02T14:27:07.077Z",
       "team": "FLA",
       "position": "C",
       "active": true,
@@ -8678,12 +8683,12 @@
       "headshot": "media/headshots/nhl/hedmavi01.png",
       "statsPath": "stats/href/hedmavi01.json",
       "vaultPath": "vault/nhl/players/victor-hedman.json",
-      "rowCount": 17,
+      "rowCount": 18,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:59.228Z",
-      "statsSyncedAt": "2026-06-16T12:50:03.686Z",
+      "statsSyncedAt": "2026-10-02T14:27:11.145Z",
       "team": "TB",
       "position": "D",
       "active": true,
