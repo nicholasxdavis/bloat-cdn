@@ -13,15 +13,15 @@
     {
       "season": "26-27",
       "team": "BOS",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": "1.000",
-      "fg3Pct": "0.00",
+      "fgPct": ".947",
+      "fg3Pct": "1.47",
       "ftPct": "-",
       "to": "0"
     },
@@ -118,6 +118,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 3",
+      "matchup": "@ WPG",
+      "result": "W 4-3 OT",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 30",
       "matchup": "vs NYR",
       "result": "W 3-0",
@@ -132,7 +143,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T15:00:32.822Z",
+  "ingestedAt": "2026-10-03T13:00:20.978Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:07.143Z",
   "details": {
@@ -144,5 +155,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4712036.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:03.410Z",
-  "statsSyncedAt": "2026-10-01T15:00:32.822Z"
+  "statsSyncedAt": "2026-10-03T13:00:20.978Z"
 }

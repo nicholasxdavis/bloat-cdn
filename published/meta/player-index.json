@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-10-02T14:27:11.148Z",
+  "syncedAt": "2026-10-03T13:00:30.227Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -3009,7 +3009,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T17:45:57.136Z",
-      "statsSyncedAt": "2026-09-28T16:15:30.091Z",
+      "statsSyncedAt": "2026-10-03T12:59:12.056Z",
       "team": "ATL",
       "position": "F",
       "active": true,
@@ -7907,7 +7907,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:36.781Z",
       "detailSyncedAt": "2026-09-01T15:32:28.605Z",
-      "statsSyncedAt": "2026-10-02T14:26:26.961Z"
+      "statsSyncedAt": "2026-10-03T13:00:06.086Z"
     },
     {
       "sport": "nfl",
@@ -7949,7 +7949,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:39.941Z",
       "detailSyncedAt": "2026-09-01T15:32:30.603Z",
-      "statsSyncedAt": "2026-10-02T14:26:29.407Z"
+      "statsSyncedAt": "2026-10-03T13:00:08.080Z"
     },
     {
       "sport": "nhl",
@@ -7981,7 +7981,7 @@
       "headshot": "media/headshots/nhl/ovechal01.png",
       "statsPath": "stats/href/ovechal01.json",
       "vaultPath": "vault/nhl/players/alex-ovechkin.json",
-      "rowCount": 21,
+      "rowCount": 22,
       "sources": [
         "espn"
       ],
@@ -7990,7 +7990,8 @@
       "position": "LW",
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:42.755Z",
-      "detailSyncedAt": "2026-09-01T15:32:32.727Z"
+      "detailSyncedAt": "2026-09-01T15:32:32.727Z",
+      "statsSyncedAt": "2026-10-03T13:00:09.679Z"
     },
     {
       "sport": "nhl",
@@ -8216,7 +8217,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:59.518Z",
       "detailSyncedAt": "2026-09-01T15:32:43.783Z",
-      "statsSyncedAt": "2026-10-01T15:00:27.777Z"
+      "statsSyncedAt": "2026-10-03T13:00:17.694Z"
     },
     {
       "sport": "nhl",
@@ -8316,7 +8317,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:07.144Z",
       "detailSyncedAt": "2026-09-01T15:32:48.978Z",
-      "statsSyncedAt": "2026-10-01T15:00:32.823Z"
+      "statsSyncedAt": "2026-10-03T13:00:20.979Z"
     },
     {
       "sport": "nhl",
@@ -8474,12 +8475,12 @@
       "headshot": "media/headshots/nhl/rantami01.png",
       "statsPath": "stats/href/rantami01.json",
       "vaultPath": "vault/nhl/players/mikko-rantanen.json",
-      "rowCount": 14,
+      "rowCount": 15,
       "sources": [
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:21.997Z",
-      "statsSyncedAt": "2026-06-16T12:49:55.491Z",
+      "statsSyncedAt": "2026-10-03T13:00:28.995Z",
       "team": "DAL",
       "position": "RW",
       "active": true,
@@ -8500,7 +8501,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:08.763Z",
-      "statsSyncedAt": "2026-10-01T15:00:41.004Z",
+      "statsSyncedAt": "2026-10-03T13:00:30.225Z",
       "team": "VGK",
       "position": "RW",
       "active": true,

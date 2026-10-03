@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "26-27",
+      "team": "WSH",
+      "gp": "1",
+      "min": "-",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "25-26",
       "team": "WSH",
       "gp": "82",
@@ -328,65 +343,21 @@
   ],
   "recentGames": [
     {
-      "date": "Apr 14",
-      "matchup": "@ CBJ",
-      "result": "W 2-1",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "-1",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 12",
-      "matchup": "vs PIT",
-      "result": "W 3-0",
+      "date": "Oct 2",
+      "matchup": "@ CAR",
+      "result": "W 5-2",
       "min": "—",
       "pts": "1",
       "reb": "0",
       "ast": "1",
       "stl": "1",
       "blk": "—"
-    },
-    {
-      "date": "Apr 11",
-      "matchup": "@ PIT",
-      "result": "W 6-3",
-      "min": "—",
-      "pts": "1",
-      "reb": "1",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 8",
-      "matchup": "@ TOR",
-      "result": "W 4-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
-    },
-    {
-      "date": "Apr 5",
-      "matchup": "@ NYR",
-      "result": "L 8-1",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-07-01T13:44:36.329Z",
+  "ingestedAt": "2026-10-03T13:00:09.678Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:42.754Z",
   "details": {
@@ -397,5 +368,6 @@
     "awards": [],
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/3101.png"
   },
-  "detailSyncedAt": "2026-07-01T13:44:36.329Z"
+  "detailSyncedAt": "2026-07-01T13:44:36.329Z",
+  "statsSyncedAt": "2026-10-03T13:00:09.678Z"
 }
