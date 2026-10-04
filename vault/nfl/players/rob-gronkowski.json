@@ -4,7 +4,7 @@
   "slug": "gronkro00",
   "name": "Rob Gronkowski",
   "sport": "nfl",
-  "position": "WR",
+  "position": "TE",
   "headshot": "media/headshots/nfl/gronkro00.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/13229.png",
   "legend": true,
@@ -235,7 +235,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-09-27T15:11:02.582Z",
+  "ingestedAt": "2026-10-04T15:20:51.704Z",
   "details": {
     "height": "6' 6\"",
     "weight": "265 lbs",
@@ -245,7 +245,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/13229.png"
   },
   "detailSyncedAt": "2026-09-01T15:32:16.781Z",
-  "active": true,
-  "profileSyncedAt": "2026-09-27T15:11:02.582Z",
+  "active": false,
+  "profileSyncedAt": "2026-10-04T15:20:51.704Z",
   "team": "TB"
 }
