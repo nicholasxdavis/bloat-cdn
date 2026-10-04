@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "DAL",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
-      "pts": "0",
+      "pts": "1",
       "reb": "0",
-      "ast": "0",
-      "stl": "-2",
+      "ast": "1",
+      "stl": "-1",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -237,6 +237,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "@ NSH",
+      "result": "L 2-1",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 3",
       "matchup": "vs STL",
       "result": "L 4-0",
@@ -251,8 +262,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-03T13:00:28.988Z",
-  "statsSyncedAt": "2026-10-03T13:00:28.988Z",
+  "ingestedAt": "2026-10-04T13:39:38.168Z",
+  "statsSyncedAt": "2026-10-04T13:39:38.168Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:19.153Z",
   "details": {

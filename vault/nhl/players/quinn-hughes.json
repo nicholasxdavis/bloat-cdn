@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "MIN",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "1",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
+      "stl": "2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -177,6 +177,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "vs BOS",
+      "result": "W 4-1",
+      "min": "—",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 2",
       "matchup": "@ NSH",
       "result": "W 3-1",
@@ -191,8 +202,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-02T14:27:04.447Z",
-  "statsSyncedAt": "2026-10-02T14:27:04.447Z",
+  "ingestedAt": "2026-10-04T13:39:41.384Z",
+  "statsSyncedAt": "2026-10-04T13:39:41.384Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:26.504Z",
   "details": {

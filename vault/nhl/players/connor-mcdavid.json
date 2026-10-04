@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "EDM",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
-      "pts": "7",
-      "reb": "1",
-      "ast": "6",
-      "stl": "5",
+      "pts": "9",
+      "reb": "2",
+      "ast": "7",
+      "stl": "7",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 3",
+      "matchup": "vs SEA",
+      "result": "W 3-1",
+      "min": "—",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
       "date": "Oct 2",
       "matchup": "@ VAN",
       "result": "W 9-7",
@@ -218,8 +229,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-02T14:26:42.185Z",
-  "statsSyncedAt": "2026-10-02T14:26:42.185Z",
+  "ingestedAt": "2026-10-04T13:38:43.866Z",
+  "statsSyncedAt": "2026-10-04T13:38:43.866Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:58.066Z",
   "details": {
