@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 5",
+      "matchup": "vs ATL",
+      "result": "L 3-2",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Oct 3",
       "matchup": "vs ATL",
       "result": "W 5-3",
@@ -190,24 +201,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "3"
-    },
-    {
-      "date": "Sep 25",
-      "matchup": "vs SD",
-      "result": "L 4-2",
-      "min": "5",
-      "pts": "—",
-      "reb": "0",
-      "ast": "1",
-      "stl": "—",
-      "blk": "1"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-04T13:37:27.305Z",
-  "statsSyncedAt": "2026-10-04T13:37:27.305Z",
+  "ingestedAt": "2026-10-05T16:37:05.711Z",
+  "statsSyncedAt": "2026-10-05T16:37:05.711Z",
   "active": true,
   "profileSyncedAt": "2026-09-24T13:03:25.198Z",
   "details": {

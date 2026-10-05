@@ -13,15 +13,15 @@
     {
       "season": "26-27",
       "team": "NYR",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": ".936",
-      "fg3Pct": "1.51",
+      "fgPct": ".934",
+      "fg3Pct": "1.67",
       "ftPct": "-",
       "to": "1"
     },
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "vs UTA",
+      "result": "W 4-2",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 1",
       "matchup": "vs TB",
       "result": "W 5-1",
@@ -158,8 +169,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-02T14:26:45.032Z",
-  "statsSyncedAt": "2026-10-02T14:26:45.032Z",
+  "ingestedAt": "2026-10-05T16:38:58.141Z",
+  "statsSyncedAt": "2026-10-05T16:38:58.141Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:02.517Z",
   "details": {

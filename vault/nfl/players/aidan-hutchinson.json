@@ -13,7 +13,7 @@
     {
       "season": "2026",
       "team": "DET",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
       "pts": "0",
       "reb": "0",
@@ -88,6 +88,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 5",
+      "matchup": "@ CAR",
+      "result": "L 32-26",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "vs NYJ",
       "result": "W 31-24",
@@ -124,7 +135,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:16.684Z",
+  "ingestedAt": "2026-10-05T16:37:29.493Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:48:48.007Z",
   "details": {
@@ -136,5 +147,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4372099.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:17.412Z",
-  "statsSyncedAt": "2026-10-01T14:59:16.684Z"
+  "statsSyncedAt": "2026-10-05T16:37:29.493Z"
 }

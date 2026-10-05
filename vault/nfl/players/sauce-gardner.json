@@ -13,7 +13,7 @@
     {
       "season": "2026",
       "team": "IND",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
       "pts": "0",
       "reb": "0",
@@ -117,6 +117,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "vs WSH",
+      "result": "W 30-13",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "vs HOU",
       "result": "W 19-17",
@@ -153,7 +164,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T15:00:06.254Z",
+  "ingestedAt": "2026-10-05T16:38:27.526Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:20.240Z",
   "details": {
@@ -165,5 +176,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4427250.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:21.745Z",
-  "statsSyncedAt": "2026-10-01T15:00:06.254Z"
+  "statsSyncedAt": "2026-10-05T16:38:27.526Z"
 }

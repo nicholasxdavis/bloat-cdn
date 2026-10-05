@@ -13,10 +13,10 @@
     {
       "season": "2026",
       "team": "BAL",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
-      "pts": "301",
-      "reb": "6",
+      "pts": "374",
+      "reb": "7",
       "ast": "-",
       "stl": "-",
       "blk": "-",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "vs TEN",
+      "result": "W 24-18",
+      "min": "—",
+      "pts": "73",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "vs DAL",
       "result": "W 34-31",
@@ -214,7 +225,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:36.926Z",
+  "ingestedAt": "2026-10-05T16:37:49.502Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:18.796Z",
   "details": {
@@ -227,5 +238,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3043078.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:47.366Z",
-  "statsSyncedAt": "2026-10-01T14:59:36.926Z"
+  "statsSyncedAt": "2026-10-05T16:37:49.502Z"
 }

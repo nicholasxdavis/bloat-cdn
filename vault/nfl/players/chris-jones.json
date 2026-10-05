@@ -13,7 +13,7 @@
     {
       "season": "2026",
       "team": "KC",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
       "pts": "0",
       "reb": "0",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "@ LV",
+      "result": "W 30-27",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "@ MIA",
       "result": "W 24-10",
@@ -214,7 +225,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:26.343Z",
+  "ingestedAt": "2026-10-05T16:37:43.350Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:09.768Z",
   "details": {
@@ -227,5 +238,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3044859.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:41.631Z",
-  "statsSyncedAt": "2026-10-01T14:59:26.343Z"
+  "statsSyncedAt": "2026-10-05T16:37:43.350Z"
 }

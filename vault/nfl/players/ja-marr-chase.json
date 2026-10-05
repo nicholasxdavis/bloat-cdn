@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "CIN",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
-      "pts": "185",
+      "pts": "212",
       "reb": "3",
       "ast": "-",
       "stl": "-",
@@ -103,6 +103,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "vs JAX",
+      "result": "L 22-17",
+      "min": "—",
+      "pts": "27",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "@ PIT",
       "result": "L 30-27",
@@ -139,7 +150,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:43.736Z",
+  "ingestedAt": "2026-10-05T16:37:59.204Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:30.779Z",
   "details": {
@@ -151,5 +162,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:54.745Z",
-  "statsSyncedAt": "2026-10-01T14:59:43.736Z"
+  "statsSyncedAt": "2026-10-05T16:37:59.204Z"
 }

@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "UTA",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "3",
       "reb": "0",
       "ast": "3",
-      "stl": "1",
+      "stl": "0",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -73,6 +73,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "@ NYR",
+      "result": "L 4-2",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 3",
       "matchup": "@ CBJ",
       "result": "W 4-1",
@@ -98,8 +109,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-04T13:38:51.107Z",
-  "statsSyncedAt": "2026-10-04T13:38:51.107Z",
+  "ingestedAt": "2026-10-05T16:39:04.353Z",
+  "statsSyncedAt": "2026-10-05T16:39:04.353Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:11.597Z",
   "details": {

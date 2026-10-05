@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "LAR",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
-      "pts": "74",
+      "pts": "199",
       "reb": "0",
       "ast": "-",
       "stl": "-",
@@ -73,6 +73,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "@ PHI",
+      "result": "W 24-20",
+      "min": "—",
+      "pts": "125",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 11",
       "matchup": "vs SF",
       "result": "L 27-7",
@@ -87,7 +98,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T15:00:02.618Z",
+  "ingestedAt": "2026-10-05T16:38:23.794Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:11.217Z",
   "details": {
@@ -99,5 +110,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4426515.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:16.202Z",
-  "statsSyncedAt": "2026-10-01T15:00:02.618Z"
+  "statsSyncedAt": "2026-10-05T16:38:23.794Z"
 }

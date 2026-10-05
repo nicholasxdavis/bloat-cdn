@@ -13,10 +13,10 @@
     {
       "season": "2026",
       "team": "ARI",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
-      "pts": "73",
-      "reb": "0",
+      "pts": "85",
+      "reb": "1",
       "ast": "-",
       "stl": "-",
       "blk": "-",
@@ -58,6 +58,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 4",
+      "matchup": "@ NYG",
+      "result": "L 36-24",
+      "min": "—",
+      "pts": "12",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Sep 27",
       "matchup": "@ SF",
       "result": "L 36-30",
@@ -94,7 +105,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:54.152Z",
+  "ingestedAt": "2026-10-05T16:38:14.857Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:54.910Z",
   "details": {
@@ -106,5 +117,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432708.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:08.143Z",
-  "statsSyncedAt": "2026-10-01T14:59:54.152Z"
+  "statsSyncedAt": "2026-10-05T16:38:14.857Z"
 }
