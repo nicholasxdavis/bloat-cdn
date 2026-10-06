@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-10-05T16:39:17.589Z",
+  "syncedAt": "2026-10-06T14:40:32.839Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -2154,7 +2154,7 @@
       "position": "2B",
       "active": true,
       "profileSyncedAt": "2026-09-23T13:10:55.960Z",
-      "statsSyncedAt": "2026-10-04T13:37:10.438Z",
+      "statsSyncedAt": "2026-10-06T14:38:36.126Z",
       "detailSyncedAt": "2026-09-01T15:28:07.780Z"
     },
     {
@@ -2176,7 +2176,7 @@
       "position": "3B",
       "active": true,
       "profileSyncedAt": "2026-07-23T10:15:12.437Z",
-      "statsSyncedAt": "2026-10-04T13:37:11.164Z"
+      "statsSyncedAt": "2026-10-06T14:38:37.339Z"
     },
     {
       "sport": "mlb",
@@ -6450,7 +6450,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:42.647Z",
       "detailSyncedAt": "2026-09-01T15:31:23.576Z",
-      "statsSyncedAt": "2026-10-05T16:37:26.892Z"
+      "statsSyncedAt": "2026-10-06T14:39:09.235Z"
     },
     {
       "sport": "nfl",
@@ -6575,7 +6575,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:54.612Z",
       "detailSyncedAt": "2026-09-01T15:31:28.743Z",
-      "statsSyncedAt": "2026-10-01T14:59:19.100Z"
+      "statsSyncedAt": "2026-10-06T14:39:13.675Z"
     },
     {
       "sport": "nfl",
@@ -6596,7 +6596,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:48:56.198Z",
       "detailSyncedAt": "2026-09-01T15:31:29.593Z",
-      "statsSyncedAt": "2026-10-05T16:37:34.700Z"
+      "statsSyncedAt": "2026-10-06T14:39:14.482Z"
     },
     {
       "sport": "nfl",
@@ -6675,7 +6675,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:02.221Z",
       "detailSyncedAt": "2026-09-01T15:31:33.394Z",
-      "statsSyncedAt": "2026-10-05T16:37:38.362Z"
+      "statsSyncedAt": "2026-10-06T14:39:16.904Z"
     },
     {
       "sport": "nfl",
@@ -6696,7 +6696,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:03.631Z",
       "detailSyncedAt": "2026-09-01T15:31:34.224Z",
-      "statsSyncedAt": "2026-10-05T16:37:39.491Z"
+      "statsSyncedAt": "2026-10-06T14:39:17.702Z"
     },
     {
       "sport": "nfl",
@@ -6863,7 +6863,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:15.776Z",
       "detailSyncedAt": "2026-09-01T15:31:41.061Z",
-      "statsSyncedAt": "2026-10-05T16:37:48.155Z"
+      "statsSyncedAt": "2026-10-06T14:39:23.297Z"
     },
     {
       "sport": "nfl",
@@ -7260,7 +7260,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:45.843Z",
       "detailSyncedAt": "2026-09-01T15:31:59.069Z",
-      "statsSyncedAt": "2026-10-05T16:38:07.995Z"
+      "statsSyncedAt": "2026-10-06T14:39:36.540Z"
     },
     {
       "sport": "nfl",
@@ -7281,7 +7281,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:47.412Z",
       "detailSyncedAt": "2026-09-01T15:31:59.892Z",
-      "statsSyncedAt": "2026-10-05T16:38:09.116Z"
+      "statsSyncedAt": "2026-10-06T14:39:37.315Z"
     },
     {
       "sport": "nfl",
@@ -7344,7 +7344,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:49:52.001Z",
       "detailSyncedAt": "2026-09-01T15:32:02.498Z",
-      "statsSyncedAt": "2026-10-05T16:38:12.337Z"
+      "statsSyncedAt": "2026-10-06T14:39:40.139Z"
     },
     {
       "sport": "nfl",
@@ -7532,7 +7532,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:08.397Z",
       "detailSyncedAt": "2026-09-01T15:32:10.141Z",
-      "statsSyncedAt": "2026-10-05T16:38:22.583Z"
+      "statsSyncedAt": "2026-10-06T14:39:48.575Z"
     },
     {
       "sport": "nfl",
@@ -7729,7 +7729,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:21.612Z",
       "detailSyncedAt": "2026-09-01T15:32:20.134Z",
-      "statsSyncedAt": "2026-10-05T16:38:28.762Z"
+      "statsSyncedAt": "2026-10-06T14:39:52.580Z"
     },
     {
       "sport": "nfl",
@@ -7907,7 +7907,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:36.781Z",
       "detailSyncedAt": "2026-09-01T15:32:28.605Z",
-      "statsSyncedAt": "2026-10-05T16:38:37.393Z"
+      "statsSyncedAt": "2026-10-06T14:39:58.587Z"
     },
     {
       "sport": "nfl",
@@ -8012,7 +8012,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:44.360Z",
       "detailSyncedAt": "2026-09-01T15:32:33.732Z",
-      "statsSyncedAt": "2026-10-04T13:38:36.122Z"
+      "statsSyncedAt": "2026-10-06T14:40:03.424Z"
     },
     {
       "sport": "nhl",
@@ -8096,7 +8096,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:50.330Z",
       "detailSyncedAt": "2026-09-01T15:32:37.962Z",
-      "statsSyncedAt": "2026-10-04T13:38:40.178Z"
+      "statsSyncedAt": "2026-10-06T14:40:07.045Z"
     },
     {
       "sport": "nhl",
@@ -8217,7 +8217,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:59.518Z",
       "detailSyncedAt": "2026-09-01T15:32:43.783Z",
-      "statsSyncedAt": "2026-10-04T13:38:44.711Z"
+      "statsSyncedAt": "2026-10-06T14:40:12.360Z"
     },
     {
       "sport": "nhl",
@@ -8317,7 +8317,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:07.144Z",
       "detailSyncedAt": "2026-09-01T15:32:48.978Z",
-      "statsSyncedAt": "2026-10-03T13:00:20.979Z"
+      "statsSyncedAt": "2026-10-06T14:40:16.342Z"
     },
     {
       "sport": "nhl",
@@ -8459,7 +8459,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:44:09.501Z",
-      "statsSyncedAt": "2026-10-04T13:39:37.348Z",
+      "statsSyncedAt": "2026-10-06T14:40:23.263Z",
       "team": "PHI",
       "position": "RW",
       "active": true,
@@ -8480,7 +8480,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:43:21.997Z",
-      "statsSyncedAt": "2026-10-04T13:39:38.169Z",
+      "statsSyncedAt": "2026-10-06T14:40:24.039Z",
       "team": "DAL",
       "position": "RW",
       "active": true,
@@ -8568,7 +8568,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:51:25.111Z",
       "detailSyncedAt": "2026-09-01T15:33:00.779Z",
-      "statsSyncedAt": "2026-10-04T13:39:40.561Z"
+      "statsSyncedAt": "2026-10-06T14:40:27.226Z"
     },
     {
       "sport": "nhl",
@@ -8668,7 +8668,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:58.604Z",
-      "statsSyncedAt": "2026-10-04T13:39:44.591Z",
+      "statsSyncedAt": "2026-10-06T14:40:31.630Z",
       "team": "PIT",
       "position": "C",
       "active": true,
@@ -8689,7 +8689,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:42:59.228Z",
-      "statsSyncedAt": "2026-10-04T13:39:45.405Z",
+      "statsSyncedAt": "2026-10-06T14:40:32.837Z",
       "team": "TB",
       "position": "D",
       "active": true,

@@ -13,7 +13,7 @@
     {
       "season": "26-27",
       "team": "TB",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "0",
       "reb": "0",
@@ -283,6 +283,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 5",
+      "matchup": "vs PHI",
+      "result": "W 4-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 3",
       "matchup": "vs WSH",
       "result": "W 3-1",
@@ -308,8 +319,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-04T13:39:45.404Z",
-  "statsSyncedAt": "2026-10-04T13:39:45.404Z",
+  "ingestedAt": "2026-10-06T14:40:32.836Z",
+  "statsSyncedAt": "2026-10-06T14:40:32.836Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:37.374Z",
   "details": {

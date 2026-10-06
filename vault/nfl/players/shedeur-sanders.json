@@ -20,7 +20,7 @@
       "ast": "0",
       "stl": "1",
       "blk": "1",
-      "fgPct": "4.5",
+      "fgPct": "4.6",
       "fg3Pct": "79.2",
       "ftPct": "-",
       "to": "-"
@@ -68,7 +68,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-05T16:38:28.762Z",
+  "ingestedAt": "2026-10-06T14:39:52.580Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:21.611Z",
   "details": {
@@ -80,5 +80,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432762.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:22.779Z",
-  "statsSyncedAt": "2026-10-05T16:38:28.762Z"
+  "statsSyncedAt": "2026-10-06T14:39:52.580Z"
 }

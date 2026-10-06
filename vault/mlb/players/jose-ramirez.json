@@ -223,6 +223,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 5",
+      "matchup": "vs CHW",
+      "result": "L 4-3",
+      "min": "3",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
       "date": "Oct 3",
       "matchup": "vs CHW",
       "result": "L 3-0",
@@ -265,23 +276,12 @@
       "ast": "0",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 23",
-      "matchup": "@ BOS",
-      "result": "L 1-0",
-      "min": "3",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-04T13:37:11.163Z",
+  "ingestedAt": "2026-10-06T14:38:37.338Z",
   "details": {
     "jersey": "11",
     "height": "5' 8\"",
@@ -291,7 +291,7 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/32801.png"
   },
   "detailSyncedAt": "2026-07-01T13:38:59.289Z",
-  "statsSyncedAt": "2026-10-04T13:37:11.163Z",
+  "statsSyncedAt": "2026-10-06T14:38:37.338Z",
   "active": true,
   "profileSyncedAt": "2026-07-23T10:15:12.437Z"
 }
