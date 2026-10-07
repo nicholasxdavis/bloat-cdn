@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "NJ",
-      "gp": "2",
+      "gp": "3",
       "min": "-",
       "pts": "1",
       "reb": "1",
       "ast": "0",
-      "stl": "1",
+      "stl": "0",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -88,6 +88,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 6",
+      "matchup": "vs UTA",
+      "result": "L 5-3",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 3",
       "matchup": "@ NYI",
       "result": "L 6-0",
@@ -113,7 +124,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-04T13:39:34.044Z",
+  "ingestedAt": "2026-10-07T14:57:30.874Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:12.966Z",
   "details": {
@@ -125,5 +136,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4874719.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:07.272Z",
-  "statsSyncedAt": "2026-10-04T13:39:34.044Z"
+  "statsSyncedAt": "2026-10-07T14:57:30.874Z"
 }

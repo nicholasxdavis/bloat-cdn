@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "NYR",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
-      "pts": "4",
+      "pts": "5",
       "reb": "0",
-      "ast": "4",
-      "stl": "2",
+      "ast": "5",
+      "stl": "5",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -133,6 +133,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 6",
+      "matchup": "vs NYI",
+      "result": "W 5-2",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "3",
+      "blk": "—"
+    },
+    {
       "date": "Oct 4",
       "matchup": "vs UTA",
       "result": "W 4-2",
@@ -180,7 +191,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-05T16:38:39.880Z",
+  "ingestedAt": "2026-10-07T14:57:11.238Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:39.940Z",
   "details": {
@@ -193,5 +204,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4197146.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:34.177Z",
-  "statsSyncedAt": "2026-10-05T16:38:39.880Z"
+  "statsSyncedAt": "2026-10-07T14:57:11.238Z"
 }

@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "FLA",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
       "pts": "0",
       "reb": "0",
       "ast": "0",
-      "stl": "-1",
+      "stl": "-2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 7",
+      "matchup": "@ LA",
+      "result": "W 2-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 5",
       "matchup": "@ ANA",
       "result": "L 3-2 OT",
@@ -184,7 +195,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-05T16:38:47.855Z",
+  "ingestedAt": "2026-10-07T14:57:17.259Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:48.921Z",
   "details": {
@@ -197,5 +208,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4319858.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:39.523Z",
-  "statsSyncedAt": "2026-10-05T16:38:47.855Z"
+  "statsSyncedAt": "2026-10-07T14:57:17.259Z"
 }
