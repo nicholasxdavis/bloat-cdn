@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "COL",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
-      "pts": "5",
-      "reb": "2",
-      "ast": "3",
-      "stl": "-1",
+      "pts": "8",
+      "reb": "3",
+      "ast": "5",
+      "stl": "1",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -223,6 +223,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 9",
+      "matchup": "@ CGY",
+      "result": "W 7-3",
+      "min": "—",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
       "date": "Oct 7",
       "matchup": "@ WPG",
       "result": "L 3-2",
@@ -259,8 +270,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-08T15:08:53.401Z",
-  "statsSyncedAt": "2026-10-08T15:08:53.401Z",
+  "ingestedAt": "2026-10-09T14:52:48.089Z",
+  "statsSyncedAt": "2026-10-09T14:52:48.089Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:22.146Z",
   "details": {

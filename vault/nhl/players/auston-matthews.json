@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "TOR",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
-      "pts": "5",
+      "pts": "6",
       "reb": "2",
-      "ast": "3",
-      "stl": "1",
+      "ast": "4",
+      "stl": "2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 9",
+      "matchup": "@ VGK",
+      "result": "L 4-3 SO",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 6",
       "matchup": "vs NSH",
       "result": "W 5-4 OT",
@@ -225,8 +236,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-07T14:57:16.356Z",
-  "statsSyncedAt": "2026-10-07T14:57:16.356Z",
+  "ingestedAt": "2026-10-09T14:52:27.022Z",
+  "statsSyncedAt": "2026-10-09T14:52:27.022Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:47.485Z",
   "details": {
