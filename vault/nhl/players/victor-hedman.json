@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "TB",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
-      "pts": "0",
+      "pts": "1",
       "reb": "0",
-      "ast": "0",
-      "stl": "1",
+      "ast": "1",
+      "stl": "2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -283,6 +283,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 10",
+      "matchup": "@ NYI",
+      "result": "W 5-3",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 8",
       "matchup": "vs MIN",
       "result": "W 3-2",
@@ -330,8 +341,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-09T14:52:55.177Z",
-  "statsSyncedAt": "2026-10-09T14:52:55.177Z",
+  "ingestedAt": "2026-10-11T14:34:50.058Z",
+  "statsSyncedAt": "2026-10-11T14:34:50.058Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:37.374Z",
   "details": {
