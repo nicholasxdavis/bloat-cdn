@@ -5,7 +5,7 @@
   "name": "Marvin Harrison Jr.",
   "sport": "nfl",
   "position": "WR",
-  "team": "ARI",
+  "team": "HOU",
   "headshot": "media/headshots/nfl/jr.ma00.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4432708.png",
   "legend": false,
@@ -105,9 +105,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-05T16:38:14.857Z",
+  "ingestedAt": "2026-10-12T17:11:32.180Z",
   "active": true,
-  "profileSyncedAt": "2026-06-25T15:49:54.910Z",
+  "profileSyncedAt": "2026-10-12T17:11:32.180Z",
   "details": {
     "jersey": "18",
     "height": "6' 3\"",

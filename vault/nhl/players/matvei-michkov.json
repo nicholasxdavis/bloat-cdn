@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "PHI",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
       "pts": "2",
       "reb": "2",
       "ast": "0",
-      "stl": "-5",
+      "stl": "-7",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Oct 11",
+      "matchup": "vs CAR",
+      "result": "L 4-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-2",
+      "blk": "—"
+    },
     {
       "date": "Oct 10",
       "matchup": "@ BOS",
@@ -100,24 +111,13 @@
       "ast": "0",
       "stl": "0",
       "blk": "—"
-    },
-    {
-      "date": "Oct 1",
-      "matchup": "@ NJ",
-      "result": "L 3-2 OT",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-11T14:34:40.441Z",
-  "statsSyncedAt": "2026-10-11T14:34:40.441Z",
+  "ingestedAt": "2026-10-12T17:12:11.555Z",
+  "statsSyncedAt": "2026-10-12T17:12:11.555Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:17.622Z",
   "details": {

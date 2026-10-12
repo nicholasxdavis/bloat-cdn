@@ -147,6 +147,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 12",
+      "matchup": "@ MIL",
+      "result": "L 2-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 3",
       "matchup": "vs ATL",
       "result": "W 5-3",
@@ -189,26 +200,15 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Sep 9",
-      "matchup": "vs CIN",
-      "result": "W 3-2",
-      "min": "—",
-      "pts": "—",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-04T13:37:28.919Z",
+  "ingestedAt": "2026-10-12T17:10:42.947Z",
   "active": true,
   "profileSyncedAt": "2026-09-24T13:03:27.667Z",
-  "statsSyncedAt": "2026-10-04T13:37:28.919Z",
+  "statsSyncedAt": "2026-10-12T17:10:42.947Z",
   "details": {
     "jersey": "29",
     "height": "6' 3\"",

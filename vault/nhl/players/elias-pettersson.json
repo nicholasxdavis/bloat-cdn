@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "VAN",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
       "pts": "8",
       "reb": "2",
       "ast": "6",
-      "stl": "3",
+      "stl": "2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 11",
+      "matchup": "@ NYR",
+      "result": "L 6-2",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 10",
       "matchup": "@ NJ",
       "result": "L 4-1",
@@ -190,24 +201,13 @@
       "ast": "1",
       "stl": "2",
       "blk": "—"
-    },
-    {
-      "date": "Oct 2",
-      "matchup": "vs EDM",
-      "result": "L 9-7",
-      "min": "—",
-      "pts": "3",
-      "reb": "1",
-      "ast": "2",
-      "stl": "0",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-11T14:34:29.409Z",
-  "statsSyncedAt": "2026-10-11T14:34:29.409Z",
+  "ingestedAt": "2026-10-12T17:12:03.545Z",
+  "statsSyncedAt": "2026-10-12T17:12:03.545Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:00.984Z",
   "details": {

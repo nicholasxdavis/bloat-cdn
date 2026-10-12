@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "SEA",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
-      "pts": "114",
+      "pts": "129",
       "reb": "1",
       "ast": "-",
       "stl": "-",
@@ -163,6 +163,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 11",
+      "matchup": "vs SF",
+      "result": "L 32-29",
+      "min": "—",
+      "pts": "15",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 4",
       "matchup": "vs LAC",
       "result": "W 30-23",
@@ -210,7 +221,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-05T16:37:46.964Z",
+  "ingestedAt": "2026-10-12T17:11:12.121Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:14.198Z",
   "details": {
@@ -223,5 +234,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/2977187.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:44.521Z",
-  "statsSyncedAt": "2026-10-05T16:37:46.964Z"
+  "statsSyncedAt": "2026-10-12T17:11:12.121Z"
 }

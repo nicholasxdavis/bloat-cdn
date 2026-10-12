@@ -13,15 +13,15 @@
     {
       "season": "2026",
       "team": "JAX",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
-      "pts": "843",
-      "reb": "8",
-      "ast": "2",
-      "stl": "72",
-      "blk": "104",
-      "fgPct": "73.3",
-      "fg3Pct": "111.2",
+      "pts": "1,174",
+      "reb": "10",
+      "ast": "3",
+      "stl": "96",
+      "blk": "143",
+      "fgPct": "63.6",
+      "fg3Pct": "106.8",
       "ftPct": "-",
       "to": "-"
     },
@@ -103,6 +103,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 11",
+      "matchup": "vs PHI",
+      "result": "W 19-17",
+      "min": "—",
+      "pts": "331",
+      "reb": "2",
+      "ast": "1",
+      "stl": "24",
+      "blk": "39"
+    },
+    {
       "date": "Oct 4",
       "matchup": "@ CIN",
       "result": "W 22-17",
@@ -150,7 +161,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-09T14:52:18.133Z",
+  "ingestedAt": "2026-10-12T17:11:47.105Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:32.215Z",
   "details": {
@@ -162,5 +173,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:29.033Z",
-  "statsSyncedAt": "2026-10-09T14:52:18.133Z"
+  "statsSyncedAt": "2026-10-12T17:11:47.105Z"
 }
