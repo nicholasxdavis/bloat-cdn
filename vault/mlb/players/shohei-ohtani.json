@@ -150,6 +150,17 @@
     {
       "date": "Oct 12",
       "matchup": "@ MIL",
+      "result": "L 7-4",
+      "min": "4",
+      "pts": "—",
+      "reb": "0",
+      "ast": "0",
+      "stl": "—",
+      "blk": "2"
+    },
+    {
+      "date": "Oct 12",
+      "matchup": "@ MIL",
       "result": "L 2-1",
       "min": "3",
       "pts": "—",
@@ -190,24 +201,13 @@
       "ast": "0",
       "stl": "—",
       "blk": "2"
-    },
-    {
-      "date": "Oct 3",
-      "matchup": "vs ATL",
-      "result": "W 5-3",
-      "min": "4",
-      "pts": "—",
-      "reb": "0",
-      "ast": "0",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-12T17:10:40.940Z",
-  "statsSyncedAt": "2026-10-12T17:10:40.940Z",
+  "ingestedAt": "2026-10-13T15:27:11.694Z",
+  "statsSyncedAt": "2026-10-13T15:27:11.694Z",
   "active": true,
   "profileSyncedAt": "2026-09-24T13:03:25.198Z",
   "details": {
