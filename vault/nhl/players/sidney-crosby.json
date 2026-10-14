@@ -13,10 +13,10 @@
     {
       "season": "26-27",
       "team": "PIT",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
-      "pts": "2",
-      "reb": "0",
+      "pts": "4",
+      "reb": "2",
       "ast": "2",
       "stl": "-4",
       "blk": "-",
@@ -343,6 +343,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 14",
+      "matchup": "@ CHI",
+      "result": "L 5-3",
+      "min": "—",
+      "pts": "2",
+      "reb": "2",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 10",
       "matchup": "vs DAL",
       "result": "W 2-1 SO",
@@ -385,24 +396,13 @@
       "ast": "0",
       "stl": "-1",
       "blk": "—"
-    },
-    {
-      "date": "Oct 3",
-      "matchup": "vs MTL",
-      "result": "W 6-5 OT",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-11T14:34:48.859Z",
-  "statsSyncedAt": "2026-10-11T14:34:48.859Z",
+  "ingestedAt": "2026-10-14T13:17:19.437Z",
+  "statsSyncedAt": "2026-10-14T13:17:19.437Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:36.136Z",
   "details": {

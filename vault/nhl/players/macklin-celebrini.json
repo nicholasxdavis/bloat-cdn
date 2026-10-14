@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "SJ",
-      "gp": "3",
+      "gp": "4",
       "min": "-",
-      "pts": "6",
-      "reb": "1",
-      "ast": "5",
-      "stl": "2",
+      "pts": "8",
+      "reb": "2",
+      "ast": "6",
+      "stl": "1",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -58,6 +58,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 14",
+      "matchup": "vs BOS",
+      "result": "L 6-3",
+      "min": "—",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "-1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 10",
       "matchup": "vs EDM",
       "result": "L 3-1",
@@ -94,8 +105,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-11T14:34:38.338Z",
-  "statsSyncedAt": "2026-10-11T14:34:38.338Z",
+  "ingestedAt": "2026-10-14T13:17:06.254Z",
+  "statsSyncedAt": "2026-10-14T13:17:06.254Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:14.589Z",
   "details": {

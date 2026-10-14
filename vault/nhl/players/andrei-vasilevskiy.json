@@ -13,17 +13,17 @@
     {
       "season": "26-27",
       "team": "TB",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": ".892",
-      "fg3Pct": "2.29",
+      "fgPct": ".886",
+      "fg3Pct": "2.46",
       "ftPct": "-",
-      "to": "1"
+      "to": "2"
     },
     {
       "season": "25-26",
@@ -208,6 +208,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 13",
+      "matchup": "@ NYR",
+      "result": "L 4-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 10",
       "matchup": "@ NYI",
       "result": "W 5-3",
@@ -255,7 +266,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-11T14:34:19.353Z",
+  "ingestedAt": "2026-10-14T13:16:43.806Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:44.359Z",
   "details": {
@@ -267,5 +278,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/2976847.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:37.316Z",
-  "statsSyncedAt": "2026-10-11T14:34:19.353Z"
+  "statsSyncedAt": "2026-10-14T13:16:43.806Z"
 }

@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "EDM",
-      "gp": "5",
+      "gp": "6",
       "min": "-",
-      "pts": "9",
-      "reb": "3",
-      "ast": "6",
-      "stl": "9",
+      "pts": "11",
+      "reb": "4",
+      "ast": "7",
+      "stl": "11",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -208,6 +208,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 14",
+      "matchup": "@ LA",
+      "result": "W 4-1",
+      "min": "—",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
       "date": "Oct 10",
       "matchup": "@ SJ",
       "result": "W 3-1",
@@ -250,24 +261,13 @@
       "ast": "1",
       "stl": "3",
       "blk": "—"
-    },
-    {
-      "date": "Sep 30",
-      "matchup": "vs VAN",
-      "result": "L 6-5 OT",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "-1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-11T14:34:35.098Z",
-  "statsSyncedAt": "2026-10-11T14:34:35.098Z",
+  "ingestedAt": "2026-10-14T13:17:02.507Z",
+  "statsSyncedAt": "2026-10-14T13:17:02.507Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:10.345Z",
   "details": {
