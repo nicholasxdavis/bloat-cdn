@@ -15,9 +15,9 @@
       "team": "NYR",
       "gp": "8",
       "min": "-",
-      "pts": "7",
+      "pts": "8",
       "reb": "0",
-      "ast": "7",
+      "ast": "8",
       "stl": "5",
       "blk": "-",
       "fgPct": "-",
@@ -191,7 +191,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-14T13:16:40.247Z",
+  "ingestedAt": "2026-10-15T13:02:39.265Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:39.940Z",
   "details": {
@@ -204,5 +204,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4197146.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:34.177Z",
-  "statsSyncedAt": "2026-10-14T13:16:40.247Z"
+  "statsSyncedAt": "2026-10-15T13:02:39.265Z"
 }
