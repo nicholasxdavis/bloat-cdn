@@ -13,7 +13,7 @@
     {
       "season": "26-27",
       "team": "TOR",
-      "gp": "7",
+      "gp": "8",
       "min": "-",
       "pts": "12",
       "reb": "5",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 15",
+      "matchup": "vs BUF",
+      "result": "L 5-4 OT",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 14",
       "matchup": "@ UTA",
       "result": "L 5-4",
@@ -235,23 +246,12 @@
       "ast": "2",
       "stl": "2",
       "blk": "—"
-    },
-    {
-      "date": "Oct 3",
-      "matchup": "vs OTT",
-      "result": "L 3-2",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "0",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-14T13:17:22.060Z",
+  "ingestedAt": "2026-10-16T12:54:43.785Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:39.029Z",
   "details": {
@@ -263,5 +263,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/3114736.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:23.289Z",
-  "statsSyncedAt": "2026-10-14T13:17:22.060Z"
+  "statsSyncedAt": "2026-10-16T12:54:43.785Z"
 }

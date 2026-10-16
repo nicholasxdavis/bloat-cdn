@@ -13,10 +13,10 @@
     {
       "season": "26-27",
       "team": "EDM",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
-      "pts": "11",
-      "reb": "4",
+      "pts": "12",
+      "reb": "5",
       "ast": "7",
       "stl": "11",
       "blk": "-",
@@ -208,6 +208,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 16",
+      "matchup": "vs UTA",
+      "result": "L 4-2",
+      "min": "—",
+      "pts": "1",
+      "reb": "1",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 14",
       "matchup": "@ LA",
       "result": "W 4-1",
@@ -250,24 +261,13 @@
       "ast": "0",
       "stl": "2",
       "blk": "—"
-    },
-    {
-      "date": "Oct 2",
-      "matchup": "@ VAN",
-      "result": "W 9-7",
-      "min": "—",
-      "pts": "3",
-      "reb": "2",
-      "ast": "1",
-      "stl": "3",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-14T13:17:02.507Z",
-  "statsSyncedAt": "2026-10-14T13:17:02.507Z",
+  "ingestedAt": "2026-10-16T12:54:29.316Z",
+  "statsSyncedAt": "2026-10-16T12:54:29.316Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:10.345Z",
   "details": {

@@ -13,11 +13,11 @@
     {
       "season": "26-27",
       "team": "CHI",
-      "gp": "1",
+      "gp": "2",
       "min": "-",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
       "stl": "1",
       "blk": "-",
       "fgPct": "-",
@@ -73,6 +73,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 16",
+      "matchup": "vs WPG",
+      "result": "W 4-3 OT",
+      "min": "—",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 14",
       "matchup": "vs PIT",
       "result": "W 5-3",
@@ -87,8 +98,8 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-14T13:16:52.568Z",
-  "statsSyncedAt": "2026-10-14T13:16:52.568Z",
+  "ingestedAt": "2026-10-16T12:54:21.701Z",
+  "statsSyncedAt": "2026-10-16T12:54:21.701Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:56.443Z",
   "details": {
