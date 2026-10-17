@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "syncedAt": "2026-10-16T12:54:43.789Z",
+  "syncedAt": "2026-10-17T11:55:51.388Z",
   "players": [
     {
       "sport": "bundesliga",
@@ -8150,7 +8150,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:49.704Z",
-      "statsSyncedAt": "2026-10-15T13:02:50.429Z",
+      "statsSyncedAt": "2026-10-17T11:55:27.295Z",
       "team": "COL",
       "position": "D",
       "active": true,
@@ -8218,7 +8218,7 @@
       "active": true,
       "profileSyncedAt": "2026-06-25T15:50:59.518Z",
       "detailSyncedAt": "2026-09-01T15:32:43.783Z",
-      "statsSyncedAt": "2026-10-14T13:16:54.993Z"
+      "statsSyncedAt": "2026-10-17T11:55:30.405Z"
     },
     {
       "sport": "nhl",
@@ -8523,7 +8523,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:45.299Z",
-      "statsSyncedAt": "2026-10-15T13:03:08.064Z",
+      "statsSyncedAt": "2026-10-17T11:55:45.428Z",
       "team": "COL",
       "position": "C",
       "active": true,
@@ -8669,7 +8669,7 @@
         "espn"
       ],
       "ingestedAt": "2026-06-15T16:41:58.604Z",
-      "statsSyncedAt": "2026-10-14T13:17:19.438Z",
+      "statsSyncedAt": "2026-10-17T11:55:51.386Z",
       "team": "PIT",
       "position": "C",
       "active": true,
