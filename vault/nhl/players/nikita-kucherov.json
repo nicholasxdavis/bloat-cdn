@@ -13,10 +13,10 @@
     {
       "season": "26-27",
       "team": "TB",
-      "gp": "7",
+      "gp": "8",
       "min": "-",
-      "pts": "8",
-      "reb": "1",
+      "pts": "10",
+      "reb": "3",
       "ast": "7",
       "stl": "1",
       "blk": "-",
@@ -208,6 +208,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 17",
+      "matchup": "vs VAN",
+      "result": "W 4-2",
+      "min": "—",
+      "pts": "2",
+      "reb": "2",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 15",
       "matchup": "vs SEA",
       "result": "W 4-3 OT",
@@ -250,23 +261,12 @@
       "ast": "2",
       "stl": "1",
       "blk": "—"
-    },
-    {
-      "date": "Oct 5",
-      "matchup": "vs PHI",
-      "result": "W 4-1",
-      "min": "—",
-      "pts": "2",
-      "reb": "0",
-      "ast": "2",
-      "stl": "2",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-16T12:54:36.944Z",
+  "ingestedAt": "2026-10-18T12:21:54.801Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:25.110Z",
   "details": {
@@ -278,5 +278,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/2563060.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:15.769Z",
-  "statsSyncedAt": "2026-10-16T12:54:36.944Z"
+  "statsSyncedAt": "2026-10-18T12:21:54.801Z"
 }

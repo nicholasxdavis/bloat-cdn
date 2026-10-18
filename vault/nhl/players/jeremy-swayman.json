@@ -13,15 +13,15 @@
     {
       "season": "26-27",
       "team": "BOS",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
       "pts": "-",
       "reb": "-",
       "ast": "-",
       "stl": "-",
       "blk": "-",
-      "fgPct": ".930",
-      "fg3Pct": "1.99",
+      "fgPct": ".934",
+      "fg3Pct": "1.85",
       "ftPct": "-",
       "to": "1"
     },
@@ -118,6 +118,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 18",
+      "matchup": "@ LA",
+      "result": "W 4-1",
+      "min": "—",
+      "pts": "—",
+      "reb": "—",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 14",
       "matchup": "@ SJ",
       "result": "W 6-3",
@@ -160,23 +171,12 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Oct 3",
-      "matchup": "@ WPG",
-      "result": "W 4-3 OT",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-14T13:17:00.070Z",
+  "ingestedAt": "2026-10-18T12:21:41.103Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:07.143Z",
   "details": {
@@ -188,5 +188,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4712036.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:03.410Z",
-  "statsSyncedAt": "2026-10-14T13:17:00.070Z"
+  "statsSyncedAt": "2026-10-18T12:21:41.103Z"
 }

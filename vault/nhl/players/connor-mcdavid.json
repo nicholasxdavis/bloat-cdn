@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "EDM",
-      "gp": "7",
+      "gp": "8",
       "min": "-",
-      "pts": "18",
-      "reb": "4",
-      "ast": "14",
-      "stl": "15",
+      "pts": "23",
+      "reb": "6",
+      "ast": "17",
+      "stl": "19",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 18",
+      "matchup": "@ UTA",
+      "result": "W 6-2",
+      "min": "—",
+      "pts": "5",
+      "reb": "2",
+      "ast": "3",
+      "stl": "4",
+      "blk": "—"
+    },
+    {
       "date": "Oct 16",
       "matchup": "vs UTA",
       "result": "L 4-2",
@@ -235,24 +246,13 @@
       "ast": "2",
       "stl": "4",
       "blk": "—"
-    },
-    {
-      "date": "Oct 3",
-      "matchup": "vs SEA",
-      "result": "W 3-1",
-      "min": "—",
-      "pts": "2",
-      "reb": "1",
-      "ast": "1",
-      "stl": "2",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-16T12:54:22.507Z",
-  "statsSyncedAt": "2026-10-16T12:54:22.507Z",
+  "ingestedAt": "2026-10-18T12:21:36.264Z",
+  "statsSyncedAt": "2026-10-18T12:21:36.264Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:58.066Z",
   "details": {

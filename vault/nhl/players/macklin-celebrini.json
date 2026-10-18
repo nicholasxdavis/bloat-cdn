@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "SJ",
-      "gp": "5",
+      "gp": "6",
       "min": "-",
-      "pts": "8",
-      "reb": "2",
-      "ast": "6",
-      "stl": "1",
+      "pts": "11",
+      "reb": "3",
+      "ast": "8",
+      "stl": "2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -57,6 +57,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Oct 17",
+      "matchup": "@ DET",
+      "result": "L 4-3 SO",
+      "min": "—",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
+      "stl": "1",
+      "blk": "—"
+    },
     {
       "date": "Oct 16",
       "matchup": "@ NSH",
@@ -100,24 +111,13 @@
       "ast": "2",
       "stl": "1",
       "blk": "—"
-    },
-    {
-      "date": "Oct 2",
-      "matchup": "vs FLA",
-      "result": "W 4-3 OT",
-      "min": "—",
-      "pts": "3",
-      "reb": "0",
-      "ast": "3",
-      "stl": "1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-16T12:54:31.718Z",
-  "statsSyncedAt": "2026-10-16T12:54:31.718Z",
+  "ingestedAt": "2026-10-18T12:21:47.253Z",
+  "statsSyncedAt": "2026-10-18T12:21:47.253Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:14.589Z",
   "details": {
