@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "TOR",
-      "gp": "10",
+      "gp": "11",
       "min": "-",
-      "pts": "13",
-      "reb": "5",
-      "ast": "8",
-      "stl": "-4",
+      "pts": "15",
+      "reb": "6",
+      "ast": "9",
+      "stl": "-2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -193,6 +193,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 20",
+      "matchup": "@ CBJ",
+      "result": "W 6-2",
+      "min": "—",
+      "pts": "2",
+      "reb": "1",
+      "ast": "1",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
       "date": "Oct 19",
       "matchup": "vs SJ",
       "result": "W 3-1",
@@ -235,23 +246,12 @@
       "ast": "1",
       "stl": "0",
       "blk": "—"
-    },
-    {
-      "date": "Oct 10",
-      "matchup": "@ COL",
-      "result": "W 6-3",
-      "min": "—",
-      "pts": "5",
-      "reb": "2",
-      "ast": "3",
-      "stl": "1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-20T13:14:27.056Z",
+  "ingestedAt": "2026-10-21T13:24:47.265Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:39.029Z",
   "details": {
@@ -263,5 +263,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/3114736.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:23.289Z",
-  "statsSyncedAt": "2026-10-20T13:14:27.056Z"
+  "statsSyncedAt": "2026-10-21T13:24:47.265Z"
 }
