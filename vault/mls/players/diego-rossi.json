@@ -70,7 +70,7 @@
       "season": "2026-27 Liga BBVA MX",
       "gp": "-",
       "min": "-",
-      "pts": "4",
+      "pts": "5",
       "reb": "3",
       "ast": "-",
       "stl": "-",
@@ -82,6 +82,17 @@
     }
   ],
   "recentGames": [
+    {
+      "date": "Oct 22",
+      "matchup": "@ PUE",
+      "result": "W 4-1",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "0"
+    },
     {
       "date": "Oct 19",
       "matchup": "vs PAC",
@@ -125,23 +136,12 @@
       "ast": "—",
       "stl": "—",
       "blk": "1"
-    },
-    {
-      "date": "Sep 7",
-      "matchup": "@ TOL",
-      "result": "L 2-0",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "—",
-      "stl": "—",
-      "blk": "0"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-19T15:10:32.823Z",
+  "ingestedAt": "2026-10-22T13:21:50.089Z",
   "active": true,
   "profileSyncedAt": "2026-08-04T10:36:25.618Z",
   "details": {
@@ -152,5 +152,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/soccer/players/full/235817.png"
   },
   "detailSyncedAt": "2026-09-01T15:28:42.451Z",
-  "statsSyncedAt": "2026-10-19T15:10:32.823Z"
+  "statsSyncedAt": "2026-10-22T13:21:50.089Z"
 }

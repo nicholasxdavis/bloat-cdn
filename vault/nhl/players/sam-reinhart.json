@@ -13,7 +13,7 @@
     {
       "season": "26-27",
       "team": "FLA",
-      "gp": "9",
+      "gp": "10",
       "min": "-",
       "pts": "8",
       "reb": "5",
@@ -208,6 +208,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 21",
+      "matchup": "@ OTT",
+      "result": "L 5-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "—"
+    },
+    {
       "date": "Oct 17",
       "matchup": "vs SEA",
       "result": "W 8-3",
@@ -250,24 +261,13 @@
       "ast": "0",
       "stl": "-1",
       "blk": "—"
-    },
-    {
-      "date": "Oct 10",
-      "matchup": "vs MIN",
-      "result": "L 4-1",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "-1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-18T12:21:58.495Z",
-  "statsSyncedAt": "2026-10-18T12:21:58.495Z",
+  "ingestedAt": "2026-10-22T13:23:26.048Z",
+  "statsSyncedAt": "2026-10-22T13:23:26.048Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:32.175Z",
   "details": {
