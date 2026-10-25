@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "LA",
-      "gp": "8",
+      "gp": "9",
       "min": "-",
       "pts": "9",
       "reb": "6",
       "ast": "3",
-      "stl": "-2",
+      "stl": "-4",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -222,6 +222,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 24",
+      "matchup": "@ NJ",
+      "result": "L 3-1",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "-2",
+      "blk": "—"
+    },
+    {
       "date": "Oct 22",
       "matchup": "@ NYI",
       "result": "W 3-2 OT",
@@ -264,24 +275,13 @@
       "ast": "0",
       "stl": "-1",
       "blk": "—"
-    },
-    {
-      "date": "Oct 11",
-      "matchup": "@ VGK",
-      "result": "L 2-1 OT",
-      "min": "—",
-      "pts": "1",
-      "reb": "1",
-      "ast": "0",
-      "stl": "0",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-23T13:02:15.785Z",
-  "statsSyncedAt": "2026-10-23T13:02:15.785Z",
+  "ingestedAt": "2026-10-25T12:56:26.444Z",
+  "statsSyncedAt": "2026-10-25T12:56:26.444Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:46.039Z",
   "details": {
