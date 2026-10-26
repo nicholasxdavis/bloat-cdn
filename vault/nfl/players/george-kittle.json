@@ -13,9 +13,9 @@
     {
       "season": "2026",
       "team": "SF",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
-      "pts": "337",
+      "pts": "425",
       "reb": "5",
       "ast": "-",
       "stl": "-",
@@ -23,7 +23,7 @@
       "fgPct": "-",
       "fg3Pct": "-",
       "ftPct": "-",
-      "to": "0"
+      "to": "1"
     },
     {
       "season": "2025",
@@ -163,6 +163,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 25",
+      "matchup": "@ ATL",
+      "result": "L 29-20",
+      "min": "—",
+      "pts": "88",
+      "reb": "0",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 20",
       "matchup": "vs WSH",
       "result": "W 23-17",
@@ -205,23 +216,12 @@
       "ast": "—",
       "stl": "—",
       "blk": "—"
-    },
-    {
-      "date": "Sep 20",
-      "matchup": "vs MIA",
-      "result": "W 35-13",
-      "min": "—",
-      "pts": "80",
-      "reb": "1",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-20T13:13:01.648Z",
+  "ingestedAt": "2026-10-26T14:45:19.278Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:29.415Z",
   "details": {
@@ -234,5 +234,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3040151.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:53.864Z",
-  "statsSyncedAt": "2026-10-20T13:13:01.648Z"
+  "statsSyncedAt": "2026-10-26T14:45:19.278Z"
 }

@@ -13,15 +13,15 @@
     {
       "season": "2026",
       "team": "GB",
-      "gp": "6",
+      "gp": "7",
       "min": "-",
-      "pts": "1,684",
-      "reb": "11",
-      "ast": "4",
-      "stl": "135",
-      "blk": "225",
-      "fgPct": "61.7",
-      "fg3Pct": "92.2",
+      "pts": "1,958",
+      "reb": "13",
+      "ast": "5",
+      "stl": "162",
+      "blk": "270",
+      "fgPct": "59.8",
+      "fg3Pct": "90.6",
       "ftPct": "-",
       "to": "-"
     },
@@ -103,6 +103,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 25",
+      "matchup": "@ DET",
+      "result": "L 20-17",
+      "min": "—",
+      "pts": "274",
+      "reb": "2",
+      "ast": "1",
+      "stl": "27",
+      "blk": "45"
+    },
+    {
       "date": "Oct 19",
       "matchup": "vs DAL",
       "result": "W 23-13",
@@ -145,23 +156,12 @@
       "ast": "1",
       "stl": "28",
       "blk": "53"
-    },
-    {
-      "date": "Sep 20",
-      "matchup": "@ NYJ",
-      "result": "W 20-17 OT",
-      "min": "—",
-      "pts": "145",
-      "reb": "2",
-      "ast": "0",
-      "stl": "16",
-      "blk": "29"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-25T12:55:53.764Z",
+  "ingestedAt": "2026-10-26T14:45:29.424Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:49:45.841Z",
   "details": {
@@ -174,5 +174,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:02.911Z",
-  "statsSyncedAt": "2026-10-25T12:55:53.764Z"
+  "statsSyncedAt": "2026-10-26T14:45:29.424Z"
 }

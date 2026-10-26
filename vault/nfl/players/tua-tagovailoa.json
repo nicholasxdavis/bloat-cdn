@@ -118,6 +118,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 25",
+      "matchup": "vs SF",
+      "result": "W 29-20",
+      "min": "—",
+      "pts": "0",
+      "reb": "0",
+      "ast": "0",
+      "stl": "0",
+      "blk": "0"
+    },
+    {
       "date": "Oct 12",
       "matchup": "vs BAL",
       "result": "L 30-23 OT",
@@ -132,7 +143,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-12T17:11:49.078Z",
+  "ingestedAt": "2026-10-26T14:46:00.372Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:36.779Z",
   "details": {
@@ -145,5 +156,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4241479.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:32.118Z",
-  "statsSyncedAt": "2026-10-12T17:11:49.078Z"
+  "statsSyncedAt": "2026-10-26T14:46:00.372Z"
 }

@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "DAL",
-      "gp": "10",
+      "gp": "11",
       "min": "-",
-      "pts": "13",
-      "reb": "5",
+      "pts": "14",
+      "reb": "6",
       "ast": "8",
-      "stl": "7",
+      "stl": "8",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -237,6 +237,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 25",
+      "matchup": "vs NYI",
+      "result": "W 6-3",
+      "min": "—",
+      "pts": "1",
+      "reb": "1",
+      "ast": "0",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 23",
       "matchup": "vs WPG",
       "result": "W 3-2 OT",
@@ -279,24 +290,13 @@
       "ast": "1",
       "stl": "-1",
       "blk": "—"
-    },
-    {
-      "date": "Oct 14",
-      "matchup": "vs COL",
-      "result": "L 3-2",
-      "min": "—",
-      "pts": "0",
-      "reb": "0",
-      "ast": "0",
-      "stl": "1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-23T13:02:38.160Z",
-  "statsSyncedAt": "2026-10-23T13:02:38.160Z",
+  "ingestedAt": "2026-10-26T14:46:32.456Z",
+  "statsSyncedAt": "2026-10-26T14:46:32.456Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:19.153Z",
   "details": {

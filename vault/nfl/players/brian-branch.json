@@ -11,6 +11,21 @@
   "legend": false,
   "seasonHistory": [
     {
+      "season": "2026",
+      "team": "DET",
+      "gp": "1",
+      "min": "-",
+      "pts": "0",
+      "reb": "0",
+      "ast": "1",
+      "stl": "-",
+      "blk": "-",
+      "fgPct": "-",
+      "fg3Pct": "-",
+      "ftPct": "-",
+      "to": "-"
+    },
+    {
       "season": "2025",
       "team": "DET",
       "gp": "12",
@@ -58,53 +73,9 @@
   ],
   "recentGames": [
     {
-      "date": "Dec 5",
-      "matchup": "vs DAL",
-      "result": "W 44-30",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Nov 27",
+      "date": "Oct 25",
       "matchup": "vs GB",
-      "result": "L 31-24",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Nov 23",
-      "matchup": "vs NYG",
-      "result": "W 34-27 OT",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Nov 17",
-      "matchup": "@ PHI",
-      "result": "L 16-9",
-      "min": "—",
-      "pts": "—",
-      "reb": "—",
-      "ast": "—",
-      "stl": "—",
-      "blk": "—"
-    },
-    {
-      "date": "Nov 9",
-      "matchup": "@ WSH",
-      "result": "W 44-22",
+      "result": "W 20-17",
       "min": "—",
       "pts": "—",
       "reb": "—",
@@ -116,7 +87,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-01T14:59:21.910Z",
+  "ingestedAt": "2026-10-26T14:44:58.121Z",
   "active": true,
   "profileSyncedAt": "2026-08-02T11:28:17.485Z",
   "details": {
@@ -128,5 +99,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/4692025.png"
   },
   "detailSyncedAt": "2026-07-01T13:43:36.229Z",
-  "statsSyncedAt": "2026-10-01T14:59:21.910Z"
+  "statsSyncedAt": "2026-10-26T14:44:58.121Z"
 }
