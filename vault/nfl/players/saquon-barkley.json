@@ -13,10 +13,10 @@
     {
       "season": "2026",
       "team": "PHI",
-      "gp": "4",
+      "gp": "5",
       "min": "-",
-      "pts": "182",
-      "reb": "0",
+      "pts": "244",
+      "reb": "1",
       "ast": "-",
       "stl": "-",
       "blk": "-",
@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 27",
+      "matchup": "vs DAL",
+      "result": "L 38-21",
+      "min": "—",
+      "pts": "62",
+      "reb": "1",
+      "ast": "—",
+      "stl": "—",
+      "blk": "—"
+    },
+    {
       "date": "Oct 4",
       "matchup": "vs LAR",
       "result": "L 24-20",
@@ -195,7 +206,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-05T16:38:26.375Z",
+  "ingestedAt": "2026-10-27T13:49:32.427Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:18.731Z",
   "details": {
@@ -208,5 +219,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:20.943Z",
-  "statsSyncedAt": "2026-10-05T16:38:26.375Z"
+  "statsSyncedAt": "2026-10-27T13:49:32.427Z"
 }
