@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "FLA",
-      "gp": "12",
+      "gp": "13",
       "min": "-",
-      "pts": "12",
-      "reb": "7",
-      "ast": "5",
-      "stl": "-3",
+      "pts": "15",
+      "reb": "8",
+      "ast": "7",
+      "stl": "-2",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -148,6 +148,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 28",
+      "matchup": "@ WPG",
+      "result": "W 5-1",
+      "min": "—",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 25",
       "matchup": "@ CHI",
       "result": "W 3-2",
@@ -190,23 +201,12 @@
       "ast": "2",
       "stl": "4",
       "blk": "—"
-    },
-    {
-      "date": "Oct 15",
-      "matchup": "vs VAN",
-      "result": "W 3-2 OT",
-      "min": "—",
-      "pts": "3",
-      "reb": "3",
-      "ast": "0",
-      "stl": "3",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-26T14:46:10.424Z",
+  "ingestedAt": "2026-10-28T14:44:51.003Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:48.921Z",
   "details": {
@@ -219,5 +219,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4319858.png"
   },
   "detailSyncedAt": "2026-07-01T13:44:39.523Z",
-  "statsSyncedAt": "2026-10-26T14:46:10.424Z"
+  "statsSyncedAt": "2026-10-28T14:44:51.003Z"
 }

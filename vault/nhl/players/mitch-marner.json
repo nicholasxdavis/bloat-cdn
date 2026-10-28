@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "VGK",
-      "gp": "11",
+      "gp": "12",
       "min": "-",
-      "pts": "12",
+      "pts": "13",
       "reb": "2",
-      "ast": "10",
-      "stl": "-2",
+      "ast": "11",
+      "stl": "-1",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 28",
+      "matchup": "vs OTT",
+      "result": "W 4-1",
+      "min": "—",
+      "pts": "1",
+      "reb": "0",
+      "ast": "1",
+      "stl": "1",
+      "blk": "—"
+    },
+    {
       "date": "Oct 21",
       "matchup": "vs TB",
       "result": "L 6-2",
@@ -220,24 +231,13 @@
       "ast": "1",
       "stl": "0",
       "blk": "—"
-    },
-    {
-      "date": "Oct 13",
-      "matchup": "@ MIN",
-      "result": "L 4-2",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "-1",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-21T13:24:38.460Z",
-  "statsSyncedAt": "2026-10-21T13:24:38.460Z",
+  "ingestedAt": "2026-10-28T14:45:10.602Z",
+  "statsSyncedAt": "2026-10-28T14:45:10.602Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:20.741Z",
   "details": {

@@ -13,12 +13,12 @@
     {
       "season": "26-27",
       "team": "VAN",
-      "gp": "13",
+      "gp": "14",
       "min": "-",
-      "pts": "9",
-      "reb": "3",
-      "ast": "6",
-      "stl": "-9",
+      "pts": "12",
+      "reb": "4",
+      "ast": "8",
+      "stl": "-7",
       "blk": "-",
       "fgPct": "-",
       "fg3Pct": "-",
@@ -178,6 +178,17 @@
   ],
   "recentGames": [
     {
+      "date": "Oct 28",
+      "matchup": "@ ANA",
+      "result": "W 6-5 OT",
+      "min": "—",
+      "pts": "3",
+      "reb": "1",
+      "ast": "2",
+      "stl": "2",
+      "blk": "—"
+    },
+    {
       "date": "Oct 26",
       "matchup": "vs MIN",
       "result": "L 4-2",
@@ -220,24 +231,13 @@
       "ast": "1",
       "stl": "0",
       "blk": "—"
-    },
-    {
-      "date": "Oct 15",
-      "matchup": "@ FLA",
-      "result": "L 3-2 OT",
-      "min": "—",
-      "pts": "1",
-      "reb": "0",
-      "ast": "1",
-      "stl": "0",
-      "blk": "—"
     }
   ],
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-26T14:46:12.452Z",
-  "statsSyncedAt": "2026-10-26T14:46:12.452Z",
+  "ingestedAt": "2026-10-28T14:44:53.606Z",
+  "statsSyncedAt": "2026-10-28T14:44:53.606Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:50:53.533Z",
   "details": {
