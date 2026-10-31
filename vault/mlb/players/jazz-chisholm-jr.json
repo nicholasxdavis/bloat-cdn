@@ -5,7 +5,6 @@
   "name": "Jazz Chisholm Jr.",
   "sport": "mlb",
   "position": "2B",
-  "team": "NYY",
   "headshot": "media/headshots/mlb/jr.ja01.png",
   "headshotSource": "https://a.espncdn.com/i/headshots/mlb/players/full/41433.png",
   "legend": false,
@@ -205,9 +204,9 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-30T14:44:49.371Z",
+  "ingestedAt": "2026-10-31T14:03:17.469Z",
   "active": false,
-  "profileSyncedAt": "2026-10-30T14:44:49.371Z",
+  "profileSyncedAt": "2026-10-31T14:03:17.469Z",
   "statsSyncedAt": "2026-10-08T15:06:35.123Z",
   "details": {
     "jersey": "13",

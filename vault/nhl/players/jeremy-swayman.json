@@ -23,7 +23,7 @@
       "fgPct": ".912",
       "fg3Pct": "2.35",
       "ftPct": "-",
-      "to": "2"
+      "to": "3"
     },
     {
       "season": "25-26",
@@ -176,7 +176,7 @@
   "sources": [
     "espn"
   ],
-  "ingestedAt": "2026-10-30T14:46:43.068Z",
+  "ingestedAt": "2026-10-31T14:04:54.960Z",
   "active": true,
   "profileSyncedAt": "2026-06-25T15:51:07.143Z",
   "details": {
@@ -188,5 +188,5 @@
     "headshotSource": "https://a.espncdn.com/i/headshots/nhl/players/full/4712036.png"
   },
   "detailSyncedAt": "2026-07-01T13:45:03.410Z",
-  "statsSyncedAt": "2026-10-30T14:46:43.068Z"
+  "statsSyncedAt": "2026-10-31T14:04:54.960Z"
 }
